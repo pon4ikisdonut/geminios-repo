@@ -1,0 +1,14 @@
+[package]
+name = "geminios-core"
+version = "1.0.0"
+license = "MIT"
+arch = "x86_64"
+description = "GeminiOS core branding, sysctl tuning, and base filesystem layout"
+depends = []
+
+[source]
+url = "https://github.com/pon4ikisdonut/geminios-repo/releases/download/v1.0.0/geminios-core-1.0.0.tar.gz"
+sha256 = "6299aa46ced36d40b97d29d2a48ba5a76a9dcc9047820ed17830b68b7d073f90"
+
+[hooks]
+post_install = "sysctl --system || true"

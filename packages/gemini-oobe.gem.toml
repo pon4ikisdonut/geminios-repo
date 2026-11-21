@@ -1,0 +1,11 @@
+[package]
+name = "gemini-oobe"
+version = "1.0.0"
+license = "MIT"
+arch = "x86_64"
+description = "Interactive Material Design 3 first-boot setup wizard (API key, HW check, Gemma download, Arch/AUR)"
+depends = ["geminid"]
+
+[source]
+url = "https://github.com/pon4ikisdonut/geminios-repo/releases/download/v1.0.0/gemini-oobe-1.0.0.tar.gz"
+sha256 = "f840d35c2136e91c125d4333852978148db2d67b701ae265af3667f7b5001860"

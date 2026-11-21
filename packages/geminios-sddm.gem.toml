@@ -1,0 +1,11 @@
+[package]
+name = "geminios-sddm"
+version = "1.0.0"
+license = "MIT"
+arch = "x86_64"
+description = "GeminiOS Material Design 3 Dark SDDM QML login screen"
+depends = ["geminios-core"]
+
+[source]
+url = "https://github.com/pon4ikisdonut/geminios-repo/releases/download/v1.0.0/geminios-sddm-1.0.0.tar.gz"
+sha256 = "98b8bc6c88dd34227b0a1ae4250b4dc0d908bbf7d574772da32ddf341ba99574"

@@ -1,0 +1,53 @@
+{
+  "repository": "geminios-main",
+  "version": "1.0",
+  "architecture": "x86_64",
+  "updated_at": "2026-11-21T02:50:23Z",
+  "packages": {
+    "gemini-cli": {
+      "version": "1.0.0",
+      "description": "GeminiOS CLI assistant (`gemini`, `ask`), `gemini-doctor`, and Zsh/Bash shell hooks",
+      "manifest": "packages/gemini-cli.gem.toml"
+    },
+    "gemini-oobe": {
+      "version": "1.0.0",
+      "description": "Interactive Material Design 3 first-boot setup wizard (API key, HW check, Gemma download, Arch/AUR)",
+      "manifest": "packages/gemini-oobe.gem.toml"
+    },
+    "gemini-overlay": {
+      "version": "1.0.0",
+      "description": "Material Design 3 Dark floating Spotlight/AI Agent overlay (Super+G) and Dolphin actions",
+      "manifest": "packages/gemini-overlay.gem.toml"
+    },
+    "geminid": {
+      "version": "1.0.0",
+      "description": "GeminiOS System AI Daemon with Gemini API, automatic Gemma/Ollama fallback, and Agent Mode",
+      "manifest": "packages/geminid.gem.toml"
+    },
+    "geminios-core": {
+      "version": "1.0.0",
+      "description": "GeminiOS core branding, sysctl tuning, and base filesystem layout",
+      "manifest": "packages/geminios-core.gem.toml"
+    },
+    "geminios-plasma-m3": {
+      "version": "1.0.0",
+      "description": "KDE Plasma 6 Google Material Design 3 Dark theme, wallpaper, GTK3/4 sync, and status-bar widget",
+      "manifest": "packages/geminios-plasma-m3.gem.toml"
+    },
+    "geminios-plymouth": {
+      "version": "1.0.0",
+      "description": "GeminiOS OLED Dark Plymouth boot splash (GeminiOS, powered by Linux / With Love, With Gemini)",
+      "manifest": "packages/geminios-plymouth.gem.toml"
+    },
+    "geminios-sddm": {
+      "version": "1.0.0",
+      "description": "GeminiOS Material Design 3 Dark SDDM QML login screen",
+      "manifest": "packages/geminios-sddm.gem.toml"
+    },
+    "ollama-gemma": {
+      "version": "1.0.0",
+      "description": "Local Gemma AI fallback helper managed by geminid hardware checker",
+      "manifest": "packages/ollama-gemma.gem.toml"
+    }
+  }
+}

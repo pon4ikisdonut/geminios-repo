@@ -1,0 +1,11 @@
+[package]
+name = "gemini-overlay"
+version = "1.0.0"
+license = "MIT"
+arch = "x86_64"
+description = "Material Design 3 Dark floating Spotlight/AI Agent overlay (Super+G) and Dolphin actions"
+depends = ["geminid", "geminios-plasma-m3"]
+
+[source]
+url = "https://github.com/pon4ikisdonut/geminios-repo/releases/download/v1.0.0/gemini-overlay-1.0.0.tar.gz"
+sha256 = "0a242d0cd4f580e18971636f2e3193641d1e95edd6c0aa340e9204d10e789000"

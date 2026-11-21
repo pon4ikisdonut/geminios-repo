@@ -1,0 +1,53 @@
+name: Validate & Publish GeminiOS Manifest Repo
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'packages/*.gem.toml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  validate-and-index:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Validate TOML manifests and rebuild index.json
+        run: |
+          python3 - <<'PY'
+          import datetime, json, tomllib
+          from pathlib import Path
+
+          pkgs = {}
+          for path in sorted(Path("packages").glob("*.gem.toml")):
+              data = tomllib.loads(path.read_text(encoding="utf-8"))
+              pkg = data["package"]
+              pkgs[pkg["name"]] = {
+                  "version": pkg["version"],
+                  "description": pkg["description"],
+                  "manifest": f"packages/{path.name}",
+              }
+
+          index = {
+              "repository": "geminios-main",
+              "version": "1.0",
+              "architecture": "x86_64",
+              "updated_at": datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+              "packages": pkgs,
+          }
+          Path("index.json").write_text(json.dumps(index, indent=2) + "\n", encoding="utf-8")
+          print(f"Indexed {len(pkgs)} GeminiOS package manifests.")
+          PY
+
+      - name: Commit updated index.json if changed
+        run: |
+          git config user.name "GeminiOS Repo Bot"
+          git config user.email "bot@geminios.local"
+          git add index.json
+          git diff --cached --quiet || git commit -m "chore(repo): rebuild index.json"
+          git push
