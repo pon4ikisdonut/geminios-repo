@@ -1,0 +1,11 @@
+[package]
+name = "haskell-vector-algorithms"
+version = "0.9.1.0-216"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Efficient algorithms for vector arrays"
+depends = ["ghc-libs", "haskell-bitvec", "haskell-primitive", "haskell-vector"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-vector-algorithms-0.9.1.0-216-x86_64.pkg.tar.zst"
+sha256 = "c88aa8d4f16ea0cb36113c78d91f456b09bdc3437233e419d50c4b1ad67358ef"

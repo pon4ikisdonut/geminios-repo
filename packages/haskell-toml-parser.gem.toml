@@ -1,0 +1,11 @@
+[package]
+name = "haskell-toml-parser"
+version = "2.0.2.0-57"
+license = "ISC"
+arch = "x86_64"
+description = "TOML 1.1.0 parser"
+depends = ["ghc-libs", "haskell-prettyprinter"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-toml-parser-2.0.2.0-57-x86_64.pkg.tar.zst"
+sha256 = "786c1fc4c3f2b451e7a534c3f361e07cbb12f9d921f5871f5565fe0d65e8b9d8"

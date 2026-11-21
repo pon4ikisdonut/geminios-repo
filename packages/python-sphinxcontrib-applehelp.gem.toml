@@ -1,0 +1,11 @@
+[package]
+name = "python-sphinxcontrib-applehelp"
+version = "2.0.0-5"
+license = "BSD-2-Clause"
+arch = "any"
+description = "Sphinx extension which outputs Apple help books"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-sphinxcontrib-applehelp-2.0.0-5-any.pkg.tar.zst"
+sha256 = "287d2fdc48e85e5345b0c5b5a2269620474d95c0600956f9bb6f700f70981220"

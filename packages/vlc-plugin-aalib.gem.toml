@@ -1,0 +1,11 @@
+[package]
+name = "vlc-plugin-aalib"
+version = "3.0.24-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Free and open source cross-platform multimedia player and framework - ASCII art video output plugin"
+depends = ["aalib", "glibc", "libvlc", "libvlccore.so", "libx11", "vlc-plugins-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vlc-plugin-aalib-3.0.24-2-x86_64.pkg.tar.zst"
+sha256 = "e03cc9f2689bafd01a0f7601b5c9d68900fed105658de40f3f3396e84f45efb1"

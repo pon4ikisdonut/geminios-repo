@@ -1,0 +1,11 @@
+[package]
+name = "python-qtpy"
+version = "2.4.3-7"
+license = "MIT"
+arch = "any"
+description = "Provides an uniform layer to support PyQt and PySide with a single codebase"
+depends = ["python-packaging", "qt6-python-bindings"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-qtpy-2.4.3-7-any.pkg.tar.zst"
+sha256 = "212c731a1c1368d6b37ef075867b5145b5158ac02c54595fbc443171f7d2924d"

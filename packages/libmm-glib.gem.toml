@@ -1,0 +1,11 @@
+[package]
+name = "libmm-glib"
+version = "1.24.2-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "ModemManager library"
+depends = ["glib2", "libglib-2.0.so", "libgobject-2.0.so", "libgio-2.0.so", "glibc", "libgcc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libmm-glib-1.24.2-2-x86_64.pkg.tar.zst"
+sha256 = "c0cf1baea2fbfa0b0dc858b32140b3560943b09cc27f814f349b47fd7b2a924b"

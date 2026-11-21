@@ -1,0 +1,11 @@
+[package]
+name = "linux-firmware-amd"
+version = "20261019-1"
+license = "LicenseRef-amd"
+arch = "any"
+description = "Firmware files for Linux - Firmware for non-GPU AMD devices"
+depends = ["linux-firmware-whence"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/linux-firmware-amd-20261019-1-any.pkg.tar.zst"
+sha256 = "dee2cafc91c92c7a00f44b342d727d6a8defda0028e158700d3ceae2c5cf43e9"

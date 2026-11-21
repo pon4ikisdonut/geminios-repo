@@ -1,0 +1,11 @@
+[package]
+name = "libjpeg-turbo"
+version = "3.2.1-1"
+license = "IJG"
+arch = "x86_64"
+description = "JPEG image codec with accelerated baseline compression and decompression"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libjpeg-turbo-3.2.1-1-x86_64.pkg.tar.zst"
+sha256 = "b0e3dc653a4457257633ded3f06267469c89d0b82aa14aa59fa01a0a38554b88"

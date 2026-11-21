@@ -1,0 +1,11 @@
+[package]
+name = "kwallet-pam"
+version = "6.8.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "KWallet PAM integration"
+depends = ["glibc", "kwallet", "libgcrypt", "pam", "sh", "socat"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kwallet-pam-6.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "b14a0438ddf6da3aa7ce59c4f35aafc8f73ef4417b4c45663d98ac18650c8695"

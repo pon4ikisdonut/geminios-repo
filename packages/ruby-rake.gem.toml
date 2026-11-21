@@ -1,0 +1,11 @@
+[package]
+name = "ruby-rake"
+version = "13.4.2-1"
+license = "MIT"
+arch = "any"
+description = "Make-like build tool implemented in Ruby"
+depends = ["ruby"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ruby-rake-13.4.2-1-any.pkg.tar.zst"
+sha256 = "e0b5652736b11bbb6f14c6532dd0b201db7d8d07639bac67dccb995b3a5476b9"

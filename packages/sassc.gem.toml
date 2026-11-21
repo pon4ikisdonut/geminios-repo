@@ -1,0 +1,11 @@
+[package]
+name = "sassc"
+version = "3.6.2-5"
+license = "MIT"
+arch = "x86_64"
+description = "C implementation of Sass CSS preprocessor"
+depends = ["libsass"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/sassc-3.6.2-5-x86_64.pkg.tar.zst"
+sha256 = "c6be90fd2178d0ccda09bf64f6723d8a08e5376b28e72c5b5125f6e879af3518"

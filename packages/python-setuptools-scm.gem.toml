@@ -1,0 +1,11 @@
+[package]
+name = "python-setuptools-scm"
+version = "10.3.4-1"
+license = "MIT"
+arch = "any"
+description = "Handles managing your python package versions in scm metadata"
+depends = ["python", "python-packaging", "python-setuptools", "python-vcs-versioning"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-setuptools-scm-10.3.4-1-any.pkg.tar.zst"
+sha256 = "3449fae8388b1644039dde0eaa0e587e1a5d6404c3cfc413f74264e44076ede6"

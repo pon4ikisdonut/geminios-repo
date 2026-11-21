@@ -1,0 +1,11 @@
+[package]
+name = "mtr"
+version = "0.96-1"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "Combines the functionality of traceroute and ping into one tool (CLI version)"
+depends = ["glibc", "jansson", "libcap", "ncurses", "libncursesw.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/mtr-0.96-1-x86_64.pkg.tar.zst"
+sha256 = "a09e28746e69869d49e55c90f7493b755011fe71358584ec351c09b0887503c5"

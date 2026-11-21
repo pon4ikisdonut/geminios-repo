@@ -1,0 +1,11 @@
+[package]
+name = "solid5"
+version = "5.116.0-2"
+license = "LGPL"
+arch = "x86_64"
+description = "Hardware integration and detection"
+depends = ["qt5-base", "media-player-info", "upower", "udisks2"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/solid5-5.116.0-2-x86_64.pkg.tar.zst"
+sha256 = "a14aa4213830366ef445a3fa4718196dd257a1c171aafc8a76d1ad3c2f48f132"

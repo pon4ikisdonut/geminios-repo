@@ -1,0 +1,11 @@
+[package]
+name = "python-orjson"
+version = "3.13.0-1"
+license = "Apache-2.0 OR MIT"
+arch = "x86_64"
+description = "Fast, correct Python JSON library supporting dataclasses and datetimes"
+depends = ["glibc", "libgcc", "python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-orjson-3.13.0-1-x86_64.pkg.tar.zst"
+sha256 = "1ad405539d8ef3d6a327404180ab119bf8df257652914f6ed0d55fad81c1bf97"

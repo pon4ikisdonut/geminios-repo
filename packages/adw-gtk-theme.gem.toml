@@ -1,0 +1,11 @@
+[package]
+name = "adw-gtk-theme"
+version = "6.5-1"
+license = "LGPL-2.1-only"
+arch = "any"
+description = "Unofficial GTK 3 port of the libadwaita theme"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/adw-gtk-theme-6.5-1-any.pkg.tar.zst"
+sha256 = "b057989c8bc01266a0d24162dd044e6e95aec2cf1b9142b0e18a1976ef24291c"

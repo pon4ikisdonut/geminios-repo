@@ -1,0 +1,11 @@
+[package]
+name = "python-sortedcontainers"
+version = "2.4.0-8"
+license = "Apache-2.0"
+arch = "any"
+description = "Python Sorted Container Types: SortedList, SortedDict, and SortedSet"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-sortedcontainers-2.4.0-8-any.pkg.tar.zst"
+sha256 = "6f083343a72dd43185c72713bba9a44bc32a11e9e1b733aa98dedc93f7b7731c"

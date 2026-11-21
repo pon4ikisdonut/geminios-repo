@@ -1,0 +1,11 @@
+[package]
+name = "libexsid"
+version = "2.1-1"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "Driver for exSID USB"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libexsid-2.1-1-x86_64.pkg.tar.zst"
+sha256 = "59a42a013b071553b0c86b11aa4bbb4a41ef0c3cfd816dd734f510685849c71b"

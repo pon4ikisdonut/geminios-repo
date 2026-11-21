@@ -1,0 +1,11 @@
+[package]
+name = "python-sentry_sdk"
+version = "2.75.0-1"
+license = "MIT"
+arch = "any"
+description = "The official Python SDK for Sentry.io"
+depends = ["python-urllib3", "python-certifi"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-sentry_sdk-2.75.0-1-any.pkg.tar.zst"
+sha256 = "93bd7b4fdaa072fa27bbe3abb078bb29ab22eaf4787f64fd6a06a9c98d941d3b"

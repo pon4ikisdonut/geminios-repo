@@ -1,0 +1,11 @@
+[package]
+name = "python-dasbus"
+version = "1.7-5"
+license = "LGPL-2.1-only"
+arch = "any"
+description = "DBus library in Python 3"
+depends = ["python", "python-gobject", "dbus", "glib2"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-dasbus-1.7-5-any.pkg.tar.zst"
+sha256 = "4316a35b4625f02b6cd20a183d0a9751e38f81a32f79af1b4eea22fbbe964f61"

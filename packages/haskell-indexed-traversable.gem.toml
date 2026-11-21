@@ -1,0 +1,11 @@
+[package]
+name = "haskell-indexed-traversable"
+version = "0.1.5-2"
+license = "BSD-2-Clause"
+arch = "x86_64"
+description = "FunctorWithIndex, FoldableWithIndex, TraversableWithIndex"
+depends = ["ghc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-indexed-traversable-0.1.5-2-x86_64.pkg.tar.zst"
+sha256 = "9c30adab76d8f4755b57001436436667da9a21fdd71c181796751f599c764935"

@@ -1,0 +1,11 @@
+[package]
+name = "libluv"
+version = "1.53.0.1-1"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "Bare libuv bindings for lua"
+depends = ["libuv", "luajit"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libluv-1.53.0.1-1-x86_64.pkg.tar.zst"
+sha256 = "fd443910f491601e35b2f292fa5e7f4dcf558d01b70f8454e401c0de411c14b7"

@@ -1,0 +1,11 @@
+[package]
+name = "haskell-xml"
+version = "1.3.14-34"
+license = "BSD"
+arch = "x86_64"
+description = "A simple XML library"
+depends = ["ghc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-xml-1.3.14-34-x86_64.pkg.tar.zst"
+sha256 = "e8447126e51e1fa9756f1fed0ba36c6c7d9b7ee616eb8486d5379867219e308a"

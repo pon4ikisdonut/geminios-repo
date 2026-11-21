@@ -1,0 +1,11 @@
+[package]
+name = "libnatpmp"
+version = "20230423-3"
+license = "BSD"
+arch = "x86_64"
+description = "A portable and fully compliant implementation of the NAT-PMP protocol"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libnatpmp-20230423-3-x86_64.pkg.tar.zst"
+sha256 = "d87c96ec049b87adc4667aa65083389e181cd8c925b34f88affe4e40eb96315b"

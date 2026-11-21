@@ -1,0 +1,11 @@
+[package]
+name = "libpagemaker"
+version = "0.0.4-5"
+license = "MPL-2.0"
+arch = "x86_64"
+description = "a library that parses the file format of Aldus/Adobe PageMaker documents"
+depends = ["librevenge", "glibc", "libstdc++", "libgcc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libpagemaker-0.0.4-5-x86_64.pkg.tar.zst"
+sha256 = "3953cd13cde864b2a1b36d3bb93b1af5d11ef65541118f26ef50db83dd998f54"

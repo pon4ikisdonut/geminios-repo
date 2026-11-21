@@ -1,0 +1,11 @@
+[package]
+name = "aribb25"
+version = "0.2.7-3"
+license = "custom:ISC"
+arch = "x86_64"
+description = "Library for ARIB STD-B25, decoding JIS 8 bit characters and parsing MPEG-TS stream"
+depends = ["glibc", "pcsclite"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/aribb25-0.2.7-3-x86_64.pkg.tar.zst"
+sha256 = "e5de2c90688cd6bbce3d431ce8933d0ed8a8b445a1aba549895fd2ea647c2488"

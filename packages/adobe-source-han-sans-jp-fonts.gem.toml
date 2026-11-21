@@ -1,0 +1,11 @@
+[package]
+name = "adobe-source-han-sans-jp-fonts"
+version = "2.005-2"
+license = "OFL-1.1-RFN"
+arch = "any"
+description = "Adobe Source Han Sans Subset OTF - Japanese OpenType/CFF fonts"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/adobe-source-han-sans-jp-fonts-2.005-2-any.pkg.tar.zst"
+sha256 = "74e83ea83418e5b4697d68cf05614df250251333d5f36a54e979f82ed3319e83"

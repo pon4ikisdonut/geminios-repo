@@ -1,0 +1,11 @@
+[package]
+name = "qt5-wayland"
+version = "5.15.19+kde+r55-1"
+license = "custom"
+arch = "x86_64"
+description = "Provides APIs for Wayland"
+depends = ["qt5-declarative", "libxcomposite"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qt5-wayland-5.15.19+kde+r55-1-x86_64.pkg.tar.zst"
+sha256 = "af063b187c1370cfdac6a19bc72a98069fe5efb76b7e2dd7ab4ef8ae75ca3fab"

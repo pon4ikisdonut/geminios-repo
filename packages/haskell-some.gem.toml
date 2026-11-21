@@ -1,0 +1,11 @@
+[package]
+name = "haskell-some"
+version = "1.0.6-143"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Existential type: Some"
+depends = ["ghc-libs", "haskell-base-orphans"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-some-1.0.6-143-x86_64.pkg.tar.zst"
+sha256 = "fe15cf96772909efb967a28965402cd6759b942f4d09283f3d5e9b98690ba475"

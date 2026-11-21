@@ -1,0 +1,11 @@
+[package]
+name = "glu"
+version = "9.0.3-3"
+license = "MIT"
+arch = "x86_64"
+description = "Mesa OpenGL utility library"
+depends = ["libgl", "glibc", "libstdc++", "libgcc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/glu-9.0.3-3-x86_64.pkg.tar.zst"
+sha256 = "a981608b5a1c7d6cdee0e71385035dc45ada61dc1221429adde16909e17222e6"

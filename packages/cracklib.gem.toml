@@ -1,0 +1,11 @@
+[package]
+name = "cracklib"
+version = "2.10.3-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Password Checking Library"
+depends = ["glibc", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/cracklib-2.10.3-1-x86_64.pkg.tar.zst"
+sha256 = "443746c71feea1357ffb3cae3b1d7dc76ca214d7f0ea45064c280da1002bb35f"

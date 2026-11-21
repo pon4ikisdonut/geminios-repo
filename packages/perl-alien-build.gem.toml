@@ -1,0 +1,11 @@
+[package]
+name = "perl-alien-build"
+version = "2.88-1"
+license = "GPL-1.0-or-later"
+arch = "any"
+description = "Build external dependencies for use in CPAN"
+depends = ["perl-capture-tiny", "perl-ffi-checklib", "perl-file-chdir", "perl-file-which", "perl-path-tiny"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/perl-alien-build-2.88-1-any.pkg.tar.zst"
+sha256 = "c9e5f80e813fc1409825e1132a7739f01e5cbd78401bf0098a654703a13afffc"

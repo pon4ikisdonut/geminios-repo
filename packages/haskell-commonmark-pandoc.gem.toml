@@ -1,0 +1,11 @@
+[package]
+name = "haskell-commonmark-pandoc"
+version = "0.3.0.2-28"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Bridge between commonmark and pandoc AST"
+depends = ["ghc-libs", "haskell-commonmark", "haskell-commonmark-extensions", "haskell-pandoc-types"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-commonmark-pandoc-0.3.0.2-28-x86_64.pkg.tar.zst"
+sha256 = "e71b5ddae65ff1666a38e34b145a7e9add0f6d42600c9b049047537083aa3ae2"

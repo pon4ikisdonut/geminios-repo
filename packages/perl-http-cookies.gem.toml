@@ -1,0 +1,11 @@
+[package]
+name = "perl-http-cookies"
+version = "6.12-1"
+license = "GPL-1.0-or-later"
+arch = "any"
+description = "HTTP cookie jars"
+depends = ["perl", "perl-http-date", "perl-http-message"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/perl-http-cookies-6.12-1-any.pkg.tar.zst"
+sha256 = "840fcd3e77844dc443b6c4c81b5f5e510aa9763ac6aad0c1a77f072ec01128f1"

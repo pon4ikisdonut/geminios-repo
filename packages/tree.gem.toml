@@ -1,0 +1,11 @@
+[package]
+name = "tree"
+version = "2.3.2-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "A directory listing program displaying a depth indented list of files"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/tree-2.3.2-1-x86_64.pkg.tar.zst"
+sha256 = "8a6230468cc31a2c984a41c092035dd16bf97e737ec3241490724a5419903739"

@@ -1,0 +1,11 @@
+[package]
+name = "afl-utils"
+version = "1.35a-5"
+license = "Apache-2.0"
+arch = "any"
+description = "Utilities for automated crash sample processing/analysis, easy afl-fuzz job management and corpus optimization"
+depends = ["afl", "coreutils", "python", "rsync"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/afl-utils-1.35a-5-any.pkg.tar.zst"
+sha256 = "034eaba68e0eee5cc621053c28427de8736abf7e3bfce7b0090a789c7adad8b4"

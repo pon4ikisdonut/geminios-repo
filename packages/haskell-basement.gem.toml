@@ -1,0 +1,11 @@
+[package]
+name = "haskell-basement"
+version = "0.0.16-5"
+license = "BSD"
+arch = "x86_64"
+description = "Foundation scrap box of array & string"
+depends = ["ghc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-basement-0.0.16-5-x86_64.pkg.tar.zst"
+sha256 = "37d4290cb57a57928aa2bf0e601994c88ad029a9cc0533194ce9d3cc4c1c7657"

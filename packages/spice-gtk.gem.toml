@@ -1,0 +1,11 @@
+[package]
+name = "spice-gtk"
+version = "0.43-2"
+license = "LGPL-2.1-only"
+arch = "x86_64"
+description = "GTK+ client library for SPICE"
+depends = ["acl", "cairo", "gdk-pixbuf2", "glib2", "gst-plugins-base", "gst-plugins-good", "gstreamer", "gtk3", "json-glib", "libcacard", "libcap-ng", "libepoxy", "libjpeg-turbo", "libsasl", "libsoup3", "libusb", "libx11", "lz4", "openssl", "opus", "phodav", "pixman", "polkit", "spice-protocol", "usbredir", "wayland", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/spice-gtk-0.43-2-x86_64.pkg.tar.zst"
+sha256 = "de6e072cee5403288253bd2725c44bdc37ffd5c945b65c0f36d659fa786c793a"

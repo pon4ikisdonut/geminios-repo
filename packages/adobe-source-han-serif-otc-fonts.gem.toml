@@ -1,0 +1,11 @@
+[package]
+name = "adobe-source-han-serif-otc-fonts"
+version = "2.003-2"
+license = "OFL-1.1-RFN"
+arch = "any"
+description = "Adobe Source Han Serif - Pan-CJK OpenType/CFF Collection fonts"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/adobe-source-han-serif-otc-fonts-2.003-2-any.pkg.tar.zst"
+sha256 = "8a110ebe825f3de3f17a218012a1217dbae6ed9a1448fc537e716a3ff631496e"

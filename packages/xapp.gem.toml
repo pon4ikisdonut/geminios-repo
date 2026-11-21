@@ -1,0 +1,11 @@
+[package]
+name = "xapp"
+version = "3.4.2-1"
+license = "GPL-3.0-only AND LGPL-3.0-only"
+arch = "x86_64"
+description = "Common library for X-Apps project"
+depends = ["bash", "cairo", "dconf", "gdk-pixbuf2", "glib2", "glibc", "gtk-layer-shell", "gtk3", "hicolor-icon-theme", "libdbusmenu-gtk3", "libgcc", "libgnomekbd", "libx11", "pango", "python", "python-gobject", "python-setproctitle", "wayland", "xapp-symbolic-icons"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xapp-3.4.2-1-x86_64.pkg.tar.zst"
+sha256 = "9fdfba62366016ffd18a4dae6b888b9bde34c0fd13f8fe6577920035b908009f"

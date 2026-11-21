@@ -1,0 +1,11 @@
+[package]
+name = "qemu-system-arm-firmware"
+version = "11.1.3-1"
+license = "MIT"
+arch = "x86_64"
+description = "Firmware for QEMU system emulator for ARM"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qemu-system-arm-firmware-11.1.3-1-x86_64.pkg.tar.zst"
+sha256 = "2d6c953c0a35ddfcf1d32fdf8b03eeb2f27b2650cc20e37ee033d49f13d74fcd"

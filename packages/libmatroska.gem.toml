@@ -1,0 +1,11 @@
+[package]
+name = "libmatroska"
+version = "1.7.2-2"
+license = "LGPL2.1"
+arch = "x86_64"
+description = "Matroska library"
+depends = ["libebml.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libmatroska-1.7.2-2-x86_64.pkg.tar.zst"
+sha256 = "7c8fb2c5c4e2a0cf4b7471cd6b6754b0c43fbfb32140b80d1a08f9036784c411"

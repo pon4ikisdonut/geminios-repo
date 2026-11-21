@@ -1,0 +1,11 @@
+[package]
+name = "jemalloc"
+version = "1:5.4.0-1"
+license = "BSD-2-Clause"
+arch = "x86_64"
+description = "General-purpose scalable concurrent malloc implementation"
+depends = ["glibc", "libgcc", "libgcc_s.so", "libstdc++", "libstdc++.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/jemalloc-1:5.4.0-1-x86_64.pkg.tar.zst"
+sha256 = "59550a986c2597e1a8fc025d9e81496f88a1fab32a1f21725b125432e34ad374"

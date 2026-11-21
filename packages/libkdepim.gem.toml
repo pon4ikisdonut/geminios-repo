@@ -1,0 +1,11 @@
+[package]
+name = "libkdepim"
+version = "26.08.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Libraries for KDE PIM applications"
+depends = ["glibc", "ki18n", "kwidgetsaddons", "libstdc++", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libkdepim-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "51e463757294d249be642960853aedb11bb598c18a3e6c2470fd6d8ac635a838"

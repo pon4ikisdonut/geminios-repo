@@ -1,0 +1,11 @@
+[package]
+name = "python-sphinxcontrib-qthelp"
+version = "2.0.0-5"
+license = "BSD-2-Clause"
+arch = "any"
+description = "Sphinx extension which outputs QtHelp document"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-sphinxcontrib-qthelp-2.0.0-5-any.pkg.tar.zst"
+sha256 = "f99820724817a68ff39f20502f9f8e7e41f3a023337453b395d38a6a35c330f7"

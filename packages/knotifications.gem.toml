@@ -1,0 +1,11 @@
+[package]
+name = "knotifications"
+version = "6.32.0-1"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "Abstraction for system notifications"
+depends = ["libstdc++", "glibc", "kconfig", "libcanberra", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/knotifications-6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "83c1ef2ce16a8cf47fce9fc3a81f91d23368e169ad0cd29e3a794f31d4fc77e7"

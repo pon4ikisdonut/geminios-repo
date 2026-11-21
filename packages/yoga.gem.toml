@@ -1,0 +1,11 @@
+[package]
+name = "yoga"
+version = "3.2.2-1"
+license = "MIT"
+arch = "x86_64"
+description = "Cross-platform layout engine"
+depends = ["libgcc", "glibc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/yoga-3.2.2-1-x86_64.pkg.tar.zst"
+sha256 = "77d0837716bd5194e0d941e54897ec7d47b04d52b41ab4d634fad8cf03b007d7"

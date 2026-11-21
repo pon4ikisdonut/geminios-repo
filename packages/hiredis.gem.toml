@@ -1,0 +1,11 @@
+[package]
+name = "hiredis"
+version = "1.4.1-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Minimalistic C client library for Redis"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/hiredis-1.4.1-1-x86_64.pkg.tar.zst"
+sha256 = "9bacc58ce0196995e154313164d28730eb25dd745590accbde8d85e9a72a1b37"

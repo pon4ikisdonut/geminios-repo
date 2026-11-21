@@ -1,0 +1,11 @@
+[package]
+name = "libxnvctrl"
+version = "620.73.04-1"
+license = "MIT"
+arch = "x86_64"
+description = "NVIDIA NV-CONTROL X extension"
+depends = ["libxext"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libxnvctrl-620.73.04-1-x86_64.pkg.tar.zst"
+sha256 = "30909b948b9346c8958eb5e18d8a939dae4eb1eda5e93299add7db3e886febec"

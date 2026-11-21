@@ -1,0 +1,11 @@
+[package]
+name = "networkmanager-openvpn"
+version = "1.12.5-2"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "NetworkManager VPN plugin for OpenVPN (with GUI)"
+depends = ["glib2", "glibc", "gtk4", "libgcc", "libnm", "libnma-gtk4", "libsecret", "networkmanager-vpn-plugin-openvpn"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/networkmanager-openvpn-1.12.5-2-x86_64.pkg.tar.zst"
+sha256 = "5b7820363f453105a13d7f0341435ae495e77eb288fafc6f0bf033a0e8404247"

@@ -1,0 +1,11 @@
+[package]
+name = "linux-docs"
+version = "7.3.5.arch1-1"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "Documentation for the Linux kernel"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/linux-docs-7.3.5.arch1-1-x86_64.pkg.tar.zst"
+sha256 = "2404368d58215e92a7dc40f7066b7626ede083a1d4da88550597c531bfb9c503"

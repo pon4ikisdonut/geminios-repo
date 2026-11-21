@@ -1,0 +1,11 @@
+[package]
+name = "xorg-xkbutils"
+version = "1.0.7-1"
+license = "MIT"
+arch = "x86_64"
+description = "XKB utility demos"
+depends = ["libxaw", "libxt", "libx11", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xorg-xkbutils-1.0.7-1-x86_64.pkg.tar.zst"
+sha256 = "6e0f0621acf37cba9e7806ed120a0b67d633372bf80e921ffd9fa905a267d757"

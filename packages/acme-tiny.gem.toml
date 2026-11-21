@@ -1,0 +1,11 @@
+[package]
+name = "acme-tiny"
+version = "5.0.3-2"
+license = "MIT"
+arch = "any"
+description = "A tiny script to issue and renew TLS certs from Let's Encrypt"
+depends = ["python", "openssl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/acme-tiny-5.0.3-2-any.pkg.tar.zst"
+sha256 = "a7e56ac6c72d65e1ab8bf2522e812a329392942977aa5a02a8fdb834413aa692"

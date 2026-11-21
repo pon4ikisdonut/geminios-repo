@@ -1,0 +1,11 @@
+[package]
+name = "ghc-libs"
+version = "9.6.7-3"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "The Glasgow Haskell Compiler - Dynamic Libraries"
+depends = ["gmp", "libffi", "numactl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ghc-libs-9.6.7-3-x86_64.pkg.tar.zst"
+sha256 = "5bb33688f41165f8ef3a4ee68301c3c97e312591fc70ce0cdfe2854cf5480ba4"

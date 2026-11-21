@@ -1,0 +1,11 @@
+[package]
+name = "ktextwidgets"
+version = "6.32.0-1"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "Advanced text editing widgets"
+depends = ["libstdc++", "glibc", "kcompletion", "kconfig", "ki18n", "kwidgetsaddons", "qt6-base", "qt6-speech", "sonnet"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ktextwidgets-6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "6a3ea179b3c95b4f3b4d0b0307538bd9edd6afb1c97410f667dfc69f3d68d9c0"

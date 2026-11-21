@@ -1,0 +1,11 @@
+[package]
+name = "moreutils"
+version = "0.70-1"
+license = "GPL"
+arch = "x86_64"
+description = "A growing collection of the unix tools that nobody thought to write thirty years ago"
+depends = ["perl", "perl-ipc-run", "perl-timedate", "perl-time-duration"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/moreutils-0.70-1-x86_64.pkg.tar.zst"
+sha256 = "6313c003ddca8723fa84208ea28ed4ec7b5ad0736de001fc4f99bf0357e8797e"

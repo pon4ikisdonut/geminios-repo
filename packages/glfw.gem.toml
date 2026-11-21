@@ -1,0 +1,11 @@
+[package]
+name = "glfw"
+version = "1:3.5.1-1"
+license = "custom:ZLIB"
+arch = "x86_64"
+description = "A free, open source, portable framework for graphical application development"
+depends = ["libgl", "libxkbcommon"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/glfw-1:3.5.1-1-x86_64.pkg.tar.zst"
+sha256 = "882eb6f6121a13717429169484fe76c8362d8eaf81ba52b8f99b1ec760478e8d"

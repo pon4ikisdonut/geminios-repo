@@ -1,0 +1,11 @@
+[package]
+name = "starship"
+version = "1.27.0-1"
+license = "ISC"
+arch = "x86_64"
+description = "The cross-shell prompt for astronauts"
+depends = ["glibc", "libgcc", "libgcc_s.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/starship-1.27.0-1-x86_64.pkg.tar.zst"
+sha256 = "38e658c74173fee24743444127e68e5ceef8f6444727e98497941c7cb1dd3529"

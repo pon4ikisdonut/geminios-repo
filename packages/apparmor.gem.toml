@@ -1,0 +1,11 @@
+[package]
+name = "apparmor"
+version = "4.1.8-2"
+license = "LGPL-2.1-only"
+arch = "x86_64"
+description = "Mandatory Access Control (MAC) using Linux Security Module (LSM)"
+depends = ["audit", "bash", "glibc", "libgcc", "pam", "python", "python-legacy-cgi"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/apparmor-4.1.8-2-x86_64.pkg.tar.zst"
+sha256 = "684b7406dc2986dffda985eff3fcaac233403d53884647c148dfdc426283424c"

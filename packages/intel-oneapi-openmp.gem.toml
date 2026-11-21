@@ -1,0 +1,11 @@
+[package]
+name = "intel-oneapi-openmp"
+version = "2026.2.0_863-1"
+license = "LicenseRef-Intel-EULA-Developer-Tools"
+arch = "x86_64"
+description = "Intel oneAPI OpenMP runtime library"
+depends = ["intel-oneapi-common", "intel-oneapi-tcm", "sh", "glibc", "libgcc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/intel-oneapi-openmp-2026.2.0_863-1-x86_64.pkg.tar.zst"
+sha256 = "ed1b449bcd88f92c5b4f28d42d771eed92e9785f8804480b3614ee5d3595a38c"

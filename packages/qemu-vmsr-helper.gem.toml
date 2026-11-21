@@ -1,0 +1,11 @@
+[package]
+name = "qemu-vmsr-helper"
+version = "11.1.3-1"
+license = "MIT"
+arch = "x86_64"
+description = "QEMU persistent reservation utility"
+depends = ["glib2", "libgcc", "libglib-2.0.so", "libgmodule-2.0.so", "glibc", "gnutls", "libcap-ng", "libcap-ng.so", "liburing", "liburing.so", "numactl", "libnuma.so", "pam", "libpam.so", "qemu-common"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qemu-vmsr-helper-11.1.3-1-x86_64.pkg.tar.zst"
+sha256 = "40a951b85786b9feb99a4172841178898d362daa8737fc3291440633c3d521b7"

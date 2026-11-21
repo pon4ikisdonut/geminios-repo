@@ -1,0 +1,11 @@
+[package]
+name = "fftw"
+version = "3.3.11-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "A library for computing the discrete Fourier transform (DFT)"
+depends = ["bash", "glibc", "libgcc", "libgomp", "libquadmath"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/fftw-3.3.11-1-x86_64.pkg.tar.zst"
+sha256 = "4548ce6c2b143c2118adc2a24d37782eadf3215df7f499b57289fae536957a44"

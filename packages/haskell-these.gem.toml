@@ -1,0 +1,11 @@
+[package]
+name = "haskell-these"
+version = "1.2.1-397"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "An either-or-both data type"
+depends = ["ghc-libs", "haskell-assoc", "haskell-hashable"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-these-1.2.1-397-x86_64.pkg.tar.zst"
+sha256 = "8491b1a37c4a83061d7258c7323161c22201bcc74d472ba101e40b22ffa6a147"

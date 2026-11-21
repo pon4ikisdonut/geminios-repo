@@ -1,0 +1,11 @@
+[package]
+name = "libqxp"
+version = "0.0.3-1"
+license = "MPL-2.0"
+arch = "x86_64"
+description = "a library that parses the file format of QuarkXPress documents"
+depends = ["librevenge", "icu", "glibc", "libstdc++", "libgcc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libqxp-0.0.3-1-x86_64.pkg.tar.zst"
+sha256 = "9972ffccbc74a76ef20bd2bf83fb979114b41c0dddbe5dcd998dd4efcca35f72"

@@ -1,0 +1,11 @@
+[package]
+name = "python-pyparsing"
+version = "3.3.3-1"
+license = "MIT"
+arch = "any"
+description = "General parsing module for Python"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-pyparsing-3.3.3-1-any.pkg.tar.zst"
+sha256 = "575782fca7cb13a47e2535f7a50b26509bf15fe42b7edd4e8cc49956a6f1ea0d"

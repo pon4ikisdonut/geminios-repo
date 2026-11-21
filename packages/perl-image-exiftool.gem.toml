@@ -1,0 +1,11 @@
+[package]
+name = "perl-image-exiftool"
+version = "13.55-1"
+license = "Artistic-1.0-Perl OR GPL-3.0-or-later"
+arch = "any"
+description = "Read and write EXIF information"
+depends = ["perl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/perl-image-exiftool-13.55-1-any.pkg.tar.zst"
+sha256 = "11f2f296cdcd8c17879b478201e3e9722a8cc63dfe2bb22df86b728009ecfb6f"

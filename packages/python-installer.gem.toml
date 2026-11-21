@@ -1,0 +1,11 @@
+[package]
+name = "python-installer"
+version = "1.1.0-1"
+license = "MIT"
+arch = "any"
+description = "Low-level library for installing a Python package from a wheel distribution"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-installer-1.1.0-1-any.pkg.tar.zst"
+sha256 = "b60226d6a3c694e64e3686c5f18728e4a83a1093b198188cc4ff5cc81d8a0be3"

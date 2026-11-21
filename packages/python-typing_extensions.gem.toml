@@ -1,0 +1,11 @@
+[package]
+name = "python-typing_extensions"
+version = "4.16.0-1"
+license = "Python-2.0.1"
+arch = "any"
+description = "Backported and Experimental Type Hints for Python 3.8+"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-typing_extensions-4.16.0-1-any.pkg.tar.zst"
+sha256 = "842e53664795f35dc62cd0b3b5a4c8ee1261be780e8c20c064d83ee3d7330bcd"

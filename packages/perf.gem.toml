@@ -1,0 +1,11 @@
+[package]
+name = "perf"
+version = "7.3.5-1"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "Linux kernel performance auditing tool"
+depends = ["glibc", "perl", "python", "slang", "elfutils", "libunwind", "binutils", "numactl", "audit", "coreutils", "glib2", "xz", "zlib", "libelf", "bash", "zstd", "libcap", "libtraceevent", "openssl", "libsframe.so", "llvm-libs", "libpfm"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/perf-7.3.5-1-x86_64.pkg.tar.zst"
+sha256 = "608c4ac7d0384ab159a9a2d0b050649c2c29cf2c8d28ddb2b0423866fe2595e6"

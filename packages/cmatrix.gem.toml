@@ -1,0 +1,11 @@
+[package]
+name = "cmatrix"
+version = "2.0-4"
+license = "GPL3"
+arch = "x86_64"
+description = "A curses-based scrolling 'Matrix'-like screen"
+depends = ["ncurses"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/cmatrix-2.0-4-x86_64.pkg.tar.zst"
+sha256 = "936e4875b2380fe01ed2fb50dbdd886d372a2cc7c52bc7cf9bb8826290b93e7e"

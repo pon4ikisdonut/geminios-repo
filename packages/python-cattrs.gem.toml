@@ -1,0 +1,11 @@
+[package]
+name = "python-cattrs"
+version = "26.2.1-1"
+license = "MIT"
+arch = "any"
+description = "Complex custom class converters for attrs"
+depends = ["python", "python-attrs", "python-typing_extensions"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-cattrs-26.2.1-1-any.pkg.tar.zst"
+sha256 = "440f2ff5448295492a3e6ca2ffa0d2962c7b2661650758ef7606886319899fd7"

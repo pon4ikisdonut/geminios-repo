@@ -1,0 +1,11 @@
+[package]
+name = "python-babel"
+version = "2.18.0-1"
+license = "BSD-3-Clause"
+arch = "any"
+description = "A collection of tools for internationalizing Python applications"
+depends = ["python", "python-pytz"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-babel-2.18.0-1-any.pkg.tar.zst"
+sha256 = "c77addf5936a5624dfb749b0361b1d5b3f8c1aa4246775d8ff4e82bb3ab5c7a7"

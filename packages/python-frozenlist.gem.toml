@@ -1,0 +1,11 @@
+[package]
+name = "python-frozenlist"
+version = "1.8.0-2"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "FrozenList is a list-like structure which can be made immutable"
+depends = ["glibc", "python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-frozenlist-1.8.0-2-x86_64.pkg.tar.zst"
+sha256 = "19634f7922a6ab94a0274bd4240b0ce3136e0a2e37cee4d2b8556c551a5f81e2"

@@ -1,0 +1,11 @@
+[package]
+name = "grantleetheme"
+version = "26.08.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Library for Grantlee theming support"
+depends = ["glibc", "kcolorscheme", "kconfig", "kcoreaddons", "kguiaddons", "ki18n", "kiconthemes", "knewstuff", "ktexttemplate", "kwidgetsaddons", "kxmlgui", "libgcc", "libstdc++", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/grantleetheme-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "edfa77182e3f9e8a12aeca7770a5b849b17bb0168e94707f69779da0bc34a917"

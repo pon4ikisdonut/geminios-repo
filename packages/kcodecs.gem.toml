@@ -1,0 +1,11 @@
+[package]
+name = "kcodecs"
+version = "6.32.0-1"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "Provide a collection of methods to manipulate strings using various encodings"
+depends = ["libstdc++", "glibc", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kcodecs-6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "d695cf2b75d1d0fcb49a4e4ab07260d68791d2a39981cf241d39318ed6498c82"

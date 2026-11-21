@@ -1,0 +1,11 @@
+[package]
+name = "acsccid"
+version = "1.1.13-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "PC/SC driver that supports ACS CCID smart card readers."
+depends = ["pcsclite", "libusb"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/acsccid-1.1.13-2-x86_64.pkg.tar.zst"
+sha256 = "763cef09ffb9f2516e1d911301764e2db248b5d632e3a07c8bc7b409864f13fc"

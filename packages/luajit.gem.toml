@@ -1,0 +1,11 @@
+[package]
+name = "luajit"
+version = "2.1.1795119671+96f7b29-1"
+license = "MIT"
+arch = "x86_64"
+description = "Just-in-time compiler and drop-in replacement for Lua 5.1"
+depends = ["glibc", "libgcc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/luajit-2.1.1795119671+96f7b29-1-x86_64.pkg.tar.zst"
+sha256 = "7e1fde6e7fcac796412dac5f2118114594107047a807e92b300073d1e0966a48"

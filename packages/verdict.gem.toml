@@ -1,0 +1,11 @@
+[package]
+name = "verdict"
+version = "1.4.5-3"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Compute quality functions of 2 and 3-dimensional regions"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/verdict-1.4.5-3-x86_64.pkg.tar.zst"
+sha256 = "ae0a527391fd5f33f095bacc35cc29144aac2bbd7f609700d80d447c258befe0"

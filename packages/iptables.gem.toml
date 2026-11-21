@@ -1,0 +1,11 @@
+[package]
+name = "iptables"
+version = "1:1.8.13-1"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "Linux kernel packet control tool (using nft interface)"
+depends = ["bash", "glibc", "libmnl", "libnetfilter_conntrack", "libnfnetlink", "libnftnl", "libpcap", "nftables"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/iptables-1:1.8.13-1-x86_64.pkg.tar.zst"
+sha256 = "c827ed573b29dd488317da6b61be22c5d12154378b6bceda35ced834e8bbbc94"

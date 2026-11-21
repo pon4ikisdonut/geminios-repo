@@ -1,0 +1,11 @@
+[package]
+name = "gst-plugin-gtk"
+version = "1.28.9-3"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Multimedia graph framework - gtk plugin"
+depends = ["gst-plugins-bad-libs", "gst-plugins-base-libs", "gstreamer", "cairo", "glib2", "glibc", "gtk3", "wayland"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gst-plugin-gtk-1.28.9-3-x86_64.pkg.tar.zst"
+sha256 = "96fcfe160a2aedc507fbd86289eebf236ac44cde5475379dae6fa4ad9459ef36"

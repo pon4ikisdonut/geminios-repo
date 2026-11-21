@@ -1,0 +1,11 @@
+[package]
+name = "tldr"
+version = "3.4.4-1"
+license = "MIT"
+arch = "any"
+description = "Command line client for tldr, a collection of simplified man pages."
+depends = ["python", "python-shtab", "python-colorama", "python-termcolor"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/tldr-3.4.4-1-any.pkg.tar.zst"
+sha256 = "57e76ed0e04c2f4845db80e7171ed3ce09c90f43c8b236a426250fda42c23bbb"

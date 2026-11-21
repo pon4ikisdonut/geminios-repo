@@ -1,0 +1,11 @@
+[package]
+name = "pacman-contrib"
+version = "1.13.1-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Contributed scripts and tools for pacman systems"
+depends = ["pacman"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/pacman-contrib-1.13.1-1-x86_64.pkg.tar.zst"
+sha256 = "190d0a557a7863023007407832bf8003345e12ee9cc39f6e3c740b4b56cd234e"

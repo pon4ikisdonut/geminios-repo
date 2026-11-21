@@ -1,0 +1,11 @@
+[package]
+name = "wxwidgets-common"
+version = "3.2.12-1"
+license = "custom:wxWindows"
+arch = "x86_64"
+description = "Common libraries and headers for wxwidgets"
+depends = ["curl", "glib2", "glibc", "expat", "libgcc", "libsecret", "libstdc++", "pcre2", "xz", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/wxwidgets-common-3.2.12-1-x86_64.pkg.tar.zst"
+sha256 = "8d4dd818ee035895a33982ebea873e79cf90995135fed94dabb950cf872ed2da"

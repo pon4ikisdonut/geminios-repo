@@ -1,0 +1,11 @@
+[package]
+name = "nvidia-utils"
+version = "620.73.04-1"
+license = "LicenseRef-NVIDIA-Driver-License-Agreement"
+arch = "x86_64"
+description = "NVIDIA drivers utilities"
+depends = ["libglvnd", "egl-wayland", "egl-wayland2", "egl-gbm", "egl-x11"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/nvidia-utils-620.73.04-1-x86_64.pkg.tar.zst"
+sha256 = "80c4f918e6b7c656163807b222a8e917ffb9f1aa82c37e540e68deb629ac911d"

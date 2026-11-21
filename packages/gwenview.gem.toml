@@ -1,0 +1,11 @@
+[package]
+name = "gwenview"
+version = "26.08.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "A fast and easy to use image viewer"
+depends = ["baloo", "cfitsio", "exiv2", "glibc", "kcolorscheme", "kcompletion", "kconfig", "kconfigwidgets", "kcoreaddons", "kcrash", "kfilemetadata", "kguiaddons", "ki18n", "kiconthemes", "kimageannotator", "kio", "kitemmodels", "kitemviews", "kjobwidgets", "kparts", "kservice", "kwidgetsaddons", "kxmlgui", "lcms2", "libgcc", "libjpeg-turbo", "libkdcraw", "libpng", "libstdc++", "libtiff", "libx11", "plasma-activities", "purpose", "qt6-base", "qt6-multimedia", "qt6-svg", "solid", "wayland"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gwenview-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "eda75dd0521b38188bc654551ac82a1239a77f3469bb213f89ff461aa6a130c7"

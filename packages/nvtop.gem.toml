@@ -1,0 +1,11 @@
+[package]
+name = "nvtop"
+version = "3.4.0-1"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "GPUs process monitoring for AMD, Intel and NVIDIA"
+depends = ["ncurses", "systemd-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/nvtop-3.4.0-1-x86_64.pkg.tar.zst"
+sha256 = "8320224c4e62b6ddfe5eec781e1a765fc9bf5e4e31fafcb011cfe59a40cb7d09"

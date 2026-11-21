@@ -1,0 +1,11 @@
+[package]
+name = "python-tzlocal"
+version = "1:5.4.5-1"
+license = "MIT"
+arch = "any"
+description = "Tzinfo object for the local timezone"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-tzlocal-1:5.4.5-1-any.pkg.tar.zst"
+sha256 = "053fe2e12d2304fd7f1927c07bf034788252818009782e2089666f2996cd840c"

@@ -1,0 +1,11 @@
+[package]
+name = "swaybg"
+version = "1.2.2-1"
+license = "MIT"
+arch = "x86_64"
+description = "Wallpaper tool for Wayland compositors"
+depends = ["wayland", "cairo", "gdk-pixbuf2"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/swaybg-1.2.2-1-x86_64.pkg.tar.zst"
+sha256 = "36ab70c4c24c90a0f8b26921af47f5ba73b1f484aab4a951df50a5aad95bff1a"

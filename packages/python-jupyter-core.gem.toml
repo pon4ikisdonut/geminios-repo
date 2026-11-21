@@ -1,0 +1,11 @@
+[package]
+name = "python-jupyter-core"
+version = "5.9.1-2"
+license = "BSD-3-Clause"
+arch = "any"
+description = "Jupyter core package. A base package on which Jupyter projects rely"
+depends = ["python", "python-argcomplete", "python-traitlets", "python-platformdirs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-jupyter-core-5.9.1-2-any.pkg.tar.zst"
+sha256 = "6a33d5215c1f2e81d5bc432b56b3e2cb1dd19ca30daf442c3cb686b6cbcc53ee"

@@ -1,0 +1,11 @@
+[package]
+name = "python-cachy"
+version = "0.3.0-12"
+license = "MIT"
+arch = "any"
+description = "simple yet effective caching library"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-cachy-0.3.0-12-any.pkg.tar.zst"
+sha256 = "f467f17c668bed0e5b0975a0b28f79e1c96756a08743a3bd8738a0f6f0b1cb92"

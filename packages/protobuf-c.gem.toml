@@ -1,0 +1,11 @@
+[package]
+name = "protobuf-c"
+version = "1.5.2-15"
+license = "BSD-2-Clause"
+arch = "x86_64"
+description = "Protocol Buffers implementation in C"
+depends = ["protobuf"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/protobuf-c-1.5.2-15-x86_64.pkg.tar.zst"
+sha256 = "5f6d5bf77d267ab0b77dd09e488a3480c7e4e8c92a2d9e9a43200c386886a1c7"

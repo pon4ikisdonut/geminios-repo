@@ -1,0 +1,11 @@
+[package]
+name = "mypaint-brushes"
+version = "2.0.2-2"
+license = "custom:CC0"
+arch = "any"
+description = "Brushes used by MyPaint and other software using libmypaint"
+depends = ["libmypaint"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/mypaint-brushes-2.0.2-2-any.pkg.tar.zst"
+sha256 = "fa7cb13d120bb2aad07467f0d3de44ebcdd22c222062bd8089f1b5724cce4127"

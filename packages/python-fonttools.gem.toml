@@ -1,0 +1,11 @@
+[package]
+name = "python-fonttools"
+version = "4.68.0-1"
+license = "MIT"
+arch = "x86_64"
+description = "A library to manipulate font files from Python"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-fonttools-4.68.0-1-x86_64.pkg.tar.zst"
+sha256 = "a398f64bde9df95908aa170b418d221c55411cab82a37612f5f7282b13bdabe9"

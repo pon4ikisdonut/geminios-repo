@@ -1,0 +1,11 @@
+[package]
+name = "intltool"
+version = "0.51.0-7"
+license = "GPL-2.0-or-later"
+arch = "any"
+description = "The internationalization tool collection"
+depends = ["perl-xml-parser"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/intltool-0.51.0-7-any.pkg.tar.zst"
+sha256 = "682df1bea411ebb19dd893ae02a8e2457d0da80acd0e46c83bfe208eb69c3294"

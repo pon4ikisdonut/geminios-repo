@@ -1,0 +1,11 @@
+[package]
+name = "vlc-plugin-smb"
+version = "3.0.24-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Free and open source cross-platform multimedia player and framework - SMB plugin"
+depends = ["glibc", "smbclient", "libvlc", "libvlccore.so", "vlc-plugins-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vlc-plugin-smb-3.0.24-2-x86_64.pkg.tar.zst"
+sha256 = "cba07d02e14a6180a5ca1850151022019f77ab823b3931e5cf365e7b419c1eac"

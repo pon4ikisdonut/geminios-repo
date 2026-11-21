@@ -1,0 +1,11 @@
+[package]
+name = "haskell-easy-file"
+version = "0.2.6-3"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Cross-platform File handling"
+depends = ["ghc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-easy-file-0.2.6-3-x86_64.pkg.tar.zst"
+sha256 = "f82acfdf15d9f589889e4ffd23b1c2b99f0356ffca3618add76245d2d6b0bcac"

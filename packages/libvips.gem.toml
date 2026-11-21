@@ -1,0 +1,11 @@
+[package]
+name = "libvips"
+version = "8.18.7-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "A fast image processing library with low memory needs"
+depends = ["cairo", "cfitsio", "expat", "fftw", "fontconfig", "glib2", "glibc", "highway", "lcms2", "libarchive", "libcgif", "libexif", "libgcc", "libimagequant", "libjpeg-turbo", "libmatio", "libpng", "libraw", "librsvg", "libstdc++", "libtiff", "libwebp", "openexr", "openjpeg2", "pango", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libvips-8.18.7-2-x86_64.pkg.tar.zst"
+sha256 = "ff4933c236fe2ea58be57c689b9f144cb71c5fde8a674e60dea0a5e15f6492d1"

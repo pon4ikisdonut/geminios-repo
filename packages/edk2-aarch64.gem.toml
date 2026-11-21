@@ -1,0 +1,11 @@
+[package]
+name = "edk2-aarch64"
+version = "202608-1"
+license = "MIT"
+arch = "any"
+description = "Firmware for Virtual Machines (aarch64)"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/edk2-aarch64-202608-1-any.pkg.tar.zst"
+sha256 = "07651fafa99d4569ce59a1c1653eb83a4bb02112abeb1656e1354c0fd5b6aa69"

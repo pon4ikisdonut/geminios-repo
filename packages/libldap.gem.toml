@@ -1,0 +1,11 @@
+[package]
+name = "libldap"
+version = "2.7.2-3"
+license = "OLDAP-2.8"
+arch = "x86_64"
+description = "Lightweight Directory Access Protocol (LDAP) client libraries"
+depends = ["glibc", "libsasl", "libsasl2.so", "openssl", "libcrypto.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/libldap-2.7.2-3-x86_64.pkg.tar.zst"
+sha256 = "645c593527caeb6cb5b3505c9a62f6b1725f250d7dec5f9db105b02dfcf0c899"

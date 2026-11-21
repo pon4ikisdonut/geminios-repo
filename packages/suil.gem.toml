@@ -1,0 +1,11 @@
+[package]
+name = "suil"
+version = "0.10.26-1"
+license = "ISC"
+arch = "x86_64"
+description = "A lightweight C library for loading and wrapping LV2 plugin UIs"
+depends = ["glibc", "glib2", "gtk3", "libgcc", "libstdc++", "libx11", "lv2", "qt5-base", "qt5-x11extras", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/suil-0.10.26-1-x86_64.pkg.tar.zst"
+sha256 = "e435de8e9c3c7626d2d689dd9ea24d46f45833d77a014184c28f7eb7b3f4e979"

@@ -1,0 +1,11 @@
+[package]
+name = "lirc"
+version = "1:0.10.2-6"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Linux Infrared Remote Control utilities"
+depends = ["alsa-lib", "libx11", "libftdi", "libusb-compat"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/lirc-1:0.10.2-6-x86_64.pkg.tar.zst"
+sha256 = "135dba856f5c7136e6736d433b2292a7295b702ee6bcb8998529fa3029a09ae2"

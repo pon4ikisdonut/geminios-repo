@@ -1,0 +1,11 @@
+[package]
+name = "evince"
+version = "1:48.5-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Document viewer (PDF, PostScript, XPS, djvu, dvi, tiff, cbr, cbz, cb7, cbt)"
+depends = ["at-spi2-core", "cairo", "dconf", "djvulibre", "exempi", "gdk-pixbuf2", "glib2", "glibc", "gnome-desktop", "gsettings-desktop-schemas", "gsfonts", "gspell", "gst-plugins-base-libs", "gstreamer", "gtk3", "gvfs", "hicolor-icon-theme", "libarchive", "libgcc", "libgxps", "libhandy", "libsecret", "libspectre", "libsynctex", "libtiff", "libxml2", "pango", "poppler-glib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/evince-1:48.5-1-x86_64.pkg.tar.zst"
+sha256 = "60d062cb32a39bee5c029151a4bc883a7a32e86897f27bb2a707cae285a0bd95"

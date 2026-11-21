@@ -1,0 +1,11 @@
+[package]
+name = "abiword"
+version = "3.0.8-2"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Fully-featured word processor"
+depends = ["at-spi2-core", "cairo", "enchant", "fontconfig", "fribidi", "gdk-pixbuf2", "glib2", "glibc", "goffice", "gtk3", "hicolor-icon-theme", "libgcc", "libgsf", "libical", "libjpeg-turbo", "libpng", "librsvg", "libstdc++", "libx11", "libxml2", "libxslt", "pango", "rasqal", "readline", "redland", "wv", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/abiword-3.0.8-2-x86_64.pkg.tar.zst"
+sha256 = "99fcaa11a9527f62057f157604b9cc286e8d07a05cc5f8fa5f93dd4bf0879b7d"

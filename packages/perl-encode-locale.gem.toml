@@ -1,0 +1,11 @@
+[package]
+name = "perl-encode-locale"
+version = "1.05-15"
+license = "GPL"
+arch = "any"
+description = "Determine the locale encoding"
+depends = ["perl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/perl-encode-locale-1.05-15-any.pkg.tar.zst"
+sha256 = "75c27d7008889de7f925d253cbd4ed2438047810304368aae68a99b834be3305"

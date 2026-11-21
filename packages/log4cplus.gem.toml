@@ -1,0 +1,11 @@
+[package]
+name = "log4cplus"
+version = "2.2.1-1"
+license = "BSD-2-Clause"
+arch = "x86_64"
+description = "A C++ logger very close to Java's log4j"
+depends = ["libatomic", "libgcc", "libstdc++", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/log4cplus-2.2.1-1-x86_64.pkg.tar.zst"
+sha256 = "f1b66aca0c152b284d5abe57e59a61d1ddfa466dc0a7cb71f83cde4baf5b782f"

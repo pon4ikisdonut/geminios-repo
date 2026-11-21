@@ -1,0 +1,11 @@
+[package]
+name = "node-gyp"
+version = "13.1.0-1"
+license = "MIT"
+arch = "any"
+description = "Node.js native addon build tool"
+depends = ["nodejs", "nodejs-nopt", "semver"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/node-gyp-13.1.0-1-any.pkg.tar.zst"
+sha256 = "635f03e25abfdcfaae696093d574fa3de6c760beca862a27a080b9c843884381"

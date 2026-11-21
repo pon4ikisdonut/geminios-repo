@@ -1,0 +1,11 @@
+[package]
+name = "vlc-plugin-png"
+version = "3.0.24-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Free and open source cross-platform multimedia player and framework - PNG plugin"
+depends = ["glibc", "libpng", "libvlc", "libvlccore.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vlc-plugin-png-3.0.24-2-x86_64.pkg.tar.zst"
+sha256 = "41f524df0233f5e0796b5ea32c332293de193eab08160f3cdc3deda37d5b26ea"

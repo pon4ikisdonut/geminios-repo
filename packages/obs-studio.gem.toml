@@ -1,0 +1,11 @@
+[package]
+name = "obs-studio"
+version = "33.0.1-1"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "Free, open source software for live streaming and recording"
+depends = ["alsa-lib", "cef", "curl", "ffmpeg", "fontconfig", "freetype2", "glib2", "glibc", "hicolor-icon-theme", "jack", "jansson", "libdatachannel", "libdrm", "libfdk-aac", "libgcc", "libglvnd", "libpipewire", "libpulse", "libstdc++", "libva", "libvpl", "libx11", "libxcb", "libxkbcommon", "luajit", "mbedtls3", "pciutils", "python", "qrcodegencpp-cmake", "qt6-base", "qt6-svg", "rnnoise", "speexdsp", "systemd-libs", "util-linux-libs", "v4l-utils", "wayland", "x264", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/obs-studio-33.0.1-1-x86_64.pkg.tar.zst"
+sha256 = "841159ef611e4472b12c37e88d2963b3c9d3e1cd2cb0477e4dc826f4efbc20a4"

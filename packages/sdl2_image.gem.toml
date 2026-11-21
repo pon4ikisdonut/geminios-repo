@@ -1,0 +1,11 @@
+[package]
+name = "sdl2_image"
+version = "2.8.12-3"
+license = "MIT"
+arch = "x86_64"
+description = "A simple library to load images of various formats as SDL surfaces (Version 2)"
+depends = ["sdl2", "libpng", "libtiff", "libjpeg-turbo", "libwebp", "libavif", "libjxl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/sdl2_image-2.8.12-3-x86_64.pkg.tar.zst"
+sha256 = "262c67449be4ee0108c5615a020689066cb7c0b815cbab800fd732b7ab95f51b"

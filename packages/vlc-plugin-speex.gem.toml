@@ -1,0 +1,11 @@
+[package]
+name = "vlc-plugin-speex"
+version = "3.0.24-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Free and open source cross-platform multimedia player and framework - Speex plugins"
+depends = ["glibc", "libvlc", "libvlccore.so", "speex", "speexdsp"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vlc-plugin-speex-3.0.24-2-x86_64.pkg.tar.zst"
+sha256 = "ed05f2ede74015928a59adfb0c5e28ffc77cc3e390646b3dbe9e6ad2e460397e"

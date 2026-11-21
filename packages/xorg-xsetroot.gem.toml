@@ -1,0 +1,11 @@
+[package]
+name = "xorg-xsetroot"
+version = "1.1.4-1"
+license = "MIT-open-group"
+arch = "x86_64"
+description = "Classic X utility to set your root window background to a given pattern or color"
+depends = ["libxmu", "libx11", "libxcursor", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xorg-xsetroot-1.1.4-1-x86_64.pkg.tar.zst"
+sha256 = "856b4ef5250a18acc616d0ba93ce85ae7020a7f99bcc9a0830fc29679e1ff1ab"

@@ -1,0 +1,11 @@
+[package]
+name = "sqlcipher"
+version = "4.18.0-2"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "SQLite extension that provides transparent 256-bit AES encryption of database files"
+depends = ["glibc", "openssl", "readline", "tcl", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/sqlcipher-4.18.0-2-x86_64.pkg.tar.zst"
+sha256 = "28f4a1b9eb4960b9c8cf97767e66591ce3b557474fbaf38c9f253bef98f9091a"

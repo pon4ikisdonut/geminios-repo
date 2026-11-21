@@ -1,0 +1,11 @@
+[package]
+name = "libgphoto2"
+version = "2.5.34-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Digital camera access library"
+depends = ["bash", "curl", "gd", "glibc", "libexif", "libjpeg-turbo", "libltdl", "libtiff", "libusb", "libxml2"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libgphoto2-2.5.34-1-x86_64.pkg.tar.zst"
+sha256 = "99515e2a4de727f41cc996fa881a401861a4cbfe6d27ca4bd6b2856f53b74f0d"

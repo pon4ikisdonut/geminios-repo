@@ -1,0 +1,11 @@
+[package]
+name = "haskell-strict"
+version = "0.5.1-187"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Strict data types and String IO"
+depends = ["ghc-libs", "haskell-assoc", "haskell-hashable", "haskell-these"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-strict-0.5.1-187-x86_64.pkg.tar.zst"
+sha256 = "015a3d9eeff0dc1caf66a26c8cfedc9b93f8f0aa9e88afc3f55d6f0238ea8540"

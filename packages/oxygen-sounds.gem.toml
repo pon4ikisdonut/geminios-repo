@@ -1,0 +1,11 @@
+[package]
+name = "oxygen-sounds"
+version = "6.8.3-1"
+license = "LGPL-2.0-or-later"
+arch = "any"
+description = "The Oxygen Sound Theme"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/oxygen-sounds-6.8.3-1-any.pkg.tar.zst"
+sha256 = "161fc8f9f6cf800b79ca827b94bf65891de17da8e4068145150713a7da364176"

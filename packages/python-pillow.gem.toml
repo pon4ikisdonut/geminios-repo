@@ -1,0 +1,11 @@
+[package]
+name = "python-pillow"
+version = "13.0.0-1"
+license = "MIT-CMU"
+arch = "x86_64"
+description = "Python Imaging Library (PIL) fork"
+depends = ["glibc", "python", "python-packaging", "freetype2", "lcms2", "libavif", "libraqm", "libtiff", "openjpeg2", "libjpeg-turbo", "libimagequant", "libxcb", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-pillow-13.0.0-1-x86_64.pkg.tar.zst"
+sha256 = "f83e85e388c44f7a5fd28cb41f872fd104cdde39c709a91e778d3f7f458be32d"

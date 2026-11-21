@@ -1,0 +1,11 @@
+[package]
+name = "akonadi-calendar-tools"
+version = "26.08.3-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "CLI tools to manage akonadi calendars"
+depends = ["akonadi", "akonadi-calendar", "calendarsupport", "glibc", "kcalendarcore", "kcoreaddons", "ki18n", "libgcc", "libstdc++", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/akonadi-calendar-tools-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "d19fac40d4cf58339ee0250a1b69d6254fc4f44024a304a9521f4724f0cbf12e"

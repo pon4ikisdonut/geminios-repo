@@ -1,0 +1,11 @@
+[package]
+name = "intel-oneapi-tcm"
+version = "1.6.0_178-1"
+license = "LicenseRef-Intel-Simplified"
+arch = "x86_64"
+description = "Thread Composability Manager"
+depends = ["intel-oneapi-common", "glibc", "libgcc", "libstdc++", "hwloc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/intel-oneapi-tcm-1.6.0_178-1-x86_64.pkg.tar.zst"
+sha256 = "59b6ff3fd0978d35ca58447a7a7f355e7ee0d89b9581d35888f162d6c428164b"

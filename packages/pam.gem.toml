@@ -1,0 +1,11 @@
+[package]
+name = "pam"
+version = "1.7.3-1"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "PAM (Pluggable Authentication Modules) library"
+depends = ["audit", "glibc", "libaudit.so", "libcrypt.so", "libnsl", "libtirpc", "libxcrypt", "pambase", "systemd-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/pam-1.7.3-1-x86_64.pkg.tar.zst"
+sha256 = "78edd987656671b1995412b60ac1a1ae92f7110a14ea3722c2ef3a81e928d7fb"

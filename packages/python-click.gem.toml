@@ -1,0 +1,11 @@
+[package]
+name = "python-click"
+version = "8.5.1-1"
+license = "BSD-3-Clause"
+arch = "any"
+description = "Simple wrapper around optparse for powerful command line utilities"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-click-8.5.1-1-any.pkg.tar.zst"
+sha256 = "57ee5e51828ea4e664199a7eccab3535bfd3c510d4cf2fdcdd28b80f9e7c9d43"

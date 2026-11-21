@@ -1,0 +1,11 @@
+[package]
+name = "python-typing-inspection"
+version = "0.4.5-1"
+license = "MIT"
+arch = "any"
+description = "Runtime typing introspection tools"
+depends = ["python", "python-typing_extensions"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-typing-inspection-0.4.5-1-any.pkg.tar.zst"
+sha256 = "55ac4265ac489478c76c6155f056fb37a73ab9ac734a1b73fcc51277b7de77f3"

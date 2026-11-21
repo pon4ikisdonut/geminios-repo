@@ -1,0 +1,11 @@
+[package]
+name = "qt5-svg"
+version = "5.15.19+kde+r5-1"
+license = "custom"
+arch = "x86_64"
+description = "Classes for displaying the contents of SVG files"
+depends = ["qt5-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qt5-svg-5.15.19+kde+r5-1-x86_64.pkg.tar.zst"
+sha256 = "874d631c937bbca955257cd47af9199864479a07772e99cc480775b1efb6ea1f"

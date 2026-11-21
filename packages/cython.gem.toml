@@ -1,0 +1,11 @@
+[package]
+name = "cython"
+version = "3.3.1-1"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "C-Extensions for Python"
+depends = ["glibc", "python", "python-numpy", "python-pygments", "python-setuptools"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/cython-3.3.1-1-x86_64.pkg.tar.zst"
+sha256 = "3c48ec4beea774242504cd563b8cbbe63dc362f89465cee8a7a297df29236c91"

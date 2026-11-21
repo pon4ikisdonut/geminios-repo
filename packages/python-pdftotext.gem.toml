@@ -1,0 +1,11 @@
+[package]
+name = "python-pdftotext"
+version = "4.0.0-1"
+license = "MIT"
+arch = "x86_64"
+description = "Simple PDF text extraction"
+depends = ["poppler", "python", "glibc", "libgcc", "libgcc_s.so", "libstdc++", "libstdc++.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-pdftotext-4.0.0-1-x86_64.pkg.tar.zst"
+sha256 = "e7c7c458b5050bec74e70b11a6900d2c06c30eaf4beed1f91019ec1485c76661"

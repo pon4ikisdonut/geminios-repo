@@ -1,0 +1,11 @@
+[package]
+name = "fmt"
+version = "12.2.0-1"
+license = "MIT"
+arch = "x86_64"
+description = "Open-source formatting library for C++"
+depends = ["glibc", "libgcc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/fmt-12.2.0-1-x86_64.pkg.tar.zst"
+sha256 = "c4a52130bd29119063c5b8b5209926c8f0d74773047234fcf7ce68ae078dc948"

@@ -1,0 +1,11 @@
+[package]
+name = "haskell-bsb-http-chunked"
+version = "0.0.0.4-568"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Chunked HTTP transfer encoding for bytestring builders"
+depends = ["ghc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-bsb-http-chunked-0.0.0.4-568-x86_64.pkg.tar.zst"
+sha256 = "b756045cbbb70b9b38953bb9d6cd4ace2bfd70f95048b380764062aec749cab1"

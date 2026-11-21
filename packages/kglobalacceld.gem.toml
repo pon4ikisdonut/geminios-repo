@@ -1,0 +1,11 @@
+[package]
+name = "kglobalacceld"
+version = "6.8.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Daemon providing Global Keyboard Shortcut (Accelerator) functionality"
+depends = ["glibc", "kconfig", "kcoreaddons", "kglobalaccel", "kio", "kjobwidgets", "kservice", "libstdc++", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kglobalacceld-6.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "71cb5dd0c4970edaf5ef32f2af154a612e22e5beb80a4c70498760904a988db6"

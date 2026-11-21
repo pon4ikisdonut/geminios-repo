@@ -1,0 +1,11 @@
+[package]
+name = "python-sphinx-alabaster-theme"
+version = "1.0.0-6"
+license = "BSD-3-Clause"
+arch = "any"
+description = "Light, configurable Sphinx theme"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-sphinx-alabaster-theme-1.0.0-6-any.pkg.tar.zst"
+sha256 = "cdd3260607596ef1e4000dc7123d566a8de3ec8f229ac50c35a670ef99ff4a8b"

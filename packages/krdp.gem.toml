@@ -1,0 +1,11 @@
+[package]
+name = "krdp"
+version = "6.8.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Library and examples for creating an RDP server"
+depends = ["freerdp", "glibc", "kcmutils", "kconfig", "kcoreaddons", "kcrash", "kguiaddons", "ki18n", "kirigami", "kirigami-addons", "kpipewire", "kstatusnotifieritem", "libei", "libstdc++", "libxkbcommon", "pam", "qt6-base", "qt6-declarative", "qtkeychain-qt6", "systemd-libs", "wayland"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/krdp-6.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "237f8205e301323f74a6f67c37bb09fc7b3c9f709721700b41f13469afb66a39"

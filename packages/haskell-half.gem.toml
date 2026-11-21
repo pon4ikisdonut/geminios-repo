@@ -1,0 +1,11 @@
+[package]
+name = "haskell-half"
+version = "0.3.3-138"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Half-precision floating-point"
+depends = ["ghc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-half-0.3.3-138-x86_64.pkg.tar.zst"
+sha256 = "9917a648bb24c017107159ed19422a4d5b1d7450b9e39f9988a5678a1a583ab4"

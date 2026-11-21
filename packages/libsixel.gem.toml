@@ -1,0 +1,11 @@
+[package]
+name = "libsixel"
+version = "1.10.5-1"
+license = "MIT"
+arch = "x86_64"
+description = "Provides a codec for DEC SIXEL graphics and some converter programs"
+depends = ["curl", "gdk-pixbuf2", "glib2", "glibc", "libjpeg-turbo", "libpng"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libsixel-1.10.5-1-x86_64.pkg.tar.zst"
+sha256 = "c9569636dd03f2833720f8cb3b565c0944117fb10dc06a54d7c442a50a27072f"

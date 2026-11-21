@@ -1,0 +1,11 @@
+[package]
+name = "smartmontools"
+version = "7.5-2"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Control and monitor S.M.A.R.T. enabled ATA and SCSI Hard Drives"
+depends = ["bash", "glibc", "libgcc", "libgcc_s.so", "libcap-ng", "libcap-ng.so", "libstdc++", "libstdc++.so", "systemd-libs", "libsystemd.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/smartmontools-7.5-2-x86_64.pkg.tar.zst"
+sha256 = "9aa4f3961955f4806a2fb9d2a6a6bac719c628f2457b05288ee1b650ca84d7fa"

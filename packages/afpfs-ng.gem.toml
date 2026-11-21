@@ -1,0 +1,11 @@
+[package]
+name = "afpfs-ng"
+version = "0.8.2-4"
+license = "GPL"
+arch = "x86_64"
+description = "A client for the Apple Filing Protocol (AFP)"
+depends = ["gmp", "fuse", "libgcrypt"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/afpfs-ng-0.8.2-4-x86_64.pkg.tar.zst"
+sha256 = "d7f6bd28411d68777912ba78b9b75d48df61d39d7ce0c73a39b03cc8e615ab73"

@@ -1,0 +1,11 @@
+[package]
+name = "cpio"
+version = "2.15-3"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "A tool to copy files into or out of a cpio or tar archive"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/cpio-2.15-3-x86_64.pkg.tar.zst"
+sha256 = "ba1197b73ee8ceaeeb9c1edff84db6550827f94eede50d04b330edcc27b3933c"

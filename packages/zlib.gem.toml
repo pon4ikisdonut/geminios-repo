@@ -1,0 +1,11 @@
+[package]
+name = "zlib"
+version = "1:1.4-1"
+license = "Zlib"
+arch = "x86_64"
+description = "Compression library implementing the deflate compression method found in gzip and PKZIP"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/zlib-1:1.4-1-x86_64.pkg.tar.zst"
+sha256 = "a56796509f9b9e953e31b2fbeef5ae6bb61bff7e3e84cde3f4184581e9eb810c"

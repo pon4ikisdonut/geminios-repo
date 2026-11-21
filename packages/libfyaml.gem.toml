@@ -1,0 +1,11 @@
+[package]
+name = "libfyaml"
+version = "0.9.6-3"
+license = "MIT"
+arch = "x86_64"
+description = "Fully feature complete YAML parser and emitter"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libfyaml-0.9.6-3-x86_64.pkg.tar.zst"
+sha256 = "0638641908b9474cd343045e36569efe52ac668331f973c8c07b76ef3a934be9"

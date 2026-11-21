@@ -1,0 +1,11 @@
+[package]
+name = "openldap"
+version = "2.7.2-3"
+license = "OLDAP-2.8"
+arch = "x86_64"
+description = "Lightweight Directory Access Protocol (LDAP) client and server"
+depends = ["glibc", "libldap", "libxcrypt", "libcrypt.so", "libsasl", "libsasl2.so", "libsodium", "libtool", "openssl", "libcrypto.so", "perl", "systemd-libs", "unixodbc", "util-linux-libs", "libuuid.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/openldap-2.7.2-3-x86_64.pkg.tar.zst"
+sha256 = "9278a339d3f02c6239a27cefa8e65a04d97bff8960c0c1dd134ad69a397e66f8"

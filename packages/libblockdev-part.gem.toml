@@ -1,0 +1,11 @@
+[package]
+name = "libblockdev-part"
+version = "3.6.0-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "A library for manipulating block devices - partitioning support"
+depends = ["glib2", "libglib-2.0.so", "glibc", "libblockdev", "libbd_utils.so", "util-linux-libs", "libfdisk.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libblockdev-part-3.6.0-1-x86_64.pkg.tar.zst"
+sha256 = "a667978c775566bb70fb4390063bb10bea8da5dc1679c0ea32f1ff6f3f83d940"

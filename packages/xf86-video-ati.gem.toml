@@ -1,0 +1,11 @@
+[package]
+name = "xf86-video-ati"
+version = "1:22.0.0-3"
+license = "MIT"
+arch = "x86_64"
+description = "X.org ati video driver"
+depends = ["systemd-libs", "mesa", "libpciaccess", "libdrm", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xf86-video-ati-1:22.0.0-3-x86_64.pkg.tar.zst"
+sha256 = "75bf36c9b07ca2f7f2bcd5d2d4a52979684a8c29f3f05655f42ecdb15f1eb292"

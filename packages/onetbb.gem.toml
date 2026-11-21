@@ -1,0 +1,11 @@
+[package]
+name = "onetbb"
+version = "2023.2.0-1"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "oneAPI Threading Building Blocks - a high level abstract threading library"
+depends = ["glibc", "hwloc", "libgcc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/onetbb-2023.2.0-1-x86_64.pkg.tar.zst"
+sha256 = "57ea5d3abfd19b03c891de8bb1902a5c07ea4dc700d0b36bb118e32c7d0aacda"

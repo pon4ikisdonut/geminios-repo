@@ -1,0 +1,11 @@
+[package]
+name = "libpgm"
+version = "5.3.128-4"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Library implementing the Pragmatic General Multicast (PGM, RFC3208) reliable transport protocol (OpenPGM)"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libpgm-5.3.128-4-x86_64.pkg.tar.zst"
+sha256 = "cca617d50f88c96d93fbedb75ec5e948e4a3471680e708e88f7d4e391923be4d"

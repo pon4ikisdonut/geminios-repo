@@ -1,0 +1,11 @@
+[package]
+name = "aquamarine"
+version = "0.16.0-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "a very light linux rendering backend library"
+depends = ["libgcc", "libstdc++", "glibc", "hyprutils", "libhyprutils.so", "libdisplay-info", "libdisplay-info.so", "libdrm", "libglvnd", "libEGL.so", "libinput", "mesa", "opengl-driver", "pixman", "seatd", "libseat.so", "systemd-libs", "libudev.so", "wayland", "libwayland-client.so", "wayland-protocols"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/aquamarine-0.16.0-1-x86_64.pkg.tar.zst"
+sha256 = "355e5919b3485811617eaf7a16032d3c811492c23154d84a3962ed99176ebbef"

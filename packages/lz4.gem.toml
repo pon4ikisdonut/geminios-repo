@@ -1,0 +1,11 @@
+[package]
+name = "lz4"
+version = "1:1.11.1-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Extremely fast compression algorithm"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/lz4-1:1.11.1-1-x86_64.pkg.tar.zst"
+sha256 = "38ba71e406d8aae5bf90423959163e7a60933a0c0a540e84f32fdee02ca769e3"

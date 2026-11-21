@@ -1,0 +1,11 @@
+[package]
+name = "json-c"
+version = "0.19-1"
+license = "MIT"
+arch = "x86_64"
+description = "JSON implementation in C"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/json-c-0.19-1-x86_64.pkg.tar.zst"
+sha256 = "a2ebb9395bfc18a29abd21b6dd756519114e4e6241d6321588ada285ded4d63f"

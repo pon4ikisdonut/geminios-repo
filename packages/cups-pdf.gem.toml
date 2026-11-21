@@ -1,0 +1,11 @@
+[package]
+name = "cups-pdf"
+version = "3.0.3-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "PDF printer for cups"
+depends = ["cups", "libcups", "ghostscript", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/cups-pdf-3.0.3-1-x86_64.pkg.tar.zst"
+sha256 = "478d370d50bc857286ee8ea1c512a17718b26d5848bbb8e6f274a559b5f180cb"

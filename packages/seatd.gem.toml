@@ -1,0 +1,11 @@
+[package]
+name = "seatd"
+version = "0.9.3-1"
+license = "MIT"
+arch = "x86_64"
+description = "A minimal seat management daemon, and a universal seat management library"
+depends = ["systemd-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/seatd-0.9.3-1-x86_64.pkg.tar.zst"
+sha256 = "b4b52430149e66aaeb4cb474f4b756b5c862adecf6e8ecbf358d67470d2b35de"

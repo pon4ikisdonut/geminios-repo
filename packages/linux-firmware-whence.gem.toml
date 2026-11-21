@@ -1,0 +1,11 @@
+[package]
+name = "linux-firmware-whence"
+version = "20261019-1"
+license = "LicenseRef-WHENCE"
+arch = "any"
+description = "Firmware files for Linux - WHENCE file (vendor licenses)"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/linux-firmware-whence-20261019-1-any.pkg.tar.zst"
+sha256 = "3b7c99f7e72ad309d2edfc0ced6e92a2b999fde2994af67acb218b4a4009efc3"

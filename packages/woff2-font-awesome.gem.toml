@@ -1,0 +1,11 @@
+[package]
+name = "woff2-font-awesome"
+version = "7.3.1-1"
+license = "LicenseRef-OFL"
+arch = "any"
+description = "Iconic font designed for Bootstrap - woff2 format"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/woff2-font-awesome-7.3.1-1-any.pkg.tar.zst"
+sha256 = "7a26fafd480c15544720ede4df828d106bb22e81fbf1e5ececae5959005e20be"

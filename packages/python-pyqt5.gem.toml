@@ -1,0 +1,11 @@
+[package]
+name = "python-pyqt5"
+version = "5.15.11-7"
+license = "GPL"
+arch = "x86_64"
+description = "A set of Python bindings for the Qt5 toolkit"
+depends = ["python-pyqt5-sip", "qt5-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-pyqt5-5.15.11-7-x86_64.pkg.tar.zst"
+sha256 = "2dde517b49762a8824ed1d15af6b0273b9264cafc28ccf3b5ba4d64bfccbf15f"

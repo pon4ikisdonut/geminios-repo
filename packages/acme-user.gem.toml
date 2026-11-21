@@ -1,0 +1,11 @@
+[package]
+name = "acme-user"
+version = "1.1.0-1"
+license = "CC0-1.0"
+arch = "any"
+description = "acme-tiny systemd files for running as dedicated user instead of root."
+depends = ["acme-tiny", "systemd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/acme-user-1.1.0-1-any.pkg.tar.zst"
+sha256 = "06e51dd4e5de65988b0af0b0dd340b492f434da80dc049863980820e56aecf84"

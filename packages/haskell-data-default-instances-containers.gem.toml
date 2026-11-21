@@ -1,0 +1,11 @@
+[package]
+name = "haskell-data-default-instances-containers"
+version = "0.1.0.3-7"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Default instances for types in containers"
+depends = ["ghc-libs", "haskell-data-default-class"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-data-default-instances-containers-0.1.0.3-7-x86_64.pkg.tar.zst"
+sha256 = "30f5b93932ec16aba148913a7744b71b7f8a1eab64c00e4e1257247a7e9aeaf6"

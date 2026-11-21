@@ -1,0 +1,11 @@
+[package]
+name = "libevent-docs"
+version = "2.1.13-3"
+license = "BSD-3-Clause-Modification"
+arch = "x86_64"
+description = "Event notification library (documentation)"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/libevent-docs-2.1.13-3-x86_64.pkg.tar.zst"
+sha256 = "7242d2ece829130353344e2d1dd205953776a1f5520babfea11de580bfeed2cc"

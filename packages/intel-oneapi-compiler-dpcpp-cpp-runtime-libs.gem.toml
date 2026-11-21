@@ -1,0 +1,11 @@
+[package]
+name = "intel-oneapi-compiler-dpcpp-cpp-runtime-libs"
+version = "2026.2.0_863-1"
+license = "LicenseRef-Intel-EULA-Developer-Tools"
+arch = "x86_64"
+description = "Intel oneAPI Data Parallel C++ compiler: Minimal runtime libraries"
+depends = ["intel-oneapi-compiler-shared-runtime-libs", "intel-oneapi-openmp-offload", "intel-oneapi-umf", "intel-oneapi-tbb", "intel-oneapi-common"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/intel-oneapi-compiler-dpcpp-cpp-runtime-libs-2026.2.0_863-1-x86_64.pkg.tar.zst"
+sha256 = "1bff16c417c406aa8878e50c7f547edca6dd4e1b385374383c72cacaae5bb2b3"

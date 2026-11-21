@@ -1,0 +1,11 @@
+[package]
+name = "jdk17-openjdk"
+version = "17.0.21.1.u2-1"
+license = "LicenseRef-Java"
+arch = "x86_64"
+description = "OpenJDK Java 17 development kit"
+depends = ["java-runtime-common", "ca-certificates-utils", "freetype2", "glibc", "harfbuzz", "lcms2", "libfreetype.so", "libgcc", "libharfbuzz.so", "libjpeg.so", "libjpeg-turbo", "liblcms2.so", "libnet", "nss", "java-environment-common", "ca-certificates-utils", "freetype2", "harfbuzz", "hicolor-icon-theme", "lcms2", "libelf", "libfreetype.so", "libgif.so", "libharfbuzz.so", "libjpeg.so", "libjpeg-turbo", "liblcms2.so", "libnet", "libpng", "nss"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/jdk17-openjdk-17.0.21.1.u2-1-x86_64.pkg.tar.zst"
+sha256 = "8e138702dbbc04692c3297e19e792447e726fa66da1e2033d83ba412cac659cf"

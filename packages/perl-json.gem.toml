@@ -1,0 +1,11 @@
+[package]
+name = "perl-json"
+version = "4.11-1"
+license = "Artistic-1.0-Perl"
+arch = "any"
+description = "JSON (JavaScript Object Notation) encoder/decoder"
+depends = ["perl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/perl-json-4.11-1-any.pkg.tar.zst"
+sha256 = "571f1a3b1f85a5d19fac8f73b460a59ba355dfa60d66beeea8e8f256290eeb61"

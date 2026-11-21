@@ -1,0 +1,11 @@
+[package]
+name = "libshout"
+version = "1:2.4.6-6"
+license = "LGPL"
+arch = "x86_64"
+description = "Library for accessing a shoutcast/icecast server"
+depends = ["libvorbis", "libtheora", "speex", "openssl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libshout-1:2.4.6-6-x86_64.pkg.tar.zst"
+sha256 = "279c6ffffd5d336b5bfb5c9957d446a6198d38f65b6cea02717e745f50a40c5e"

@@ -1,0 +1,11 @@
+[package]
+name = "polkit"
+version = "128-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Application development toolkit for controlling system-wide privileges"
+depends = ["duktape", "expat", "glib2", "glibc", "libgcc", "pam", "systemd", "systemd-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/polkit-128-1-x86_64.pkg.tar.zst"
+sha256 = "27a25617077c39f430ab5fe7aa8c9dd913711bd0f39745af123da0bf3fb1de07"

@@ -1,0 +1,11 @@
+[package]
+name = "haskell-psqueues"
+version = "0.2.8.3-70"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Pure priority search queues"
+depends = ["ghc-libs", "haskell-hashable"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-psqueues-0.2.8.3-70-x86_64.pkg.tar.zst"
+sha256 = "db74336c6ba87f756b0f565e61760932d59a19de543ffe30c305230520a702b3"

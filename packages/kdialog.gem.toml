@@ -1,0 +1,11 @@
+[package]
+name = "kdialog"
+version = "26.08.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "A utility for displaying dialog boxes from shell scripts"
+depends = ["glibc", "kconfig", "kcoreaddons", "kdbusaddons", "kguiaddons", "ki18n", "kiconthemes", "kio", "ktextwidgets", "kwidgetsaddons", "kwindowsystem", "libstdc++", "libx11", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kdialog-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "68e058a54915ee94ed8be10986c48ba65f54ee53052f467b18ad67a183621a7d"

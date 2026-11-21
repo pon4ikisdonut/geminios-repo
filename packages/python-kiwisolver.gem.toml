@@ -1,0 +1,11 @@
+[package]
+name = "python-kiwisolver"
+version = "1.5.1-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "A fast implementation of the Cassowary constraint solver"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-kiwisolver-1.5.1-1-x86_64.pkg.tar.zst"
+sha256 = "ed6b44903271e31df92e611deb45caee6d4f58b99bd5b9c957113ad5062b610e"

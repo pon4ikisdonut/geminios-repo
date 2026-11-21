@@ -1,0 +1,11 @@
+[package]
+name = "bluez-utils"
+version = "5.88-1"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "Development and debugging utilities for the bluetooth protocol stack"
+depends = ["dbus", "systemd-libs", "glib2", "glibc", "readline"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/bluez-utils-5.88-1-x86_64.pkg.tar.zst"
+sha256 = "b2a2dcc3b6337cf4c1ae152eabeb72bf3646bb4c6b0cc835319dc9f90f4d3bf7"

@@ -1,0 +1,11 @@
+[package]
+name = "ruby-abbrev"
+version = "0.1.2-1"
+license = "RUBY"
+arch = "any"
+description = "Calculates a set of unique abbreviations for a given set of strings"
+depends = ["ruby"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ruby-abbrev-0.1.2-1-any.pkg.tar.zst"
+sha256 = "7873778318dac7ff9af8db8a6c84404334edf562bed08a750fe169d88c2095fb"

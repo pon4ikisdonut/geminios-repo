@@ -1,0 +1,11 @@
+[package]
+name = "git-delta"
+version = "0.21.2-1"
+license = "MIT"
+arch = "x86_64"
+description = "Syntax-highlighting pager for git and diff output"
+depends = ["glibc", "libgcc", "libgcc_s.so", "libgit2", "libgit2.so", "oniguruma"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/git-delta-0.21.2-1-x86_64.pkg.tar.zst"
+sha256 = "f5d497c5add10803c9e45100c2a3f4e552ab672c358402c4dd722f65863b965a"

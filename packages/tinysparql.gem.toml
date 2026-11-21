@@ -1,0 +1,11 @@
+[package]
+name = "tinysparql"
+version = "3.12.0-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Low-footprint RDF triple store with SPARQL 1.1 interface"
+depends = ["avahi", "glib2", "glibc", "icu", "json-glib", "libgcc", "libsoup3", "libstemmer", "libxml2", "sqlite"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/tinysparql-3.12.0-1-x86_64.pkg.tar.zst"
+sha256 = "f2f75be63d3d9d76a68275f4d3749cc429c924ccd90203e1ae60c8900d518498"

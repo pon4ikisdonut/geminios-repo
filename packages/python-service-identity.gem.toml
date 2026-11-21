@@ -1,0 +1,11 @@
+[package]
+name = "python-service-identity"
+version = "26.1.0-1"
+license = "MIT"
+arch = "any"
+description = "Service identity verification for pyOpenSSL"
+depends = ["python-attrs", "python-cryptography"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-service-identity-26.1.0-1-any.pkg.tar.zst"
+sha256 = "50df6a33fcdcbc62f6ac9f4f50c71aeb09fb53121bdbf6279c9bf4f8b8856b9e"

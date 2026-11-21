@@ -1,0 +1,11 @@
+[package]
+name = "haskell-vector"
+version = "0.13.2.0-637"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Efficient Arrays"
+depends = ["ghc-libs", "haskell-primitive", "haskell-random", "haskell-tasty", "haskell-vector-stream"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-vector-0.13.2.0-637-x86_64.pkg.tar.zst"
+sha256 = "7d3104ca98207589aef4a24088aa7943e7a2b8d42ba237185447a3ba37e92d7b"

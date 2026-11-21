@@ -1,0 +1,11 @@
+[package]
+name = "python-uc-micro-py"
+version = "2.0.0-1"
+license = "MIT"
+arch = "any"
+description = "Micro subset of unicode data files for linkify-it-py projects"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-uc-micro-py-2.0.0-1-any.pkg.tar.zst"
+sha256 = "990296d469a956c1189592baa7395e487cda4967c3e425b03ac92399e083f96f"

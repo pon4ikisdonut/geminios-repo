@@ -1,0 +1,11 @@
+[package]
+name = "vlc-plugin-lirc"
+version = "3.0.24-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Free and open source cross-platform multimedia player and framework - Infrared remote control plugin"
+depends = ["glibc", "libvlc", "libvlccore.so", "lirc", "vlc-plugins-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vlc-plugin-lirc-3.0.24-2-x86_64.pkg.tar.zst"
+sha256 = "61998a07711b0092b628efc879d0a0092ebbcca779905a217f6b56cbee4eca1b"

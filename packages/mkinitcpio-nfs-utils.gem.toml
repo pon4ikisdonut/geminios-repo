@@ -1,0 +1,11 @@
+[package]
+name = "mkinitcpio-nfs-utils"
+version = "0.3-8"
+license = "GPL2"
+arch = "x86_64"
+description = "ipconfig and nfsmount tools for NFS root support in mkinitcpio"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/mkinitcpio-nfs-utils-0.3-8-x86_64.pkg.tar.zst"
+sha256 = "5f47497df41e8ba6383af3cc96bb4daf41b48cb17836c4f4312351787d538f3f"

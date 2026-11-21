@@ -1,0 +1,11 @@
+[package]
+name = "haskell-http-date"
+version = "0.0.12-3"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "HTTP Date parser/formatter"
+depends = ["ghc-libs", "haskell-attoparsec"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-http-date-0.0.12-3-x86_64.pkg.tar.zst"
+sha256 = "656d8076f198353479af624dbbc4c2b8803ff3b5ee48b10cbeb9f3902a92ef52"

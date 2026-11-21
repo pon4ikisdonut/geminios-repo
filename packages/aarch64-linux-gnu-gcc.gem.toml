@@ -1,0 +1,11 @@
+[package]
+name = "aarch64-linux-gnu-gcc"
+version = "16.2.0-1"
+license = "FDL"
+arch = "x86_64"
+description = "The GNU Compiler Collection - cross compiler for ARM64 target"
+depends = ["aarch64-linux-gnu-binutils", "aarch64-linux-gnu-glibc", "libmpc", "zlib", "libisl", "zstd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/aarch64-linux-gnu-gcc-16.2.0-1-x86_64.pkg.tar.zst"
+sha256 = "42b36d84981317c102d649ec80b6e6a45aef6da5291c90ac1c01ef331665c602"

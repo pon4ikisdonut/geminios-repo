@@ -1,0 +1,11 @@
+[package]
+name = "python-soupsieve"
+version = "4.1.1-1"
+license = "MIT"
+arch = "any"
+description = "A CSS4 selector implementation for Beautiful Soup"
+depends = ["python", "python-beautifulsoup4"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-soupsieve-4.1.1-1-any.pkg.tar.zst"
+sha256 = "2bfc06d5cc8ebc47c1352c0cc27e9258f91b07259ed5bc4acdd060c3502c9256"

@@ -1,0 +1,11 @@
+[package]
+name = "kdeclarative"
+version = "6.32.0-1"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "Provides integration of QML and KDE Frameworks"
+depends = ["libstdc++", "glibc", "kconfig", "kguiaddons", "kglobalaccel", "kguiaddons", "ki18n", "kwidgetsaddons", "qt6-base", "qt6-declarative"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kdeclarative-6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "5701d6268e83a0a3c7cfc49910ea70c1b99ebc4e3d41850343becbbe1c133231"

@@ -1,0 +1,11 @@
+[package]
+name = "adobe-source-code-pro-fonts"
+version = "2.042u+1.062i+1.026vf-2"
+license = "OFL-1.1"
+arch = "any"
+description = "Monospaced font family for user interface and coding environments"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/adobe-source-code-pro-fonts-2.042u+1.062i+1.026vf-2-any.pkg.tar.zst"
+sha256 = "010289b781feba304c3fa34a1f10e93abc9158fe03cbbb14097c33b4777e2460"

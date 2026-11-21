@@ -1,13 +1,13 @@
 [package]
 name = "geminid"
-version = "1.0.0"
+version = "1.0.1"
 license = "MIT"
 arch = "x86_64"
 description = "GeminiOS System AI Daemon with Gemini API, automatic Gemma/Ollama fallback, and Agent Mode"
 depends = ["geminios-core"]
 
 [source]
-url = "https://github.com/pon4ikisdonut/geminios-repo/releases/download/v1.0.0/geminid-1.0.0.tar.gz"
+url = "https://github.com/pon4ikisdonut/geminios-repo/releases/download/v1.0.1/geminid-1.0.1.tar.gz"
 sha256 = "16d25b8e76ccc914605089f047ffbc62ede0764bfdea3aa97ccfb73fc8e537dd"
 
 [hooks]

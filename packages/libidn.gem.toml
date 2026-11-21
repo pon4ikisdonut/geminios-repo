@@ -1,0 +1,11 @@
+[package]
+name = "libidn"
+version = "1.44-1"
+license = "LGPL"
+arch = "x86_64"
+description = "Implementation of the Stringprep, Punycode and IDNA specifications"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libidn-1.44-1-x86_64.pkg.tar.zst"
+sha256 = "0941576f52b75447cea8fae1840d2a2e2970a554991512c9eb768aeffa32a9bd"

@@ -1,0 +1,11 @@
+[package]
+name = "ding-libs"
+version = "0.7.0-1"
+license = "LGPL-3.0-or-later"
+arch = "x86_64"
+description = "\"DING is not GNU\" helper libraries for SSSD and FreeIPA"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/ding-libs-0.7.0-1-x86_64.pkg.tar.zst"
+sha256 = "53d12b8a0a3b1649fde69f7fb563be7fd1460325321a4fd1892ce0f45c240353"

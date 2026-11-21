@@ -1,0 +1,11 @@
+[package]
+name = "libayatana-indicator"
+version = "0.9.5-1"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "Ayatana Indicators shared library"
+depends = ["ayatana-ido", "gdk-pixbuf2", "glib2", "glibc", "gtk3"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libayatana-indicator-0.9.5-1-x86_64.pkg.tar.zst"
+sha256 = "33de4365b572e3ac03a9058019834110c7521bda2241b8e4574d34a7d20c2d8f"

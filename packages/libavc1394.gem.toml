@@ -1,0 +1,11 @@
+[package]
+name = "libavc1394"
+version = "0.5.4-7"
+license = "GPL-2.0-or-later AND LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Library to control A/V devices using the 1394 TA AV/C commands"
+depends = ["glibc", "libraw1394"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libavc1394-0.5.4-7-x86_64.pkg.tar.zst"
+sha256 = "fc51adf3f9af30d7d58abd8962e39ae85bd6c8c36ede30e24ea3400d195a5b0a"

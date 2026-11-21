@@ -1,0 +1,11 @@
+[package]
+name = "liborcus"
+version = "0.21.0-8"
+license = "MPL-2.0"
+arch = "x86_64"
+description = "File import filter library for spreadsheet documents."
+depends = ["libixion", "glibc", "libstdc++", "libgcc", "boost-libs", "zlib", "python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/liborcus-0.21.0-8-x86_64.pkg.tar.zst"
+sha256 = "1bcbf4a6e18bd146d7e0a1b79f7b5ad51cdbfef73adcf728c001c3a23d2102a8"

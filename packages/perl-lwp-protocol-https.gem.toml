@@ -1,0 +1,11 @@
+[package]
+name = "perl-lwp-protocol-https"
+version = "6.17-1"
+license = "GPL"
+arch = "any"
+description = "Provide https support for LWP::UserAgent"
+depends = ["ca-certificates", "perl-io-socket-ssl", "perl-net-http", "perl-libwww"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/perl-lwp-protocol-https-6.17-1-any.pkg.tar.zst"
+sha256 = "8d84bbca86a731a1190d26cf53b62995d722e5d2b3f98acb8a38297b1dbeaf07"

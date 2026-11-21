@@ -1,0 +1,11 @@
+[package]
+name = "ttf-liberation"
+version = "2.1.5-2"
+license = "custom:OFL"
+arch = "any"
+description = "Font family which aims at metric compatibility with Arial, Times New Roman, and Courier New"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ttf-liberation-2.1.5-2-any.pkg.tar.zst"
+sha256 = "cf3c0ae816f6086fc29481e6d82a928d35abde22924fb8cd936f13dd9fe4bd05"

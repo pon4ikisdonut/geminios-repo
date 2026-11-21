@@ -1,0 +1,11 @@
+[package]
+name = "haskell-boring"
+version = "0.2.2.1-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Boring and Absurd types"
+depends = ["ghc-libs", "haskell-tagged"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-boring-0.2.2.1-1-x86_64.pkg.tar.zst"
+sha256 = "00cbb204e2c9eb08b4fbf09dda641d5c1db27553db60aee4b38e668621a942f2"

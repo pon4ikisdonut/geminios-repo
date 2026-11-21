@@ -1,0 +1,11 @@
+[package]
+name = "libspnav"
+version = "1.2-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Alternative to the proprietary 3Dconnexion device driver and SDK for their 3D input devices"
+depends = ["glibc", "libx11"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libspnav-1.2-1-x86_64.pkg.tar.zst"
+sha256 = "63febf01fc4c5c43c2f05452ce92d4493d1f88deb310ea06f206871e291c11b3"

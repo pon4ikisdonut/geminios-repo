@@ -1,0 +1,11 @@
+[package]
+name = "afew"
+version = "4.0.2-1"
+license = "ISC"
+arch = "any"
+description = "Initial tagging script for notmuch mail"
+depends = ["notmuch", "python-chardet", "python-cffi", "python-dkim"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/afew-4.0.2-1-any.pkg.tar.zst"
+sha256 = "e020498fd8e03f05356a35551042d4f582ed340e354aad00a979bd1ded54bc18"

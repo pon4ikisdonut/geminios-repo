@@ -1,0 +1,11 @@
+[package]
+name = "semver"
+version = "7.8.6-1"
+license = "ISC"
+arch = "any"
+description = "The semantic version parser used by npm"
+depends = ["nodejs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/semver-7.8.6-1-any.pkg.tar.zst"
+sha256 = "f0c8f9660b604a70b067896a8e84b8a206bb5a870cfd30fd88de0f2cd491a247"

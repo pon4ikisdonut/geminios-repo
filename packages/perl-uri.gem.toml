@@ -1,0 +1,11 @@
+[package]
+name = "perl-uri"
+version = "5.40-1"
+license = "GPL-1.0-or-later"
+arch = "any"
+description = "Uniform Resource Identifiers (absolute and relative)"
+depends = ["perl", "perl-mime-base32"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/perl-uri-5.40-1-any.pkg.tar.zst"
+sha256 = "704c3977680f2753c1c1e7583d3a443037ad78ba669b6c4c73817d0ac6dbc172"

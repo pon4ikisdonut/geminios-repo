@@ -1,0 +1,11 @@
+[package]
+name = "eza"
+version = "0.23.5-2"
+license = "EUPL-1.2"
+arch = "x86_64"
+description = "A modern replacement for ls (community fork of exa)"
+depends = ["glibc", "libgcc", "libgcc_s.so", "libgit2", "libgit2.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/eza-0.23.5-2-x86_64.pkg.tar.zst"
+sha256 = "a9767f7a5cbcf1d5b8d25071fa3da417c1ea3680749f6f413f204f2c2502230b"

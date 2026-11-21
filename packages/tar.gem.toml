@@ -1,0 +1,11 @@
+[package]
+name = "tar"
+version = "1.35-5"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "Utility used to store, backup, and transport files"
+depends = ["glibc", "acl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/tar-1.35-5-x86_64.pkg.tar.zst"
+sha256 = "e8a3baa1b4bd754442f92c1c25794b9225700f931e1d2c175bb2e7d9a28725e7"

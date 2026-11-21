@@ -1,0 +1,11 @@
+[package]
+name = "libunrar"
+version = "1:7.3.2-1"
+license = "LicenseRef-UnRAR"
+arch = "x86_64"
+description = "Library and header file for applications that use libunrar"
+depends = ["glibc", "libgcc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libunrar-1:7.3.2-1-x86_64.pkg.tar.zst"
+sha256 = "094c9eacb79032c83d2b7f43eea859986facfdc8d95488bbf85d8e0a2125f281"

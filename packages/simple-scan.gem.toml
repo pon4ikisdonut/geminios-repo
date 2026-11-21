@@ -1,0 +1,11 @@
+[package]
+name = "simple-scan"
+version = "50.0-1"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "Simple scanning utility"
+depends = ["cairo", "colord-sane", "dconf", "gdk-pixbuf2", "glib2", "glibc", "gtk4", "hicolor-icon-theme", "libadwaita", "libcolord", "libgusb", "libwebp", "sane", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/simple-scan-50.0-1-x86_64.pkg.tar.zst"
+sha256 = "0fc6266d61592277bb397623ced0d5de6224952eae6c67b3282a0e4eeb6ccc19"

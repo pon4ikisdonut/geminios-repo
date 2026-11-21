@@ -1,0 +1,11 @@
+[package]
+name = "fastfetch"
+version = "2.71.0-1"
+license = "MIT"
+arch = "x86_64"
+description = "A feature-rich and performance oriented neofetch like system information tool"
+depends = ["glibc", "yyjson"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/fastfetch-2.71.0-1-x86_64.pkg.tar.zst"
+sha256 = "805d570c32f0c373300337aa6bb115d48135a64e9a496d2c104e800ff2ee1316"

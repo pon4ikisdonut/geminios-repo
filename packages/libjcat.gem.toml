@@ -1,0 +1,11 @@
+[package]
+name = "libjcat"
+version = "0.2.6-1"
+license = "LGPL"
+arch = "x86_64"
+description = "Library for reading and writing Jcat files"
+depends = ["json-glib", "gnutls", "gpgme"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libjcat-0.2.6-1-x86_64.pkg.tar.zst"
+sha256 = "2d8ecf91f8b54799474bd1e0b0f13da9e92909f121091be32dfe73b0c6f9255b"

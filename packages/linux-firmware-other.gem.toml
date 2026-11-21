@@ -1,0 +1,11 @@
+[package]
+name = "linux-firmware-other"
+version = "20261019-1"
+license = "LicenseRef-WHENCE"
+arch = "any"
+description = "Firmware files for Linux - Unsorted firmware for various devices"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/linux-firmware-other-20261019-1-any.pkg.tar.zst"
+sha256 = "0f5e551a2fd65b8409255510b707a0375ced56e3e1d4e57eafeb85e90ed278c0"

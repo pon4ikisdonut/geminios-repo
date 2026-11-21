@@ -1,0 +1,11 @@
+[package]
+name = "f2fs-tools"
+version = "1.17.0-1"
+license = "GPL-2.0-only AND (GPL-2.0-only OR LGPL-2.1-only)"
+arch = "x86_64"
+description = "Tools for Flash-Friendly File System (F2FS)"
+depends = ["glibc", "lz4", "liblz4.so", "util-linux-libs", "libblkid.so", "libuuid.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/f2fs-tools-1.17.0-1-x86_64.pkg.tar.zst"
+sha256 = "e0fb51af519e9c8bafdb4b7234ec5d697deb363443744dc799661d1dd2a97554"

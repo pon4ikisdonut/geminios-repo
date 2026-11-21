@@ -1,0 +1,11 @@
+[package]
+name = "automake"
+version = "1.20-1"
+license = "GPL"
+arch = "any"
+description = "A GNU tool for automatically creating Makefiles"
+depends = ["perl", "bash"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/automake-1.20-1-any.pkg.tar.zst"
+sha256 = "88ee75770ae9a70272f566d4c0425a05bac8ade9083e99676ee5d72663de234e"

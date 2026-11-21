@@ -1,0 +1,11 @@
+[package]
+name = "python-pycups"
+version = "2.0.4-5"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Python bindings for libcups"
+depends = ["libcups", "python", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-pycups-2.0.4-5-x86_64.pkg.tar.zst"
+sha256 = "3487bfd8a43d2cfcf62b03f79d4d28cad9fbe75e1939026914b3689594cdfbc7"

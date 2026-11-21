@@ -1,0 +1,11 @@
+[package]
+name = "dmraid"
+version = "1.0.0.rc16.3-15"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "Device mapper RAID interface"
+depends = ["device-mapper"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/dmraid-1.0.0.rc16.3-15-x86_64.pkg.tar.zst"
+sha256 = "e9a661652d8e4076d2164b77c88f94ebd93dcf16dd66714513621b40e4de86b9"

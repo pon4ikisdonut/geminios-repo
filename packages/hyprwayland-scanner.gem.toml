@@ -1,0 +1,11 @@
+[package]
+name = "hyprwayland-scanner"
+version = "0.4.6-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "A Hyprland implementation of wayland-scanner, in and for C++"
+depends = ["pugixml"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/hyprwayland-scanner-0.4.6-1-x86_64.pkg.tar.zst"
+sha256 = "3d9da39c19f9febb0a1b3af9d88dc9a1466568f595228ffc88ffc51907e73d3a"

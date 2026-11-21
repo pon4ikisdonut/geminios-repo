@@ -1,0 +1,11 @@
+[package]
+name = "haskell-hourglass"
+version = "0.2.12-418"
+license = "BSD"
+arch = "x86_64"
+description = "simple performant time related library"
+depends = ["ghc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-hourglass-0.2.12-418-x86_64.pkg.tar.zst"
+sha256 = "159b388405e228039d9af112adaa82995167ef35fa18005f1af2b907fd0f9220"

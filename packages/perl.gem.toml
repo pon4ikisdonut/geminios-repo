@@ -1,0 +1,11 @@
+[package]
+name = "perl"
+version = "5.44.0-1"
+license = "GPL-1.0-or-later"
+arch = "x86_64"
+description = "A highly capable, feature-rich programming language"
+depends = ["gdbm", "db5.3", "glibc", "libxcrypt", "libcrypt.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/perl-5.44.0-1-x86_64.pkg.tar.zst"
+sha256 = "f7170b9ac09dfc4d46decd5e953888a379215af0207e361bbd426efa53968c70"

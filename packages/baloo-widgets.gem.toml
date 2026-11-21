@@ -1,0 +1,11 @@
+[package]
+name = "baloo-widgets"
+version = "26.08.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Widgets for Baloo"
+depends = ["glibc", "baloo", "kconfig", "kcoreaddons", "kfilemetadata", "ki18n", "kio", "kservice", "kwidgetsaddons", "libstdc++", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/baloo-widgets-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "8168cb0dd8b65a9acaadc9bf0f99e1006c1951145b91edbf70dc77f99f21cde0"

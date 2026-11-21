@@ -1,0 +1,11 @@
+[package]
+name = "openimagedenoise"
+version = "2.5.1-2"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "Intel(R) Open Image Denoise library"
+depends = ["intel-tbb", "glibc", "libgcc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/openimagedenoise-2.5.1-2-x86_64.pkg.tar.zst"
+sha256 = "076d735b6acf077185606322f2400f9d3dabac996f8455f55fcb0111be4e62a9"

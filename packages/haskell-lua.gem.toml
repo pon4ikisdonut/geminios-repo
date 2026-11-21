@@ -1,0 +1,11 @@
+[package]
+name = "haskell-lua"
+version = "2.3.4-74"
+license = "MIT"
+arch = "x86_64"
+description = "Lua, an embeddable scripting language"
+depends = ["ghc-libs", "lua54"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-lua-2.3.4-74-x86_64.pkg.tar.zst"
+sha256 = "675c2f4b45dcc5d07c3e566073121ec5f1ff6587001e1cf36e66c2bf7ab4a229"

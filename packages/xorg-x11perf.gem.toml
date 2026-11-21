@@ -1,0 +1,11 @@
+[package]
+name = "xorg-x11perf"
+version = "1.7.0-1"
+license = "HPND"
+arch = "x86_64"
+description = "Simple X server performance benchmarker"
+depends = ["libx11", "libxmu", "libxrender", "libxft", "libxext", "fontconfig", "sh", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xorg-x11perf-1.7.0-1-x86_64.pkg.tar.zst"
+sha256 = "6757d9bd24ea037ed151488779d51668c7bc4566173db265492ac0f1d5c416de"

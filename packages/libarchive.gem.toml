@@ -1,0 +1,11 @@
+[package]
+name = "libarchive"
+version = "3.8.11-2"
+license = "Apache-2.0 OR CC0-1.0 OR OpenSSL"
+arch = "x86_64"
+description = "Multi-format archive and compression library"
+depends = ["acl", "bzip2", "glibc", "libxml2", "lz4", "openssl", "xz", "zlib", "zstd", "libacl.so", "libbz2.so", "libxml2.so", "libcrypto.so", "liblzma.so", "libz.so", "libzstd.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/libarchive-3.8.11-2-x86_64.pkg.tar.zst"
+sha256 = "247efd1d162e80564c6a9cd9e6722bb2154129db15bcff2947c64fe35daa42f8"

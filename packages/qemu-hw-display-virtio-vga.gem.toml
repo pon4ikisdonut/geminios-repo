@@ -1,0 +1,11 @@
+[package]
+name = "qemu-hw-display-virtio-vga"
+version = "11.1.3-1"
+license = "MIT"
+arch = "x86_64"
+description = "QEMU virtio-vga display device"
+depends = ["qemu-common"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qemu-hw-display-virtio-vga-11.1.3-1-x86_64.pkg.tar.zst"
+sha256 = "f2a369beddac1e806695e450c45932e16acf13c298ed71a38edb02a2bebaa0c3"

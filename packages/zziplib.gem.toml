@@ -1,0 +1,11 @@
+[package]
+name = "zziplib"
+version = "0.13.80-1"
+license = "MPL"
+arch = "x86_64"
+description = "A lightweight library that offers the ability to easily extract data from files archived in a single zip file"
+depends = ["zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/zziplib-0.13.80-1-x86_64.pkg.tar.zst"
+sha256 = "c427a4e957953e931179845a37a7eabd0b83fe3457b6cff1573a2370d8fc7e54"

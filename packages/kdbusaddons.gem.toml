@@ -1,0 +1,11 @@
+[package]
+name = "kdbusaddons"
+version = "6.32.0-1"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "Addons to QtDBus"
+depends = ["libstdc++", "glibc", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kdbusaddons-6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "f58216f38353d0b70c7044f6655e7de7dc3bedc3d3a502501bc5d7fd5acef003"

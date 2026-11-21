@@ -1,0 +1,11 @@
+[package]
+name = "libblockdev-swap"
+version = "3.6.0-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "A library for manipulating block devices - swap device support"
+depends = ["glib2", "libglib-2.0.so", "glibc", "libblockdev", "libbd_utils.so", "libgcc", "util-linux-libs", "libblkid.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libblockdev-swap-3.6.0-1-x86_64.pkg.tar.zst"
+sha256 = "8418662f453a0837b23038bf297fb6b58cc913ea735664c23987b3e505a60a00"

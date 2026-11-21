@@ -1,0 +1,11 @@
+[package]
+name = "libgo"
+version = "16.2.1+r23+gd564253eb6c8-1"
+license = "GFDL-1.3-or-later"
+arch = "x86_64"
+description = "Go runtime libraries shipped by GCC"
+depends = ["glibc", "libgcc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/libgo-16.2.1+r23+gd564253eb6c8-1-x86_64.pkg.tar.zst"
+sha256 = "9a1eec6b95d90086291ffe2d8075df49d56c75813e98024ae96e972fa0109df8"

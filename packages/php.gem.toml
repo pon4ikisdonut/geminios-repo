@@ -1,0 +1,11 @@
+[package]
+name = "php"
+version = "8.5.13-1"
+license = "PHP-3.01"
+arch = "x86_64"
+description = "A general-purpose scripting language that is especially suited to web development"
+depends = ["libxml2", "curl", "libzip", "pcre2", "argon2", "oniguruma"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/php-8.5.13-1-x86_64.pkg.tar.zst"
+sha256 = "090b3d6daaefaadc11a6733c08b0c106806c13e7bf0923482d5b4892c58a6ad2"

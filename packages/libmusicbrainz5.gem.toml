@@ -1,0 +1,11 @@
+[package]
+name = "libmusicbrainz5"
+version = "5.1.0-10"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Library That Provides Access to the MusicBrainz Server"
+depends = ["libgcc_s.so", "libstdc++.so", "libxml2.so", "neon"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libmusicbrainz5-5.1.0-10-x86_64.pkg.tar.zst"
+sha256 = "1d887bedf7264d6282c23cabb442ac7b181e7ad037fe79525a58cde995defdc3"

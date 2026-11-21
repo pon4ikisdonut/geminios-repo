@@ -1,0 +1,11 @@
+[package]
+name = "python-platformdirs"
+version = "4.14.5-1"
+license = "MIT"
+arch = "any"
+description = "A library to determine platform-specific system directories"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-platformdirs-4.14.5-1-any.pkg.tar.zst"
+sha256 = "d88dc5fd56a3051ff28b925f0fd10abb06734c76fececeae15ae41bdb93e1be6"

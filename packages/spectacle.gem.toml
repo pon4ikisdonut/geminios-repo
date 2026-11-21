@@ -1,0 +1,11 @@
+[package]
+name = "spectacle"
+version = "1:6.8.3-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "KDE screenshot capture utility"
+depends = ["glibc", "kconfig", "kconfigwidgets", "kcoreaddons", "kcrash", "kdbusaddons", "kglobalaccel", "kguiaddons", "ki18n", "kio", "kirigami", "kjobwidgets", "knotifications", "kpipewire", "kquickimageeditor", "kservice", "kstatusnotifieritem", "kwidgetsaddons", "kwindowsystem", "kxmlgui", "layer-shell-qt", "libgcc", "libstdc++", "libxcb", "prison", "purpose", "qt6-base", "qt6-declarative", "qt6-imageformats", "qt6-multimedia", "tesseract", "wayland", "xcb-util", "xcb-util-cursor", "xcb-util-image"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/spectacle-1:6.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "54b4a9f8c8708c05ff038e18c704356603aa569d630f98329235f052a0809d0c"

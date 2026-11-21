@@ -1,0 +1,11 @@
+[package]
+name = "xorg-xrdb"
+version = "1.2.3-1"
+license = "MIT-open-group"
+arch = "x86_64"
+description = "X server resource database utility"
+depends = ["libx11", "libxmu", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xorg-xrdb-1.2.3-1-x86_64.pkg.tar.zst"
+sha256 = "12b984dc4b3bbf7539ed040ddfbfaba4937daf064180b09ec29292aaa6912678"

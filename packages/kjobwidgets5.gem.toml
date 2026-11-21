@@ -1,0 +1,11 @@
+[package]
+name = "kjobwidgets5"
+version = "5.116.0-2"
+license = "LGPL"
+arch = "x86_64"
+description = "Widgets for tracking KJob instances"
+depends = ["kcoreaddons5", "kwidgetsaddons5", "qt5-x11extras"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kjobwidgets5-5.116.0-2-x86_64.pkg.tar.zst"
+sha256 = "bfbeffc076d84a78fba694392c11f14087745fda6fe918edc1281353223f43fe"

@@ -1,0 +1,11 @@
+[package]
+name = "tk"
+version = "8.6.16-1"
+license = "TCL"
+arch = "x86_64"
+description = "A windowing toolkit for use with tcl"
+depends = ["tcl", "libxss", "libxft"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/tk-8.6.16-1-x86_64.pkg.tar.zst"
+sha256 = "ddd4f86d6de6af95568cd17df9cf1333f50ba380525f6f2de006572bd87304d1"

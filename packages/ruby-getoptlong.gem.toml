@@ -1,0 +1,11 @@
+[package]
+name = "ruby-getoptlong"
+version = "0.2.1-1"
+license = "RUBY"
+arch = "any"
+description = "GetoptLong for Ruby"
+depends = ["ruby"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ruby-getoptlong-0.2.1-1-any.pkg.tar.zst"
+sha256 = "7d499e1a7c5f9a4c1a445947b5d1c5197f6ac86a7456d37439295dbbd0cfe81f"

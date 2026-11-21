@@ -1,0 +1,11 @@
+[package]
+name = "libwnck3"
+version = "43.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Library to manage X windows and workspaces (for e.g. pagers or tasklists)"
+depends = ["at-spi2-core", "cairo", "gdk-pixbuf2", "glib2", "glibc", "gtk3", "libx11", "libxrender", "libxres", "pango", "startup-notification"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libwnck3-43.3-1-x86_64.pkg.tar.zst"
+sha256 = "3dbf8e04421eccf3fca3ac7be43b59970cafd347ecd113a5fdd496e50b44c100"

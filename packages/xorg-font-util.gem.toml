@@ -1,0 +1,11 @@
+[package]
+name = "xorg-font-util"
+version = "1.4.2-1"
+license = "Unicode-3.0"
+arch = "x86_64"
+description = "X.Org font utilities"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xorg-font-util-1.4.2-1-x86_64.pkg.tar.zst"
+sha256 = "af20665ef9459be88d2c65c94c3e1f647e2117412e26eb15c06906de12bd3df6"

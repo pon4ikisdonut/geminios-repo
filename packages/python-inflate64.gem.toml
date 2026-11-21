@@ -1,0 +1,11 @@
+[package]
+name = "python-inflate64"
+version = "1.0.4-2"
+license = "LGPL"
+arch = "x86_64"
+description = "decompression of deflate64, enhanced deflate and compression algorithm"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-inflate64-1.0.4-2-x86_64.pkg.tar.zst"
+sha256 = "4146847649afdcaf8c82f0a4bbf799e4e2cd9cee46447d034d2562625ca79e86"

@@ -1,0 +1,11 @@
+[package]
+name = "python-pyqt5-sip"
+version = "12.20.1-1"
+license = "GPL"
+arch = "x86_64"
+description = "The sip module support for PyQt5"
+depends = ["glibc", "python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-pyqt5-sip-12.20.1-1-x86_64.pkg.tar.zst"
+sha256 = "da8909669642108761ee51c05cc4fa2042a2bf91069a59ffb1f54211b329ffd0"

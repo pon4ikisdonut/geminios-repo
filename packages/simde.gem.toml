@@ -1,0 +1,11 @@
+[package]
+name = "simde"
+version = "0.8.2-1"
+license = "MIT"
+arch = "any"
+description = "Implementations of SIMD instruction sets"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/simde-0.8.2-1-any.pkg.tar.zst"
+sha256 = "61751dcec6d90ebb72b5d23e057007a3e6601737142819e7ae17c88c6b46fd37"

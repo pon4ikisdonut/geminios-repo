@@ -1,0 +1,11 @@
+[package]
+name = "libcue"
+version = "2.4.1-1"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "Parses so-called cue sheets and handles the parsed data"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libcue-2.4.1-1-x86_64.pkg.tar.zst"
+sha256 = "b8eb62b0eb2f9291c2d3fc83a192938ccf1befd5b1b0e8bb99f5627c95e06262"

@@ -1,0 +1,11 @@
+[package]
+name = "db5.3"
+version = "5.3.28-7"
+license = "Sleepycat"
+arch = "x86_64"
+description = "The Berkeley DB embedded database system v5.3"
+depends = ["libgcc", "libstdc++", "sh"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/db5.3-5.3.28-7-x86_64.pkg.tar.zst"
+sha256 = "abac3474e766fa8a36fcae945f5e8c8e818665fc41a56daff92db81cd176d389"

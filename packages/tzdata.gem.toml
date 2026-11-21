@@ -1,0 +1,11 @@
+[package]
+name = "tzdata"
+version = "2026f-1"
+license = "LicenseRef-tz"
+arch = "x86_64"
+description = "Sources for time zone and daylight saving time data"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/tzdata-2026f-1-x86_64.pkg.tar.zst"
+sha256 = "01436856cacfbac7eb539a25a91570f6c6a806d3bd2bfb2bcdf79e8bc49af5f4"

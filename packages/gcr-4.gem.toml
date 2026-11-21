@@ -1,0 +1,11 @@
+[package]
+name = "gcr-4"
+version = "4.4.1-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "A library for bits of crypto UI and parsing"
+depends = ["glib2", "glibc", "gnutls", "libp11-kit", "libsecret", "openssh", "systemd-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gcr-4-4.4.1-1-x86_64.pkg.tar.zst"
+sha256 = "95097d48773a225fc4f5b14972df0e49a266c977c62ffa6e478fe2a7251dd5e9"

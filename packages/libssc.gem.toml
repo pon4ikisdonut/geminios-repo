@@ -1,0 +1,11 @@
+[package]
+name = "libssc"
+version = "0.4.4-1"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "Library for exposing Qualcomm Sensor Core sensors to Linux"
+depends = ["glib2", "glibc", "libgcc", "libqmi", "libqrtr-glib", "protobuf-c"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libssc-0.4.4-1-x86_64.pkg.tar.zst"
+sha256 = "6fa2bfa80ee5f35e06eafcead32fab20fd5d108ef96f4d503a23c5971d5ebd4c"

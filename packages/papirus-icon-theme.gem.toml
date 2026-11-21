@@ -1,0 +1,11 @@
+[package]
+name = "papirus-icon-theme"
+version = "20260801-1"
+license = "GPL-3.0"
+arch = "any"
+description = "Papirus icon theme"
+depends = ["gtk-update-icon-cache"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/papirus-icon-theme-20260801-1-any.pkg.tar.zst"
+sha256 = "5ec4490c048bf6b1b82931b1f856a33959bc5e4565212490a1cef471b2929f71"

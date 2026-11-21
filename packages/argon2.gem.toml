@@ -1,0 +1,11 @@
+[package]
+name = "argon2"
+version = "20190702-7"
+license = "custom:CC0"
+arch = "x86_64"
+description = "A password-hashing function (reference C implementation)"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/argon2-20190702-7-x86_64.pkg.tar.zst"
+sha256 = "c142e455189c673a5311215de3b24b41fa66b55a2526b2762837f806da8fdb5f"

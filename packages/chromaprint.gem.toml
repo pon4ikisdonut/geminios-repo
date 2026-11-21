@@ -1,0 +1,11 @@
+[package]
+name = "chromaprint"
+version = "1.6.2-1"
+license = "MIT"
+arch = "x86_64"
+description = "Library for extracting fingerprints from any audio source"
+depends = ["glibc", "libgcc", "libstdc++", "libavcodec.so", "libavformat.so", "libavutil.so", "libswresample.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/chromaprint-1.6.2-1-x86_64.pkg.tar.zst"
+sha256 = "2e7dc45583195b480cfc53c2f21ccff65b8af136a14432c457fe0a0403b87f80"

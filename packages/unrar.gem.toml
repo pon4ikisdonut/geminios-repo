@@ -1,0 +1,11 @@
+[package]
+name = "unrar"
+version = "1:7.3.2-1"
+license = "LicenseRef-UnRAR"
+arch = "x86_64"
+description = "The RAR uncompression program"
+depends = ["glibc", "libgcc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/unrar-1:7.3.2-1-x86_64.pkg.tar.zst"
+sha256 = "aa4984fc93d02dc631d9d2c67f649aefd0e18444b93c758981adc817b9ea2483"

@@ -1,0 +1,11 @@
+[package]
+name = "rhash"
+version = "1.4.6-1"
+license = "0BSD"
+arch = "x86_64"
+description = "Utility for verifying hash sums of files"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/rhash-1.4.6-1-x86_64.pkg.tar.zst"
+sha256 = "6f791b676347898dc72d20cd94be0da2228a26339e6bc511b17f1278d8110706"

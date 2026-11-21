@@ -1,0 +1,11 @@
+[package]
+name = "zint"
+version = "2.16.0-2"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "Barcode encoding library supporting over 50 symbologies"
+depends = ["glibc", "libpng"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/zint-2.16.0-2-x86_64.pkg.tar.zst"
+sha256 = "260a4368f18841cad979606102e77f64423aa06bbd4abbf4709b727a40e695e7"

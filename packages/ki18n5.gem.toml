@@ -1,0 +1,11 @@
+[package]
+name = "ki18n5"
+version = "5.116.0-2"
+license = "LGPL"
+arch = "x86_64"
+description = "Advanced internationalization framework"
+depends = ["qt5-declarative", "iso-codes"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ki18n5-5.116.0-2-x86_64.pkg.tar.zst"
+sha256 = "1b7221eb7e978c452e85902a730f4c0e3aa1740ccf5f7511678ed7a18faca77f"

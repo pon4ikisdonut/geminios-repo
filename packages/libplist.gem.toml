@@ -1,0 +1,11 @@
+[package]
+name = "libplist"
+version = "2.7.0-3"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Library to handle Apple Property List files"
+depends = ["glibc", "libgcc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libplist-2.7.0-3-x86_64.pkg.tar.zst"
+sha256 = "3bfa58c10996d9ba38e03a61b6cc9c1e5c5cd02ab12e26bce96649cb35431e3c"

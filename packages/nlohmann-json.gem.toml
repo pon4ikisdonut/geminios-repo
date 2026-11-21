@@ -1,0 +1,11 @@
+[package]
+name = "nlohmann-json"
+version = "3.12.0-3"
+license = "MIT"
+arch = "any"
+description = "JSON for Modern C++"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/nlohmann-json-3.12.0-3-any.pkg.tar.zst"
+sha256 = "ee80739bc75fbec384b78751143f2561d058985899b435fd68e55ad068f75f04"

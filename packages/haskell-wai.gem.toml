@@ -1,0 +1,11 @@
+[package]
+name = "haskell-wai"
+version = "3.2.5-32"
+license = "MIT"
+arch = "x86_64"
+description = "Web Application Interface."
+depends = ["ghc-libs", "haskell-http-types", "haskell-network", "haskell-vault"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-wai-3.2.5-32-x86_64.pkg.tar.zst"
+sha256 = "62b05f18d2fd2039ddeba66a7202ccb5b349f56bc73049adf9d1b5ad93b9b710"

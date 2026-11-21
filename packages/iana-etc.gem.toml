@@ -1,0 +1,11 @@
+[package]
+name = "iana-etc"
+version = "20260617-1"
+license = "custom:none"
+arch = "any"
+description = "/etc/protocols and /etc/services provided by IANA"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/iana-etc-20260617-1-any.pkg.tar.zst"
+sha256 = "f451da19de46e77177d959239e03b6ee837c93966ac72ca0b80a1e9a32abeb67"

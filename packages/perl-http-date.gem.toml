@@ -1,0 +1,11 @@
+[package]
+name = "perl-http-date"
+version = "6.08-1"
+license = "GPL"
+arch = "any"
+description = "Date conversion routines"
+depends = ["perl-timedate"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/perl-http-date-6.08-1-any.pkg.tar.zst"
+sha256 = "2852dd2a365f9f1566a2510f2fa4492c06f5254a521cac6733958eb8a8397867"

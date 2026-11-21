@@ -1,0 +1,11 @@
+[package]
+name = "clucene"
+version = "2.3.3.4-17"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "C++ port of the high-performance text search engine Lucene"
+depends = ["libstdc++", "libgcc", "zlib", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/clucene-2.3.3.4-17-x86_64.pkg.tar.zst"
+sha256 = "900b3dd12ff42b14936c5b990c4271ae02b0bee43a2f393cb865b8df24539497"

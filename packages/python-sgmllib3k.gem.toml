@@ -1,0 +1,11 @@
+[package]
+name = "python-sgmllib3k"
+version = "1.0.0-8"
+license = "BSD"
+arch = "any"
+description = "Python 3 smgllib port"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-sgmllib3k-1.0.0-8-any.pkg.tar.zst"
+sha256 = "38cf36b5f52d0c81971814dea25f87382b94faee6deee190e60aa5143e4af647"

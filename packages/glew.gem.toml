@@ -1,0 +1,11 @@
+[package]
+name = "glew"
+version = "2.3.1-1"
+license = "LicenseRef-glew"
+arch = "x86_64"
+description = "The OpenGL Extension Wrangler Library"
+depends = ["glibc", "libegl", "libgl", "glu", "libx11"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/glew-2.3.1-1-x86_64.pkg.tar.zst"
+sha256 = "4d7bf75e89fbd463b8164f3278f3f382b937f8948e1858d9fd691af526f463bc"

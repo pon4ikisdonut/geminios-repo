@@ -1,0 +1,11 @@
+[package]
+name = "kamoso"
+version = "26.08.3-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "A webcam recorder from KDE community"
+depends = ["glib2", "glibc", "gst-plugin-qml6", "gst-plugins-bad", "gst-plugins-base-libs", "gst-plugins-good", "gstreamer", "kconfig", "kcoreaddons", "ki18n", "kio", "kirigami", "kirigami-addons", "kitemviews", "knotifications", "libgcc", "libstdc++", "purpose", "qt6-base", "qt6-declarative"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kamoso-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "3153013f4806fcdb4249b28c1733a3f9327966978aea423a87d6032c464207a8"

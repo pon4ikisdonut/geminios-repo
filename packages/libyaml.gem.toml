@@ -1,0 +1,11 @@
+[package]
+name = "libyaml"
+version = "0.2.5-3"
+license = "MIT"
+arch = "x86_64"
+description = "YAML 1.1 library"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libyaml-0.2.5-3-x86_64.pkg.tar.zst"
+sha256 = "cd2385982a050dfce2ef0ac435b36e9574ece347bdf4ad016ee5ea78e30b4940"

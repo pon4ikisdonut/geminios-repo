@@ -1,0 +1,11 @@
+[package]
+name = "gnulib-l10n"
+version = "20241231-1"
+license = "LGPL-2.0-or-later"
+arch = "any"
+description = "The Gnulib localizations"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/gnulib-l10n-20241231-1-any.pkg.tar.zst"
+sha256 = "86e6ea818cb331171018bef6e4486c1176064655e0d459bcecc9cc9c2bb74a2c"

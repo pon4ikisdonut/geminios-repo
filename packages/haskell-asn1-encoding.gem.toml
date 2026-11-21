@@ -1,0 +1,11 @@
+[package]
+name = "haskell-asn1-encoding"
+version = "0.9.6-403"
+license = "BSD"
+arch = "x86_64"
+description = "ASN1 data reader and writer in RAW, BER and DER forms"
+depends = ["ghc-libs", "haskell-asn1-types", "haskell-hourglass"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-asn1-encoding-0.9.6-403-x86_64.pkg.tar.zst"
+sha256 = "5a510cfbe40c627909ac935c7c0fcafb25ab360db13db1ed34da60e85869ec03"

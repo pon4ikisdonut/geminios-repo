@@ -1,0 +1,11 @@
+[package]
+name = "gspell"
+version = "1.14.5-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Spell-checking library for GTK applications"
+depends = ["enchant", "glib2", "glibc", "gtk3", "icu", "libenchant-2.so", "libgtk-3.so", "libglib-2.0.so", "libgobject-2.0.so", "libgio-2.0.so", "libicuuc.so", "libpango-1.0.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gspell-1.14.5-1-x86_64.pkg.tar.zst"
+sha256 = "bcdc648466696fc53a8c98a44d9a05cb1eea020436e842360ebd5bd90d68bd47"

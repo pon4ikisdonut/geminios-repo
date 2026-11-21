@@ -1,0 +1,11 @@
+[package]
+name = "haskell-appar"
+version = "0.1.8-18"
+license = "BSD"
+arch = "x86_64"
+description = "A simple applicative parser"
+depends = ["ghc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-appar-0.1.8-18-x86_64.pkg.tar.zst"
+sha256 = "29d172b7b7eceee938c8c8c7438e4d0ddbaf448a0b137817c3338228d74a5b70"

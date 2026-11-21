@@ -1,0 +1,11 @@
+[package]
+name = "gweather-locations"
+version = "2026.2-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Location and timezone database for the libgweather library"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gweather-locations-2026.2-1-x86_64.pkg.tar.zst"
+sha256 = "0ac95d70e92dee0cb35b710cd0fe1dc2f571a0e8a3a369835e5bf666baa7014f"

@@ -1,0 +1,11 @@
+[package]
+name = "libvirt-python"
+version = "1:12.9.0-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "libvirt python binding"
+depends = ["python", "libvirt"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libvirt-python-1:12.9.0-1-x86_64.pkg.tar.zst"
+sha256 = "681c4ec6c4525605288b4aea5fa58230eee1f4942b6347b231ac2538f7aa8318"

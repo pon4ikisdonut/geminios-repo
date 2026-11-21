@@ -1,0 +1,11 @@
+[package]
+name = "python-incremental"
+version = "24.11.0-1"
+license = "MIT"
+arch = "any"
+description = "A small library that versions your Python projects"
+depends = ["python-packaging"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-incremental-24.11.0-1-any.pkg.tar.zst"
+sha256 = "f2159b61844f5f42c8f0222450d22e41963f152425e1da1d97fcfffae86793d3"

@@ -1,0 +1,11 @@
+[package]
+name = "python-greenlet"
+version = "3.5.6-1"
+license = "MIT"
+arch = "x86_64"
+description = "Lightweight in-process concurrent programming"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-greenlet-3.5.6-1-x86_64.pkg.tar.zst"
+sha256 = "1be06fc9c370ef2ae2eb38f8f764dc8e2134bf6f26a8c5deeecb2df5134703b0"

@@ -1,0 +1,11 @@
+[package]
+name = "python-debian"
+version = "1.1.1-1"
+license = "GPL-2.0-or-later"
+arch = "any"
+description = "Python module to work with Debian-related data formats"
+depends = ["python", "python-charset-normalizer"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-debian-1.1.1-1-any.pkg.tar.zst"
+sha256 = "aa2d8491ec81d149f98b1754006a3fbe50c223fd15660e8ed5931170e6361fb2"

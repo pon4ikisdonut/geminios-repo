@@ -1,0 +1,11 @@
+[package]
+name = "rtkit"
+version = "0.14-2"
+license = "GPL-3.0-or-later AND MIT"
+arch = "x86_64"
+description = "Realtime Policy and Watchdog Daemon"
+depends = ["dbus", "glibc", "libcap", "polkit", "systemd-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/rtkit-0.14-2-x86_64.pkg.tar.zst"
+sha256 = "d814549adb551ce4a093541a71004184f5060686c4871bec8b061cc971261808"

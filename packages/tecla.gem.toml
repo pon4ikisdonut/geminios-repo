@@ -1,0 +1,11 @@
+[package]
+name = "tecla"
+version = "51.0-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Keyboard layout viewer"
+depends = ["glib2", "glibc", "gtk4", "hicolor-icon-theme", "libadwaita", "libgcc", "libxkbcommon", "pango", "wayland"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/tecla-51.0-1-x86_64.pkg.tar.zst"
+sha256 = "9e6a638390734e45d240024b57fe25402c4aea9ccf7820e1ca0881a679809d52"

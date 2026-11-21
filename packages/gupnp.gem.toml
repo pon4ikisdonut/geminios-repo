@@ -1,0 +1,11 @@
+[package]
+name = "gupnp"
+version = "1:1.6.10-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "GObject-based UPNP framework"
+depends = ["glib2", "glibc", "gssdp", "libgcc", "libxml2", "libglib-2.0.so", "libgobject-2.0.so", "libgio-2.0.so", "libgmodule-2.0.so", "libgssdp-1.6.so", "libsoup-3.0.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gupnp-1:1.6.10-1-x86_64.pkg.tar.zst"
+sha256 = "37e57db6d5731c62e9305b0b5af4f32c51e03c854db90e884b8603ada68dd812"

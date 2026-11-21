@@ -1,0 +1,11 @@
+[package]
+name = "kscreenlocker"
+version = "6.8.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Library and components for secure lock screen architecture"
+depends = ["glibc", "kcmutils", "kconfig", "kcoreaddons", "kcrash", "kdeclarative", "kglobalaccel", "ki18n", "kidletime", "kio", "kirigami", "knotifications", "kpackage", "ksvg", "kwindowsystem", "kxmlgui", "layer-shell-qt", "libkscreen", "libstdc++", "pam", "libplasma", "qt6-base", "qt6-declarative"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kscreenlocker-6.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "3f23e043a29d50acc4bc7a81a5bc08f427b00b1b77f05089ddc7a077709804ca"

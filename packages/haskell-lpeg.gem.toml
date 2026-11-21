@@ -1,0 +1,11 @@
+[package]
+name = "haskell-lpeg"
+version = "1.1.0.1-36"
+license = "MIT"
+arch = "x86_64"
+description = "LPeg – Parsing Expression Grammars For Lua"
+depends = ["ghc-libs", "haskell-lua", "lua54-lpeg"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-lpeg-1.1.0.1-36-x86_64.pkg.tar.zst"
+sha256 = "caa068c06d1e8288f2107e3c7725bf0fe316f0ff143acbc1fa128e857ab8a9ac"

@@ -1,0 +1,11 @@
+[package]
+name = "gl2ps"
+version = "1.4.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "an OpenGL to PostScript printing library"
+depends = ["libpng", "libgl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gl2ps-1.4.3-1-x86_64.pkg.tar.zst"
+sha256 = "c357b67576e9c8dabdab57d7bdf99ece55ea8651b000e1dd2fce25f68771118f"

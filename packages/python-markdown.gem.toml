@@ -1,0 +1,11 @@
+[package]
+name = "python-markdown"
+version = "3.11.3-1"
+license = "BSD-3-Clause"
+arch = "any"
+description = "Python implementation of John Gruber's Markdown"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-markdown-3.11.3-1-any.pkg.tar.zst"
+sha256 = "b0e3cbd763dff9c4432cec767e5b82acffbe3ca0395148d5a283e93fd9a1ffa2"

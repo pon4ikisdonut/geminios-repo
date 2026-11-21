@@ -1,0 +1,11 @@
+[package]
+name = "harfbuzz-icu"
+version = "15.1.0-1"
+license = "MIT"
+arch = "x86_64"
+description = "OpenType text shaping engine - ICU integration"
+depends = ["glibc", "harfbuzz", "libharfbuzz.so", "icu", "libicuuc.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/harfbuzz-icu-15.1.0-1-x86_64.pkg.tar.zst"
+sha256 = "cdaf6e3cfdd03048d16de1d868bc3f848f30b28d931e67f08f470c982e7930d9"

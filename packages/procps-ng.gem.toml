@@ -1,0 +1,11 @@
+[package]
+name = "procps-ng"
+version = "4.0.7-1"
+license = "LGPL"
+arch = "x86_64"
+description = "Utilities for monitoring your system and its processes"
+depends = ["glibc", "ncurses", "libncursesw.so", "systemd-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/procps-ng-4.0.7-1-x86_64.pkg.tar.zst"
+sha256 = "7a0b17ee89ad1a04f7c6c86be69c9c816ac2c14da9648dfdefb7ccf4b22c14d3"

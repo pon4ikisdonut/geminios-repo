@@ -1,0 +1,11 @@
+[package]
+name = "libyuv"
+version = "r2921+644251f25-1"
+license = "custom"
+arch = "x86_64"
+description = "Library for YUV scaling"
+depends = ["libgcc", "libstdc++", "libjpeg-turbo"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libyuv-r2921+644251f25-1-x86_64.pkg.tar.zst"
+sha256 = "953c7ee536b35be829a3cc8c614f9a0b553830f5d4d030f35fc452d0199612ce"

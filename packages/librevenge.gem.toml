@@ -1,0 +1,11 @@
+[package]
+name = "librevenge"
+version = "0.0.6-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "library for REVerses ENGineered formats filters"
+depends = ["zlib", "glibc", "libstdc++", "libgcc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/librevenge-0.0.6-1-x86_64.pkg.tar.zst"
+sha256 = "04465a55b26b17c8dbe6cdb6eaa902fda11d71d54806afc2d4bcfe792bd702f3"

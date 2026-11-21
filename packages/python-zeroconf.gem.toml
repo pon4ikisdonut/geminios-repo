@@ -1,0 +1,11 @@
+[package]
+name = "python-zeroconf"
+version = "0.149.16-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "A pure python implementation of multicast DNS service discovery"
+depends = ["python", "python-ifaddr"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-zeroconf-0.149.16-1-x86_64.pkg.tar.zst"
+sha256 = "4ece0bdfdc8f8c0469c93fcc7065fec730dc28272b570fdbe90ef0c1904a2b0a"

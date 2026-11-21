@@ -1,0 +1,11 @@
+[package]
+name = "udiskie"
+version = "2.8.2-1"
+license = "MIT"
+arch = "any"
+description = "Removable disk automounter using udisks"
+depends = ["udisks2", "python", "python-gobject", "python-yaml", "python-docopt", "gtk3", "libnotify"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/udiskie-2.8.2-1-any.pkg.tar.zst"
+sha256 = "4bae8e12999e3d6491cf9fc370d027d83e74e22a1c8bb25ad961dbadbf4e7c1b"

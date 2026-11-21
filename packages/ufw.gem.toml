@@ -1,0 +1,11 @@
+[package]
+name = "ufw"
+version = "0.36.2-7"
+license = "GPL3"
+arch = "any"
+description = "Uncomplicated and easy to use CLI tool for managing a netfilter firewall"
+depends = ["iptables", "python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ufw-0.36.2-7-any.pkg.tar.zst"
+sha256 = "2730f7449bed709b5aa9d6d603f6c2b47d423f7ab198bae16642f4cbba1f7ec9"

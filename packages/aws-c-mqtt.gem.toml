@@ -1,0 +1,11 @@
+[package]
+name = "aws-c-mqtt"
+version = "1.0.0-1"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "C99 implementation of the MQTT 3.1.1 specification"
+depends = ["aws-c-common", "aws-c-http", "aws-c-io", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/aws-c-mqtt-1.0.0-1-x86_64.pkg.tar.zst"
+sha256 = "d91ae415c773aa2dfc0f9cb115a09cb0f556e1e9284dd62a83d0ebbfb6da05a7"

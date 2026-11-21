@@ -1,0 +1,11 @@
+[package]
+name = "qt5-script"
+version = "5.15.19-4"
+license = "custom"
+arch = "x86_64"
+description = "Classes for making Qt applications scriptable. Provided for Qt 4.x compatibility"
+depends = ["qt5-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qt5-script-5.15.19-4-x86_64.pkg.tar.zst"
+sha256 = "32b56f39afd1f83d499c673e67e7ae94af8490fcb90bdd3df1d950612cbbeade"

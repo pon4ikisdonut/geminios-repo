@@ -1,0 +1,11 @@
+[package]
+name = "python-parso"
+version = "1:0.8.7-1"
+license = "MIT"
+arch = "any"
+description = "Python parser that supports error recovery and round-trip parsing for different Python versions"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-parso-1:0.8.7-1-any.pkg.tar.zst"
+sha256 = "f923b2effdcf172d18f88ad9336d288d5df4406b46b50056ec702c0a2144d384"

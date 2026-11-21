@@ -1,0 +1,11 @@
+[package]
+name = "xorg-server"
+version = "21.1.26-1"
+license = "X11-distribute-modifications-variant"
+arch = "x86_64"
+description = "Xorg X server"
+depends = ["libepoxy", "libxfont2", "pixman", "xorg-server-common", "libunwind", "dbus", "libgl", "xf86-input-libinput", "nettle", "libxdmcp", "sh", "glibc", "libxau", "systemd-libs", "libtirpc", "libpciaccess", "libdrm", "libxshmfence", "libxcvt"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xorg-server-21.1.26-1-x86_64.pkg.tar.zst"
+sha256 = "c8d70926b7de62507a655fa197a11510139af78823c0273edb6cd63808bd843b"

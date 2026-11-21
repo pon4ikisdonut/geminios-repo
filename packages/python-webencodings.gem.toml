@@ -1,0 +1,11 @@
+[package]
+name = "python-webencodings"
+version = "0.5.1-13"
+license = "BSD"
+arch = "any"
+description = "A Python implementation of the WHATWG Encoding standard."
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-webencodings-0.5.1-13-any.pkg.tar.zst"
+sha256 = "f44f72900576766d44a30d4b25348a9cc37cba75ae879f1fb3570b597fe56dd7"

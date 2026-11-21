@@ -1,0 +1,11 @@
+[package]
+name = "haskell-dec"
+version = "0.0.6-5"
+license = "BSD"
+arch = "x86_64"
+description = "Decidable propositions"
+depends = ["ghc-libs", "haskell-boring"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-dec-0.0.6-5-x86_64.pkg.tar.zst"
+sha256 = "d9eb2d01ce47742a2eea64cff8548e401e17e81659b85c276d7c695d651a12aa"

@@ -1,0 +1,11 @@
+[package]
+name = "python-prompt_toolkit"
+version = "3.0.53-1"
+license = "BSD-3-Clause"
+arch = "any"
+description = "Library for building powerful interactive command lines in Python"
+depends = ["python", "python-wcwidth"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-prompt_toolkit-3.0.53-1-any.pkg.tar.zst"
+sha256 = "2a22bbbaeea33c034143aa7a142b18bc48b4c35859429c9a666567e820012e4c"

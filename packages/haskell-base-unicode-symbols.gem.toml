@@ -1,0 +1,11 @@
+[package]
+name = "haskell-base-unicode-symbols"
+version = "0.2.4.2-17"
+license = "BSD"
+arch = "x86_64"
+description = "Unicode alternatives for common functions and operators"
+depends = ["ghc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-base-unicode-symbols-0.2.4.2-17-x86_64.pkg.tar.zst"
+sha256 = "5d535c93649851529bc4e72bf3f835ad2ffcbc2523949b2be3e5b9e81a996c6d"

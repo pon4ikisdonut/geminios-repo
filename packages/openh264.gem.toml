@@ -1,0 +1,11 @@
+[package]
+name = "openh264"
+version = "2.7.0-1"
+license = "BSD-2-Clause"
+arch = "x86_64"
+description = "H.264 encoder and decoder"
+depends = ["glibc", "libgcc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/openh264-2.7.0-1-x86_64.pkg.tar.zst"
+sha256 = "c0635a401aada4bc8d2811241c649ed114b834193fe51759c43af12a9c9cebac"

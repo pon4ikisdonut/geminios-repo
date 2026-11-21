@@ -1,0 +1,11 @@
+[package]
+name = "unzip"
+version = "6.0-23"
+license = "custom"
+arch = "x86_64"
+description = "For extracting and viewing files in .zip archives"
+depends = ["bzip2", "bash"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/unzip-6.0-23-x86_64.pkg.tar.zst"
+sha256 = "12afd31b30f4335ed56cda717fc2ea0e817ee8d13e0562177ddbb20bd2dc937a"

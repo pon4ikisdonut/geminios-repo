@@ -1,0 +1,11 @@
+[package]
+name = "lsscsi"
+version = "0.32-2"
+license = "GPL"
+arch = "x86_64"
+description = "A tool that lists devices connected via SCSI and its transports"
+depends = ["sysfsutils"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/lsscsi-0.32-2-x86_64.pkg.tar.zst"
+sha256 = "67844f69e649f124abdb454172503d1aa7fa57513d6f658fa443fb057c910ca9"

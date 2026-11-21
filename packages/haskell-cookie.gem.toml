@@ -1,0 +1,11 @@
+[package]
+name = "haskell-cookie"
+version = "0.5.1-20"
+license = "MIT"
+arch = "x86_64"
+description = "HTTP cookie parsing and rendering"
+depends = ["ghc-libs", "haskell-data-default-class"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-cookie-0.5.1-20-x86_64.pkg.tar.zst"
+sha256 = "6303b8d8d53c34c0ca6819a2d5ee2841ae4f13066a144ebae952a25d291ffd5e"

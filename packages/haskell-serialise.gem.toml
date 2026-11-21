@@ -1,0 +1,11 @@
+[package]
+name = "haskell-serialise"
+version = "0.2.6.1-264"
+license = "BSD"
+arch = "x86_64"
+description = "A binary serialisation library for Haskell values"
+depends = ["ghc-libs", "haskell-cborg", "haskell-half", "haskell-hashable", "haskell-primitive", "haskell-strict", "haskell-these", "haskell-unordered-containers", "haskell-vector"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-serialise-0.2.6.1-264-x86_64.pkg.tar.zst"
+sha256 = "e50f64a6b45ed4bab58bbe96225ee0957f26c3aae4c4f6505f4df90e98b728b8"

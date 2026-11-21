@@ -1,0 +1,11 @@
+[package]
+name = "xkeyboard-config"
+version = "2.49-1"
+license = "LicenseRef-xkeyboard-config"
+arch = "any"
+description = "X keyboard configuration files"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xkeyboard-config-2.49-1-any.pkg.tar.zst"
+sha256 = "79827e026c2d0fd52a8d3dfa3fa75d990cf5ff3b93b73ff95c9d6b19037df340"

@@ -1,0 +1,11 @@
+[package]
+name = "jbigkit"
+version = "2.2-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Data compression library/utilities for bi-level high-resolution images"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/jbigkit-2.2-1-x86_64.pkg.tar.zst"
+sha256 = "22025fe7212ce8f1492c0834e7e0f7f9ce99d97f62b1e56f77b8db2275d4d9a0"

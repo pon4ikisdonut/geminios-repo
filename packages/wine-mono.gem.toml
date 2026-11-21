@@ -1,0 +1,11 @@
+[package]
+name = "wine-mono"
+version = "11.3.0-1"
+license = "MPL-1.1"
+arch = "x86_64"
+description = "Wine's built-in replacement for Microsoft's .NET Framework"
+depends = ["wine"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/wine-mono-11.3.0-1-x86_64.pkg.tar.zst"
+sha256 = "830ddb0e7bb57dcaff20cbf42f0f9ec76e6608a0afae43242079ea07d98af370"

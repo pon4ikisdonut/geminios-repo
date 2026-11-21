@@ -1,0 +1,11 @@
+[package]
+name = "vlc-plugin-dbus"
+version = "3.0.24-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Free and open source cross-platform multimedia player and framework - Dbus plugin"
+depends = ["dbus", "glibc", "libvlc", "libvlccore.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vlc-plugin-dbus-3.0.24-2-x86_64.pkg.tar.zst"
+sha256 = "59181f389ec7994d73227d686ff41565d373e058f7b98294de16ad0ba88374ef"

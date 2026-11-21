@@ -1,0 +1,11 @@
+[package]
+name = "rnnoise"
+version = "1:0.2-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "A noise suppression library based on a recurrent neural network"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/rnnoise-1:0.2-1-x86_64.pkg.tar.zst"
+sha256 = "c7c6f0b4eb759ca495bbd1403708a31b172ea0b9bb813ebb9192daba50888677"

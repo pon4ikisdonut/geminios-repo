@@ -1,0 +1,11 @@
+[package]
+name = "dialog"
+version = "1:1.3_20260721-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "A tool to display dialog boxes from shell scripts"
+depends = ["glibc", "ncurses", "sh"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/dialog-1:1.3_20260721-1-x86_64.pkg.tar.zst"
+sha256 = "6fb451045902e1bbb68106100d2744c924fe880d27cea412d058b76485b40ce8"

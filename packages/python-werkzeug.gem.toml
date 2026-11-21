@@ -1,0 +1,11 @@
+[package]
+name = "python-werkzeug"
+version = "3.1.9-1"
+license = "BSD-3-Clause"
+arch = "any"
+description = "Swiss Army knife of Python web development"
+depends = ["python", "python-markupsafe"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-werkzeug-3.1.9-1-any.pkg.tar.zst"
+sha256 = "ceb15d2e15c670270c1ad36d3ca4616b7efdc0254fa1d7d415cfbb044f9627bb"

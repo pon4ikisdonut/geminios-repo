@@ -1,0 +1,11 @@
+[package]
+name = "xdotool"
+version = "4.20260303.1-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Command-line X11 automation tool"
+depends = ["glibc", "libx11", "libxinerama", "libxkbcommon", "libxtst"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xdotool-4.20260303.1-1-x86_64.pkg.tar.zst"
+sha256 = "e215cac06133496d8ecd3ac7e456cacffed69fc52d28485891d346f7a15edcba"

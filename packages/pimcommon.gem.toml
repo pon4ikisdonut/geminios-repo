@@ -1,0 +1,11 @@
+[package]
+name = "pimcommon"
+version = "26.08.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Common libraries for KDE PIM"
+depends = ["akonadi", "akonadi-contacts", "akonadi-search", "glibc", "kcmutils", "kcodecs", "kcolorscheme", "kcompletion", "kconfig", "kcontacts", "kcoreaddons", "ki18n", "kimap", "kio", "kitemmodels", "kldap", "knewstuff", "ktextaddons", "kwidgetsaddons", "kxmlgui", "libgcc", "libkdepim", "libstdc++", "plasma-activities", "purpose", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/pimcommon-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "510b944cb729ae70c3e4aec987f5a92070160e66f5540839a04475e262cceb10"

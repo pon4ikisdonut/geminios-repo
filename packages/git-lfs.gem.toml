@@ -1,0 +1,11 @@
+[package]
+name = "git-lfs"
+version = "3.8.1-1"
+license = "MIT"
+arch = "x86_64"
+description = "Git extension for versioning large files"
+depends = ["git"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/git-lfs-3.8.1-1-x86_64.pkg.tar.zst"
+sha256 = "7c2b5d4a743f2353b0211f21e3e5768013ec39e20d95c4a6edb9582ecda91fe1"

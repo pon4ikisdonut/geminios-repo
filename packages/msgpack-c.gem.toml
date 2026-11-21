@@ -1,0 +1,11 @@
+[package]
+name = "msgpack-c"
+version = "7.0.2-1"
+license = "BSL-1.0"
+arch = "x86_64"
+description = "An efficient object serialization library"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/msgpack-c-7.0.2-1-x86_64.pkg.tar.zst"
+sha256 = "f6ec2cfc8be2b094d7f8b12a35b832d2878fb7b97fb289c430e1a34d1d98a5d2"

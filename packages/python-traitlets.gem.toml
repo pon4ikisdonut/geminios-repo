@@ -1,0 +1,11 @@
+[package]
+name = "python-traitlets"
+version = "5.16.1-1"
+license = "BSD-3-Clause"
+arch = "any"
+description = "A configuration system for Python applications"
+depends = ["python", "python-argcomplete", "python-typing_extensions"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-traitlets-5.16.1-1-any.pkg.tar.zst"
+sha256 = "1a2ec6e997193c0ef810c556d4a02c271663820a4820678ea38ad82d61a13029"

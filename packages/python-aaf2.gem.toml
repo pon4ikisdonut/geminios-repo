@@ -1,0 +1,11 @@
+[package]
+name = "python-aaf2"
+version = "1.7.1-4"
+license = "MIT"
+arch = "any"
+description = "Read and write Advanced Authoring Format (AAF) files"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-aaf2-1.7.1-4-any.pkg.tar.zst"
+sha256 = "b288c143358d5380277a2881958695240a44dd1603c181042c7e6fb9d2c24f6d"

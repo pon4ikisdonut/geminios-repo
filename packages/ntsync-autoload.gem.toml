@@ -1,0 +1,11 @@
+[package]
+name = "ntsync-autoload"
+version = "1-1"
+license = "0BSD"
+arch = "any"
+description = "NTSync kernel module autoload"
+depends = ["NTSYNC-MODULE"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ntsync-autoload-1-1-any.pkg.tar.zst"
+sha256 = "415b719fd68cc4c663692a400c2418743dd8dacad8fff541119505e25eecefa4"

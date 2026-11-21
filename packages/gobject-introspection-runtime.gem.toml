@@ -1,0 +1,11 @@
+[package]
+name = "gobject-introspection-runtime"
+version = "1.86.0-2"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Introspection system for GObject-based libraries - runtime"
+depends = ["libgirepository"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gobject-introspection-runtime-1.86.0-2-x86_64.pkg.tar.zst"
+sha256 = "68495be23fc8b012e67f6107b415e73b383a99d715d38ab192620a2e380af307"

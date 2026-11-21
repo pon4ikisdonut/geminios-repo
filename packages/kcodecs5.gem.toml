@@ -1,0 +1,11 @@
+[package]
+name = "kcodecs5"
+version = "5.116.0-2"
+license = "LGPL"
+arch = "x86_64"
+description = "Provide a collection of methods to manipulate strings using various encodings"
+depends = ["qt5-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kcodecs5-5.116.0-2-x86_64.pkg.tar.zst"
+sha256 = "f7eb6a8dcf38027b0904ab7b87728613aee96aeed3ccec94626a9c7ec37fe236"

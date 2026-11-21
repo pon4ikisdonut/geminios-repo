@@ -1,0 +1,11 @@
+[package]
+name = "libepoxy"
+version = "1.5.10-3"
+license = "MIT"
+arch = "x86_64"
+description = "Library handling OpenGL function pointer management"
+depends = ["glibc", "libglvnd", "libx11"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libepoxy-1.5.10-3-x86_64.pkg.tar.zst"
+sha256 = "6e3f4e026b94d45b044f8c15ef0cc04772eafa892dd8b0bf037b1f865f0aaa33"

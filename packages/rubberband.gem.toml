@@ -1,0 +1,11 @@
+[package]
+name = "rubberband"
+version = "4.0.0-2"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Time-stretching and pitch-shifting audio library and utility"
+depends = ["fftw", "libfftw3.so", "glibc", "libgcc", "libsamplerate", "libsamplerate.so", "libsndfile", "libsndfile.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/rubberband-4.0.0-2-x86_64.pkg.tar.zst"
+sha256 = "ed5e3a9856db7a99f4aa7bfe4f0cb4903faab720020d0b07aef61376f86ef9e1"

@@ -1,0 +1,11 @@
+[package]
+name = "haskell-distributive"
+version = "0.6.3-93"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Distributive functors -- Dual to Traversable"
+depends = ["ghc-libs", "haskell-tagged"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-distributive-0.6.3-93-x86_64.pkg.tar.zst"
+sha256 = "40523a5fd8aa43a9c9a866f95fa2e64403d48a41d7140952789b295aec5024c0"

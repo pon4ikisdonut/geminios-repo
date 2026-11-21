@@ -1,0 +1,11 @@
+[package]
+name = "qemu-hw-s390x-virtio-gpu-ccw"
+version = "11.1.3-1"
+license = "MIT"
+arch = "x86_64"
+description = "QEMU s390x-virtio-gpu-ccw display device"
+depends = ["qemu-common"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qemu-hw-s390x-virtio-gpu-ccw-11.1.3-1-x86_64.pkg.tar.zst"
+sha256 = "90d1bacfe87e83667209856c7a7bef6506522e6bca104a64c25ca42bb1942ef6"

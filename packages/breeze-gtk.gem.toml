@@ -1,0 +1,11 @@
+[package]
+name = "breeze-gtk"
+version = "6.8.3-1"
+license = "LGPL-2.0-or-later"
+arch = "any"
+description = "Breeze widget theme for GTK 2 and 3"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/breeze-gtk-6.8.3-1-any.pkg.tar.zst"
+sha256 = "8f1999d75cd2dda8f1e2f229880711638e8e7a7f02e3331b0d1f68e0adda5105"

@@ -1,0 +1,11 @@
+[package]
+name = "perl-exporter-tiny"
+version = "1.006003-1"
+license = "GPL"
+arch = "any"
+description = "an exporter with the features of Sub::Exporter but only core dependencies"
+depends = ["perl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/perl-exporter-tiny-1.006003-1-any.pkg.tar.zst"
+sha256 = "857c1db2c76050771b62e0a6906a9211a3e2386124c93708f8ef6331ddd7d1ac"

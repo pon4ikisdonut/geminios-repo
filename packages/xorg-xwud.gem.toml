@@ -1,0 +1,11 @@
+[package]
+name = "xorg-xwud"
+version = "1.0.8-1"
+license = "MIT-open-group"
+arch = "x86_64"
+description = "X Window System image undumping utility"
+depends = ["libx11", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xorg-xwud-1.0.8-1-x86_64.pkg.tar.zst"
+sha256 = "4347d5e3cb33cd65b941b1401f176d8a85bf8486f2ebbea2d5bdbc5ae2d92946"

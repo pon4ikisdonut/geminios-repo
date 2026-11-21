@@ -1,0 +1,11 @@
+[package]
+name = "python-tornado"
+version = "6.6.1-1"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "open source version of the scalable, non-blocking web server and tools"
+depends = ["glibc", "python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-tornado-6.6.1-1-x86_64.pkg.tar.zst"
+sha256 = "b26ebdae61a74fa2e0e55813ecf35cac58dd9bb85b8994f26ba2f5f8b46d275c"

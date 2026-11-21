@@ -1,0 +1,11 @@
+[package]
+name = "gmp"
+version = "6.3.0-3"
+license = "LGPL-3.0-or-later"
+arch = "x86_64"
+description = "A free library for arbitrary precision arithmetic"
+depends = ["libgcc", "libstdc++", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/gmp-6.3.0-3-x86_64.pkg.tar.zst"
+sha256 = "2969061e117d2a8c19d89427b0b88e1c956a6269bc0602087d41aecd15097064"

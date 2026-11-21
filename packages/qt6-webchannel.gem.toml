@@ -1,0 +1,11 @@
+[package]
+name = "qt6-webchannel"
+version = "6.12.0-1"
+license = "Qt-GPL-exception-1.0"
+arch = "x86_64"
+description = "Provides access to QObject or QML objects from HTML clients for seamless integration of Qt applications with HTML/JavaScript clients"
+depends = ["glibc", "libstdc++", "qt6-base", "qt6-declarative"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qt6-webchannel-6.12.0-1-x86_64.pkg.tar.zst"
+sha256 = "8246bb014ef7b1d2194efcd355b3aa8308c0b1be7aea6cdfb7b73ad7cd63cfd1"

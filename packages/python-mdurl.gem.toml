@@ -1,0 +1,11 @@
+[package]
+name = "python-mdurl"
+version = "0.1.2-9"
+license = "MIT"
+arch = "any"
+description = "URL utilities for markdown-it"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-mdurl-0.1.2-9-any.pkg.tar.zst"
+sha256 = "23efaff333fbe2d0f41ebf68a2c0f953a5f8e6d9d4bacd3ae35104344af2fe07"

@@ -1,0 +1,11 @@
+[package]
+name = "kwallet"
+version = "6.32.0-1"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "Secure and unified container for user passwords"
+depends = ["libgcc", "libstdc++", "glib2", "glibc", "gpgmepp", "kcolorscheme", "kconfig", "kcoreaddons", "kcrash", "kdbusaddons", "ki18n", "knotifications", "kwidgetsaddons", "kwindowsystem", "libgcrypt", "libsecret", "qca-qt6", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kwallet-6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "a0a47e2b2feb0397d7b46bf8dccc651d1585831028295baa697db95c997a81a6"

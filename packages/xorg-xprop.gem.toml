@@ -1,0 +1,11 @@
+[package]
+name = "xorg-xprop"
+version = "1.2.8-1"
+license = "MIT-open-group"
+arch = "x86_64"
+description = "Property displayer for X"
+depends = ["libx11", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xorg-xprop-1.2.8-1-x86_64.pkg.tar.zst"
+sha256 = "05dcc5b1d6616fd7566f6616bc0868b72c1028c011b95732f445db76217f8510"

@@ -1,0 +1,11 @@
+[package]
+name = "perl-dbi"
+version = "1.656-2"
+license = "Artistic-1.0-Perl"
+arch = "x86_64"
+description = "Database independent interface for Perl"
+depends = ["perl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/perl-dbi-1.656-2-x86_64.pkg.tar.zst"
+sha256 = "7661e6716e521243c570d68684fa083bf894219b364fa38da8ca8d46ea3fdd14"

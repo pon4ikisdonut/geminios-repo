@@ -1,0 +1,11 @@
+[package]
+name = "python-ifaddr"
+version = "0.2.0-7"
+license = "MIT"
+arch = "any"
+description = "Enumerates all IP addresses on all network adapters of the system"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-ifaddr-0.2.0-7-any.pkg.tar.zst"
+sha256 = "dce9bc77fec858555aab568de3c4d99b0be13c9594161a267421f4b35bdc973e"

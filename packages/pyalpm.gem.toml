@@ -1,0 +1,11 @@
+[package]
+name = "pyalpm"
+version = "0.12.0-1"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "Python bindings for libalpm"
+depends = ["python", "pacman"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/pyalpm-0.12.0-1-x86_64.pkg.tar.zst"
+sha256 = "fcb7d0a7918813430e76d7f04970db2c6d0f1ed03b551520b95850fe69940662"

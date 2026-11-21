@@ -1,0 +1,11 @@
+[package]
+name = "kdsoap"
+version = "2.3.0-1"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "Qt-based client-side and server-side SOAP component"
+depends = ["glibc", "libgcc", "libstdc++", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kdsoap-2.3.0-1-x86_64.pkg.tar.zst"
+sha256 = "444b80f2e59881e4be25f417ee443d0ee649cfd66b058d2d3aca2027cd31ab1b"

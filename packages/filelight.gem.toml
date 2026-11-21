@@ -1,0 +1,11 @@
+[package]
+name = "filelight"
+version = "26.08.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "View disk usage information"
+depends = ["glibc", "kconfig", "kcoreaddons", "kcrash", "ki18n", "kio", "kirigami", "kirigami-addons", "kwidgetsaddons", "libstdc++", "qqc2-desktop-style", "qt6-base", "qt6-declarative"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/filelight-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "16e90edbb8c2894529f9ff49d477b4addd0150ca6511c04b1ff2a11c73784788"

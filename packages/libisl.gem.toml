@@ -1,0 +1,11 @@
+[package]
+name = "libisl"
+version = "0.28-1"
+license = "MIT"
+arch = "x86_64"
+description = "Library for manipulating sets and relations of integer points bounded by linear constraints"
+depends = ["gmp"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/libisl-0.28-1-x86_64.pkg.tar.zst"
+sha256 = "e72fd1165d674f440ff9882b514c999423098a5852ea41fa692db65f391c98c1"

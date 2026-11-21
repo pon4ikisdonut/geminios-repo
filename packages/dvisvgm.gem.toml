@@ -1,0 +1,11 @@
+[package]
+name = "dvisvgm"
+version = "3.6.1-1"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "A fast DVI, EPS, and PDF to SVG converter"
+depends = ["brotli", "freetype2", "ghostscript", "glibc", "libgcc", "libstdc++", "potrace", "texlive-basic", "texlive-bin", "woff2", "xxhash", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/dvisvgm-3.6.1-1-x86_64.pkg.tar.zst"
+sha256 = "4751781fb460c3810744ccc2884e47a755d68391b5b29bc20870a0544b6a86ac"

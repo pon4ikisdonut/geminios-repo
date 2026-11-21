@@ -1,0 +1,11 @@
+[package]
+name = "llhttp"
+version = "9.3.1-1"
+license = "MIT"
+arch = "x86_64"
+description = "Port of http_parser to llparse"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/llhttp-9.3.1-1-x86_64.pkg.tar.zst"
+sha256 = "e93332a577aacebdef11d0626df9a4f45dd6468187309693ccaa8de1547dc71c"

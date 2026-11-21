@@ -1,0 +1,11 @@
+[package]
+name = "frameworkintegration"
+version = "6.32.0-1"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "Framework providing components to allow applications to integrate with a KDE Workspace"
+depends = ["glibc", "kcolorscheme", "kconfig", "ki18n", "kiconthemes", "knewstuff", "knotifications", "kwidgetsaddons", "libstdc++", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/frameworkintegration-6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "409b788294e3baf61dda26a8921b39396349286c980872e6050f29af9f9df9eb"

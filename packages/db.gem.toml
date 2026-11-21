@@ -1,0 +1,11 @@
+[package]
+name = "db"
+version = "6.2.32-4"
+license = "AGPL-3.0-only"
+arch = "x86_64"
+description = "The Berkeley DB embedded database system"
+depends = ["libgcc", "libstdc++", "sh"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/db-6.2.32-4-x86_64.pkg.tar.zst"
+sha256 = "6f1b9cdce6cfaf6cbd3121d7803a5a6623f87adb3a3abbfe7b4164bbdc0c177e"

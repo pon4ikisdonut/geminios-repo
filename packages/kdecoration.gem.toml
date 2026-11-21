@@ -1,0 +1,11 @@
+[package]
+name = "kdecoration"
+version = "6.8.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Plugin based library to create window decorations"
+depends = ["glibc", "ki18n", "libstdc++", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kdecoration-6.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "c986af413308564f9ef07c138a390d946a7ebcbcc0933f90054ace0e2ee62353"

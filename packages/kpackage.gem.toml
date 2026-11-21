@@ -1,0 +1,11 @@
+[package]
+name = "kpackage"
+version = "6.32.0-1"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "Framework that lets applications manage user installable packages of non-binary assets"
+depends = ["libstdc++", "glibc", "karchive", "kcoreaddons", "ki18n", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kpackage-6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "8ffc1484b0878e1d565e1e4ac27d09dc45e709a3e77bb968a33c8e5b1f718507"

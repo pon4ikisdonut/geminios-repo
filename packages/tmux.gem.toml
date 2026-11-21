@@ -1,0 +1,11 @@
+[package]
+name = "tmux"
+version = "3.8-1"
+license = "BSD"
+arch = "x86_64"
+description = "Terminal multiplexer"
+depends = ["libevent", "libevent_core-2.1.so", "libutempter", "ncurses", "libncursesw.so", "systemd-libs", "libsystemd.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/tmux-3.8-1-x86_64.pkg.tar.zst"
+sha256 = "458fb70e06289bb30e90da74f4724ee87dd92ea7dd6a0bdbf4c7c6adcec75a02"

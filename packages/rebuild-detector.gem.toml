@@ -1,0 +1,11 @@
+[package]
+name = "rebuild-detector"
+version = "4.4.5-1"
+license = "ISC"
+arch = "any"
+description = "Detects which packages need to be rebuilt"
+depends = ["binutils", "parallel", "pacutils", "pacman-contrib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/rebuild-detector-4.4.5-1-any.pkg.tar.zst"
+sha256 = "a8d27f0dcce2c7b57340740fa56c53968267f041c522368c9b770771f5c2a98f"

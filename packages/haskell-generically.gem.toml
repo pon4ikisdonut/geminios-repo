@@ -1,0 +1,11 @@
+[package]
+name = "haskell-generically"
+version = "0.1.1-160"
+license = "BSD"
+arch = "x86_64"
+description = "Generically newtype to use with DerivingVia"
+depends = ["ghc-libs", "haskell-base-orphans"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-generically-0.1.1-160-x86_64.pkg.tar.zst"
+sha256 = "1d7c67ee53358ac2eecc25a71d54e0708780d6e726ea273e2867d81074a6d5b4"

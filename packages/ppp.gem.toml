@@ -1,0 +1,11 @@
+[package]
+name = "ppp"
+version = "2.5.5-2"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "A daemon which implements the Point-to-Point Protocol for dial-up networking"
+depends = ["glibc", "libpcap", "libxcrypt", "openssl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/ppp-2.5.5-2-x86_64.pkg.tar.zst"
+sha256 = "56f229450851cf1b4fbb9a520c2fb8242d8ecaa0bcfb94996a7134b5ec248aa0"

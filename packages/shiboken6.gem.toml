@@ -1,0 +1,11 @@
+[package]
+name = "shiboken6"
+version = "6.12.0-3"
+license = "Qt-GPL-exception-1.0"
+arch = "x86_64"
+description = "Python/C++ bindings helper module"
+depends = ["glibc", "libgcc", "libstdc++", "python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/shiboken6-6.12.0-3-x86_64.pkg.tar.zst"
+sha256 = "14c829818b107527d119e1a44c356a1b6e50290d8a4c8ed71760c0bfe7aa22c1"

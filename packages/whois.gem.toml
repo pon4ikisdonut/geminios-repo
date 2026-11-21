@@ -1,0 +1,11 @@
+[package]
+name = "whois"
+version = "5.6.6-1"
+license = "GPL"
+arch = "x86_64"
+description = "Intelligent WHOIS client"
+depends = ["libidn2", "libxcrypt"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/whois-5.6.6-1-x86_64.pkg.tar.zst"
+sha256 = "b2620c878244426fad9bee2a2128020cd6dbad93cd43e5397f998ee9b2cce2c9"

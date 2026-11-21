@@ -1,0 +1,11 @@
+[package]
+name = "kauth5"
+version = "5.116.0-2"
+license = "LGPL"
+arch = "x86_64"
+description = "Abstraction to system policy and authentication features"
+depends = ["kcoreaddons5", "polkit-qt5"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kauth5-5.116.0-2-x86_64.pkg.tar.zst"
+sha256 = "0a7ad22392cf297451dd136cd095b9a0ad6b21e2e3cec37553a59a5ef6bfe82a"

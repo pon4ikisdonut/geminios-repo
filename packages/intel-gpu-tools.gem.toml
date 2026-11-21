@@ -1,0 +1,11 @@
+[package]
+name = "intel-gpu-tools"
+version = "2.6-1"
+license = "MIT"
+arch = "x86_64"
+description = "Tools for development and testing of the Intel DRM driver"
+depends = ["libdrm", "libpciaccess", "cairo", "python", "xorg-xrandr", "pciutils", "libprocps", "kmod", "libxv", "libunwind", "peg", "systemd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/intel-gpu-tools-2.6-1-x86_64.pkg.tar.zst"
+sha256 = "5fb94ee088278f90ad3b8c7909e226f41c7baabfac3d0c5a02151633357c224a"

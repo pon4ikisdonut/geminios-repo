@@ -1,0 +1,11 @@
+[package]
+name = "lxc"
+version = "1:7.0.0-3"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Linux Containers"
+depends = ["bash", "perl", "libseccomp", "libcap", "python", "rsync", "wget", "dbus"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/lxc-1:7.0.0-3-x86_64.pkg.tar.zst"
+sha256 = "b5778d991288cd361b3978eaef04a0eb256baa6f89122339336d19aafa3d090e"

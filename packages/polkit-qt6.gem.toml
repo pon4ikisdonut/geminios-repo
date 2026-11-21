@@ -1,0 +1,11 @@
+[package]
+name = "polkit-qt6"
+version = "0.201.1-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "A library that allows developers to access PolicyKit API with a nice Qt-style API"
+depends = ["libgcc", "libstdc++", "glib2", "glibc", "polkit", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/polkit-qt6-0.201.1-1-x86_64.pkg.tar.zst"
+sha256 = "b9944cfed4aa4d3103c942c0210c984766c2defb6c1033a5df4479a2a53ba029"

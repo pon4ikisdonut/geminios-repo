@@ -1,0 +1,11 @@
+[package]
+name = "akonadiconsole"
+version = "26.08.3-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Akonadi management and debugging console"
+depends = ["akonadi", "akonadi-contacts", "akonadi-search", "calendarsupport", "glibc", "kcalendarcore", "kcolorscheme", "kcompletion", "kconfig", "kconfigwidgets", "kcontacts", "kcoreaddons", "kcrash", "kdbusaddons", "ki18n", "kitemmodels", "kmime", "ktextwidgets", "kwidgetsaddons", "kxmlgui", "libgcc", "libkdepim", "libstdc++", "messagelib", "qt6-base", "xapian-core"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/akonadiconsole-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "0c47aab813ba1c21d925c31df6164601793d0bd670bf64127ef6c2f5c16ecc5f"

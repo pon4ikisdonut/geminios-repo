@@ -1,0 +1,11 @@
+[package]
+name = "liblrdf"
+version = "0.6.1-5"
+license = "GPL2"
+arch = "x86_64"
+description = "A library for the manipulation of RDF file in LADSPA plugins"
+depends = ["raptor"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/liblrdf-0.6.1-5-x86_64.pkg.tar.zst"
+sha256 = "27a14c54f7a279091a7d8da14354be2d2854004c12b0d3b69089481b2545f10d"

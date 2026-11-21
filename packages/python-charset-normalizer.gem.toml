@@ -1,0 +1,11 @@
+[package]
+name = "python-charset-normalizer"
+version = "3.5.1-1"
+license = "MIT"
+arch = "any"
+description = "Encoding and language detection alternative to chardet"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-charset-normalizer-3.5.1-1-any.pkg.tar.zst"
+sha256 = "10905c5019f4ec7a096b19dafb0027fd310adbf8e987db0fb376839893c122f1"

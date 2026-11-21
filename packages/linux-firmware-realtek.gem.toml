@@ -1,0 +1,11 @@
+[package]
+name = "linux-firmware-realtek"
+version = "20261019-1"
+license = "LicenseRef-realtek"
+arch = "any"
+description = "Firmware files for Linux - Firmware for Realtek devices"
+depends = ["linux-firmware-whence"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/linux-firmware-realtek-20261019-1-any.pkg.tar.zst"
+sha256 = "b0f16f1721e1021400e3e9616c11a7e590b5267f2cc818d63b8ec31a0370c160"

@@ -1,0 +1,11 @@
+[package]
+name = "python-jsonschema"
+version = "4.26.0-1"
+license = "MIT"
+arch = "any"
+description = "An implementation of JSON Schema validation for Python"
+depends = ["python", "python-attrs", "python-referencing", "python-jsonschema-specifications"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-jsonschema-4.26.0-1-any.pkg.tar.zst"
+sha256 = "f41f47d9916ba1afdcb46dfe0788f8dd1b463230537b149927ff223d0c113af2"

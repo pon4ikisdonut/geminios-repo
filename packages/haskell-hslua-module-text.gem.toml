@@ -1,0 +1,11 @@
+[package]
+name = "haskell-hslua-module-text"
+version = "1.2.0-27"
+license = "MIT"
+arch = "x86_64"
+description = "Lua module for text"
+depends = ["ghc-libs", "haskell-hslua-core", "haskell-hslua-marshalling", "haskell-hslua-packaging"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-hslua-module-text-1.2.0-27-x86_64.pkg.tar.zst"
+sha256 = "ddc71f33d1a3c69508c3a20dd4d2538efa62110910e86cce0bdc0a9a804c6a38"

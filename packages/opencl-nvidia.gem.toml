@@ -1,0 +1,11 @@
+[package]
+name = "opencl-nvidia"
+version = "620.73.04-1"
+license = "LicenseRef-NVIDIA-Driver-License-Agreement"
+arch = "x86_64"
+description = "OpenCL implemention for NVIDIA"
+depends = ["zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/opencl-nvidia-620.73.04-1-x86_64.pkg.tar.zst"
+sha256 = "f63af870ad9a318c3ad747c4cc5064222b24ba424afdfc7414492bf6127a2ef5"

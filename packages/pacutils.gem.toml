@@ -1,0 +1,11 @@
+[package]
+name = "pacutils"
+version = "0.15.0-2"
+license = "MIT"
+arch = "x86_64"
+description = "Helper tools for libalpm"
+depends = ["glibc", "libarchive", "pacman"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/pacutils-0.15.0-2-x86_64.pkg.tar.zst"
+sha256 = "43e3b9d6806fa1ac490fb173c46fd2857aa8343609aaea6999cf2fea57b5faa2"

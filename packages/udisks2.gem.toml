@@ -1,0 +1,11 @@
+[package]
+name = "udisks2"
+version = "2.12.0-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Daemon, tools and libraries to access and manipulate disks, storage devices and technologies"
+depends = ["acl", "libacl.so", "dbus", "glib2", "libgio-2.0.so", "libglib-2.0.so", "libgmodule-2.0.so", "libgobject-2.0.so", "glibc", "libblockdev", "libbd_utils.so", "libblockdev.so", "libblockdev-crypto", "libblockdev-fs", "libblockdev-mdraid", "libblockdev-loop", "libblockdev-nvme", "libblockdev-part", "libblockdev-smart", "libblockdev-swap", "libgcc", "libgudev", "libgudev-1.0.so", "polkit", "libpolkit-agent-1.so", "libpolkit-gobject-1.so", "systemd-libs", "libsystemd.so", "util-linux-libs", "libblkid.so", "libmount.so", "libuuid.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/udisks2-2.12.0-1-x86_64.pkg.tar.zst"
+sha256 = "df8a661a6149dc9202aa99927f78dc941751980b5d059f25a2a351e6e395a28a"

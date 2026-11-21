@@ -1,0 +1,11 @@
+[package]
+name = "kwayland"
+version = "6.8.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Qt-style Client and Server library wrapper for the Wayland libraries"
+depends = ["glibc", "libstdc++", "qt6-base", "wayland"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kwayland-6.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "2de2e5aeff6fbc2812b1356058c3402cc95ec4c7f1ea38a14552a625cec4bf2b"

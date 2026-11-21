@@ -1,0 +1,11 @@
+[package]
+name = "slang"
+version = "2.3.3-4"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "S-Lang is a powerful interpreted language"
+depends = ["pcre", "glibc", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/slang-2.3.3-4-x86_64.pkg.tar.zst"
+sha256 = "272e4afe2bff678a590d28abbeba8eda95b2041c5d0063e01a8a0f457b13a177"

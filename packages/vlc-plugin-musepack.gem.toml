@@ -1,0 +1,11 @@
+[package]
+name = "vlc-plugin-musepack"
+version = "3.0.24-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Free and open source cross-platform multimedia player and framework - MusePack plugin"
+depends = ["glibc", "libmpcdec", "libvlc", "libvlccore.so", "vlc-plugins-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vlc-plugin-musepack-3.0.24-2-x86_64.pkg.tar.zst"
+sha256 = "050de5251ef8be0f831dffd65f660ac6fdc162df90ff06bdf454e45613c1b08d"

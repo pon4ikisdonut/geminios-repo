@@ -1,0 +1,11 @@
+[package]
+name = "python-msgpack"
+version = "1.1.2-2"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "MessagePack serializer implementation for Python"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-msgpack-1.1.2-2-x86_64.pkg.tar.zst"
+sha256 = "4a48d098be8d066fd84607f8692a763b9ce07d68af84ef92cfd4f81b6127ef42"

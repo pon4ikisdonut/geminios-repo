@@ -1,0 +1,11 @@
+[package]
+name = "code"
+version = "1.138.0-2"
+license = "MIT"
+arch = "x86_64"
+description = "The Open Source build of Visual Studio Code (vscode) editor"
+depends = ["electron42", "libsecret", "libx11", "libxkbfile", "ripgrep"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/code-1.138.0-2-x86_64.pkg.tar.zst"
+sha256 = "53e8793491dffd35caf737021edcb0b18161db04d92da3920c5344187f4c4ced"

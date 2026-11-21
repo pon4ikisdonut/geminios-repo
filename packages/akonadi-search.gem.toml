@@ -1,0 +1,11 @@
+[package]
+name = "akonadi-search"
+version = "26.08.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Libraries and daemons to implement searching in Akonadi"
+depends = ["akonadi", "akonadi-mime", "glibc", "kcalendarcore", "kcmutils", "kcodecs", "kconfig", "kcontacts", "kcoreaddons", "ki18n", "kmime", "krunner", "ktextaddons", "kwidgetsaddons", "libgcc", "libstdc++", "qt6-base", "xapian-core"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/akonadi-search-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "dd3c0452f15163aab368e3886f5799831ce833efacde4542f00f70038fb36cdf"

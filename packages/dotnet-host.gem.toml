@@ -1,0 +1,11 @@
+[package]
+name = "dotnet-host"
+version = "10.0.14.sdk114-2"
+license = "MIT"
+arch = "x86_64"
+description = "A generic driver for the .NET Core Command Line Interface"
+depends = ["glibc", "libgcc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/dotnet-host-10.0.14.sdk114-2-x86_64.pkg.tar.zst"
+sha256 = "c3504fed9abee24952e0e6d0c02073104a42035aa31e39039806582291a2a85d"

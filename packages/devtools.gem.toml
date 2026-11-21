@@ -1,0 +1,11 @@
+[package]
+name = "devtools"
+version = "1:1.5.3-1"
+license = "GPL-3.0-or-later"
+arch = "any"
+description = "Tools for Arch Linux package maintainers"
+depends = ["arch-install-scripts", "awk", "bash", "binutils", "coreutils", "curl", "diffutils", "expac", "fakeroot", "findutils", "glow", "grep", "gum", "jq", "openssh", "parallel", "reuse", "rsync", "sed", "util-linux", "sudo", "breezy", "git", "mercurial", "subversion"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/devtools-1:1.5.3-1-any.pkg.tar.zst"
+sha256 = "e537f7b412fc7afde7f36f57fa19e5b804939ae7f530ebb70d98bbe7c446cd0d"

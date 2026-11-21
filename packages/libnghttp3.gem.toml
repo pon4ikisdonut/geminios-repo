@@ -1,0 +1,11 @@
+[package]
+name = "libnghttp3"
+version = "1.19.0-1"
+license = "MIT"
+arch = "x86_64"
+description = "HTTP/3 library written in C"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/libnghttp3-1.19.0-1-x86_64.pkg.tar.zst"
+sha256 = "76f4c2d5059ee5f39ffa737108207b1156ab49d57d9c7e567d0a02d7dd9c2978"

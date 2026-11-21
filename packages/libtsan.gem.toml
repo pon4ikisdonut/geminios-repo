@@ -1,0 +1,11 @@
+[package]
+name = "libtsan"
+version = "16.2.1+r23+gd564253eb6c8-1"
+license = "GFDL-1.3-or-later"
+arch = "x86_64"
+description = "Thread Sanitizer runtime library shipped by GCC"
+depends = ["glibc", "libgcc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/libtsan-16.2.1+r23+gd564253eb6c8-1-x86_64.pkg.tar.zst"
+sha256 = "8dd48336bb11dd0d15b9f5d0560166838802b21e3d279db25d6da96df19e0437"

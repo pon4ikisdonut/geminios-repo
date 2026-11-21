@@ -1,0 +1,11 @@
+[package]
+name = "adobe-source-han-sans-kr-fonts"
+version = "2.005-2"
+license = "OFL-1.1-RFN"
+arch = "any"
+description = "Adobe Source Han Sans Subset OTF - Korean OpenType/CFF fonts"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/adobe-source-han-sans-kr-fonts-2.005-2-any.pkg.tar.zst"
+sha256 = "e4a3447106bbee37b4b9cd1577e349b2508b8fed95d48a940a3581566501b588"

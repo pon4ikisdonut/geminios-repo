@@ -1,0 +1,11 @@
+[package]
+name = "ruby-bigdecimal"
+version = "3.3.1-2"
+license = "BSD-2-Clause"
+arch = "x86_64"
+description = "This library provides arbitrary-precision decimal floating-point number class"
+depends = ["ruby"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ruby-bigdecimal-3.3.1-2-x86_64.pkg.tar.zst"
+sha256 = "665317bbebc73153913cb74576a5b94d5fc527ee7c5d78ce3dfd36cf1fac97be"

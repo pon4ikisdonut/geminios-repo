@@ -1,0 +1,11 @@
+[package]
+name = "libomxil-bellagio"
+version = "0.9.3-5"
+license = "LGPL"
+arch = "x86_64"
+description = "An opensource implementation of the OpenMAX Integration Layer API"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libomxil-bellagio-0.9.3-5-x86_64.pkg.tar.zst"
+sha256 = "d4d44498e913c844bc55a82549c748e1bdc005f1b39831a7f78c90cfddbde80f"

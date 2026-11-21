@@ -1,0 +1,11 @@
+[package]
+name = "python-vcsgraph"
+version = "0.3.3-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "VCS graph operations"
+depends = ["glibc", "libgcc", "python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-vcsgraph-0.3.3-1-x86_64.pkg.tar.zst"
+sha256 = "c3f9a43158e0f7cc92105333e81a0d5855a9a1f97a2523a045cd18979ad99258"

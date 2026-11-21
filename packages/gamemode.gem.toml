@@ -1,0 +1,11 @@
+[package]
+name = "gamemode"
+version = "1.8.2-3"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "A daemon/lib combo that allows games to request a set of optimisations be temporarily applied to the host OS"
+depends = ["bash", "dbus", "glibc", "libgcc", "libinih", "polkit", "systemd-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gamemode-1.8.2-3-x86_64.pkg.tar.zst"
+sha256 = "d0e66c14895a38512e01445ee1f110f08a5ec8faeae831b7fd295783384fab20"

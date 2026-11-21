@@ -1,0 +1,11 @@
+[package]
+name = "uv"
+version = "0.13.9-1"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "An extremely fast Python package installer and resolver written in Rust"
+depends = ["bzip2", "libgcc", "glibc", "jemalloc", "zstd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/uv-0.13.9-1-x86_64.pkg.tar.zst"
+sha256 = "00970ddd357eefdf79981b72a14116c44f0e2fb576ab38d66bae386178d8b4d3"

@@ -1,0 +1,11 @@
+[package]
+name = "aarch64-linux-gnu-glibc"
+version = "2.44-1"
+license = "LGPL"
+arch = "any"
+description = "GNU C Library ARM64 target"
+depends = ["aarch64-linux-gnu-gcc", "aarch64-linux-gnu-linux-api-headers"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/aarch64-linux-gnu-glibc-2.44-1-any.pkg.tar.zst"
+sha256 = "e897101616a45e8a4c72e3f0349eb14bd8f1422a86af504d6f0eb846c32c3d65"

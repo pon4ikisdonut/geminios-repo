@@ -1,0 +1,11 @@
+[package]
+name = "python-numpy"
+version = "2.5.5-1"
+license = "custom"
+arch = "x86_64"
+description = "Scientific tools for Python"
+depends = ["cblas", "lapack", "python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-numpy-2.5.5-1-x86_64.pkg.tar.zst"
+sha256 = "7e5f2b060488d95820c58568571c971c8ecfe5067c50aaf08b4dc3ffb9df5d64"

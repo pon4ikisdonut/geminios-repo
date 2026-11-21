@@ -1,0 +1,11 @@
+[package]
+name = "debuginfod"
+version = "0.197-1"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "Handle ELF object files and DWARF debugging information (debuginfod)"
+depends = ["glibc", "json-c", "libarchive", "libarchive.so", "libelf", "libgcc", "libmicrohttpd", "libmicrohttpd.so", "libstdc++", "sqlite", "libsqlite3.so", "xz", "liblzma.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/debuginfod-0.197-1-x86_64.pkg.tar.zst"
+sha256 = "9a9fca34b3c9470181dcb2e35e38d82b45220897ffc60c032030d76578edd9c7"

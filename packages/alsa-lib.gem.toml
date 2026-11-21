@@ -1,0 +1,11 @@
+[package]
+name = "alsa-lib"
+version = "1.2.16.1-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "An alternative implementation of Linux sound support"
+depends = ["alsa-topology-conf", "alsa-ucm-conf", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/alsa-lib-1.2.16.1-1-x86_64.pkg.tar.zst"
+sha256 = "2d2f2b3966cebd6ec75abbbdb4709a1093849207ada6624cdfe36f38d0f5c811"

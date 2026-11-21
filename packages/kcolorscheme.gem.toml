@@ -1,0 +1,11 @@
+[package]
+name = "kcolorscheme"
+version = "6.32.0-1"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "Classes to read and interact with KColorScheme"
+depends = ["glibc", "kconfig", "kguiaddons", "ki18n", "libstdc++", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kcolorscheme-6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "438bff51fee1d4a1e9b62a6ae61300e090c0b1deb6dd22449338543548b95c28"

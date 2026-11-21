@@ -1,0 +1,11 @@
+[package]
+name = "os-prober"
+version = "1.85-1"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "Utility to detect other OSes on a set of drives"
+depends = ["sh"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/os-prober-1.85-1-x86_64.pkg.tar.zst"
+sha256 = "051ebb68194de68683f8021e2bf9aba87318eae5cbdb787ae49c4a97aa557b95"

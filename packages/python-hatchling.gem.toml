@@ -1,0 +1,11 @@
+[package]
+name = "python-hatchling"
+version = "1.32.4-1"
+license = "MIT"
+arch = "any"
+description = "Extensible, standards compliant build backend used by Hatch"
+depends = ["python", "python-editables", "python-packaging", "python-pathspec", "python-pluggy", "python-tomlkit", "python-trove-classifiers"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-hatchling-1.32.4-1-any.pkg.tar.zst"
+sha256 = "6b950ef4d5533311e7bb5d4c992f80d7d3360fa8b24564a2968fb06c9c543f0e"

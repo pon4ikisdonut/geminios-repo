@@ -1,0 +1,11 @@
+[package]
+name = "compiler-rt"
+version = "23.1.5-1"
+license = "Apache-2.0 WITH LLVM-exception"
+arch = "x86_64"
+description = "Compiler runtime libraries for clang"
+depends = ["glibc", "libgcc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/compiler-rt-23.1.5-1-x86_64.pkg.tar.zst"
+sha256 = "5c4e83cdf921a3a51e59f733bd304480644a09cdfaafd88eabb7565b044dbcd0"

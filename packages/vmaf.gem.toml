@@ -1,0 +1,11 @@
+[package]
+name = "vmaf"
+version = "3.2.1-1"
+license = "BSD-2-Clause-Patent"
+arch = "x86_64"
+description = "Perceptual video quality assessment algorithm based on multi-method fusion"
+depends = ["glibc", "libgcc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vmaf-3.2.1-1-x86_64.pkg.tar.zst"
+sha256 = "c99983f741cf5679bd44eeecf6ca53931077f7d07563480376fc2b0256548910"

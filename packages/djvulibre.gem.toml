@@ -1,0 +1,11 @@
+[package]
+name = "djvulibre"
+version = "3.5.30.1-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Library and utilities to create, manipulate and view DjVu (déjà vu) documents"
+depends = ["bash", "glibc", "hicolor-icon-theme", "libgcc", "libjpeg-turbo", "libstdc++", "libtiff"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/djvulibre-3.5.30.1-1-x86_64.pkg.tar.zst"
+sha256 = "9fe17b451dac3c169aaa8e4ed8dae5776e1410f7712d8bd2751b6c3d4472ed5d"

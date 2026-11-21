@@ -1,0 +1,11 @@
+[package]
+name = "libspectre"
+version = "0.2.12-2"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Small library for rendering Postscript documents"
+depends = ["ghostscript", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libspectre-0.2.12-2-x86_64.pkg.tar.zst"
+sha256 = "8daaeff1bce7483c9b77fdf96fb58d0e62c15ff5c0709e6570eb64a9a90a0fa9"

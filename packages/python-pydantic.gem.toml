@@ -1,0 +1,11 @@
+[package]
+name = "python-pydantic"
+version = "2.14.2-1"
+license = "MIT"
+arch = "any"
+description = "Data parsing and validation using Python type hints"
+depends = ["python", "python-annotated-types", "python-pydantic-core", "python-typing_extensions", "python-typing-inspection"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-pydantic-2.14.2-1-any.pkg.tar.zst"
+sha256 = "4f27d25449f0b708d4aeb20844c7f46e85c0cbc13d712d81d991f7283415854b"

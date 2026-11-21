@@ -1,0 +1,11 @@
+[package]
+name = "opencl-headers"
+version = "2:2026.05.29-1"
+license = "Apache-2.0"
+arch = "any"
+description = "OpenCL (Open Computing Language) header files"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/opencl-headers-2:2026.05.29-1-any.pkg.tar.zst"
+sha256 = "746fa1475e3a3022d3182bd75a2e3c36efa7d9d9d2ca067dd40488bda43fad45"

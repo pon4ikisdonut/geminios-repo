@@ -1,0 +1,11 @@
+[package]
+name = "acpid"
+version = "2.0.34-2"
+license = "GPL"
+arch = "x86_64"
+description = "A daemon for delivering ACPI power management events with netlink support"
+depends = ["bash"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/acpid-2.0.34-2-x86_64.pkg.tar.zst"
+sha256 = "e25fc2b6dc486acc6a10a497a5029712bdd33245c58e63076af1d9f91796ca3e"

@@ -1,0 +1,11 @@
+[package]
+name = "acpi_call-lts"
+version = "1.2.2-381"
+license = "GPL"
+arch = "x86_64"
+description = "A linux kernel module that enables calls to ACPI methods through /proc/acpi/call"
+depends = ["linux-lts"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/acpi_call-lts-1.2.2-381-x86_64.pkg.tar.zst"
+sha256 = "2539e49fa7d720b6ec607f57a5519c258dce5847f8028de82956ad82a875f92c"

@@ -1,0 +1,11 @@
+[package]
+name = "libdecor"
+version = "0.2.5-1"
+license = "MIT"
+arch = "x86_64"
+description = "Client-side decorations library for Wayland clients"
+depends = ["wayland", "pango", "dbus"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libdecor-0.2.5-1-x86_64.pkg.tar.zst"
+sha256 = "79fb92af5bf5358da4dc418fc784554284c09cdf4e8aa2cdc95197752d1df115"

@@ -1,0 +1,11 @@
+[package]
+name = "mariadb-libs"
+version = "13.0.2-3"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "MariaDB libraries"
+depends = ["liburing", "liburing.so", "libxcrypt", "libcrypt.so", "openssl", "libcrypto.so", "libssl.so", "pcre2", "libpcre2-8.so", "zlib", "libz.so", "zstd", "libzstd.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/mariadb-libs-13.0.2-3-x86_64.pkg.tar.zst"
+sha256 = "c26557bffe9de556f9caf6b3a089bb863c8949c911c60d763a51ea064ab7a995"

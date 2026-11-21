@@ -1,0 +1,11 @@
+[package]
+name = "gnome-bluetooth-3.0"
+version = "47.2-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "GNOME Bluetooth Subsystem"
+depends = ["bluez", "bluez-obex", "glib2", "glibc", "gsound", "gtk4", "libgcc", "libadwaita", "libnotify", "systemd-libs", "upower"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gnome-bluetooth-3.0-47.2-1-x86_64.pkg.tar.zst"
+sha256 = "be2664e29a0e0c97d58fe4bc0dfcf1a44da008c84cf691246897fe48b85eef2a"

@@ -1,0 +1,11 @@
+[package]
+name = "ftgl"
+version = "2.4.0-4"
+license = "MIT"
+arch = "x86_64"
+description = "OpenGL library to use arbitrary fonts"
+depends = ["freetype2", "glibc", "glu", "libgcc", "libglvnd", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ftgl-2.4.0-4-x86_64.pkg.tar.zst"
+sha256 = "36043b5f94b18a25ae0fdbb73bac98da3a1ddd9ee4b05bc4660a0e3e369e59c6"

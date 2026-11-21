@@ -1,0 +1,11 @@
+[package]
+name = "haskell-hslua-core"
+version = "2.3.2.1-29"
+license = "MIT"
+arch = "x86_64"
+description = "Bindings to Lua, an embeddable scripting language"
+depends = ["ghc-libs", "haskell-lua"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-hslua-core-2.3.2.1-29-x86_64.pkg.tar.zst"
+sha256 = "8c9db08fb7fecafaea3f5db67d37b57595cb4ad2824fc742436605df45333470"

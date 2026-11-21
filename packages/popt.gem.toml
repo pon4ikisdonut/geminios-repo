@@ -1,0 +1,11 @@
+[package]
+name = "popt"
+version = "1.19-2"
+license = "custom"
+arch = "x86_64"
+description = "A commandline option parser"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/popt-1.19-2-x86_64.pkg.tar.zst"
+sha256 = "877635962b604efa79409c3d423f4fdffc4868776af3e0e804cc94a0b57ca151"

@@ -1,0 +1,11 @@
+[package]
+name = "a52dec"
+version = "0.8.0-3"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Library for decoding ATSC A/52 (AC-3) audio streams"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/a52dec-0.8.0-3-x86_64.pkg.tar.zst"
+sha256 = "2e5f24ea855afafd68965247551ab4cc710e8df2b4541a8964b7f2a50e3d07f2"

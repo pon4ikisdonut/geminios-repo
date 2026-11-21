@@ -1,0 +1,11 @@
+[package]
+name = "vlc-plugin-ffmpeg"
+version = "3.0.24-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Free and open source cross-platform multimedia player and framework - FFMPEG plugins"
+depends = ["ffmpeg", "libavcodec.so", "libavformat.so", "libavutil.so", "libswscale.so", "glibc", "libva", "libvlc", "libvlccore.so", "libx11", "vlc-plugins-base", "vlc-plugins-video-output", "libvlc_vdpau.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vlc-plugin-ffmpeg-3.0.24-2-x86_64.pkg.tar.zst"
+sha256 = "83e3daab81c71fdc22a3b286f22bad7cf65133da50c1765b811a3c3a4539c4c6"

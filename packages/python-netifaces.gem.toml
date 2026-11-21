@@ -1,0 +1,11 @@
+[package]
+name = "python-netifaces"
+version = "0.11.0-9"
+license = "MIT"
+arch = "x86_64"
+description = "Portable module to access network interface information in Python"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-netifaces-0.11.0-9-x86_64.pkg.tar.zst"
+sha256 = "b5295b9bf15a2149ca3db79d31243a513117c473aac078dc062d78500a623283"

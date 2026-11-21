@@ -1,0 +1,11 @@
+[package]
+name = "python-feedparser"
+version = "6.0.14-1"
+license = "BSD-2-Clause"
+arch = "any"
+description = "Parse RSS and Atom feeds in Python"
+depends = ["libxml2", "python", "python-requests", "python-feedparser-sgmllib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-feedparser-6.0.14-1-any.pkg.tar.zst"
+sha256 = "afdc9b7d1fea83ebb14f5229bda06bd0e1e17cf5322d870e8732fdd586f3a726"

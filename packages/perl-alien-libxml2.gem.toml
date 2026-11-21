@@ -1,0 +1,11 @@
+[package]
+name = "perl-alien-libxml2"
+version = "0.20-6"
+license = "Artistic-1.0-Perl OR GPL-1.0-or-later"
+arch = "any"
+description = "Install the C libxml2 library on your system"
+depends = ["libxml2", "perl-alien-build"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/perl-alien-libxml2-0.20-6-any.pkg.tar.zst"
+sha256 = "1b23cbbd30be91ff02acf3de6890d0c8a71d5b4145f637e1af6ff7f8de306e67"

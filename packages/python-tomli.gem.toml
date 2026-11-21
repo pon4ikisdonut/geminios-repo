@@ -1,0 +1,11 @@
+[package]
+name = "python-tomli"
+version = "2.5.0-1"
+license = "MIT"
+arch = "any"
+description = "A lil' TOML parser"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-tomli-2.5.0-1-any.pkg.tar.zst"
+sha256 = "5c0ab5c573c417d87a4b75912a33c99b4da27e49261ec18948c223b1a5b09fd7"

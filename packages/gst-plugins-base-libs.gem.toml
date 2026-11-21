@@ -1,0 +1,11 @@
+[package]
+name = "gst-plugins-base-libs"
+version = "1.28.9-3"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Multimedia graph framework - base"
+depends = ["gstreamer", "glib2", "glibc", "graphene", "iso-codes", "libdrm", "libglvnd", "libgudev", "libjpeg-turbo", "libpng", "libx11", "libxcb", "libxext", "libxi", "libxv", "mesa", "orc", "wayland", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gst-plugins-base-libs-1.28.9-3-x86_64.pkg.tar.zst"
+sha256 = "4b5f386ffd9d23fcafcb9422d6a6c1e8a152fb83d40a27b1515611f3338e6535"

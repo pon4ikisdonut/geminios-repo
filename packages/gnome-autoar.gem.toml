@@ -1,0 +1,11 @@
+[package]
+name = "gnome-autoar"
+version = "0.5.2-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Automatic archives creating and extracting library"
+depends = ["glib2", "glibc", "libarchive", "libgcc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gnome-autoar-0.5.2-1-x86_64.pkg.tar.zst"
+sha256 = "07d9a46600ef9adb00206971c1c5a778cf4fe6173288e6ed0fd0b2eea4376d35"

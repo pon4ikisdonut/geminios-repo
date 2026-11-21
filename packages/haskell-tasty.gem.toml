@@ -1,0 +1,11 @@
+[package]
+name = "haskell-tasty"
+version = "1.5.5-18"
+license = "MIT"
+arch = "x86_64"
+description = "Modern and extensible testing framework"
+depends = ["ghc-libs", "haskell-ansi-terminal", "haskell-optparse-applicative", "haskell-tagged", "haskell-terminal-size"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-tasty-1.5.5-18-x86_64.pkg.tar.zst"
+sha256 = "7057e141891df8b79a6dcbda17d5a54afd8525b40e9e9409d2b2c51720070cee"

@@ -1,0 +1,11 @@
+[package]
+name = "kinfocenter"
+version = "6.8.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "A utility that provides information about a computer system"
+depends = ["aha", "clinfo", "dmidecode", "glibc", "glu", "iproute2", "kauth", "kcmutils", "kconfig", "kcoreaddons", "kdeclarative", "ki18n", "kio", "kirigami", "kservice", "libdisplay-info", "libdrm", "libglvnd", "libpulse", "libstdc++", "libusb", "libva-utils", "lm_sensors", "mesa-utils", "qt6-base", "qt6-declarative", "qt6-graphs", "sh", "solid", "systemd-libs", "systemsettings", "vulkan-tools", "wayland-utils", "xorg-xdpyinfo"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kinfocenter-6.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "b75c8fdf84aab63f5461844b69ec1363c6b001919c924c3e1e2697be4b227574"

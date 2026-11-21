@@ -1,0 +1,11 @@
+[package]
+name = "python-pyqt6"
+version = "6.12.1-1"
+license = "GPL"
+arch = "x86_64"
+description = "A set of Python bindings for the Qt6 toolkit"
+depends = ["glibc", "libgcc", "libstdc++", "python", "python-pyqt6-sip", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-pyqt6-6.12.1-1-x86_64.pkg.tar.zst"
+sha256 = "3a3b6d38843ec3510c4bd327cbfd5aa4ef6190a76b4e77cf97504518ad87e69b"

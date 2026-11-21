@@ -1,0 +1,11 @@
+[package]
+name = "gvfs"
+version = "1.62.0-3"
+license = "LGPL-2.0-only"
+arch = "x86_64"
+description = "Virtual filesystem implementation for GIO"
+depends = ["dconf", "fuse3", "gcr-4", "glib2", "glibc", "gsettings-desktop-schemas", "libarchive", "libbluray", "libcdio", "libcdio-paranoia", "libgcc", "libgcrypt", "libgudev", "libsecret", "libsoup3", "polkit", "procps-ng", "systemd", "systemd-libs", "udisks2"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gvfs-1.62.0-3-x86_64.pkg.tar.zst"
+sha256 = "8854c22b48e2d4bfc6b56ac5de1cec47a45cc7798476bee719557cce45159fb9"

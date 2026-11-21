@@ -1,0 +1,11 @@
+[package]
+name = "aws-c-cal"
+version = "1.0.0-2"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "AWS Crypto Abstraction Layer: Cross-Platform, C99 wrapper for cryptography primitives"
+depends = ["aws-c-common", "glibc", "openssl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/aws-c-cal-1.0.0-2-x86_64.pkg.tar.zst"
+sha256 = "522a7ecdacc1e6cd4f5440635480c9cfffe4987ec9ca3b0a48f24bf6fe9f8865"

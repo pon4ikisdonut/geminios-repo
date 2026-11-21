@@ -1,0 +1,11 @@
+[package]
+name = "xorg-xinput"
+version = "1.6.4-2"
+license = "custom"
+arch = "x86_64"
+description = "Small commandline tool to configure devices"
+depends = ["libx11", "libxi", "xorg-xrandr", "libxinerama"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xorg-xinput-1.6.4-2-x86_64.pkg.tar.zst"
+sha256 = "fd960ed39d95f417186c2ade78acc1b5dc01d25ba7224a5893fc89ad0e8e0dfc"

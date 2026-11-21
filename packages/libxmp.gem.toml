@@ -1,0 +1,11 @@
+[package]
+name = "libxmp"
+version = "4.7.4-1"
+license = "MIT"
+arch = "x86_64"
+description = "Library that supports over 90 module formats (Amiga, Atari, ..)"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libxmp-4.7.4-1-x86_64.pkg.tar.zst"
+sha256 = "f011000a5d5e28276506956f69f34ea4a6ec1d5e6a2731711cfc99cd3f39e52c"

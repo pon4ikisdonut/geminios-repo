@@ -1,0 +1,11 @@
+[package]
+name = "texlive-fontsextra"
+version = "2026.1-1"
+license = "GPL"
+arch = "any"
+description = "TeX Live - Additional fonts"
+depends = ["texlive-bin", "texlive-basic"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/texlive-fontsextra-2026.1-1-any.pkg.tar.zst"
+sha256 = "0107097ee36e90668dfc24450a54aee69989a0f413555b382ccadf824f875a46"

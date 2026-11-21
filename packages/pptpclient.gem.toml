@@ -1,0 +1,11 @@
+[package]
+name = "pptpclient"
+version = "1.10.0-4"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Client for the proprietary Microsoft Point-to-Point Tunneling Protocol, PPTP."
+depends = ["ppp", "iproute2", "perl", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/pptpclient-1.10.0-4-x86_64.pkg.tar.zst"
+sha256 = "b509ef6b5bcb90b26dfd4469f1aa42478b496a2cc883644942bda31482e776eb"

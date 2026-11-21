@@ -1,0 +1,11 @@
+[package]
+name = "perl-ipc-run"
+version = "20260402.0-1"
+license = "PerlArtistic"
+arch = "any"
+description = "IPC::Run - system() and background procs w/ piping, redirs, ptys"
+depends = ["perl", "perl-io-tty"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/perl-ipc-run-20260402.0-1-any.pkg.tar.zst"
+sha256 = "edfbaf78ea17a64b843f31d45845172835abba10e6987278f0d82aa8aa7f3d0d"

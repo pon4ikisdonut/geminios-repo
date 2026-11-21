@@ -1,0 +1,11 @@
+[package]
+name = "0ad-data"
+version = "0.28.0-1"
+license = "CC-BY-NC-SA-3.0"
+arch = "any"
+description = "Cross-platform, 3D and historically-based real-time strategy game (data files)"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/0ad-data-0.28.0-1-any.pkg.tar.zst"
+sha256 = "e06f1311f8ae24f85e8170a7daa6e807e95a3e4591c1145435923f25cabbb1dd"

@@ -1,0 +1,11 @@
+[package]
+name = "rutabaga-ffi"
+version = "0.1.85-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Cross-platform, open-source, Rust-based GPU paravirtualization"
+depends = ["glibc", "libgcc", "virglrenderer", "gfxstream"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/rutabaga-ffi-0.1.85-1-x86_64.pkg.tar.zst"
+sha256 = "dbb58d33ae720d578f24194a24c42857fc66c8348dd63e76ca54d78b56bd45ee"

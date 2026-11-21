@@ -1,0 +1,11 @@
+[package]
+name = "python-legacy-cgi"
+version = "2.6.4-2"
+license = "PSF-2.0"
+arch = "any"
+description = "Fork of the standard library cgi and cgitb modules, being deprecated in PEP-594"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-legacy-cgi-2.6.4-2-any.pkg.tar.zst"
+sha256 = "a7db2134b5b93d90ecd15390fd709c18df9fb457d99ad21a20b8732cdb56dc87"

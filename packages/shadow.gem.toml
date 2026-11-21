@@ -1,0 +1,11 @@
+[package]
+name = "shadow"
+version = "4.20.0.arch1-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Password and account management tool suite with support for shadow files and PAM"
+depends = ["glibc", "acl", "libacl.so", "audit", "libaudit.so", "libxcrypt", "libcrypt.so", "pam", "libpam.so", "libpam_misc.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/shadow-4.20.0.arch1-1-x86_64.pkg.tar.zst"
+sha256 = "615c819eb2d3e22158289f3cc2447f81ae981a6d11b3418da30b6085306b3e77"

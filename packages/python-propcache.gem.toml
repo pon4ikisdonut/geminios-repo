@@ -1,0 +1,11 @@
+[package]
+name = "python-propcache"
+version = "0.5.4-1"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "Fast property caching"
+depends = ["glibc", "python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-propcache-0.5.4-1-x86_64.pkg.tar.zst"
+sha256 = "651cb92473d9bc9ee69c8eb1edb03a95045fff2a6725613f106e400a417f8e63"

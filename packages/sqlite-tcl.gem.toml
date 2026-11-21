@@ -1,0 +1,11 @@
+[package]
+name = "sqlite-tcl"
+version = "3.54.1-1"
+license = "LicenseRef-Sqlite"
+arch = "x86_64"
+description = "sqlite Tcl Extension Architecture (TEA)"
+depends = ["sqlite", "tcl", "zlib", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/sqlite-tcl-3.54.1-1-x86_64.pkg.tar.zst"
+sha256 = "3c2bae580d2ab8a33a06bdb5e74ed1ee1b126bd7279385095a38bb76a31d4657"

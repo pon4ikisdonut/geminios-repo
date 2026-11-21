@@ -1,0 +1,11 @@
+[package]
+name = "wireless_tools"
+version = "30.pre9-5"
+license = "GPL"
+arch = "x86_64"
+description = "Tools allowing to manipulate the Wireless Extensions"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/wireless_tools-30.pre9-5-x86_64.pkg.tar.zst"
+sha256 = "4c6baa440b0d56a6d39828f79e9d47b3763d9c031e3f7a9a23366e515cdb87bb"

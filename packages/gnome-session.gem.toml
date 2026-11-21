@@ -1,0 +1,11 @@
+[package]
+name = "gnome-session"
+version = "51.0-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "The GNOME Session Handler"
+depends = ["dconf", "glib2", "glibc", "gnome-desktop-4", "gsettings-desktop-schemas", "libgcc", "systemd-libs", "xdg-desktop-portal-gnome"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gnome-session-51.0-1-x86_64.pkg.tar.zst"
+sha256 = "487b5397d8de38d48440cca19c86fb36f0617480f6988d03677c5671d0ae6cf4"

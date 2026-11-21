@@ -1,0 +1,11 @@
+[package]
+name = "tesseract-data-osd"
+version = "2:4.1.0-5"
+license = "Apache"
+arch = "any"
+description = "Tesseract OCR data (osd)"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/tesseract-data-osd-2:4.1.0-5-any.pkg.tar.zst"
+sha256 = "985ba497693eaab62bb71f47bd1625b907f8feacc29edb6b94579f82c38ace67"

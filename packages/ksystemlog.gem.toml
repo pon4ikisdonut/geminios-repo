@@ -1,0 +1,11 @@
+[package]
+name = "ksystemlog"
+version = "26.08.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "System log viewer tool"
+depends = ["audit", "glibc", "karchive", "kcolorscheme", "kcompletion", "kconfig", "kconfigwidgets", "kcoreaddons", "kcrash", "ki18n", "kio", "kitemviews", "ktextwidgets", "kwidgetsaddons", "kxmlgui", "libstdc++", "qt6-base", "systemd-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ksystemlog-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "497654a908beb5c3ae6e0115bf117ac0fef07db87bb319afc22b577b109c8f45"

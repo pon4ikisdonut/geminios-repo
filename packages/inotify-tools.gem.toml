@@ -1,0 +1,11 @@
+[package]
+name = "inotify-tools"
+version = "4.26.291-1"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "a C library and a set of command-line programs for Linux providing a simple interface to inotify."
+depends = ["libgcc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/inotify-tools-4.26.291-1-x86_64.pkg.tar.zst"
+sha256 = "7391da5852658415d54a6365944300f9ecc90536730d0583b9db9cf62ee95596"

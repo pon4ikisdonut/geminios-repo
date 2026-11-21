@@ -1,0 +1,11 @@
+[package]
+name = "waybar"
+version = "0.16.0-2"
+license = "MIT"
+arch = "x86_64"
+description = "Highly customizable Wayland bar for Sway and Wlroots based compositors"
+depends = ["atkmm", "cairomm", "fmt", "glib2", "glibc", "glibmm", "gpsd", "gtk-layer-shell", "gtk3", "gtkmm3", "jack", "jsoncpp", "libdbusmenu-gtk3", "libevdev", "libgcc", "libinput", "libmm-glib", "libmpdclient", "libnl", "libpipewire", "libpulse", "libsigc++", "libstdc++", "libwireplumber", "libxkbcommon", "playerctl", "sndio", "spdlog", "systemd-libs", "upower", "wayland", "libatkmm-1.6.so", "libcairomm-1.0.so", "libgtk-3.so", "libjack.so", "libjsoncpp.so", "libpipewire-0.3.so", "libsndio.so", "libspdlog.so", "libudev.so", "libupower-glib.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/waybar-0.16.0-2-x86_64.pkg.tar.zst"
+sha256 = "ffa9674d1ea219d8630e676af9fd0c452fa3c529936fccf27983a0fed1db1050"

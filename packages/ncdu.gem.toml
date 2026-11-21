@@ -1,0 +1,11 @@
+[package]
+name = "ncdu"
+version = "2.9.2-1"
+license = "MIT"
+arch = "x86_64"
+description = "Disk usage analyzer with an ncurses interface"
+depends = ["ncurses", "glibc", "zstd", "libncursesw.so", "libzstd.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ncdu-2.9.2-1-x86_64.pkg.tar.zst"
+sha256 = "0d50e503eb902aa227de9b90715e0e57d1836eb0d9ce9e5ad46ea9a293d0f6e2"

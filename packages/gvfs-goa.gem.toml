@@ -1,0 +1,11 @@
+[package]
+name = "gvfs-goa"
+version = "1.62.0-3"
+license = "LGPL-2.0-only"
+arch = "x86_64"
+description = "Virtual filesystem implementation for GIO - Gnome Online Accounts backend (e.g. OwnCloud)"
+depends = ["gvfs", "glib2", "glibc", "libgcc", "libgoa"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gvfs-goa-1.62.0-3-x86_64.pkg.tar.zst"
+sha256 = "b76791c8bd4194ee719b48021a5ec3138b30b23f02aa506faa01b0e8051522b4"

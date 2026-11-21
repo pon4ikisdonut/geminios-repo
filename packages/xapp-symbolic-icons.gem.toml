@@ -1,0 +1,11 @@
+[package]
+name = "xapp-symbolic-icons"
+version = "1.1.2-1"
+license = "LGPL-3.0-only"
+arch = "any"
+description = "A set of symbolic icons for GTK applications and projects"
+depends = ["hicolor-icon-theme"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xapp-symbolic-icons-1.1.2-1-any.pkg.tar.zst"
+sha256 = "d851f9e9dedb84a366e41ac385e2a090cb87b920e91b8b4314e370994c7d00c2"

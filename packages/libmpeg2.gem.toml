@@ -1,0 +1,11 @@
+[package]
+name = "libmpeg2"
+version = "0.5.1-11"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Library for decoding MPEG-1 and MPEG-2 video streams"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libmpeg2-0.5.1-11-x86_64.pkg.tar.zst"
+sha256 = "44dba3f24ef6e4c28842e8a0fe077b27c8f2a9b40fc9fc742cee6fc14db60601"

@@ -1,0 +1,11 @@
+[package]
+name = "libixion"
+version = "0.20.0-9"
+license = "MPL-2.0"
+arch = "x86_64"
+description = "A general purpose formula parser & interpreter"
+depends = ["boost-libs", "python", "glibc", "libstdc++", "libgcc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libixion-0.20.0-9-x86_64.pkg.tar.zst"
+sha256 = "c37305cbee86114af4bba6f4b5e6c83bb9cadcb41a56b5d0bf78784e575cb36c"

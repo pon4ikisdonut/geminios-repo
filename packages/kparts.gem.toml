@@ -1,0 +1,11 @@
+[package]
+name = "kparts"
+version = "6.32.0-1"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "Document centric plugin system"
+depends = ["libstdc++", "glibc", "kconfig", "kcoreaddons", "ki18n", "kio", "kwidgetsaddons", "kxmlgui", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kparts-6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "eccd0ffa52d84979ced7f585cc63048c2b251306af5ce6cfb473e462aac2d2a7"

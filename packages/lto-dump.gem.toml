@@ -1,0 +1,11 @@
+[package]
+name = "lto-dump"
+version = "16.2.1+r23+gd564253eb6c8-1"
+license = "GFDL-1.3-or-later"
+arch = "x86_64"
+description = "Dump link time optimization object files"
+depends = ["gcc", "glibc", "gmp", "libisl.so", "libmpc", "mpfr", "zlib", "zstd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/lto-dump-16.2.1+r23+gd564253eb6c8-1-x86_64.pkg.tar.zst"
+sha256 = "fedb8bd62c52cd305cb6b0cf303e5847b9e703022623e7f0735aed80dc3859a5"

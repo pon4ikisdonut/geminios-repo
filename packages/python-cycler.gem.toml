@@ -1,0 +1,11 @@
+[package]
+name = "python-cycler"
+version = "0.12.1-4"
+license = "BSD"
+arch = "any"
+description = "Composable style cycles"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-cycler-0.12.1-4-any.pkg.tar.zst"
+sha256 = "005ad47412f70ec0aaae81eea6d09696dd541820b4b1ccf6c8338fe347b506ac"

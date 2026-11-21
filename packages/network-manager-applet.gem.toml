@@ -1,0 +1,11 @@
+[package]
+name = "network-manager-applet"
+version = "1.36.0-2"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Applet for managing network connections"
+depends = ["libappindicator-gtk3", "libmm-glib", "libnma", "libsecret", "networkmanager", "nm-connection-editor"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/network-manager-applet-1.36.0-2-x86_64.pkg.tar.zst"
+sha256 = "5007409b9eeef399e21646b9b3c9ee74c4ece4ad4a43220e01e9e2376eeb1a2c"

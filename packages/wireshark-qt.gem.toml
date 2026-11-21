@@ -1,0 +1,11 @@
+[package]
+name = "wireshark-qt"
+version = "4.7.4-2"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "Network traffic and protocol analyzer/sniffer - Qt GUI"
+depends = ["desktop-file-utils", "glib2", "glibc", "hicolor-icon-theme", "libgcc", "libgcrypt", "libnl", "libpcap", "libpcap.so", "libstdc++", "libwireshark.so", "libwiretap.so", "libwsutil.so", "minizip", "qt6-5compat", "qt6-base", "qt6-multimedia", "qt6-svg", "shared-mime-info", "speexdsp", "wireshark-cli", "xdg-utils"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/wireshark-qt-4.7.4-2-x86_64.pkg.tar.zst"
+sha256 = "154ed18e8929ed6c80a7fbb4f2bb388a3a3d1a06598bd097b7c7364815e87d46"

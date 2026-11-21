@@ -1,0 +1,11 @@
+[package]
+name = "qt6ct"
+version = "0.11-9"
+license = "BSD-2-Clause"
+arch = "x86_64"
+description = "Qt 6 Configuration Utility"
+depends = ["glibc", "libgcc", "libstdc++", "qt6-base", "qt6-svg"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qt6ct-0.11-9-x86_64.pkg.tar.zst"
+sha256 = "28432106949664ba59a0aa6614356a28bf60b6c3d5ec0476a97773c1a0d9920c"

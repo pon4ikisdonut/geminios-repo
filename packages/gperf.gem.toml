@@ -1,0 +1,11 @@
+[package]
+name = "gperf"
+version = "3.3-2"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "Perfect hash function generator"
+depends = ["glibc", "libgcc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gperf-3.3-2-x86_64.pkg.tar.zst"
+sha256 = "87c8fb6323a2609b77767d2820f26b4c0d3337367a753d0b84180a983a6a1aa3"

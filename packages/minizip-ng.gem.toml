@@ -1,0 +1,11 @@
+[package]
+name = "minizip-ng"
+version = "4.2.2-2"
+license = "Zlib"
+arch = "x86_64"
+description = "Fork of the popular zip manipulation library found in the zlib distribution"
+depends = ["bzip2", "glibc", "openssl", "xz", "zlib-ng", "zstd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/minizip-ng-4.2.2-2-x86_64.pkg.tar.zst"
+sha256 = "ca2a70374e9ee9d38da8fba1f7b7574de11ac363f4f8a855909460aafad87639"

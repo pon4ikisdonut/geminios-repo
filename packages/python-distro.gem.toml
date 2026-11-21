@@ -1,0 +1,11 @@
+[package]
+name = "python-distro"
+version = "1.9.0-4"
+license = "Apache-2.0"
+arch = "any"
+description = "Linux OS platform information API"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-distro-1.9.0-4-any.pkg.tar.zst"
+sha256 = "709426d44273d59cf5c68c47f0bd4a8b6e9c76cc1f8656e20223b4fd91633504"

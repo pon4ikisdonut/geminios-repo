@@ -1,0 +1,11 @@
+[package]
+name = "vlc"
+version = "3.0.24-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Free and open source cross-platform multimedia player and framework"
+depends = ["bash", "hicolor-icon-theme", "vlc-gui-qt"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vlc-3.0.24-2-x86_64.pkg.tar.zst"
+sha256 = "86a6610d31b928bf3c45bfc40f3751a57b34afbf0f0f5777a1d4ed6aa8a09615"

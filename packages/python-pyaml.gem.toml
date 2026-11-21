@@ -1,0 +1,11 @@
+[package]
+name = "python-pyaml"
+version = "26.7.0-1"
+license = "WTFPL"
+arch = "any"
+description = "PyYAML-based module to produce pretty and readable YAML-serialized data"
+depends = ["python-yaml"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-pyaml-26.7.0-1-any.pkg.tar.zst"
+sha256 = "5a57852cd155354afb704f4ea339be000ebd0306b8c9db48ddf9505fe166c815"

@@ -1,0 +1,11 @@
+[package]
+name = "aarch64-linux-gnu-linux-api-headers"
+version = "7.0-1"
+license = "GPL2"
+arch = "any"
+description = "Kernel headers sanitized for use in userspace (aarch64-linux-gnu)"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/aarch64-linux-gnu-linux-api-headers-7.0-1-any.pkg.tar.zst"
+sha256 = "721307e67978f51c2b25a7401731bf8129e50c2f19e2bf7ab34e71c1e5fcdfde"

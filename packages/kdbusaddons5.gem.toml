@@ -1,0 +1,11 @@
+[package]
+name = "kdbusaddons5"
+version = "5.116.0-2"
+license = "LGPL"
+arch = "x86_64"
+description = "Addons to QtDBus"
+depends = ["qt5-x11extras"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kdbusaddons5-5.116.0-2-x86_64.pkg.tar.zst"
+sha256 = "5cd1e7e3fe2aecc170513f909aa420417fc7d24c70255e0384670d988d706301"

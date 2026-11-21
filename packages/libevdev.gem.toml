@@ -1,0 +1,11 @@
+[package]
+name = "libevdev"
+version = "1.14.0-1"
+license = "MIT"
+arch = "x86_64"
+description = "Wrapper library for evdev devices"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libevdev-1.14.0-1-x86_64.pkg.tar.zst"
+sha256 = "3a27bf7676ab002b1dd6b0b8b731d2b6f239acbe414911c1447af9573a255dc3"

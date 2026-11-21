@@ -1,0 +1,11 @@
+[package]
+name = "wayland"
+version = "1.26.0-1"
+license = "MIT"
+arch = "x86_64"
+description = "A computer display server protocol"
+depends = ["glibc", "libffi", "expat", "libxml2", "default-cursors"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/wayland-1.26.0-1-x86_64.pkg.tar.zst"
+sha256 = "0bf83ec9dd5b9e4037e7fd7d5ded70838bb50f82aa43e8280c8c0025c92804a9"

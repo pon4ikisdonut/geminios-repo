@@ -1,0 +1,11 @@
+[package]
+name = "kamera"
+version = "26.08.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "KDE integration for gphoto2 cameras"
+depends = ["glibc", "kcmutils", "kconfig", "kcoreaddons", "ki18n", "kio", "kwidgetsaddons", "kxmlgui", "libgphoto2", "libstdc++", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kamera-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "0127012d1b3197a503adb97c12131918ada7d9fefd81529db3107c56b92e6fd9"

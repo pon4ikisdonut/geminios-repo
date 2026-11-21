@@ -1,0 +1,11 @@
+[package]
+name = "fd"
+version = "10.5.0-3"
+license = "MIT OR Apache-2.0"
+arch = "x86_64"
+description = "Simple, fast and user-friendly alternative to find"
+depends = ["glibc", "jemalloc", "libgcc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/fd-10.5.0-3-x86_64.pkg.tar.zst"
+sha256 = "b6480939fdf3a3a2f4e16c857bdd6de9015c9dc949d31f8585268ff504effb2e"

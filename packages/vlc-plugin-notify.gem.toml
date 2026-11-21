@@ -1,0 +1,11 @@
+[package]
+name = "vlc-plugin-notify"
+version = "3.0.24-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Free and open source cross-platform multimedia player and framework - notification plugin"
+depends = ["gdk-pixbuf2", "glib2", "glibc", "gtk3", "libnotify", "libvlc", "libvlccore.so", "vlc-plugins-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vlc-plugin-notify-3.0.24-2-x86_64.pkg.tar.zst"
+sha256 = "ce1666979191d4ca95bb93b5d3547fd36788d0c6890b8b1e36bc7302dbdccf2c"

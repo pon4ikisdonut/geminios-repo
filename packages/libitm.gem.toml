@@ -1,0 +1,11 @@
+[package]
+name = "libitm"
+version = "16.2.1+r23+gd564253eb6c8-1"
+license = "GFDL-1.3-or-later"
+arch = "x86_64"
+description = "GNU Transactional Memory library shipped by GCC"
+depends = ["glibc", "libgcc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/libitm-16.2.1+r23+gd564253eb6c8-1-x86_64.pkg.tar.zst"
+sha256 = "e1e116868fffbaa76f64c413438e71c7add231ec03214d292aeb9e80d0579fc6"

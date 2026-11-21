@@ -1,0 +1,11 @@
+[package]
+name = "libmicrohttpd"
+version = "1.0.10-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "a small C library that is supposed to make it easy to run an HTTP server as part of another application."
+depends = ["glibc", "gnutls"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/libmicrohttpd-1.0.10-1-x86_64.pkg.tar.zst"
+sha256 = "b33010533ab88747a4b4ed637d6ee2108b9cfc8f7a3e95bd13dab106a1867ecc"

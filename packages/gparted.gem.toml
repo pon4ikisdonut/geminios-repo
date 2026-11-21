@@ -1,0 +1,11 @@
+[package]
+name = "gparted"
+version = "1.8.1-2"
+license = "GFDL-1.2-or-later"
+arch = "x86_64"
+description = "A Partition Magic clone, frontend to GNU Parted"
+depends = ["atkmm", "libatkmm-1.6.so", "bash", "cairomm", "libcairomm-1.0.so", "glib2", "libglib-2.0.so", "glibc", "glibmm", "libglibmm-2.4.so", "gtk3", "libgdk-3.so", "libgtk-3.so", "gtkmm3", "hicolor-icon-theme", "libgcc", "libgcc_s.so", "libsigc++", "libsigc-2.0.so", "libstdc++", "libstdc++.so", "pangomm", "libpangomm-1.4.so", "parted", "util-linux-libs", "libuuid.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gparted-1.8.1-2-x86_64.pkg.tar.zst"
+sha256 = "dcfca31ba469f41817c182ce578818160d73dd94ea58e94bf347bac21bed1480"

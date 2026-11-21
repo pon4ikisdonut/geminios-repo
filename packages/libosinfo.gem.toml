@@ -1,0 +1,11 @@
+[package]
+name = "libosinfo"
+version = "1.12.0-3"
+license = "GPL-2.0-or-later AND LGPL-2.1-or-later"
+arch = "x86_64"
+description = "GObject based library API for managing information about operating systems, hypervisors and the (virtual) hardware devices they can support"
+depends = ["glib2", "glibc", "hwdata", "libgcc", "libsoup3", "libxml2", "libxslt", "osinfo-db"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libosinfo-1.12.0-3-x86_64.pkg.tar.zst"
+sha256 = "e295d4829f8478f8e19f0d85637477558397ba8978e29688e3eb42cb6c6e391e"

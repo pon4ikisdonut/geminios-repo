@@ -1,0 +1,11 @@
+[package]
+name = "xorgproto"
+version = "2026.1-1"
+license = "X11-distribute-modifications-variant"
+arch = "any"
+description = "combined X.Org X11 Protocol headers"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xorgproto-2026.1-1-any.pkg.tar.zst"
+sha256 = "1fca2c5a52c8cacf9825fc76531a4286de441099d8d6eb912725b136be70eae7"

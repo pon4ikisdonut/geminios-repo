@@ -1,0 +1,11 @@
+[package]
+name = "python-bleach"
+version = "6.4.0-1"
+license = "Apache-2.0"
+arch = "any"
+description = "An easy whitelist-based HTML-sanitizing tool"
+depends = ["python-packaging", "python-webencodings"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-bleach-6.4.0-1-any.pkg.tar.zst"
+sha256 = "ffa63dc1aca66970519ccb7450b990b61caa2bfd45e2d0e6513c00047d6067e3"

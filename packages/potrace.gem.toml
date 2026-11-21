@@ -1,0 +1,11 @@
+[package]
+name = "potrace"
+version = "1.16-5"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Utility for tracing a bitmap (input: PBM,PGM,PPM,BMP; output: EPS,PS,PDF,SVG,DXF,PGM,Gimppath,XFig)"
+depends = ["glibc", "zlib", "libz.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/potrace-1.16-5-x86_64.pkg.tar.zst"
+sha256 = "685050cfa68e2033a866bc03f849bd534da9c7e2b00023e4519290b2752dec33"

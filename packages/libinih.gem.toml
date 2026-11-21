@@ -1,0 +1,11 @@
+[package]
+name = "libinih"
+version = "62-2"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "A simple .INI file parser written in C"
+depends = ["libgcc", "libstdc++", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/libinih-62-2-x86_64.pkg.tar.zst"
+sha256 = "a31257bca509c845a77374a8696596ac39d3456a33788ce9af2dc555d8a19a9a"

@@ -1,0 +1,11 @@
+[package]
+name = "hwdetect"
+version = "2026.10.01.1149-1"
+license = "GPL-3.0-or-later"
+arch = "any"
+description = "Hardware detection script with loading modules and mkinitcpio.conf"
+depends = ["bash", "coreutils", "fd", "gzip", "ripgrep", "sd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/hwdetect-2026.10.01.1149-1-any.pkg.tar.zst"
+sha256 = "4855a8d1628ccbf58b970d18dff7ee2b504295ca1b831ece6c6be6f18d5431ee"

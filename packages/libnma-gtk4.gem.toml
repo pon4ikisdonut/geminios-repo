@@ -1,0 +1,11 @@
+[package]
+name = "libnma-gtk4"
+version = "1.10.6-3"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "NetworkManager GUI client library (GTK4)"
+depends = ["libnma-common", "gtk4"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libnma-gtk4-1.10.6-3-x86_64.pkg.tar.zst"
+sha256 = "60ec211bcb72ed3b341e7242e5e680bac92f8f8478b198a1155f3793f47f8c61"

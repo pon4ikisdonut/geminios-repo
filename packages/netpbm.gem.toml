@@ -1,0 +1,11 @@
+[package]
+name = "netpbm"
+version = "10.86.51-2"
+license = "MIT"
+arch = "x86_64"
+description = "A toolkit for manipulation of graphic images"
+depends = ["bash", "glibc", "jbigkit", "libjpeg-turbo", "libpng", "libtiff", "libxml2", "perl", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/netpbm-10.86.51-2-x86_64.pkg.tar.zst"
+sha256 = "fab0192fa9698af7b0d5551f11d7366e8bc42a45ec2e49f42603a06939e75b94"

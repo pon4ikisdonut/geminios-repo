@@ -1,0 +1,11 @@
+[package]
+name = "libisoburn"
+version = "1.5.8.2-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Frontend for libraries libburn & libisofs"
+depends = ["glibc", "sh", "readline", "libburn", "libisofs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libisoburn-1.5.8.2-1-x86_64.pkg.tar.zst"
+sha256 = "8702472232e805676e46961948ef28980c97c56329cbc00e9861ba2218892beb"

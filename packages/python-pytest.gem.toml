@@ -1,0 +1,11 @@
+[package]
+name = "python-pytest"
+version = "1:9.2.0-1"
+license = "MIT"
+arch = "any"
+description = "Simple powerful testing with Python"
+depends = ["python-iniconfig", "python-packaging", "python-pluggy", "python-pygments"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-pytest-1:9.2.0-1-any.pkg.tar.zst"
+sha256 = "0e5bc47d89c7f9add6d8ba2da51dde40b04ff3606cdd8f49bb7e3e580072c3f1"

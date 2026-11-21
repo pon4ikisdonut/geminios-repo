@@ -1,0 +1,11 @@
+[package]
+name = "kpackage5"
+version = "5.116.0-3"
+license = "LGPL"
+arch = "x86_64"
+description = "Framework that lets applications manage user installable packages of non-binary assets"
+depends = ["karchive5", "ki18n5", "kcoreaddons5"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kpackage5-5.116.0-3-x86_64.pkg.tar.zst"
+sha256 = "7640ae2e5941edf72ec702a9a7c9d3047915872d29d25f3200c8f529aee0b56c"

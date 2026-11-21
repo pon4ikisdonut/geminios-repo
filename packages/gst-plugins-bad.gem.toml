@@ -1,0 +1,11 @@
+[package]
+name = "gst-plugins-bad"
+version = "1.28.9-3"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Multimedia graph framework - bad plugins"
+depends = ["gst-plugins-bad-libs", "gst-plugins-base-libs", "gstreamer", "aom", "bzip2", "cairo", "chromaprint", "curl", "faac", "faad2", "fluidsynth", "glib2", "glibc", "gsm", "imath", "json-glib", "lcms2", "libass", "libavtp", "libbs2b", "libdc1394", "libdca", "libde265", "libdvdnav", "libdvdread", "libfdk-aac", "libfreeaptx", "libgcc", "libgme", "liblc3", "libldac", "liblrdf", "libltc", "libmicrodns", "libmodplug", "libmpcdec", "libopenmpt", "librsvg", "libsndfile", "libsrtp", "libstdc++", "libwebp", "libxml2", "lilv", "mjpegtools", "neon", "nettle", "openal", "openexr", "openh264", "openjpeg2", "openssl", "opus", "pango", "qrencode", "rtmpdump", "sbc", "soundtouch", "spandsp", "srt", "svt-av1", "webrtc-audio-processing-1", "wildmidi", "x265", "zbar", "zvbi", "zxing-cpp"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gst-plugins-bad-1.28.9-3-x86_64.pkg.tar.zst"
+sha256 = "26c3392ce73637f3f0cda94399d217b7f03021ba75f985455c1add435858e1f7"

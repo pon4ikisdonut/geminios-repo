@@ -1,0 +1,11 @@
+[package]
+name = "haskell-gridtables"
+version = "0.1.1.1-4"
+license = "MIT"
+arch = "x86_64"
+description = "Parser for reStructuredText-style grid tables"
+depends = ["ghc-libs", "haskell-doclayout"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-gridtables-0.1.1.1-4-x86_64.pkg.tar.zst"
+sha256 = "6654bffb6f4a5b6f25c6af2d092900dcde1d85357aedb7cb2ea88a8f4bae24fa"

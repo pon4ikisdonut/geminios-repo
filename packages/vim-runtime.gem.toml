@@ -1,0 +1,11 @@
+[package]
+name = "vim-runtime"
+version = "9.2.1178-1"
+license = "custom:vim"
+arch = "x86_64"
+description = "Vi Improved, a highly configurable, improved version of the vi text editor (shared runtime)"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vim-runtime-9.2.1178-1-x86_64.pkg.tar.zst"
+sha256 = "67fa4a8a1a8a06b64666ae65a97a21490bd74c4562786115829ac974e25554c3"

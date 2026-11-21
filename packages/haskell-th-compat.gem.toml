@@ -1,0 +1,11 @@
+[package]
+name = "haskell-th-compat"
+version = "0.1.7-69"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Backward- (and forward-)compatible Quote and Code types"
+depends = ["ghc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-th-compat-0.1.7-69-x86_64.pkg.tar.zst"
+sha256 = "48429ab7c03e7acc007833ea5a7c27187ccfe7e918f6a52987f31cdec8847494"

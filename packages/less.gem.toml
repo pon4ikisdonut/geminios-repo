@@ -1,0 +1,11 @@
+[package]
+name = "less"
+version = "1:710-1"
+license = "GPL-3.0-or-later OR LicenseRef-Less"
+arch = "x86_64"
+description = "A terminal based program for viewing text files"
+depends = ["glibc", "ncurses", "pcre2"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/less-1:710-1-x86_64.pkg.tar.zst"
+sha256 = "77cad584d9844c93ee587e36034a7c01321f8fb19c54e82b6736e56260ff8cd6"

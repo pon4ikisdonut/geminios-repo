@@ -1,0 +1,11 @@
+[package]
+name = "colm"
+version = "0.14.7-5"
+license = "MIT"
+arch = "x86_64"
+description = "Programming language designed for the analysis and transformation of computer languages"
+depends = ["glibc", "libgcc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/colm-0.14.7-5-x86_64.pkg.tar.zst"
+sha256 = "b6a0bb81095b0e59acf3740e51718eb99acb7d621e7b07d8182e3cd1792019af"

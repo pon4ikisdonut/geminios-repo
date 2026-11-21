@@ -1,0 +1,11 @@
+[package]
+name = "hwinfo"
+version = "26.0-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Hardware detection tool from openSUSE"
+depends = ["libx86emu", "perl-xml-parser", "perl-xml-writer", "util-linux-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/hwinfo-26.0-1-x86_64.pkg.tar.zst"
+sha256 = "219cf344df953911e7f41302280b79594f4c3f2d6309f48d535d4c86d881b46c"

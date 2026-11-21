@@ -1,0 +1,11 @@
+[package]
+name = "haskell-file-embed"
+version = "0.0.16.0-3"
+license = "BSD"
+arch = "x86_64"
+description = "Use Template Haskell to embed file contents directly."
+depends = ["ghc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-file-embed-0.0.16.0-3-x86_64.pkg.tar.zst"
+sha256 = "5b5f802b1932b7dd7532da6b69a5942aa58b78b54f266971ad809d759aa7b3d5"

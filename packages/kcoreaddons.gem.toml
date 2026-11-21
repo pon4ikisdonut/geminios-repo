@@ -1,0 +1,11 @@
+[package]
+name = "kcoreaddons"
+version = "6.32.0-1"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "Addons to QtCore"
+depends = ["libgcc", "libstdc++", "glibc", "qt6-base", "systemd-libs", "util-linux-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kcoreaddons-6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "258bd126d97364cf137bfb6d2ee50ee3846efc2624b58f47462f98df9f71e73e"

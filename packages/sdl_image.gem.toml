@@ -1,0 +1,11 @@
+[package]
+name = "sdl_image"
+version = "1.2.12-10"
+license = "LicenseRef-SDL"
+arch = "x86_64"
+description = "A simple library to load images of various formats as SDL surfaces"
+depends = ["sdl", "libpng", "libjpeg-turbo", "libtiff", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/sdl_image-1.2.12-10-x86_64.pkg.tar.zst"
+sha256 = "b0af95124cc8d357684da31d0137b6490c2faa6b79167d94ae86904266376cd0"

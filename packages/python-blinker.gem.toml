@@ -1,0 +1,11 @@
+[package]
+name = "python-blinker"
+version = "1.9.0-4"
+license = "MIT"
+arch = "any"
+description = "Fast, simple object-to-object and broadcast signaling"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-blinker-1.9.0-4-any.pkg.tar.zst"
+sha256 = "bc848f771e433f49e5dbae25d5e2d5c9fa30415cd2c3696a70d2f8adb56e8d79"

@@ -1,0 +1,11 @@
+[package]
+name = "tesseract-data-afr"
+version = "2:4.1.0-5"
+license = "Apache"
+arch = "any"
+description = "Tesseract OCR data (afr)"
+depends = ["tesseract"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/tesseract-data-afr-2:4.1.0-5-any.pkg.tar.zst"
+sha256 = "7c72bd67b776d9f617562e8f026c1614081f9cd34f1d7abb9a50c66e5f51f6be"

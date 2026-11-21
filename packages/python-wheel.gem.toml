@@ -1,0 +1,11 @@
+[package]
+name = "python-wheel"
+version = "0.48.0-1"
+license = "MIT"
+arch = "any"
+description = "A built-package format for Python"
+depends = ["python", "python-packaging"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-wheel-0.48.0-1-any.pkg.tar.zst"
+sha256 = "e2ff0c0129c86523b95a8d2adf0feb58309d556eb2360cae11a040fe15b80c12"

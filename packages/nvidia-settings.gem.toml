@@ -1,0 +1,11 @@
+[package]
+name = "nvidia-settings"
+version = "620.73.04-1"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "Tool for configuring the NVIDIA graphics driver"
+depends = ["jansson", "gtk3", "libxv", "libvdpau", "nvidia-utils"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/nvidia-settings-620.73.04-1-x86_64.pkg.tar.zst"
+sha256 = "3d7bf0f115aa0c482a6400d85ef640d1ff0ac1930fea92870341c83654359d1f"

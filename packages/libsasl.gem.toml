@@ -1,0 +1,11 @@
+[package]
+name = "libsasl"
+version = "2.1.28-6"
+license = "BSD-3-Clause-Attribution"
+arch = "x86_64"
+description = "Cyrus Simple Authentication Service Layer (SASL) library"
+depends = ["glibc", "gdbm", "libgdbm.so", "openssl", "libcrypto.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/libsasl-2.1.28-6-x86_64.pkg.tar.zst"
+sha256 = "9b75f4798f35f6fb41a581a0903df8d275953ad8be417495ca2fa21f83dff1af"

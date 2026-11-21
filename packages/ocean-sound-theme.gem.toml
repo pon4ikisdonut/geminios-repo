@@ -1,0 +1,11 @@
+[package]
+name = "ocean-sound-theme"
+version = "6.8.3-1"
+license = "LGPL-2.0-or-later"
+arch = "any"
+description = "Ocean Sound Theme for Plasma"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ocean-sound-theme-6.8.3-1-any.pkg.tar.zst"
+sha256 = "82c4ed9fc943845cd8d399cdb3e64c51564377efd01bdcb9eb2987c01a6696bc"

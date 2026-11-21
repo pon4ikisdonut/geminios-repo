@@ -1,0 +1,11 @@
+[package]
+name = "python-mako"
+version = "1.4.3-1"
+license = "MIT"
+arch = "any"
+description = "A template library written in Python"
+depends = ["python", "python-markupsafe"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-mako-1.4.3-1-any.pkg.tar.zst"
+sha256 = "3e3fbef071bf47aa4945037b600e31e7bcc7f993dfa8ab384546ab56e86e7954"

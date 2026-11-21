@@ -1,0 +1,11 @@
+[package]
+name = "python-decorator"
+version = "5.3.1-1"
+license = "BSD-2-Clause"
+arch = "any"
+description = "Python Decorator module"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-decorator-5.3.1-1-any.pkg.tar.zst"
+sha256 = "63cc56e30c6713434226cdadfe6d5360354f6981bba7e5cb6ace58c80c76c714"

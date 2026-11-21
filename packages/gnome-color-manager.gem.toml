@@ -1,0 +1,11 @@
+[package]
+name = "gnome-color-manager"
+version = "3.36.2-2"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "GNOME Color Profile Tools"
+depends = ["cairo", "colord", "libgcc", "gdk-pixbuf2", "glib2", "glibc", "gtk3", "hicolor-icon-theme", "lcms2", "libcolord", "pango"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gnome-color-manager-3.36.2-2-x86_64.pkg.tar.zst"
+sha256 = "b608e049c0bcad0423097496d353490616003d8f0333220a003e8d2ca46a5a22"

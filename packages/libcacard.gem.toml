@@ -1,0 +1,11 @@
+[package]
+name = "libcacard"
+version = "2.8.1-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "CAC (Common Access Card) library that provides emulation of smart cards to a virtual card reader running in a guest virtual machine"
+depends = ["glib2", "glibc", "nspr", "nss", "pcsclite"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libcacard-2.8.1-1-x86_64.pkg.tar.zst"
+sha256 = "a9c6d49c62ceabecaf0c11c27515d0a1222186a1b033e9d7c2b03cefd635484d"

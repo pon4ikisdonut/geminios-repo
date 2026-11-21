@@ -1,0 +1,11 @@
+[package]
+name = "pystring"
+version = "1.2.0-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "C++ functions matching the interface and behavior of python string methods with std::string"
+depends = ["gcc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/pystring-1.2.0-1-x86_64.pkg.tar.zst"
+sha256 = "1647cd679f8b68bd482e12b86154d7bc4d88f1d61335e2c7ab68aa92e91ea521"

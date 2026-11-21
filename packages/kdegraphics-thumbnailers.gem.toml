@@ -1,0 +1,11 @@
+[package]
+name = "kdegraphics-thumbnailers"
+version = "26.08.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Thumbnailers for various graphics file formats"
+depends = ["ghostscript", "glibc", "karchive", "kcoreaddons", "kdegraphics-mobipocket", "kio", "libkdcraw", "libkexiv2", "libstdc++", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kdegraphics-thumbnailers-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "59553b89fe8880a2fcad9d82ba728df06c20cc8a36dcdcc8cce66478c2f649e8"

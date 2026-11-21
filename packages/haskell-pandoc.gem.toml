@@ -1,0 +1,11 @@
+[package]
+name = "haskell-pandoc"
+version = "3.11-55"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Conversion between markup formats"
+depends = ["ghc-libs", "haskell-aeson", "haskell-aeson-pretty", "haskell-asciidoc", "haskell-attoparsec", "haskell-base64-bytestring", "haskell-blaze-html", "haskell-blaze-markup", "haskell-case-insensitive", "haskell-citeproc", "haskell-commonmark", "haskell-commonmark-extensions", "haskell-commonmark-pandoc", "haskell-crypton", "haskell-crypton-connection", "haskell-crypton-x509-system", "haskell-data-default", "haskell-djot", "haskell-doclayout", "haskell-doctemplates", "haskell-emojis", "haskell-file-embed", "haskell-glob", "haskell-gridtables", "haskell-haddock-library", "haskell-http-client", "haskell-http-client-tls", "haskell-http-types", "haskell-ipynb", "haskell-jira-wiki-markup", "haskell-juicypixels", "haskell-libyaml", "haskell-mime-types", "haskell-network", "haskell-network-uri", "haskell-pandoc-types", "haskell-pretty-show", "haskell-random", "haskell-safe", "haskell-scientific", "haskell-skylighting", "haskell-skylighting-core", "haskell-split", "haskell-syb", "haskell-tagsoup", "haskell-temporary", "haskell-texmath", "haskell-text-conversions", "haskell-tls", "haskell-typst", "haskell-unicode-collation", "haskell-unicode-data", "haskell-unicode-transforms", "haskell-vector", "haskell-xml", "haskell-xml-conduit", "haskell-xml-types", "haskell-yaml", "haskell-zip-archive", "haskell-zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-pandoc-3.11-55-x86_64.pkg.tar.zst"
+sha256 = "04072655569824905a4736f87ee220c6b7139b28863d83fa920f9931cae684e2"

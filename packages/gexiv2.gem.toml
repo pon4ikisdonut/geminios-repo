@@ -1,0 +1,11 @@
+[package]
+name = "gexiv2"
+version = "0.16.2-2"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "GObject-based wrapper around the Exiv2 library"
+depends = ["exiv2", "glib2", "glibc", "libgcc", "libstdc++", "gexiv2-common", "libexiv2.so", "libglib-2.0.so", "libgobject-2.0.so", "libgio-2.0.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gexiv2-0.16.2-2-x86_64.pkg.tar.zst"
+sha256 = "4cbb5a08bca8cc3b436da947d7a97eebf0f5ad8781f81c7a772ccf21475201b6"

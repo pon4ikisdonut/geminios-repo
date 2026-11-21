@@ -1,0 +1,11 @@
+[package]
+name = "kcolorchooser"
+version = "26.08.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Color Chooser"
+depends = ["glibc", "kcoreaddons", "ki18n", "kxmlgui", "libstdc++", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kcolorchooser-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "fcfdf3756f15dbf2be38b7b0570adc796998ca4d8e8905041f0792ac66210b7e"

@@ -1,0 +1,11 @@
+[package]
+name = "kpimtextedit"
+version = "26.08.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "A textedit with PIM-specific features"
+depends = ["glibc", "kcodecs", "kconfig", "kcoreaddons", "ki18n", "kio", "ktextaddons", "kwidgetsaddons", "kxmlgui", "libstdc++", "qt6-base", "sonnet", "syntax-highlighting"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kpimtextedit-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "f6077903d65d4d7646f732b076d9d8f0fa78c3e9dd840f12c2094161ed659e3e"

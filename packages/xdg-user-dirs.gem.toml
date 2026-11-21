@@ -1,0 +1,11 @@
+[package]
+name = "xdg-user-dirs"
+version = "0.20-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Manage user directories like ~/Desktop and ~/Music"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xdg-user-dirs-0.20-1-x86_64.pkg.tar.zst"
+sha256 = "d2d8d9cf22fca76652320c905056dfcf55201665d025ae2c3de60702a36bfa65"

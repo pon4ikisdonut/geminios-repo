@@ -1,0 +1,11 @@
+[package]
+name = "fuse2fs"
+version = "1.47.4-1"
+license = "MIT"
+arch = "x86_64"
+description = "Ext2/3/4 filesystem driver for FUSE"
+depends = ["fuse3", "e2fsprogs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/fuse2fs-1.47.4-1-x86_64.pkg.tar.zst"
+sha256 = "9bcf7e2543e7419ab2b3711e310d9e5dbff1141cdfc139a46c1796f2db328d90"

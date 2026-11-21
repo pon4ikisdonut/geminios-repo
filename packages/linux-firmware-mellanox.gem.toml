@@ -1,0 +1,11 @@
+[package]
+name = "linux-firmware-mellanox"
+version = "20261019-1"
+license = "LicenseRef-WHENCE"
+arch = "any"
+description = "Firmware files for Linux - Firmware for Mellanox Spectrum switches"
+depends = ["linux-firmware-whence"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/linux-firmware-mellanox-20261019-1-any.pkg.tar.zst"
+sha256 = "bec21da9296cc78cc010d37380d7efe53f404e13e330b2b333b7e1c45ff875f9"

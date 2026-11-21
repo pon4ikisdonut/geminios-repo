@@ -1,0 +1,11 @@
+[package]
+name = "shaderc"
+version = "2026.4-1"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "Collection of tools, libraries and tests for shader compilation"
+depends = ["glibc", "glslang", "libgcc", "libstdc++", "spirv-tools"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/shaderc-2026.4-1-x86_64.pkg.tar.zst"
+sha256 = "4d3f5e14b23f596959135a657a024278a3cdd403eeaa60d2e7bc61093a2ffd6b"

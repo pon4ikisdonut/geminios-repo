@@ -1,0 +1,11 @@
+[package]
+name = "haskell-indexed-traversable-instances"
+version = "0.1.2.1-61"
+license = "BSD-2-Clause"
+arch = "x86_64"
+description = "More instances of FunctorWithIndex, FoldableWithIndex, TraversableWithIndex"
+depends = ["ghc-libs", "haskell-indexed-traversable", "haskell-onetuple", "haskell-tagged", "haskell-unordered-containers", "haskell-vector"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-indexed-traversable-instances-0.1.2.1-61-x86_64.pkg.tar.zst"
+sha256 = "28f6c1264f118abc1e6d4da5edb8d68584f127a4286af8e7a696ba1eaf6ed96a"

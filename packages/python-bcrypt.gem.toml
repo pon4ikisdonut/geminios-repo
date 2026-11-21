@@ -1,0 +1,11 @@
+[package]
+name = "python-bcrypt"
+version = "5.0.0-2"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "Modern password hashing for your software and your servers"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-bcrypt-5.0.0-2-x86_64.pkg.tar.zst"
+sha256 = "b7c2a00f662da17ed97c489c8b3e8d84e543145f22dbbe606e888f3fcc4b1930"

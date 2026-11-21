@@ -1,0 +1,11 @@
+[package]
+name = "haskell-crypton-x509-system"
+version = "1.6.8-48"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Handle per-operating-system X.509 accessors and storage"
+depends = ["ghc-libs", "haskell-crypton-x509", "haskell-crypton-x509-store", "haskell-pem"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-crypton-x509-system-1.6.8-48-x86_64.pkg.tar.zst"
+sha256 = "8e97025e2173f86e20a05b5194d6a813650122173bd34722c8eb29573db464d9"

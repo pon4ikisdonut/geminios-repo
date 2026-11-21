@@ -1,0 +1,11 @@
+[package]
+name = "pacman-mirrorlist"
+version = "20260610-1"
+license = "GPL-2.0-or-later"
+arch = "any"
+description = "Arch Linux mirror list for use by pacman"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/pacman-mirrorlist-20260610-1-any.pkg.tar.zst"
+sha256 = "f6008b33d950a4e4eb5930fe3852cceb0fe1fa5fdaff36125583201531fe4ae9"

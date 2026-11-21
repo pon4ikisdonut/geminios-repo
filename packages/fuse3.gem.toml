@@ -1,0 +1,11 @@
+[package]
+name = "fuse3"
+version = "3.18.3-1"
+license = "LGPL-2.1-only"
+arch = "x86_64"
+description = "Interface for userspace programs to export a filesystem to the Linux kernel"
+depends = ["fuse-common", "glibc", "liburing", "liburing.so", "numactl", "libnuma.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/fuse3-3.18.3-1-x86_64.pkg.tar.zst"
+sha256 = "7171289bad5b88b01b2a2737ecc2a4b0a334a2fc045b6d74c9af57aa863c9547"

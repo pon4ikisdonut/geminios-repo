@@ -1,0 +1,11 @@
+[package]
+name = "nautilus"
+version = "51.1-1"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "Default file manager for GNOME"
+depends = ["cairo", "dconf", "gdk-pixbuf2", "gexiv2", "glib2", "glibc", "glycin", "glycin-gtk4", "gnome-autoar", "gnome-desktop-4", "graphene", "gst-plugins-base-libs", "gstreamer", "gtk4", "gvfs", "hicolor-icon-theme", "icu", "libadwaita", "libcloudproviders", "libgcc", "libportal", "libportal-gtk4", "libx11", "localsearch", "pango", "tinysparql", "wayland", "xdg-user-dirs-gtk", "libnautilus-extension.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/nautilus-51.1-1-x86_64.pkg.tar.zst"
+sha256 = "fd53302287620a95abb30e305843be3df1eef1365f68c4f9dac1285743037ec9"

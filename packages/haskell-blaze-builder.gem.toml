@@ -1,0 +1,11 @@
+[package]
+name = "haskell-blaze-builder"
+version = "0.4.4.1-98"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Efficient buffered output"
+depends = ["ghc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-blaze-builder-0.4.4.1-98-x86_64.pkg.tar.zst"
+sha256 = "2c175cb861c927393577fd31ac13b8fd3e81b7bf54e148cd167f57e347b3ca89"

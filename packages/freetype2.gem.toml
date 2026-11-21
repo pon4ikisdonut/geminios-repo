@@ -1,0 +1,11 @@
+[package]
+name = "freetype2"
+version = "2.15.0-1"
+license = "FTL OR GPL-2.0-or-later"
+arch = "x86_64"
+description = "Font rasterization library"
+depends = ["brotli", "bzip2", "glibc", "libpng", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/freetype2-2.15.0-1-x86_64.pkg.tar.zst"
+sha256 = "51ac42a702634f0fd8eb78a6c6110e1abb33c4f6045b432f46a915afdd370cc5"

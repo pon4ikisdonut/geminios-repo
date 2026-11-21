@@ -1,0 +1,11 @@
+[package]
+name = "alembic"
+version = "1.8.12-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "An open framework for storing and sharing scene data"
+depends = ["glibc", "libgcc", "libstdc++", "imath", "hdf5"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/alembic-1.8.12-1-x86_64.pkg.tar.zst"
+sha256 = "80c87e436fc00785c18c7084d31b193c2a7df441011585faebf6c963b639f6e5"

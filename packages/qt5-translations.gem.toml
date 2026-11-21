@@ -1,0 +1,11 @@
+[package]
+name = "qt5-translations"
+version = "5.15.19-1"
+license = "custom"
+arch = "any"
+description = "A cross-platform application and UI framework (Translations)"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qt5-translations-5.15.19-1-any.pkg.tar.zst"
+sha256 = "5031b69a16673fa44d5d9285276960e8b6f93df38211a60977a288b661008c88"

@@ -1,0 +1,11 @@
+[package]
+name = "gnome-disk-utility"
+version = "46.1-3"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Disk Management Utility for GNOME"
+depends = ["at-spi2-core", "cairo", "dconf", "gdk-pixbuf2", "glib2", "glibc", "gtk3", "hicolor-icon-theme", "libcanberra", "libdvdread", "libgcc", "libhandy", "libnotify", "libpwquality", "libsecret", "pango", "parted", "systemd-libs", "udisks2", "xz"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gnome-disk-utility-46.1-3-x86_64.pkg.tar.zst"
+sha256 = "a2b388687a1a7f51407f6bc569711ccdd7a89d75bdd36daebfcb5ae052f6b10b"

@@ -1,0 +1,11 @@
+[package]
+name = "libibus"
+version = "1.5.34-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "IBus support library"
+depends = ["libglib-2.0.so", "libgobject-2.0.so", "libgio-2.0.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libibus-1.5.34-2-x86_64.pkg.tar.zst"
+sha256 = "d4c5d9193dea4c7e334d1d544ad3ba6fb0bb461507fd7c44eb5b39d8e1533bc5"

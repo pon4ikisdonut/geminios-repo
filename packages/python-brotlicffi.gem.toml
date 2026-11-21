@@ -1,0 +1,11 @@
+[package]
+name = "python-brotlicffi"
+version = "1.2.1.0-1"
+license = "MIT"
+arch = "x86_64"
+description = "Python bindings to the Brotli compression library"
+depends = ["brotli", "glibc", "python", "python-cffi"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-brotlicffi-1.2.1.0-1-x86_64.pkg.tar.zst"
+sha256 = "c5a334ec49b053b89194001c012d34bcc5b8f98493584bcc7c3aedbeddc5859f"

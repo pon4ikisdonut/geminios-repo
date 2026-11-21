@@ -1,0 +1,11 @@
+[package]
+name = "openmpi"
+version = "5.0.11-2"
+license = "BSD-3-Clause AND LicenseRef-MPICH"
+arch = "x86_64"
+description = "High performance message passing library (MPI)"
+depends = ["glibc", "hwloc", "libgcc", "libevent", "libevent_core-2.1.so", "libevent_pthreads-2.1.so", "libfabric", "openpmix", "libpmix.so", "openucx", "prrte"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/openmpi-5.0.11-2-x86_64.pkg.tar.zst"
+sha256 = "7726690346c4c3dcaa4ca0736fc2abf64cf57fe82e24aca5eff7b043d84d951f"

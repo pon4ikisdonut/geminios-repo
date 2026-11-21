@@ -1,0 +1,11 @@
+[package]
+name = "haskell-text-iso8601"
+version = "0.1.1.2-27"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Converting time to and from ISO 8601 text."
+depends = ["ghc-libs", "haskell-integer-conversion", "haskell-time-compat"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-text-iso8601-0.1.1.2-27-x86_64.pkg.tar.zst"
+sha256 = "78c00660c370e81df9ccf821c96808f450bd7a9d7400f7221850dcdc837f74d7"

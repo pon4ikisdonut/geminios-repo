@@ -1,0 +1,11 @@
+[package]
+name = "ffmpeg"
+version = "2:9.1-1"
+license = "GPL-3.0-only"
+arch = "x86_64"
+description = "Complete solution to record, convert and stream audio and video"
+depends = ["alsa-lib", "aom", "bzip2", "cairo", "dav1d", "fontconfig", "freetype2", "fribidi", "glib2", "glibc", "gmp", "gnutls", "gsm", "harfbuzz", "jack", "lame", "lcms2", "libass", "libavc1394", "libbluray", "libbs2b", "libdrm", "libdvdnav", "libdvdread", "libgcc", "libgl", "libiec61883", "libjxl", "libmodplug", "libopenmpt", "libplacebo", "libpulse", "libraw1394", "librsvg", "libsoxr", "libssh", "libtheora", "libva", "libvdpau", "libvorbis", "libvpx", "libwebp", "libx11", "libxcb", "libxext", "libxml2", "libxv", "ocl-icd", "onevpl", "opencore-amr", "openjpeg2", "opus", "rav1e", "rubberband", "sdl2", "snappy", "sndio", "speex", "srt", "svt-av1", "v4l-utils", "vapoursynth", "vid.stab", "vmaf", "vulkan-icd-loader", "x264", "x265", "xvidcore", "xz", "zeromq", "zimg", "zlib", "libass.so", "libbs2b.so", "libdav1d.so", "libfreetype.so", "libharfbuzz.so", "libopenmpt.so", "librav1e.so", "librsvg-2.so", "librubberband.so", "libva.so", "libva-drm.so", "libva-x11.so", "libvidstab.so", "libvorbisenc.so", "libvorbis.so", "libvpx.so", "libx264.so", "libxvidcore.so", "libzimg.so", "libzmq.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ffmpeg-2:9.1-1-x86_64.pkg.tar.zst"
+sha256 = "0add54899d0b08c952c045a024a28b906a1af297757ebddc1f8c30cb3eaeee2d"

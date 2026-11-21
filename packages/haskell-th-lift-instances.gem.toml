@@ -1,0 +1,11 @@
+[package]
+name = "haskell-th-lift-instances"
+version = "0.1.20-224"
+license = "BSD"
+arch = "x86_64"
+description = "Lift instances for template-haskell for common data types."
+depends = ["ghc-libs", "haskell-th-lift", "haskell-vector"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-th-lift-instances-0.1.20-224-x86_64.pkg.tar.zst"
+sha256 = "a45e57ecfceaee5f6ddf8d4f549036ea6f3f44c474140d3d2cccafa20b355219"

@@ -1,0 +1,11 @@
+[package]
+name = "texlive-pictures"
+version = "2026.1-1"
+license = "GPL"
+arch = "any"
+description = "TeX Live - Graphics, pictures, diagrams"
+depends = ["texlive-bin", "texlive-basic"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/texlive-pictures-2026.1-1-any.pkg.tar.zst"
+sha256 = "531b5ae010e19dfa07415503281d8bd7298665f5f6dfdceece230d4781c70923"

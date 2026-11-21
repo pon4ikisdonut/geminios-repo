@@ -1,0 +1,11 @@
+[package]
+name = "libverto"
+version = "0.3.2-6"
+license = "MIT"
+arch = "x86_64"
+description = "Main event loop abstraction library"
+depends = ["glibc", "libevent"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/libverto-0.3.2-6-x86_64.pkg.tar.zst"
+sha256 = "d0965b1b256e330e300c2bc3c699afa24f2d800dc476541039d452b606309496"

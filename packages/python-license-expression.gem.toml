@@ -1,0 +1,11 @@
+[package]
+name = "python-license-expression"
+version = "30.4.4-2"
+license = "Apache-2.0"
+arch = "any"
+description = "Utility to parse, normalize and compare license expressions"
+depends = ["python", "python-boolean.py"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-license-expression-30.4.4-2-any.pkg.tar.zst"
+sha256 = "ac76300a0681322822a7061f97dd53bdc0c5e5742ec052057f2f9e56ef1c1310"

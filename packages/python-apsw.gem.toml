@@ -1,0 +1,11 @@
+[package]
+name = "python-apsw"
+version = "3.54.1.0-1"
+license = "MIT"
+arch = "x86_64"
+description = "Python wrapper for SQLite"
+depends = ["python", "sqlite"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-apsw-3.54.1.0-1-x86_64.pkg.tar.zst"
+sha256 = "42f0169503cfc3987ce052f98b63b2f81505c4d79eaf17f985ec8c286a13cae6"

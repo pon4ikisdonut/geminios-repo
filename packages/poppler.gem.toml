@@ -1,0 +1,11 @@
+[package]
+name = "poppler"
+version = "26.11.0-1"
+license = "HPND-sell-variant"
+arch = "x86_64"
+description = "PDF rendering library based on xpdf 3.0"
+depends = ["libjpeg-turbo", "libgcc", "libstdc++", "cairo", "fontconfig", "openjpeg2", "lcms2", "nss", "curl", "gpgmepp", "nspr", "libpng", "freetype2", "zlib", "libtiff", "glibc", "harfbuzz"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/poppler-26.11.0-1-x86_64.pkg.tar.zst"
+sha256 = "d53419b6eed482cfcbf64f111c548bc0ba47ef4719d299411ea89cec1e2b494e"

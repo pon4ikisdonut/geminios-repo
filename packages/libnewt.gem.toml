@@ -1,0 +1,11 @@
+[package]
+name = "libnewt"
+version = "0.52.25-2"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "Not Erik's Windowing Toolkit - text mode windowing with slang"
+depends = ["glibc", "gpm", "popt", "slang"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libnewt-0.52.25-2-x86_64.pkg.tar.zst"
+sha256 = "a6f7192698b7b0a978317135f9218e1d6da550b1d50c5d823564b801df08362c"

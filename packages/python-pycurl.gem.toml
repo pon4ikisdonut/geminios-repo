@@ -1,0 +1,11 @@
+[package]
+name = "python-pycurl"
+version = "7.49.0-2"
+license = "MIT"
+arch = "x86_64"
+description = "A Python 3.x interface to libcurl"
+depends = ["curl", "glibc", "openssl", "python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-pycurl-7.49.0-2-x86_64.pkg.tar.zst"
+sha256 = "02e363ee70152496209fbc5bc9e8724afad77dd268a159272a3aacec372294ed"

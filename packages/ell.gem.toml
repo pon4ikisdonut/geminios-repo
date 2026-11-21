@@ -1,0 +1,11 @@
+[package]
+name = "ell"
+version = "0.83-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Embedded Linux library"
+depends = ["libgcc", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ell-0.83-1-x86_64.pkg.tar.zst"
+sha256 = "3b2508c14b2b1bdbe33d5f0eabc690dad93923c791721ea17654805ded16cb67"

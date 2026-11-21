@@ -1,0 +1,11 @@
+[package]
+name = "openxr"
+version = "1.1.60-2"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "An open standard for virtual reality and augmented reality platforms and devices"
+depends = ["jsoncpp", "libx11", "vulkan-icd-loader", "libglvnd", "libxrandr", "libxxf86vm", "libstdc++", "libgcc", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/openxr-1.1.60-2-x86_64.pkg.tar.zst"
+sha256 = "6b00b0be7390d7518c44fc79b25323d8c62f0dd64b03226cf4e55c2420fec9f1"

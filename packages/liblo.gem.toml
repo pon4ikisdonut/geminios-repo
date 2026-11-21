@@ -1,0 +1,11 @@
+[package]
+name = "liblo"
+version = "1:0.36-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "A lightweight OSC (Open Sound Control) implementation"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/liblo-1:0.36-1-x86_64.pkg.tar.zst"
+sha256 = "2bb20412ce5ce879d608f491873f23efe1386a713459154c9d736078591107a3"

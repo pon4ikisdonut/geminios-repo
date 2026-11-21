@@ -1,0 +1,11 @@
+[package]
+name = "krdc"
+version = "26.08.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Remote Desktop Client"
+depends = ["glibc", "kbookmarks", "kcmutils", "kcompletion", "kconfig", "kconfigwidgets", "kcoreaddons", "kcrash", "kdnssd", "kguiaddons", "ki18n", "kio", "knotifyconfig", "kstatusnotifieritem", "kwidgetsaddons", "kxmlgui", "libssh", "libstdc++", "qt6-base", "qtkeychain-qt6", "wayland"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/krdc-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "c533cf85f58ed4b2ca972e52b7ad48b3827a72c88b174f37e775457f6c157c67"

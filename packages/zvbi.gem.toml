@@ -1,0 +1,11 @@
+[package]
+name = "zvbi"
+version = "0.2.46-1"
+license = "MIT"
+arch = "x86_64"
+description = "VBI capture and decoding library"
+depends = ["libpng", "libx11"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/zvbi-0.2.46-1-x86_64.pkg.tar.zst"
+sha256 = "81a8bba37c98ee45d2c2ccd56bc2661563ce139d493de046861dde9c289ba5e1"

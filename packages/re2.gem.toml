@@ -1,0 +1,11 @@
+[package]
+name = "re2"
+version = "2:2025.11.05-6"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Fast, safe, thread-friendly regular expression engine"
+depends = ["abseil-cpp", "glibc", "libgcc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/re2-2:2025.11.05-6-x86_64.pkg.tar.zst"
+sha256 = "f055975eadd1916f1952c5caefcaaf32ef60f1e4461b2f4ac079b0e3c42d61d4"

@@ -1,0 +1,11 @@
+[package]
+name = "python-mpmath"
+version = "1.4.1-1"
+license = "BSD-3-Clause"
+arch = "any"
+description = "Python library for arbitrary-precision floating-point arithmetic."
+depends = ["python", "python-gmpy2"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-mpmath-1.4.1-1-any.pkg.tar.zst"
+sha256 = "e24f3681291cd019f534bbffed458ed5b9b836d7ee34c377fe836e583001cc98"

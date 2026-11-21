@@ -1,0 +1,11 @@
+[package]
+name = "adsb_deku"
+version = "2025.05.03-2"
+license = "MIT"
+arch = "x86_64"
+description = "TUI radar application"
+depends = ["dump1090_rs", "glibc", "libgcc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/adsb_deku-2025.05.03-2-x86_64.pkg.tar.zst"
+sha256 = "6ecd14e44a1d19c1847ece252fa7d87417e9cf0a8bb57e040cebdc05eb7d6902"

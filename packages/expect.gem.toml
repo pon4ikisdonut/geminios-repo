@@ -1,0 +1,11 @@
+[package]
+name = "expect"
+version = "5.45.4-5"
+license = "custom"
+arch = "x86_64"
+description = "A tool for automating interactive applications"
+depends = ["tcl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/expect-5.45.4-5-x86_64.pkg.tar.zst"
+sha256 = "466f6dd635c3ae515f3b0dfb15f6486aa79308da11da1872bb4ac761b40c886b"

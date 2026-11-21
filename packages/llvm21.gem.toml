@@ -1,0 +1,11 @@
+[package]
+name = "llvm21"
+version = "21.1.8-1"
+license = "Apache-2.0 WITH LLVM-exception"
+arch = "x86_64"
+description = "Compiler infrastructure (LLVM 21)"
+depends = ["llvm21-libs", "curl", "perl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/llvm21-21.1.8-1-x86_64.pkg.tar.zst"
+sha256 = "16f8f1eb711d77b99325a8d2497f0bdaa9c5e12743413394eeeac9be9ad34436"

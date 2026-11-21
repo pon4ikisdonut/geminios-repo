@@ -1,0 +1,11 @@
+[package]
+name = "libieee1284"
+version = "0.2.11-19"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "A library to query devices connected in parallel port"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libieee1284-0.2.11-19-x86_64.pkg.tar.zst"
+sha256 = "4c46948c26550039d2d550399a6b1750a6fdede319f4c0cc9897bad6f11956ec"

@@ -1,0 +1,11 @@
+[package]
+name = "libmanette"
+version = "0.2.13-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Simple GObject game controller library"
+depends = ["glib2", "glibc", "hidapi", "libevdev", "libgcc", "libgudev"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libmanette-0.2.13-2-x86_64.pkg.tar.zst"
+sha256 = "37ff8274c77c8092ee5b30e34e53533157e18ead998670a21fa3ae7d67355932"

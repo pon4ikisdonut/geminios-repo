@@ -1,0 +1,11 @@
+[package]
+name = "haskell-hslua-module-version"
+version = "1.2.0.1-27"
+license = "MIT"
+arch = "x86_64"
+description = "Lua module to work with version specifiers."
+depends = ["ghc-libs", "haskell-hslua-core", "haskell-hslua-marshalling", "haskell-hslua-packaging"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-hslua-module-version-1.2.0.1-27-x86_64.pkg.tar.zst"
+sha256 = "ac014503f4c85c4b2f136420794d56798ea4aeaa95e89a0465feeb725761ebc7"

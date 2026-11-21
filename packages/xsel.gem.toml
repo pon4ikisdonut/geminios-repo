@@ -1,0 +1,11 @@
+[package]
+name = "xsel"
+version = "1.2.1-2"
+license = "custom"
+arch = "x86_64"
+description = "Command-line program for getting and setting the contents of the X selection"
+depends = ["libx11"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xsel-1.2.1-2-x86_64.pkg.tar.zst"
+sha256 = "a3c658d59d08bee69d9768c8f1d53358cce8047ab1e6ae1bcbee3151ba9f2d42"

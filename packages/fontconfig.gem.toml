@@ -1,0 +1,11 @@
+[package]
+name = "fontconfig"
+version = "2:2.18.4-1"
+license = "HPND AND Unicode-DFS-2016"
+arch = "x86_64"
+description = "Library for configuring and customizing font access"
+depends = ["bash", "expat", "freetype2", "glibc", "libexpat.so", "libfreetype.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/fontconfig-2:2.18.4-1-x86_64.pkg.tar.zst"
+sha256 = "944d1de8b213ba0e9d0002f202cfd757413e33a8d462795f0045599d1806a30e"

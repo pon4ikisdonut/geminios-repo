@@ -1,0 +1,11 @@
+[package]
+name = "qt6-charts"
+version = "6.12.0-1"
+license = "Qt-GPL-exception-1.0"
+arch = "x86_64"
+description = "Provides a set of easy to use chart components"
+depends = ["glibc", "libstdc++", "qt6-base", "qt6-declarative"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qt6-charts-6.12.0-1-x86_64.pkg.tar.zst"
+sha256 = "c9e3f9e6adf38ba243364985daa244be7a5685fb84cb6bce3b9f40bb9372b511"

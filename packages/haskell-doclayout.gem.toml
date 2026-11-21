@@ -1,0 +1,11 @@
+[package]
+name = "haskell-doclayout"
+version = "0.5.0.3-28"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "A prettyprinting library for laying out text documents"
+depends = ["ghc-libs", "haskell-emojis", "haskell-safe"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-doclayout-0.5.0.3-28-x86_64.pkg.tar.zst"
+sha256 = "ee58bc702db9d24cf79fcde39e9bb760581dcd8af51a40011072f2b977a14bc6"

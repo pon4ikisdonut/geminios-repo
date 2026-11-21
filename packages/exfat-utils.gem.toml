@@ -1,0 +1,11 @@
+[package]
+name = "exfat-utils"
+version = "1.4.0-4"
+license = "GPL2"
+arch = "x86_64"
+description = "Utilities for exFAT file system"
+depends = ["glibc", "fuse3"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/exfat-utils-1.4.0-4-x86_64.pkg.tar.zst"
+sha256 = "8b15a4a1e2d35fb9827893a418722f9369e961254381e141c81c34c27afbc053"

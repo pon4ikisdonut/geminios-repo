@@ -1,0 +1,11 @@
+[package]
+name = "python-pathspec"
+version = "1.1.1-1"
+license = "MPL-2.0"
+arch = "any"
+description = "Utility library for gitignore style pattern matching of file paths"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-pathspec-1.1.1-1-any.pkg.tar.zst"
+sha256 = "294c57c93df7eb12e9a20e7ae669f630f88cc39e3a8a83b83113ee8d7c51ca2a"

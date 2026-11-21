@@ -1,0 +1,11 @@
+[package]
+name = "grub"
+version = "2:2.16-1"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "GNU GRand Unified Bootloader (2)"
+depends = ["device-mapper", "gettext", "sh", "xz"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/grub-2:2.16-1-x86_64.pkg.tar.zst"
+sha256 = "ba96d8453efb54ec909a5d11598b8032c5b30c6654170bd5e6438d4b01bc0ffd"

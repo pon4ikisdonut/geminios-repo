@@ -1,0 +1,11 @@
+[package]
+name = "libpsl"
+version = "0.21.5-2"
+license = "MIT"
+arch = "x86_64"
+description = "Public Suffix List library"
+depends = ["libidn2", "libunistring", "libidn2.so", "libunistring.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/libpsl-0.21.5-2-x86_64.pkg.tar.zst"
+sha256 = "e07925c2487bd7deffdd57808b19561e80a4cb25a33e51dbd94efb673bc81944"

@@ -1,0 +1,11 @@
+[package]
+name = "speedtest-cli"
+version = "2.1.3-11"
+license = "Apache-2.0"
+arch = "any"
+description = "Command line interface for testing internet bandwidth using speedtest.net"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/speedtest-cli-2.1.3-11-any.pkg.tar.zst"
+sha256 = "0a655b881e74050e80b6d8418f18277896e3c789ee43a6cd7269e03f3cde4b1f"

@@ -1,0 +1,11 @@
+[package]
+name = "linux-firmware-liquidio"
+version = "20261019-1"
+license = "LicenseRef-liquidio"
+arch = "any"
+description = "Firmware files for Linux - Firmware for Cavium LiquidIO server adapters"
+depends = ["linux-firmware-whence"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/linux-firmware-liquidio-20261019-1-any.pkg.tar.zst"
+sha256 = "920c2ca26a9d418f842e25be4ba4333356436b71272a5f350075aa3c13042106"

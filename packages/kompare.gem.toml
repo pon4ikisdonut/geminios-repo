@@ -1,0 +1,11 @@
+[package]
+name = "kompare"
+version = "26.08.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Graphical file differences tool"
+depends = ["glibc", "kcodecs", "kcompletion", "kconfig", "kconfigwidgets", "kcoreaddons", "ki18n", "kio", "kparts", "ktexteditor", "kwidgetsaddons", "kxmlgui", "libkomparediff2", "libstdc++", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kompare-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "a4df13368361e7c74a738222db6b0df3b795de1066310d94e6f097d3d2a5c31f"

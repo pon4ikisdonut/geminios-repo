@@ -1,0 +1,11 @@
+[package]
+name = "openjph"
+version = "0.33.0-1"
+license = "BSD-2-Clause"
+arch = "x86_64"
+description = "Open-source implementation of JPEG2000 Part-15"
+depends = ["glibc", "libgcc", "libstdc++", "libtiff"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/openjph-0.33.0-1-x86_64.pkg.tar.zst"
+sha256 = "d0b30fcfab68b7460569791929c7aed8c26aff8de9c0b633fdabac8f66b8bfb7"

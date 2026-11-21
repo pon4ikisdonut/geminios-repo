@@ -1,0 +1,11 @@
+[package]
+name = "run-parts"
+version = "5.24-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "run scripts or programs in a directory"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/run-parts-5.24-1-x86_64.pkg.tar.zst"
+sha256 = "a16d62bddedb68db490f34b1659ecc5cb2c969dc30091c5d4bffa0905da4753c"

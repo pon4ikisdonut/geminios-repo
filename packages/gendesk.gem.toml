@@ -1,0 +1,11 @@
+[package]
+name = "gendesk"
+version = "1.0.15-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Utility for generating desktop files by specifying a minimum of information"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gendesk-1.0.15-1-x86_64.pkg.tar.zst"
+sha256 = "c3dd26e261ca5c9409d354640d5149148240e5bbe02db99b23ba8e1ae42d8bd3"

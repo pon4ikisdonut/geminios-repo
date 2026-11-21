@@ -1,0 +1,11 @@
+[package]
+name = "colord-sane"
+version = "1.4.8-2"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "System daemon for managing color devices (SANE support)"
+depends = ["colord", "libcolord", "dbus", "glib2", "glibc", "libgcc", "libgudev", "sane"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/colord-sane-1.4.8-2-x86_64.pkg.tar.zst"
+sha256 = "39a569c96c4424ecf43ab8033681f2ec05194a269b33d89a926c6f2803bcb1a7"

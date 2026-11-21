@@ -1,0 +1,11 @@
+[package]
+name = "usbredir"
+version = "0.15.0-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "USB traffic redirection protocol"
+depends = ["glib2", "glibc", "libusb"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/usbredir-0.15.0-1-x86_64.pkg.tar.zst"
+sha256 = "a2771405dc6fe2ca7f631ba35aefd788b22ba59f1c232613948cf628e7ba238a"

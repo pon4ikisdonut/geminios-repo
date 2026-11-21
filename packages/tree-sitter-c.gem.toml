@@ -1,0 +1,11 @@
+[package]
+name = "tree-sitter-c"
+version = "0.24.1-2"
+license = "MIT"
+arch = "x86_64"
+description = "C grammar for tree-sitter"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/tree-sitter-c-0.24.1-2-x86_64.pkg.tar.zst"
+sha256 = "8219a4dd56b6114683727c111fce705bf8ab3e6f135f0b3b3361e04971bf3245"

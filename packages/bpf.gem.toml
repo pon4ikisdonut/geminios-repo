@@ -1,0 +1,11 @@
+[package]
+name = "bpf"
+version = "7.3.5-1"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "BPF tools"
+depends = ["glibc", "readline", "zlib", "libelf", "libcap", "zstd", "llvm-libs", "binutils", "libsframe.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/bpf-7.3.5-1-x86_64.pkg.tar.zst"
+sha256 = "fac1da05a11a8312f441bcd69db10b5b6cfa5750083d58e2f4cdd404bc322eb5"

@@ -1,0 +1,11 @@
+[package]
+name = "btop"
+version = "1.4.8-1"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "A monitor of system resources, bpytop ported to C++"
+depends = ["glibc", "hicolor-icon-theme", "libgcc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/btop-1.4.8-1-x86_64.pkg.tar.zst"
+sha256 = "a64c95e16a7d11cc9cb1100cf94844ce43b57f50063f247a66e96fcf2984b907"

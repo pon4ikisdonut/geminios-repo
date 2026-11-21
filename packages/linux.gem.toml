@@ -1,0 +1,11 @@
+[package]
+name = "linux"
+version = "7.3.5.arch1-1"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "The Linux kernel and modules"
+depends = ["coreutils", "initramfs", "kmod"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/linux-7.3.5.arch1-1-x86_64.pkg.tar.zst"
+sha256 = "d39804f7af4a4478d4c3f808edb550227f6866cfa093ace2e779cba939dcc322"

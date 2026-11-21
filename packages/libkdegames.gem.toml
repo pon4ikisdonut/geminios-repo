@@ -1,0 +1,11 @@
+[package]
+name = "libkdegames"
+version = "26.08.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Common code and data for many KDE games"
+depends = ["glibc", "karchive", "kcolorscheme", "kcompletion", "kconfig", "kconfigwidgets", "kcoreaddons", "kdnssd", "kguiaddons", "ki18n", "knewstuff", "kwidgetsaddons", "kxmlgui", "libsndfile", "libstdc++", "openal", "qt6-base", "qt6-declarative", "qt6-svg"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libkdegames-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "721f35e9102d4256e62fe4d306a42233c8e51ba192a67839cb84655d75fc44ee"

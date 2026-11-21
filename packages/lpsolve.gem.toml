@@ -1,0 +1,11 @@
+[package]
+name = "lpsolve"
+version = "5.5.2.14-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "a Mixed Integer Linear Programming (MILP) solver"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/lpsolve-5.5.2.14-1-x86_64.pkg.tar.zst"
+sha256 = "5aeff724ef21495f525e2524a4fbfd0b87787e133277dc150ff054c799e01a79"

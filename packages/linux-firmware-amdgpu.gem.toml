@@ -1,0 +1,11 @@
+[package]
+name = "linux-firmware-amdgpu"
+version = "20261019-1"
+license = "MIT"
+arch = "any"
+description = "Firmware files for Linux - Firmware for AMD Radeon GPUs"
+depends = ["linux-firmware-whence"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/linux-firmware-amdgpu-20261019-1-any.pkg.tar.zst"
+sha256 = "3809f365db7bc136d53d7a8330f4ca59205ca9d51aac535e721822e28b86b79f"

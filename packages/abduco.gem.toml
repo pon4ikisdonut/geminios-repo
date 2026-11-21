@@ -1,0 +1,11 @@
+[package]
+name = "abduco"
+version = "0.6-8"
+license = "custom:ISC"
+arch = "x86_64"
+description = "Tool for session {at,de}tach support which allows a process to run independently from its controlling terminal"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/abduco-0.6-8-x86_64.pkg.tar.zst"
+sha256 = "208c0ac1a3bbac1b724c3b11bcc433fd85c519e30a9ff3d71cc466e4740a1c26"

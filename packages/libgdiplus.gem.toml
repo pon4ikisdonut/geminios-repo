@@ -1,0 +1,11 @@
+[package]
+name = "libgdiplus"
+version = "6.2-1"
+license = "MIT"
+arch = "x86_64"
+description = "C-based implementation of the GDI+ API"
+depends = ["cairo", "fontconfig", "glib2", "glibc", "harfbuzz", "libexif", "libjpeg-turbo", "libpng", "libtiff", "libx11", "pango", "giflib", "libgif.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libgdiplus-6.2-1-x86_64.pkg.tar.zst"
+sha256 = "b2a8659547b6484b94a7b4799a2856ebdd1201315dacd9204c42ed42b92c4f0b"

@@ -1,0 +1,11 @@
+[package]
+name = "netavark"
+version = "2.1.0-3"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "Container network stack"
+depends = ["aardvark-dns", "glibc", "libgcc", "nftables"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/netavark-2.1.0-3-x86_64.pkg.tar.zst"
+sha256 = "5da92f0f1a3aa627febe36ccdbb851f45acf4dd6ea2530f3de7587d61c329860"

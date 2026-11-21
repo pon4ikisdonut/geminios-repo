@@ -1,0 +1,11 @@
+[package]
+name = "knotifications5"
+version = "5.116.0-3"
+license = "LGPL"
+arch = "x86_64"
+description = "Abstraction for system notifications"
+depends = ["libcanberra", "libdbusmenu-qt5", "kwindowsystem5", "kconfig5", "kcoreaddons5", "qt5-speech", "libxtst"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/knotifications5-5.116.0-3-x86_64.pkg.tar.zst"
+sha256 = "eab663d7323efb5e7be2b76e9b7ae33319cc31134dfa2bcc609a1770c39558b1"

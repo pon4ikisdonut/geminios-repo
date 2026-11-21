@@ -1,0 +1,11 @@
+[package]
+name = "pahole"
+version = "1:1.32-1"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "Type info tools"
+depends = ["bash", "glibc", "libelf", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/pahole-1:1.32-1-x86_64.pkg.tar.zst"
+sha256 = "3107fa7ceb378a05bd964a66a44b3350bb2cc8c9735fd01453c83c987794520a"

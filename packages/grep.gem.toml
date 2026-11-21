@@ -1,0 +1,11 @@
+[package]
+name = "grep"
+version = "3.12-2"
+license = "GPL3"
+arch = "x86_64"
+description = "A string search utility"
+depends = ["glibc", "pcre2"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/grep-3.12-2-x86_64.pkg.tar.zst"
+sha256 = "9dd8a5dad99e8d388b1fb1406919de218d30c7e49924f615a12d3f2deaaecfe2"

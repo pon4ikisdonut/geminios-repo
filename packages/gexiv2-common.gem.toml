@@ -1,0 +1,11 @@
+[package]
+name = "gexiv2-common"
+version = "0.16.2-2"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "GObject-based wrapper around the Exiv2 library (common files)"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gexiv2-common-0.16.2-2-x86_64.pkg.tar.zst"
+sha256 = "8824611dad8479fad7c3f64b348bd22da550b7a4db10f0e0d7b093d1af2b78e0"

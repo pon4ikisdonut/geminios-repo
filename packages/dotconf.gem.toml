@@ -1,0 +1,11 @@
+[package]
+name = "dotconf"
+version = "1.4.1-2"
+license = "LGPL-2.1-only"
+arch = "x86_64"
+description = "A C library for parsing configuration files"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/dotconf-1.4.1-2-x86_64.pkg.tar.zst"
+sha256 = "ed96fd1ed8d4b67b046b8b9d9316be2d27d52f709ce31352313a97e58b0a6f3c"

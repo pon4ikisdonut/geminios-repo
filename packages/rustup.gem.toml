@@ -1,0 +1,11 @@
+[package]
+name = "rustup"
+version = "1.29.3-1"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "The Rust toolchain installer"
+depends = ["glibc", "libgcc", "xz", "zstd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/rustup-1.29.3-1-x86_64.pkg.tar.zst"
+sha256 = "336762c50f4d912b0d408431429ba555d0434fbbda94ab6860c890293a831414"

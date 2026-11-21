@@ -1,0 +1,11 @@
+[package]
+name = "libnl"
+version = "3.12.0-1"
+license = "LGPL-2.1-only"
+arch = "x86_64"
+description = "Library for applications dealing with netlink sockets"
+depends = ["glibc", "gcc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/libnl-3.12.0-1-x86_64.pkg.tar.zst"
+sha256 = "531827dac4f6d3de9a7e4c8c31f3243bf484b39c41648178c18dc027566b1bb4"

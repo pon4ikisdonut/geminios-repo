@@ -1,0 +1,11 @@
+[package]
+name = "obsidian"
+version = "1.15.1-1"
+license = "LicenseRef-Obsidian"
+arch = "x86_64"
+description = "A powerful knowledge base that works on top of a local folder of plain text Markdown files"
+depends = ["fontconfig", "bash", "zlib", "hicolor-icon-theme", "electron43"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/obsidian-1.15.1-1-x86_64.pkg.tar.zst"
+sha256 = "c89d34d009dc7c8f16d383c6b1683b2dcf55243f64c50dc151aeafcb86fb46a7"

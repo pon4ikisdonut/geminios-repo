@@ -1,0 +1,11 @@
+[package]
+name = "python-aiohttp"
+version = "3.14.3-1"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "HTTP client/server for asyncio"
+depends = ["glibc", "llhttp", "python", "python-aiohappyeyeballs", "python-aiosignal", "python-attrs", "python-frozenlist", "python-multidict", "python-propcache", "python-yarl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-aiohttp-3.14.3-1-x86_64.pkg.tar.zst"
+sha256 = "bb552eb3134c4794be77cccb808c0e37be7ffc69664bfb49651183dddc2745d2"

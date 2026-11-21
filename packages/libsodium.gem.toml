@@ -1,0 +1,11 @@
+[package]
+name = "libsodium"
+version = "1.0.22-1"
+license = "custom:ISC"
+arch = "x86_64"
+description = "A modern, portable, easy to use crypto library"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libsodium-1.0.22-1-x86_64.pkg.tar.zst"
+sha256 = "fc0440c108fff0341f3cb7b4ee38f5a9406b45d9315205ce999e1b147b52f972"

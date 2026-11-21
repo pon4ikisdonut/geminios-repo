@@ -1,0 +1,11 @@
+[package]
+name = "dolphin"
+version = "26.08.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "KDE File Manager"
+depends = ["baloo", "baloo-widgets", "glibc", "kbookmarks", "kcmutils", "kcodecs", "kcolorscheme", "kcompletion", "kconfig", "kconfigwidgets", "kcoreaddons", "kcrash", "kdbusaddons", "kfilemetadata", "kguiaddons", "ki18n", "kiconthemes", "kio", "kio-extras", "kjobwidgets", "knewstuff", "knotifications", "kparts", "kservice", "ktextwidgets", "kuserfeedback", "kwidgetsaddons", "kwindowsystem", "kxmlgui", "libstdc++", "qt6-base", "qt6-multimedia", "solid"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/dolphin-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "10a059debf50ae2a99b40f802407f5b14ecac2385e5254e112bd0702c4afd877"

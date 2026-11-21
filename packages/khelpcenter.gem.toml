@@ -1,0 +1,11 @@
+[package]
+name = "khelpcenter"
+version = "26.08.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Application to show KDE Applications documentation"
+depends = ["glibc", "karchive", "kbookmarks", "kcompletion", "kconfig", "kconfigwidgets", "kcoreaddons", "kdbusaddons", "kdoctools", "ki18n", "kio", "kservice", "ktexttemplate", "kwidgetsaddons", "kwindowsystem", "kxmlgui", "libgcc", "libstdc++", "libxml2", "qt6-base", "qt6-webengine", "xapian-core"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/khelpcenter-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "00df2f02cf8211bd0058b610aa550f0ea52c9125b31fcb4f92ed1686716d9419"

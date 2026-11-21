@@ -1,0 +1,11 @@
+[package]
+name = "sddm"
+version = "0.21.0-7"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "QML based X11 and Wayland display manager"
+depends = ["bash", "glibc", "libgcc", "libstdc++", "libxau", "libxcb", "pam", "qt6-base", "qt6-declarative", "systemd-libs", "ttf-font", "xorg-server", "xorg-xauth"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/sddm-0.21.0-7-x86_64.pkg.tar.zst"
+sha256 = "927cc24362cdc83b8c48532252ae4d41ade99dc5e65cb0fdeb9b6d69f7601a7a"

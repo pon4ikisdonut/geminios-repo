@@ -1,0 +1,11 @@
+[package]
+name = "haskell-hslua-marshalling"
+version = "2.3.2-38"
+license = "MIT"
+arch = "x86_64"
+description = "Marshalling of values between Haskell and Lua."
+depends = ["ghc-libs", "haskell-hslua-core"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-hslua-marshalling-2.3.2-38-x86_64.pkg.tar.zst"
+sha256 = "8e4f25f8095794203bc72d83cde130d2fd8f4cd9baa8937c2984b8e6dba25454"

@@ -1,0 +1,11 @@
+[package]
+name = "libmfx"
+version = "23.2.2-6"
+license = "MIT"
+arch = "x86_64"
+description = "Intel Media SDK dispatcher library"
+depends = ["glibc", "libgcc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libmfx-23.2.2-6-x86_64.pkg.tar.zst"
+sha256 = "84bac3bd575d88588459f5104c3397a15eeccc676c1af4f674993c7adaf4365c"

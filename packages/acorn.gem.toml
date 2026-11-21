@@ -1,0 +1,11 @@
+[package]
+name = "acorn"
+version = "1:8.19.0-1"
+license = "MIT"
+arch = "any"
+description = "A tiny, fast JavaScript parser, written completely in JavaScript."
+depends = ["nodejs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/acorn-1:8.19.0-1-any.pkg.tar.zst"
+sha256 = "96814b5e0b8bbbbde1715f25c0d599551e7cfd3fd39ecac077ca08cd7bc93b32"

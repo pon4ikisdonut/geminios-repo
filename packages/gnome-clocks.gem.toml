@@ -1,0 +1,11 @@
+[package]
+name = "gnome-clocks"
+version = "51.0-2"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Clocks applications for GNOME"
+depends = ["dconf", "geoclue", "geocode-glib-2", "glib2", "glibc", "gnome-desktop-4", "gsettings-desktop-schemas", "gtk4", "hicolor-icon-theme", "icu", "libadwaita", "libgcc", "libgweather-4"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gnome-clocks-51.0-2-x86_64.pkg.tar.zst"
+sha256 = "b1e549a8515e56091c0bdb4a75fc239cf2fd2fb5020210215bcad405c225116f"

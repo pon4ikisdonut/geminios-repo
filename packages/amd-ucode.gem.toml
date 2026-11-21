@@ -1,0 +1,11 @@
+[package]
+name = "amd-ucode"
+version = "20261019-1"
+license = "LicenseRef-amd-ucode"
+arch = "any"
+description = "Microcode update image for AMD CPUs"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/amd-ucode-20261019-1-any.pkg.tar.zst"
+sha256 = "752594648432c9a541a45e6b71523f98b54ddeec0c4e9d919b0ac15251d51f34"

@@ -1,0 +1,11 @@
+[package]
+name = "haskell-word8"
+version = "0.1.4-3"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Word8 library"
+depends = ["ghc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-word8-0.1.4-3-x86_64.pkg.tar.zst"
+sha256 = "572e1276b0cc9f5453608d03705e466615bdf849e381e9131e6396d89359744f"

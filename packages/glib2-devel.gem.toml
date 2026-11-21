@@ -1,0 +1,11 @@
+[package]
+name = "glib2-devel"
+version = "2.90.1-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Low level core library - development tools"
+depends = ["glib2", "glibc", "libelf", "python", "python-packaging"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/glib2-devel-2.90.1-1-x86_64.pkg.tar.zst"
+sha256 = "229d4f834e57cbe94b33bc838f6aed209ec873d5e7d9f3c0a9cc9594f96f79c8"

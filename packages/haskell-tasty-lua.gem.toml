@@ -1,0 +1,11 @@
+[package]
+name = "haskell-tasty-lua"
+version = "1.1.2-30"
+license = "MIT"
+arch = "x86_64"
+description = "Write tests in Lua, integrate into tasty."
+depends = ["ghc-libs", "haskell-file-embed", "haskell-hslua-core", "haskell-hslua-marshalling", "haskell-lua-arbitrary", "haskell-quickcheck", "haskell-tasty"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-tasty-lua-1.1.2-30-x86_64.pkg.tar.zst"
+sha256 = "347d3d68508bc6479f81aa12117efbe1ee03eec3605b1ed10a752e8a1f84c033"

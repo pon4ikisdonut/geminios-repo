@@ -1,0 +1,11 @@
+[package]
+name = "perl-mailtools"
+version = "2.22-3"
+license = "GPL"
+arch = "any"
+description = "Various e-mail related modules"
+depends = ["perl-timedate"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/perl-mailtools-2.22-3-any.pkg.tar.zst"
+sha256 = "d93f6c122fa2301c2bd02095b8aaf9c225b5f26f64bb25d2199bfa9a1d3f47ba"

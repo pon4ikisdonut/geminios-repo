@@ -1,0 +1,11 @@
+[package]
+name = "easyeffects"
+version = "8.3.2-1"
+license = "GPL-3.0-only"
+arch = "x86_64"
+description = "Audio Effects for Pipewire applications"
+depends = ["kirigami", "kirigami-addons", "kiconthemes", "kconfigwidgets", "qqc2-desktop-style", "breeze-icons", "qt6-base", "qt6-graphs", "pipewire-pulse", "lilv", "libsamplerate", "libsndfile", "zita-convolver", "libebur128", "rnnoise", "soundtouch", "libbs2b", "nlohmann-json", "tbb", "speexdsp", "gsl", "webrtc-audio-processing"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/easyeffects-8.3.2-1-x86_64.pkg.tar.zst"
+sha256 = "cd3222e6f72970775c8ecc8f74f7545366404b598048b1453bc18f5bee76f481"

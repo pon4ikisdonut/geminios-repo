@@ -1,0 +1,11 @@
+[package]
+name = "kcoreaddons5"
+version = "5.116.0-2"
+license = "LGPL"
+arch = "x86_64"
+description = "Addons to QtCore"
+depends = ["qt5-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kcoreaddons5-5.116.0-2-x86_64.pkg.tar.zst"
+sha256 = "0532d5221919f2a92b90d1ed91f602d1cdded80ebe9de8e8be4d3b20860b251b"

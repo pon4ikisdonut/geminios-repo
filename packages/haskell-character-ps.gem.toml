@@ -1,0 +1,11 @@
+[package]
+name = "haskell-character-ps"
+version = "0.1-2"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Pattern synonyms for ASCII characters for Word8, Word16 etc"
+depends = ["ghc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-character-ps-0.1-2-x86_64.pkg.tar.zst"
+sha256 = "9f1f2419937a405856d87f0e9ca46ab9733663f8c0200540d6a3645acad920f7"

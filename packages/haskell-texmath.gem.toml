@@ -1,0 +1,11 @@
+[package]
+name = "haskell-texmath"
+version = "0.13.3.3-1"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "Conversion between math formats."
+depends = ["ghc-libs", "haskell-pandoc-types", "haskell-split", "haskell-syb", "haskell-typst-symbols", "haskell-xml"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-texmath-0.13.3.3-1-x86_64.pkg.tar.zst"
+sha256 = "66d88c732ab0bda23ac039e3af5bec83139a737db6a3b264331208e087cc5f26"

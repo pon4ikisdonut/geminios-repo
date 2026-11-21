@@ -1,0 +1,11 @@
+[package]
+name = "haskell-os-string"
+version = "2.0.11-91"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Library for manipulating Operating system strings."
+depends = ["ghc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-os-string-2.0.11-91-x86_64.pkg.tar.zst"
+sha256 = "cbddad74768bdc76b21091be146d8021c151f1de10fbd12653daad928cc37790"

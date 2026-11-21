@@ -1,0 +1,11 @@
+[package]
+name = "xorg-fonts-75dpi"
+version = "1.0.4-2"
+license = "custom"
+arch = "any"
+description = "X.org 75dpi fonts"
+depends = ["xorg-fonts-alias-75dpi"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xorg-fonts-75dpi-1.0.4-2-any.pkg.tar.zst"
+sha256 = "923df5c9a2fa42a8fa34fa9548ce006a9e0028a757c75553309ad29eb6c343e8"

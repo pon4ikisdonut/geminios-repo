@@ -1,0 +1,11 @@
+[package]
+name = "haskell-utf8-string"
+version = "1.0.2-390"
+license = "BSD"
+arch = "x86_64"
+description = "Support for reading and writing UTF8 Strings"
+depends = ["ghc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-utf8-string-1.0.2-390-x86_64.pkg.tar.zst"
+sha256 = "2ed0a4a8c0433f6aea1f20ffeb2b766d3d15e5a5565239d5ccf42319b6189370"

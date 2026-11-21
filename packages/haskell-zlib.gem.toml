@@ -1,0 +1,11 @@
+[package]
+name = "haskell-zlib"
+version = "0.7.1.1-26"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Compression and decompression in the gzip and zlib formats"
+depends = ["ghc-libs", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-zlib-0.7.1.1-26-x86_64.pkg.tar.zst"
+sha256 = "5f8cecb3a781fbdf901c9f130c8b011f5cc5831349aed34b5c848b356cec0515"

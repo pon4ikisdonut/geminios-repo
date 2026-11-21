@@ -1,0 +1,11 @@
+[package]
+name = "virtiofsd"
+version = "1.14.0-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Vhost-user virtio-fs device backend written in Rust"
+depends = ["libgcc", "glibc", "libcap-ng", "libseccomp"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/virtiofsd-1.14.0-1-x86_64.pkg.tar.zst"
+sha256 = "9cc28d0c87a27fa52ad96eb2cbe7856f24025e2b236cef5e55bb27fc4bffff94"

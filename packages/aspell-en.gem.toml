@@ -1,0 +1,11 @@
+[package]
+name = "aspell-en"
+version = "2026.02.25-1"
+license = "custom"
+arch = "x86_64"
+description = "English dictionary for aspell"
+depends = ["aspell"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/aspell-en-2026.02.25-1-x86_64.pkg.tar.zst"
+sha256 = "c416fcd98c6362ddff24632e70be175bb2cbc24e455095b723afc6a178289bcc"

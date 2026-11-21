@@ -1,0 +1,11 @@
+[package]
+name = "libsysprof-capture"
+version = "51.0-1"
+license = "BSD-2-Clause-Patent"
+arch = "x86_64"
+description = "Kernel based performance profiler - capture library"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libsysprof-capture-51.0-1-x86_64.pkg.tar.zst"
+sha256 = "4076158a6db4137615c241a7019309f8be3ceab9e5f91291385c4fb41a7c2921"

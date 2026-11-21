@@ -1,0 +1,11 @@
+[package]
+name = "autoconf"
+version = "2.73-1"
+license = "custom"
+arch = "any"
+description = "A GNU tool for automatically configuring source code"
+depends = ["awk", "m4", "diffutils", "perl", "sh"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/autoconf-2.73-1-any.pkg.tar.zst"
+sha256 = "70be528019e04291fe52125c59121a99a3d39da8f1b89826f323ab81a92f492e"

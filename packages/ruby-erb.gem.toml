@@ -1,0 +1,11 @@
+[package]
+name = "ruby-erb"
+version = "4.0.4.1-1"
+license = "Ruby"
+arch = "x86_64"
+description = "An easy to use but powerful templating system for Ruby"
+depends = ["glibc", "ruby", "ruby-cgi"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ruby-erb-4.0.4.1-1-x86_64.pkg.tar.zst"
+sha256 = "04e3eb157e3f718cd6d6ad9b002bb045a7cae446f85d6b44412584f0bfd5f1d2"

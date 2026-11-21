@@ -1,0 +1,11 @@
+[package]
+name = "ruby-rinda"
+version = "0.2.0-2"
+license = "BSD-2-Clause"
+arch = "any"
+description = "The Linda distributed computing paradigm in Ruby"
+depends = ["ruby", "ruby-drb"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ruby-rinda-0.2.0-2-any.pkg.tar.zst"
+sha256 = "a99e50d905f118fa6b906efe068c4e9d77a1e43d6813a4f45317176c9e76abfb"

@@ -1,0 +1,11 @@
+[package]
+name = "libkexiv2"
+version = "26.08.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "A library to manipulate pictures metadata"
+depends = ["glibc", "exiv2", "libgcc", "libstdc++", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libkexiv2-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "1e398eb01961932bc2e055eac983066c96312b49bb6d67bb970ad9e5835c50fd"

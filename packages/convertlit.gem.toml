@@ -1,0 +1,11 @@
+[package]
+name = "convertlit"
+version = "1.8-13"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "An extractor/converter for .LIT eBooks"
+depends = ["glibc", "libtommath"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/convertlit-1.8-13-x86_64.pkg.tar.zst"
+sha256 = "6d67ee485bf6113ef5162591c01cfe7c74e329937449c76d174d0d1c8f0dd237"

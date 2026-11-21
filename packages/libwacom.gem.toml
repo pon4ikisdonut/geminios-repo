@@ -1,0 +1,11 @@
+[package]
+name = "libwacom"
+version = "2.20.0-1"
+license = "MIT"
+arch = "x86_64"
+description = "Library to identify Wacom tablets and their features"
+depends = ["glib2", "libevdev", "libgudev", "glibc", "libgcc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libwacom-2.20.0-1-x86_64.pkg.tar.zst"
+sha256 = "6c646b6af034fc6b3975437cffbd0582f9f935173435b18357a2f1285b11b86c"

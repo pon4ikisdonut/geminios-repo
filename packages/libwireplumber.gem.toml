@@ -1,0 +1,11 @@
+[package]
+name = "libwireplumber"
+version = "0.5.19-1"
+license = "MIT"
+arch = "x86_64"
+description = "Session / policy manager implementation for PipeWire - client library"
+depends = ["glibc", "libgcc", "libglib-2.0.so", "libgmodule-2.0.so", "libgobject-2.0.so", "libgio-2.0.so", "libpipewire-0.3.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libwireplumber-0.5.19-1-x86_64.pkg.tar.zst"
+sha256 = "557015dc04bc90f1888cf758581d6b5b2b3f7a8e26e50cae94782492d8c01da8"

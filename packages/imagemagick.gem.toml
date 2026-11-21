@@ -1,0 +1,11 @@
+[package]
+name = "imagemagick"
+version = "7.1.2.36-2"
+license = "ImageMagick"
+arch = "x86_64"
+description = "An image viewing/manipulation program"
+depends = ["bzip2", "cairo", "fftw", "fontconfig", "freetype2", "glib2", "glibc", "lcms2", "liblqr", "libltdl", "libpng", "libraqm", "libxext", "libxml2", "libgcc", "libstdc++", "libgomp", "xz", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/imagemagick-7.1.2.36-2-x86_64.pkg.tar.zst"
+sha256 = "89c3e76f783c890463c62cd2d1b8b769cceb085794aa8c6ae109ec766e7d4e8c"

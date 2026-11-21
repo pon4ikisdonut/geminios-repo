@@ -1,0 +1,11 @@
+[package]
+name = "breeze"
+version = "6.8.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Artwork, styles and assets for the Breeze visual style for the Plasma Desktop"
+depends = ["breeze-icons", "frameworkintegration", "glibc", "kcmutils", "kcolorscheme", "kconfig", "kcoreaddons", "kdecoration", "kguiaddons", "ki18n", "kiconthemes", "kirigami", "kwidgetsaddons", "kwindowsystem", "libstdc++", "qt6-base", "qt6-declarative", "qt6-svg", "breeze-cursors"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/breeze-6.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "d432fd18cd21f8ffda380c2e88fb093ca75aa0e16ed8d076d15134565cfe0be9"

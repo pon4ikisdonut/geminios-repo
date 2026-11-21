@@ -1,0 +1,11 @@
+[package]
+name = "pigz"
+version = "2.8-2"
+license = "custom"
+arch = "x86_64"
+description = "Parallel implementation of the gzip file compressor"
+depends = ["zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/pigz-2.8-2-x86_64.pkg.tar.zst"
+sha256 = "35b534927a9f8184fccb79f0839b8ba3060e4bd3b22562411a9db0500109d2eb"

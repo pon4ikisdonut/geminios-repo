@@ -1,0 +1,11 @@
+[package]
+name = "syntax-highlighting"
+version = "6.32.0-1"
+license = "MIT"
+arch = "x86_64"
+description = "Syntax highlighting engine for structured text and code"
+depends = ["libstdc++", "glibc", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/syntax-highlighting-6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "e33768abe12e8e6d3dab5f11b289b231ca93da0171c115258486899d5de50b0d"

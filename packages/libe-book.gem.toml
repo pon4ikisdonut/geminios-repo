@@ -1,0 +1,11 @@
+[package]
+name = "libe-book"
+version = "0.1.4-1"
+license = "MPL-2.0"
+arch = "x86_64"
+description = "Library for import of reflowable e-book formats."
+depends = ["librevenge", "libxml2", "liblangtag", "zlib", "icu", "glibc", "libstdc++", "libgcc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libe-book-0.1.4-1-x86_64.pkg.tar.zst"
+sha256 = "d06bca4a4e4249eb3ee7df6fd6e382494fcd6d79c72ff608434da3aeea37ebd8"

@@ -1,0 +1,11 @@
+[package]
+name = "aeolus"
+version = "0.10.4-4"
+license = "GPL-3.0-only"
+arch = "x86_64"
+description = "Synthesised pipe organ emulator"
+depends = ["glibc", "libstdc++.so", "libgcc_s.so", "libx11", "alsa-lib", "libasound.so", "clthreads", "libclthreads.so", "clxclient", "libclxclient.so", "jack", "libjack.so", "readline", "libreadline.so", "zita-alsa-pcmi", "libzita-alsa-pcmi.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/aeolus-0.10.4-4-x86_64.pkg.tar.zst"
+sha256 = "7717b1322bde847f8f79df1d781e010e190dcd854f9c2dd3b243e8511f16e01d"

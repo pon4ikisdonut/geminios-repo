@@ -1,0 +1,11 @@
+[package]
+name = "patch"
+version = "2.8.1-1"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "A utility to apply patch files to original sources"
+depends = ["glibc", "attr"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/patch-2.8.1-1-x86_64.pkg.tar.zst"
+sha256 = "b8588edee237a313229576bdc9270f371419aafe8efb88727b23c30a068f7b5e"

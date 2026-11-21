@@ -1,0 +1,11 @@
+[package]
+name = "xcb-util-keysyms"
+version = "0.4.1-5"
+license = "X11-distribute-modifications-variant"
+arch = "x86_64"
+description = "Utility libraries for XC Binding - Standard X key constants and conversion to/from keycodes"
+depends = ["libxcb", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xcb-util-keysyms-0.4.1-5-x86_64.pkg.tar.zst"
+sha256 = "312213911881c0742e2a825432feac761e863945b74bb3a6daca97a99778d35e"

@@ -1,0 +1,11 @@
+[package]
+name = "lua54"
+version = "5.4.9-1"
+license = "MIT"
+arch = "x86_64"
+description = "Powerful lightweight programming language designed for extending applications"
+depends = ["readline"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/lua54-5.4.9-1-x86_64.pkg.tar.zst"
+sha256 = "ceda43657ee1d54eef282f636772baf4a7bacc86b5cd461d1891d26c23141ff1"

@@ -1,0 +1,11 @@
+[package]
+name = "miniupnpc"
+version = "2.3.3-3"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Small UPnP client library/tool to access Internet Gateway Devices"
+depends = ["sh", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/miniupnpc-2.3.3-3-x86_64.pkg.tar.zst"
+sha256 = "24e89db247e3fda817c3c1cfb47403a577c7eb78c003a1a2f689c51077f99000"

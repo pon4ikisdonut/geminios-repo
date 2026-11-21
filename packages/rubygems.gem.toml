@@ -1,0 +1,11 @@
+[package]
+name = "rubygems"
+version = "3.6.9-1"
+license = "MIT"
+arch = "any"
+description = "Package management framework for Ruby"
+depends = ["ruby"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/rubygems-3.6.9-1-any.pkg.tar.zst"
+sha256 = "b7cd562ae0078cafb7ac4791f9088b6b0615221c548e8e1e28c545fa6b771ff1"

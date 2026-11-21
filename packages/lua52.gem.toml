@@ -1,0 +1,11 @@
+[package]
+name = "lua52"
+version = "5.2.4-8"
+license = "MIT"
+arch = "x86_64"
+description = "Powerful lightweight programming language designed for extending applications"
+depends = ["readline"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/lua52-5.2.4-8-x86_64.pkg.tar.zst"
+sha256 = "29ec9a501e2b4b55cc3ef5fd30443e39826222eeab78fbf56833d322656823d0"

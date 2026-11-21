@@ -1,0 +1,11 @@
+[package]
+name = "kde-cli-tools"
+version = "6.8.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Tools based on KDE Frameworks to better interact with the system"
+depends = ["glibc", "kcmutils", "kcompletion", "kconfig", "kcoreaddons", "kdesu", "ki18n", "kiconthemes", "kio", "kparts", "kservice", "kwidgetsaddons", "kwindowsystem", "libstdc++", "qt6-base", "qt6-svg", "sh"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kde-cli-tools-6.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "208afa34c4764a40d55379683ae19c489c4daa301687d335f325a548878ffd7d"

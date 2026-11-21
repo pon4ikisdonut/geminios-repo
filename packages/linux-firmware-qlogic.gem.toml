@@ -1,0 +1,11 @@
+[package]
+name = "linux-firmware-qlogic"
+version = "20261019-1"
+license = "LicenseRef-qlogic"
+arch = "any"
+description = "Firmware files for Linux - Firmware for QLogic devices"
+depends = ["linux-firmware-whence"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/linux-firmware-qlogic-20261019-1-any.pkg.tar.zst"
+sha256 = "88b0c3042a877f0efe9f8439ac75e1d6d8e4949309263593eaf0f6387e8d2dff"

@@ -1,0 +1,11 @@
+[package]
+name = "haskell-pretty-show"
+version = "1.10-23"
+license = "MIT"
+arch = "x86_64"
+description = "Tools for working with derived `Show` instances and generic inspection of values."
+depends = ["ghc-libs", "haskell-lexer"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-pretty-show-1.10-23-x86_64.pkg.tar.zst"
+sha256 = "5e76e6d5cc9ec88c76598f0df5ffc63389bad463312eeba57da1c5f94414d093"

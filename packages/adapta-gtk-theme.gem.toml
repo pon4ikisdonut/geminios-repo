@@ -1,0 +1,11 @@
+[package]
+name = "adapta-gtk-theme"
+version = "3.95.0.11-4"
+license = "GPL2"
+arch = "any"
+description = "An adaptive Gtk+ theme based on Material Design Guidelines"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/adapta-gtk-theme-3.95.0.11-4-any.pkg.tar.zst"
+sha256 = "4c08a777dee1c7f22f41fb5cf3308ee608bf263dafd5db9a8277705fb6e09e0e"

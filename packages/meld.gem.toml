@@ -1,0 +1,11 @@
+[package]
+name = "meld"
+version = "3.24.1-1"
+license = "GPL-2.0-or-later"
+arch = "any"
+description = "Compare files, directories and working copies"
+depends = ["dconf", "gdk-pixbuf2", "glib2", "gsettings-desktop-schemas", "gtk3", "gtksourceview4", "hicolor-icon-theme", "pango", "python", "python-cairo", "python-gobject"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/meld-3.24.1-1-any.pkg.tar.zst"
+sha256 = "53808eb7be86df95a483f160cc52b6e408b43efcc29af6274fb366f3428a61a7"

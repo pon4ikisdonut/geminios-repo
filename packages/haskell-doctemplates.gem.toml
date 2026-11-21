@@ -1,0 +1,11 @@
+[package]
+name = "haskell-doctemplates"
+version = "0.11.1-31"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Pandoc-style document templates"
+depends = ["ghc-libs", "haskell-aeson", "haskell-doclayout", "haskell-safe", "haskell-scientific", "haskell-text-conversions", "haskell-vector"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-doctemplates-0.11.1-31-x86_64.pkg.tar.zst"
+sha256 = "76f561e1f4fcf96515113cf0fa653b6f5c15b602c56ef056f5aa0ec136703af0"

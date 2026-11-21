@@ -1,0 +1,11 @@
+[package]
+name = "wine"
+version = "11.22-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "A compatibility layer for running Windows programs"
+depends = ["desktop-file-utils", "hicolor-icon-theme", "fontconfig", "freetype2", "libgcc", "gettext", "glib2", "glibc", "libpcap", "libunwind", "libx11", "libxcursor", "libxext", "libxkbcommon", "libxi", "libxrandr", "systemd-libs", "wayland", "ntsync-autoload"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/wine-11.22-1-x86_64.pkg.tar.zst"
+sha256 = "27327c65c6ee2e1e63b5c67e8b7d481982969dad7ad6715bbe284202d35fcfa7"

@@ -1,0 +1,11 @@
+[package]
+name = "haskell-unix-time"
+version = "0.4.17-143"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Unix time parser/formatter and utilities"
+depends = ["ghc-libs", "haskell-old-time"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-unix-time-0.4.17-143-x86_64.pkg.tar.zst"
+sha256 = "65f02c1fb1c9a058828388dbcd1b6df966e8d5834412ac74faa8e92f595f03cd"

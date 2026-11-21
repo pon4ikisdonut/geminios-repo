@@ -1,0 +1,11 @@
+[package]
+name = "arch-install-scripts"
+version = "32-1"
+license = "GPL-2.0-only"
+arch = "any"
+description = "Scripts to aid in installing Arch Linux"
+depends = ["awk", "bash", "coreutils", "grep", "pacman", "util-linux"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/arch-install-scripts-32-1-any.pkg.tar.zst"
+sha256 = "d745827520f46f558cf4767d746cbcddd258ffc6e6151a0a3bc56e21f78dd8dc"

@@ -1,0 +1,11 @@
+[package]
+name = "ruby-rss"
+version = "0.3.3-1"
+license = "BSD-2-Clause"
+arch = "any"
+description = "Family of libraries that support various formats of XML \"feeds\""
+depends = ["ruby-rexml"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ruby-rss-0.3.3-1-any.pkg.tar.zst"
+sha256 = "6555ab391de718eadc7b6b951fb882b8c7aee46217d271f8be476b1ddfbcef50"

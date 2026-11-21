@@ -1,0 +1,11 @@
+[package]
+name = "libsigsegv"
+version = "2.16-1"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "A library for handling page faults in user mode"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libsigsegv-2.16-1-x86_64.pkg.tar.zst"
+sha256 = "e7c42d8067d7e97942d800bc1849943cc13d49bda9ccba7501e3b16d0866ceaf"

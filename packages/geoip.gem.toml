@@ -1,0 +1,11 @@
+[package]
+name = "geoip"
+version = "1.6.12-3"
+license = "GPL"
+arch = "x86_64"
+description = "Non-DNS IP-to-country resolver C library & utils"
+depends = ["zlib", "geoip-database"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/geoip-1.6.12-3-x86_64.pkg.tar.zst"
+sha256 = "f89880602135e4dae2b650d5e3239e53762064336226e5b9416957a561726569"

@@ -1,0 +1,11 @@
+[package]
+name = "hyprgraphics"
+version = "0.6.0-2"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "hyprland graphics resources and utilities"
+depends = ["cairo", "file", "libmagic.so", "libgcc", "libstdc++", "glibc", "hyprutils", "libhyprutils.so", "libjpeg-turbo", "libjpeg.so", "libjxl", "libjxl.so", "libjxl_threads.so", "libpng", "librsvg", "libwebp", "libwebp.so", "libglvnd", "pango", "libpangocairo-1.0.so", "pixman"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/hyprgraphics-0.6.0-2-x86_64.pkg.tar.zst"
+sha256 = "ea0bdead023bc66469340c3c4255555521042e8a57bbbfa287116ee97d8d6ca3"

@@ -1,0 +1,11 @@
+[package]
+name = "libxfce4ui"
+version = "4.20.2-1"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "Widgets library for the Xfce desktop environment"
+depends = ["libxfce4util", "gtk3", "xfconf", "libsm", "startup-notification", "libgtop", "libepoxy", "hicolor-icon-theme", "libgudev"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libxfce4ui-4.20.2-1-x86_64.pkg.tar.zst"
+sha256 = "129606aaab8b2ca43dcceef6211e3fe543dc3725d759a2cbd391532be7c0c00f"

@@ -1,0 +1,11 @@
+[package]
+name = "haskell-tagged"
+version = "0.8.10-3"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Haskell 98 phantom types to avoid unsafely passing dummy arguments"
+depends = ["ghc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-tagged-0.8.10-3-x86_64.pkg.tar.zst"
+sha256 = "d8afcc54a5a83c4c0c524dd32060bdd1d9ffe72e8ef9aa75b20c049b082cb30d"

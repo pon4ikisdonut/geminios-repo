@@ -1,0 +1,11 @@
+[package]
+name = "vlc-plugin-dvb"
+version = "3.0.24-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Free and open source cross-platform multimedia player and framework - DVB plugins"
+depends = ["aribb24", "glibc", "libdvbpsi", "libvlc", "libvlccore.so", "vlc-plugins-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vlc-plugin-dvb-3.0.24-2-x86_64.pkg.tar.zst"
+sha256 = "116dd6427d4ab0869595fed0de37f0d95e4d6804be0950257a6541c8f90e77a2"

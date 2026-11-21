@@ -1,0 +1,11 @@
+[package]
+name = "mdadm"
+version = "4.6-2"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "A tool for managing/monitoring Linux md device arrays, also known as Software RAID"
+depends = ["glibc", "systemd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/mdadm-4.6-2-x86_64.pkg.tar.zst"
+sha256 = "17b2091ae3c0644e452783ec889d90e0814fd19d17989e184fcad1c73ae1aa76"

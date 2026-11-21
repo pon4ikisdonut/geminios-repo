@@ -1,0 +1,11 @@
+[package]
+name = "python-ptyprocess"
+version = "0.7.0-9"
+license = "ISC"
+arch = "any"
+description = "Run a subprocess in a pseudo terminal"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-ptyprocess-0.7.0-9-any.pkg.tar.zst"
+sha256 = "09dcec7f53470a065f8caed6a74562d93d7bd63f4bf4d8dfd4890747ed089243"

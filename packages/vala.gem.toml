@@ -1,0 +1,11 @@
+[package]
+name = "vala"
+version = "0.56.19-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Compiler for the GObject type system"
+depends = ["bash", "gcc", "glib2", "glibc", "graphviz", "gtk-doc", "pkg-config", "ttf-font"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vala-0.56.19-2-x86_64.pkg.tar.zst"
+sha256 = "b9c8a82c6ea2c2a61d0f85e0de23ed1cd2b01aa0e52e459ab9fe879ca39921e4"

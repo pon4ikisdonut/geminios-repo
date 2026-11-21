@@ -1,0 +1,11 @@
+[package]
+name = "actionlint"
+version = "1.7.12-1"
+license = "MIT"
+arch = "x86_64"
+description = "Static checker for GitHub Actions workflow files"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/actionlint-1.7.12-1-x86_64.pkg.tar.zst"
+sha256 = "2807d4a6449eda856e0b33ed273fd69b8c1478ab7e94bcb1dfcfc6d252c90a09"

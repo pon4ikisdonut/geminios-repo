@@ -1,0 +1,11 @@
+[package]
+name = "python-six"
+version = "1.17.0-3"
+license = "MIT"
+arch = "any"
+description = "Python 2 and 3 compatibility utilities"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-six-1.17.0-3-any.pkg.tar.zst"
+sha256 = "466a533d3842fff5e3b62ed02169aeca05568361561d5348f3b950e81f0d6bb0"

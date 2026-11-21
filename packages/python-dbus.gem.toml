@@ -1,0 +1,11 @@
+[package]
+name = "python-dbus"
+version = "1.5.1-1"
+license = "MIT"
+arch = "x86_64"
+description = "Python bindings for D-Bus"
+depends = ["dbus", "glib2", "glibc", "python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-dbus-1.5.1-1-x86_64.pkg.tar.zst"
+sha256 = "f1760d9c4494efb278e53cc16dcfcbff43c98422f23752b12ced16465a83dad3"

@@ -1,0 +1,11 @@
+[package]
+name = "haskell-yaml"
+version = "0.11.11.2-295"
+license = "BSD"
+arch = "x86_64"
+description = "Support for parsing and rendering YAML documents."
+depends = ["ghc-libs", "haskell-aeson", "haskell-attoparsec", "haskell-conduit", "haskell-libyaml", "haskell-optparse-applicative", "haskell-resourcet", "haskell-scientific", "haskell-unordered-containers", "haskell-vector"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-yaml-0.11.11.2-295-x86_64.pkg.tar.zst"
+sha256 = "dbc63d701a8e135cd81eb0cc3803dda50df68ed3f331d5d41f507fa37ae86cba"

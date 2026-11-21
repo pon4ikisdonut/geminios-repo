@@ -1,0 +1,11 @@
+[package]
+name = "haskell-pandoc-lua-marshal"
+version = "0.3.3-2"
+license = "MIT"
+arch = "x86_64"
+description = "Use pandoc types in Lua"
+depends = ["ghc-libs", "haskell-aeson", "haskell-hslua", "haskell-hslua-list", "haskell-hslua-marshalling", "haskell-pandoc-types", "haskell-safe"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-pandoc-lua-marshal-0.3.3-2-x86_64.pkg.tar.zst"
+sha256 = "a79427302543745a2e616cdcb2b3b494257bf287ddc0d49e624455ef3ec8f91e"

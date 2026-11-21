@@ -1,0 +1,11 @@
+[package]
+name = "haskell-pandoc-types"
+version = "1.23.1.2-40"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Types for representing a structured document"
+depends = ["ghc-libs", "haskell-aeson", "haskell-quickcheck", "haskell-syb"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-pandoc-types-1.23.1.2-40-x86_64.pkg.tar.zst"
+sha256 = "840cb522bd62847e42514869bec46203d0dfee91c544cd113ab9d83b885f10ed"

@@ -1,0 +1,11 @@
+[package]
+name = "libtiff"
+version = "4.7.2-2"
+license = "libtiff"
+arch = "x86_64"
+description = "Library for manipulation of TIFF images"
+depends = ["libstdc++", "glibc", "jbigkit", "libdeflate", "libjpeg-turbo", "libjpeg.so", "libwebp", "xz", "zlib", "zstd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libtiff-4.7.2-2-x86_64.pkg.tar.zst"
+sha256 = "d08440599d808813057851b32dbffd6991d841f5d4efb4c1b75822e2b07c7ea9"

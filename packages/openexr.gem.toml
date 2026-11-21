@@ -1,0 +1,11 @@
+[package]
+name = "openexr"
+version = "3.5.4-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "A high dynamic-range image file format library"
+depends = ["glibc", "imath", "libdeflate", "libgcc", "libstdc++", "openjph", "zstd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/openexr-3.5.4-1-x86_64.pkg.tar.zst"
+sha256 = "a248847134a8d91c4455721c601bdb19a513d47173d120ccbad0d2ab273fac73"

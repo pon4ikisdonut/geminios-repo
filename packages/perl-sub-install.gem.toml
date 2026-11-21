@@ -1,0 +1,11 @@
+[package]
+name = "perl-sub-install"
+version = "0.929-4"
+license = "GPL"
+arch = "any"
+description = "Install subroutines into packages easily"
+depends = ["perl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/perl-sub-install-0.929-4-any.pkg.tar.zst"
+sha256 = "74c238d768c046166266445702874b765545373ccca0ae39b46c20e9c71dd345"

@@ -1,0 +1,11 @@
+[package]
+name = "awesome-terminal-fonts"
+version = "1.1.0-5"
+license = "MIT"
+arch = "any"
+description = "fonts/icons for powerlines"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/awesome-terminal-fonts-1.1.0-5-any.pkg.tar.zst"
+sha256 = "a3e1167af80f1ba58e938d54ee1e48bf1f89c94bfe5410df2c3fc65fc8a81bab"

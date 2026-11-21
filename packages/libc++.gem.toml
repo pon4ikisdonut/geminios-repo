@@ -1,0 +1,11 @@
+[package]
+name = "libc++"
+version = "23.1.5-1"
+license = "Apache-2.0 WITH LLVM-exception"
+arch = "x86_64"
+description = "LLVM C++ standard library"
+depends = ["libc++abi", "libgcc", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libc++-23.1.5-1-x86_64.pkg.tar.zst"
+sha256 = "acfd58df54c2bd9876fe6c85d9e94fb3dd7856467b664b1b8d271fce9a92bed4"

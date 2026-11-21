@@ -1,0 +1,11 @@
+[package]
+name = "python-pluggy"
+version = "1.7.0-1"
+license = "MIT"
+arch = "any"
+description = "Plugin and hook calling mechanisms for python"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-pluggy-1.7.0-1-any.pkg.tar.zst"
+sha256 = "0ac0cbe11658341955a9997e9078bc0c57b41cb45b8c5effb3e325b94ee1bedf"

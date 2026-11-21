@@ -1,0 +1,11 @@
+[package]
+name = "python-findpython"
+version = "0.9.0-1"
+license = "MIT"
+arch = "any"
+description = "A utility to find python versions on your system"
+depends = ["python", "python-packaging", "python-platformdirs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-findpython-0.9.0-1-any.pkg.tar.zst"
+sha256 = "9c60deb10ee37b280b69d682170e6be46d1fdde211cff7fca7165ca115a8325f"

@@ -1,0 +1,11 @@
+[package]
+name = "python-py7zr"
+version = "1.1.4-1"
+license = "LGPL-2.1-or-later"
+arch = "any"
+description = "Pure Python 7-zip library"
+depends = ["python", "python-brotli", "python-brotlicffi", "python-psutil", "python-multivolumefile", "python-pybcj", "python-pycryptodomex", "python-pyppmd", "python-texttable", "python-inflate64"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-py7zr-1.1.4-1-any.pkg.tar.zst"
+sha256 = "bf109ebc26efd87cc18e36f71df3cf28f6f818692a04f3dd5d2a1028df436ea6"

@@ -1,0 +1,11 @@
+[package]
+name = "adobe-source-han-serif-hk-fonts"
+version = "2.003-2"
+license = "OFL-1.1-RFN"
+arch = "any"
+description = "Adobe Source Han Serif Subset OTF - Traditional Chinese (Hong Kong) OpenType/CFF fonts"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/adobe-source-han-serif-hk-fonts-2.003-2-any.pkg.tar.zst"
+sha256 = "9add1f328309cc23442ec145a6d77b73f288ac527b22011b8381ebc41b8387ac"

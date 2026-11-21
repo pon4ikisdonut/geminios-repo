@@ -1,0 +1,11 @@
+[package]
+name = "haskell-asciidoc"
+version = "0.1.1.1-25"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "AsciiDoc parser."
+depends = ["ghc-libs", "haskell-aeson", "haskell-optparse-applicative", "haskell-pretty-show", "haskell-tagsoup"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-asciidoc-0.1.1.1-25-x86_64.pkg.tar.zst"
+sha256 = "5c41a7ee3a7d0abdf429328359261497d1b4c6d1ef9fb514d239db3d9a1f61bb"

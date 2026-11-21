@@ -1,0 +1,11 @@
+[package]
+name = "jbig2dec"
+version = "0.20-2"
+license = "GPL3"
+arch = "x86_64"
+description = "Decoder implementation of the JBIG2 image compression format"
+depends = ["libpng", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/jbig2dec-0.20-2-x86_64.pkg.tar.zst"
+sha256 = "9ea5b7b52d2e8fe2fb5ac29bb73c8e7f6b877b8ee7a013e426b18b0a370ace46"

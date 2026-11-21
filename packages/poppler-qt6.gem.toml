@@ -1,0 +1,11 @@
+[package]
+name = "poppler-qt6"
+version = "26.11.0-1"
+license = "HPND-sell-variant"
+arch = "x86_64"
+description = "Poppler Qt6 bindings"
+depends = ["poppler", "qt6-base", "lcms2", "freetype2", "libgcc", "libstdc++", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/poppler-qt6-26.11.0-1-x86_64.pkg.tar.zst"
+sha256 = "2f1a77257b82afa5c4fbb842ac0dde2268bd886b67947fee5d1e53a2eb271081"

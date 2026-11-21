@@ -1,0 +1,11 @@
+[package]
+name = "libxrender"
+version = "0.9.13-1"
+license = "HPND-sell-variant"
+arch = "x86_64"
+description = "X Rendering Extension client library"
+depends = ["libx11", "glibc", "xorgproto"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libxrender-0.9.13-1-x86_64.pkg.tar.zst"
+sha256 = "893571a9e101faf7a8d3fbdb13a76513236e6ceffd7c2229721bcc53e957b9a4"

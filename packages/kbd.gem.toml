@@ -1,0 +1,11 @@
+[package]
+name = "kbd"
+version = "2.10.0-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Keytable files and keyboard utilities"
+depends = ["glibc", "gzip", "pam"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/kbd-2.10.0-1-x86_64.pkg.tar.zst"
+sha256 = "9322a5fb74f43341835d22d3ea0cf1d88d91eb4c98ab9fcb816955e2159b4b41"

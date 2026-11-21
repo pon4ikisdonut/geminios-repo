@@ -1,0 +1,11 @@
+[package]
+name = "libdvdnav"
+version = "7.0.0-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Library to navigate DVD video disks"
+depends = ["glibc", "libdvdread"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libdvdnav-7.0.0-1-x86_64.pkg.tar.zst"
+sha256 = "442122c2f7eefdcdd6a3042b531c5cf9aec10105fc32f39912170ae7c6410a6b"

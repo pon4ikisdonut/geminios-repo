@@ -1,0 +1,11 @@
+[package]
+name = "ruby-drb"
+version = "2.2.3-1"
+license = "RUBY"
+arch = "any"
+description = "Distributed object system for Ruby"
+depends = ["ruby", "ruby-ruby2_keywords"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ruby-drb-2.2.3-1-any.pkg.tar.zst"
+sha256 = "4d38cd5cd229d6840ea40e722b174289c36fe9eaec714d14fcfe1838090158e7"

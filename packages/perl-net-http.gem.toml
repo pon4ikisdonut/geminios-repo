@@ -1,0 +1,11 @@
+[package]
+name = "perl-net-http"
+version = "6.24-2"
+license = "GPL"
+arch = "any"
+description = "Low-level HTTP connection (client)"
+depends = ["perl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/perl-net-http-6.24-2-any.pkg.tar.zst"
+sha256 = "e02fb0d0be90972da101d099e322f8da1d6939f46a188ee0b4fac2e54758c0ba"

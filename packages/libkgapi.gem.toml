@@ -1,0 +1,11 @@
+[package]
+name = "libkgapi"
+version = "26.08.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "A KDE-based library for accessing various Google services via their public API"
+depends = ["glibc", "kcalendarcore", "kcontacts", "kwallet", "libstdc++", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libkgapi-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "667df4d8f58aa3a1c4d6e266eddc1d2b6cf495475e73c66acee2ebb37d0239dd"

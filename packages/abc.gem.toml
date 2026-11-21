@@ -1,0 +1,11 @@
+[package]
+name = "abc"
+version = "0.0.0.20260511-1"
+license = "MIT"
+arch = "x86_64"
+description = "System for Sequential Logic Synthesis and Formal Verification"
+depends = ["readline"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/abc-0.0.0.20260511-1-x86_64.pkg.tar.zst"
+sha256 = "7f8528fda4a21aa45da4a7ded9be68a28aeece82fd61042b99202bb224e7e393"

@@ -1,0 +1,11 @@
+[package]
+name = "webkitgtk-6.0"
+version = "2.54.3-1"
+license = "Unicode-TOU"
+arch = "x86_64"
+description = "Web content engine for GTK"
+depends = ["at-spi2-core", "atk", "bubblewrap", "cairo", "enchant", "expat", "fontconfig", "freetype2", "gdk-pixbuf2", "glib2", "glibc", "gst-plugins-bad-libs", "gst-plugins-base-libs", "gstreamer", "gtk4", "harfbuzz", "harfbuzz-icu", "hyphen", "icu", "lcms2", "libatomic", "libavif", "libdrm", "libegl", "libepoxy", "libgcc", "libgcrypt", "libgl", "libgles", "libjpeg-turbo", "libjxl", "libmanette", "libpng", "libseccomp", "libsecret", "libsoup3", "libstdc++", "libsystemd", "libtasn1", "libwebp", "libx11", "libxml2", "libxslt", "mesa", "openjpeg2", "pango", "sqlite", "ttf-font", "wayland", "woff2", "xdg-dbus-proxy", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/webkitgtk-6.0-2.54.3-1-x86_64.pkg.tar.zst"
+sha256 = "eca050b1a787733d2fe8ce30e5276a1eb0fb6bd8ce9f71333c19ab0c14754201"

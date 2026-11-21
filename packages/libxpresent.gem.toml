@@ -1,0 +1,11 @@
+[package]
+name = "libxpresent"
+version = "1.0.2-1"
+license = "MIT"
+arch = "x86_64"
+description = "X Present Extension library"
+depends = ["libxfixes", "libxrandr", "libxext", "libx11", "glibc", "xorgproto"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libxpresent-1.0.2-1-x86_64.pkg.tar.zst"
+sha256 = "78552cf8ae3218508dfd32317dd0d9bb99376266a372738bb4eaed4d745c41bc"

@@ -1,0 +1,11 @@
+[package]
+name = "bluez-obex"
+version = "5.88-1"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "Object Exchange daemon for sharing content"
+depends = ["glib2", "libical", "dbus", "readline", "systemd-libs", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/bluez-obex-5.88-1-x86_64.pkg.tar.zst"
+sha256 = "a7afc6ea58513666c6d16440b4b56cce6554faad59352510e05bbd2b6cdf9ea5"

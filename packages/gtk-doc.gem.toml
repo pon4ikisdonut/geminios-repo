@@ -1,0 +1,11 @@
+[package]
+name = "gtk-doc"
+version = "1.37.0-1"
+license = "GPL-2.0-or-later"
+arch = "any"
+description = "Documentation tool for public library API"
+depends = ["docbook-xml", "docbook-xsl", "glib2-docs", "python", "python-lxml", "python-pygments", "sh"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gtk-doc-1.37.0-1-any.pkg.tar.zst"
+sha256 = "b01772b3e79492b4763859a54052789a1965336581f7aa32dfb08e1a5f989d2b"

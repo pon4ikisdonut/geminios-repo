@@ -1,0 +1,11 @@
+[package]
+name = "libcmis"
+version = "0.6.3-2"
+license = "MPL-1.1"
+arch = "x86_64"
+description = "a C/C++ client library for the CMIS protocol"
+depends = ["boost-libs", "curl", "libxml2", "glibc", "libstdc++", "libgcc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libcmis-0.6.3-2-x86_64.pkg.tar.zst"
+sha256 = "99aeb88efa8f3d8b9a65183f79f6d65a5bff6cb025d930173e0f7296b69bd983"

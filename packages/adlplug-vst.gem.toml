@@ -1,0 +1,11 @@
+[package]
+name = "adlplug-vst"
+version = "1.0.2-13"
+license = "LGPL-2.1-only"
+arch = "x86_64"
+description = "FM synthesizer for ADLMIDI with OPL3 chip emulation - VST plugin"
+depends = ["fmt", "freetype2", "gcc-libs", "glibc", "libx11", "libxext", "vst-host"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/adlplug-vst-1.0.2-13-x86_64.pkg.tar.zst"
+sha256 = "39176f68b17fcd1c2cc4c6f02c9a5da3536120f662500238f68997bdb59c0263"

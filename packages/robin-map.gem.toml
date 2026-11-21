@@ -1,0 +1,11 @@
+[package]
+name = "robin-map"
+version = "1.4.1-1"
+license = "MIT"
+arch = "x86_64"
+description = "C++ implementation of a fast hash map and hash set using robin hood hashing"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/robin-map-1.4.1-1-x86_64.pkg.tar.zst"
+sha256 = "e4d23dc19b0acf8a8b5117a513454027e22e9b9b1c17ed17d77bcd6dcaf0e103"

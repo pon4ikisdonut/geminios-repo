@@ -1,0 +1,11 @@
+[package]
+name = "hyprpicker"
+version = "0.4.8-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "A wlroots-compatible Wayland color picker that does not suck"
+depends = ["cairo", "glibc", "hyprutils", "libgcc", "libstdc++", "libxkbcommon", "wayland"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/hyprpicker-0.4.8-1-x86_64.pkg.tar.zst"
+sha256 = "97440d2b557f5a3cb2332b20b3c4542073d9f9c78e8cd1d84e1366ef15534e5f"

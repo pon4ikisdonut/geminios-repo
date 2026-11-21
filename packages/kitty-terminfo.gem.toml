@@ -1,0 +1,11 @@
+[package]
+name = "kitty-terminfo"
+version = "0.51.0-1"
+license = "GPL-3.0-only"
+arch = "x86_64"
+description = "Terminfo for kitty, an OpenGL-based terminal emulator"
+depends = ["ncurses"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kitty-terminfo-0.51.0-1-x86_64.pkg.tar.zst"
+sha256 = "bb7d8896ac6346b0b9fd9cfc1726884642b03a2274623fc8d859d6d6906e9922"

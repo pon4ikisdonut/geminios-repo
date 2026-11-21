@@ -1,0 +1,11 @@
+[package]
+name = "gnuplot"
+version = "6.0.6-1"
+license = "LicenseRef-Gnuplot"
+arch = "x86_64"
+description = "Plotting package which outputs to X11, PostScript, PNG, GIF, and others"
+depends = ["cairo", "gd", "glib2", "glibc", "gtk3", "libcaca", "libcerf", "libgcc", "libstdc++", "libwebp", "libx11", "lua", "pango", "qt6-5compat", "qt6-base", "qt6-svg", "readline", "wxwidgets-common", "wxwidgets-gtk3"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gnuplot-6.0.6-1-x86_64.pkg.tar.zst"
+sha256 = "84025253d3bfc73bd0aba9c4925b077c19ceb042dd70c6101c32056910f4c216"

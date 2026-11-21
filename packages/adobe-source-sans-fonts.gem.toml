@@ -1,0 +1,11 @@
+[package]
+name = "adobe-source-sans-fonts"
+version = "3.052-2"
+license = "OFL-1.1"
+arch = "any"
+description = "Sans-serif font family for user interface environments"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/adobe-source-sans-fonts-3.052-2-any.pkg.tar.zst"
+sha256 = "4e5043c928c95854c206a00f8bfd6f480def270267ef53f56d44a8381ac0032f"

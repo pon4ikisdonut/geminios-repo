@@ -1,0 +1,11 @@
+[package]
+name = "nvm"
+version = "0.40.8-1"
+license = "MIT"
+arch = "any"
+description = "Node Version Manager - Simple bash script to manage multiple active node.js versions"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/nvm-0.40.8-1-any.pkg.tar.zst"
+sha256 = "3401cfaf795c12801fc2e6f6ec91bac78bedee313225628d41af8d83dbd0d2fb"

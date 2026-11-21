@@ -1,0 +1,11 @@
+[package]
+name = "libgpg-error"
+version = "1.61-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Support library for libgcrypt"
+depends = ["glibc", "sh"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/libgpg-error-1.61-1-x86_64.pkg.tar.zst"
+sha256 = "7d5a5b39f588b275558f5e13bd792bff84cf89abb6d48e3e494d6c30e8ea9ca4"

@@ -1,0 +1,11 @@
+[package]
+name = "attica5"
+version = "5.116.0-2"
+license = "LGPL"
+arch = "x86_64"
+description = "Qt library that implements the Open Collaboration Services API"
+depends = ["qt5-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/attica5-5.116.0-2-x86_64.pkg.tar.zst"
+sha256 = "94a0d9fc79b210ce3f43c2ad850ff674ee67363f2395222a004a688566f3e5f0"

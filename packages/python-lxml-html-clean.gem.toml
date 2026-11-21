@@ -1,0 +1,11 @@
+[package]
+name = "python-lxml-html-clean"
+version = "0.4.6-1"
+license = "BSD-3-Clause"
+arch = "any"
+description = "HTML cleaner from lxml project"
+depends = ["python", "python-lxml"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-lxml-html-clean-0.4.6-1-any.pkg.tar.zst"
+sha256 = "aed06822e817e430d53508ffde95a30275b1ee282570975539489d5939541a30"

@@ -1,0 +1,11 @@
+[package]
+name = "zbar"
+version = "0.23.95-3"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Application and library for reading bar codes from various sources"
+depends = ["dbus", "graphicsmagick", "libxv", "v4l-utils"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/zbar-0.23.95-3-x86_64.pkg.tar.zst"
+sha256 = "3fc0c5205c0510c372f426432c3333ceaad78473bfc07704eaa3cee481ff99d0"

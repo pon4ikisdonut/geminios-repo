@@ -1,0 +1,11 @@
+[package]
+name = "vlc-plugin-udev"
+version = "3.0.24-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Free and open source cross-platform multimedia player and framework - udev plugin"
+depends = ["alsa-lib", "glibc", "libvlc", "libvlccore.so", "systemd-libs", "vlc-plugins-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vlc-plugin-udev-3.0.24-2-x86_64.pkg.tar.zst"
+sha256 = "10763d02cb552dfddca5cb139ac50acc17809c6b03128ddd2a1ad163434f9960"

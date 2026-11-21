@@ -1,0 +1,11 @@
+[package]
+name = "linux-headers"
+version = "7.3.5.arch1-1"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "Headers and scripts for building modules for the Linux kernel"
+depends = ["binutils", "glibc", "libelf", "libgcc", "openssl", "pahole", "xxhash", "zlib", "zstd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/linux-headers-7.3.5.arch1-1-x86_64.pkg.tar.zst"
+sha256 = "20fce145a491e15f8cc289a4e0dd772529cb6d4e38e526a87e4dea31d37bccb0"

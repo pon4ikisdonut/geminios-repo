@@ -1,0 +1,11 @@
+[package]
+name = "python-send2trash"
+version = "2.2.0-1"
+license = "BSD"
+arch = "any"
+description = "Send file to trash natively"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-send2trash-2.2.0-1-any.pkg.tar.zst"
+sha256 = "e1f17b21a0d012e2b60e0198a9c8f24f360c91606adf3d707ba457b6f1336442"

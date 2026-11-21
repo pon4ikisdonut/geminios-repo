@@ -1,0 +1,11 @@
+[package]
+name = "upower"
+version = "1.91.5-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Abstraction for enumerating power devices, listening to device events and querying history and statistics"
+depends = ["glib2", "glibc", "libgcc", "libgudev", "libimobiledevice", "libplist", "polkit", "libglib-2.0.so", "libgobject-2.0.so", "libgio-2.0.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/upower-1.91.5-1-x86_64.pkg.tar.zst"
+sha256 = "2de652124aaeec80cfec37411d4b0a9a8c16cc895a1d0e395cbe98d7186591a6"

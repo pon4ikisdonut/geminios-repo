@@ -1,0 +1,11 @@
+[package]
+name = "lensfun"
+version = "1:0.3.4-6"
+license = "LGPL3"
+arch = "x86_64"
+description = "Database of photographic lenses and a library that allows advanced access to the database"
+depends = ["glib2"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/lensfun-1:0.3.4-6-x86_64.pkg.tar.zst"
+sha256 = "5747f4ba853b717fd2cd843c93ac6a6dccdbb0f27371a2205c4cd6ec26303524"

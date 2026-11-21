@@ -1,0 +1,11 @@
+[package]
+name = "xcb-proto"
+version = "1.17.0-4"
+license = "X11-distribute-modifications-variant"
+arch = "any"
+description = "XML-XCB protocol descriptions"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xcb-proto-1.17.0-4-any.pkg.tar.zst"
+sha256 = "98f661ef7c7e05eb7a687e859cf123a92806ceed8f55c0d70ddbac799988239a"

@@ -1,0 +1,11 @@
+[package]
+name = "aegisub"
+version = "3.5.1-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "A general-purpose subtitle editor with ASS/SSA support"
+depends = ["alsa-lib", "boost-libs", "curl", "fftw", "fontconfig", "glib2", "glibc", "gtk3", "hicolor-icon-theme", "hunspell", "icu", "libass.so", "libffms2.so", "libgcc", "libgl", "libportal", "libportal-gtk3", "libpulse", "libstdc++", "uchardet", "wxwidgets-common", "wxwidgets-gtk3", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/aegisub-3.5.1-1-x86_64.pkg.tar.zst"
+sha256 = "4d97ecfc4c44655acd0f0c031bd8bc82ed944fcd311982d120489c41e5163fda"

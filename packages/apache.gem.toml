@@ -1,0 +1,11 @@
+[package]
+name = "apache"
+version = "2.4.71-1"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "A high performance Unix-based HTTP server"
+depends = ["zlib", "apr-util", "pcre2", "libnghttp2", "openssl", "libxcrypt"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/apache-2.4.71-1-x86_64.pkg.tar.zst"
+sha256 = "1167e551b152c2d728dbf419d485610ea3ee74b7bce0890b8fed97e067d23542"

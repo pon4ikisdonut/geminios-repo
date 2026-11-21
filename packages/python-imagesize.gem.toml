@@ -1,0 +1,11 @@
+[package]
+name = "python-imagesize"
+version = "2.0.1-1"
+license = "MIT"
+arch = "any"
+description = "Analyzes JPEG/JPEG 2000/PNG/GIF/TIFF/SVG/Netpbm/WebP image headers and returns image size or DPI"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-imagesize-2.0.1-1-any.pkg.tar.zst"
+sha256 = "620f393363d3cd34ea8da698a01d4923efed328fc864483560f9b4a50db514a5"

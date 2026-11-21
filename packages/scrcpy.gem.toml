@@ -1,0 +1,11 @@
+[package]
+name = "scrcpy"
+version = "5.0.1-1"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "Display and control your Android device"
+depends = ["android-tools", "ffmpeg", "sdl3", "glibc", "libusb"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/scrcpy-5.0.1-1-x86_64.pkg.tar.zst"
+sha256 = "f77c71af5211d85adcbd9cbc6b44c9e70ec90f6d6261986700a96ed35e821cc0"

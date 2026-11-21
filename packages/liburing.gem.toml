@@ -1,0 +1,11 @@
+[package]
+name = "liburing"
+version = "2.15-1"
+license = "MIT"
+arch = "x86_64"
+description = "Linux-native io_uring I/O access library"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/liburing-2.15-1-x86_64.pkg.tar.zst"
+sha256 = "ceaf9e41bcd5cb06efcffbc90a39628b7a5cae5490c5e6db810a792450070ad2"

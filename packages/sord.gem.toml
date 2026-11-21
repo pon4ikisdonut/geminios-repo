@@ -1,0 +1,11 @@
+[package]
+name = "sord"
+version = "0.16.22-1"
+license = "ISC"
+arch = "x86_64"
+description = "A lightweight C library for storing RDF data in memory"
+depends = ["glibc", "pcre2", "serd", "libserd-0.so", "zix", "libzix-0.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/sord-0.16.22-1-x86_64.pkg.tar.zst"
+sha256 = "2d6a5986fb8904a4ab9a8270e8325003a86480decce6ba10e88971562a0166a8"

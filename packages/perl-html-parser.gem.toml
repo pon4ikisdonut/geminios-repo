@@ -1,0 +1,11 @@
+[package]
+name = "perl-html-parser"
+version = "3.87-1"
+license = "GPL-1.0-or-later"
+arch = "x86_64"
+description = "Perl HTML parser class"
+depends = ["perl-html-tagset", "perl-http-message", "perl-uri"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/perl-html-parser-3.87-1-x86_64.pkg.tar.zst"
+sha256 = "3acd7204059ba91d53c67b1ae81a620be5c9f192b97127ecffdafbfccad4489a"

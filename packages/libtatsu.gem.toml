@@ -1,0 +1,11 @@
+[package]
+name = "libtatsu"
+version = "1.0.5-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Library handling the communication with Apple's Tatsu Signing Server (TSS)"
+depends = ["curl", "glibc", "libplist"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libtatsu-1.0.5-1-x86_64.pkg.tar.zst"
+sha256 = "3151e7443850fd811e88d7cd7e6606b234f69f95f06ef79fa9f601cee3f85714"

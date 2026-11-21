@@ -1,0 +1,11 @@
+[package]
+name = "linux-firmware-intel"
+version = "20261019-1"
+license = "LicenseRef-intel"
+arch = "any"
+description = "Firmware files for Linux - Firmware for Intel devices"
+depends = ["linux-firmware-whence"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/linux-firmware-intel-20261019-1-any.pkg.tar.zst"
+sha256 = "16107109ab874b44344f3a64b5aec68621962b7cb2adbc63207547f09fed7ece"

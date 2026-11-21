@@ -1,0 +1,11 @@
+[package]
+name = "haskell-memory"
+version = "0.18.0-179"
+license = "BSD"
+arch = "x86_64"
+description = "memory and related abstraction stuff"
+depends = ["ghc-libs", "haskell-basement"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-memory-0.18.0-179-x86_64.pkg.tar.zst"
+sha256 = "e423dc704a891ebf2cca7c8256273c2c7e2f976b60dcfa8d445c2e3d19184b0a"

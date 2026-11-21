@@ -1,0 +1,11 @@
+[package]
+name = "lsof"
+version = "4.99.7-1"
+license = "custom"
+arch = "x86_64"
+description = "Lists open files for running Unix processes"
+depends = ["glibc", "libtirpc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/lsof-4.99.7-1-x86_64.pkg.tar.zst"
+sha256 = "798590776e511d13ddde0763ed0b7e8cfc6e9a366be5bdc73e81e235dac857d0"

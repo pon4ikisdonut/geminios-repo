@@ -1,0 +1,11 @@
+[package]
+name = "python-cachecontrol"
+version = "1:0.15.0-1"
+license = "Apache-2.0"
+arch = "any"
+description = "Port of the caching algorithms in httplib2 for use with requests session object"
+depends = ["python", "python-msgpack", "python-requests", "python-urllib3"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-cachecontrol-1:0.15.0-1-any.pkg.tar.zst"
+sha256 = "914043632f9eaef6414327a58bb93705ef50871ce64260c4415b5a30e6463028"

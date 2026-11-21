@@ -1,0 +1,11 @@
+[package]
+name = "python-pexpect"
+version = "4.9.0-7"
+license = "MIT"
+arch = "any"
+description = "For controlling and automating applications"
+depends = ["python", "python-ptyprocess"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-pexpect-4.9.0-7-any.pkg.tar.zst"
+sha256 = "9e8f9a59eb58ff465841410768ba74c2ecc00ea208187185e60555d6d27d96e9"

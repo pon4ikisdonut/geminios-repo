@@ -1,0 +1,11 @@
+[package]
+name = "libx86emu"
+version = "3.7-2"
+license = "MIT"
+arch = "x86_64"
+description = "x86 emulation library"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libx86emu-3.7-2-x86_64.pkg.tar.zst"
+sha256 = "6939f05656bc36ba8062f5bdfbd911ccf71b3eb272383a54dbbae1e2111fe145"

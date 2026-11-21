@@ -1,0 +1,11 @@
+[package]
+name = "xorg-xkbevd"
+version = "1.1.6-1"
+license = "LicenseRef-xkbevd"
+arch = "x86_64"
+description = "XKB event daemon"
+depends = ["libxkbfile", "libx11", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xorg-xkbevd-1.1.6-1-x86_64.pkg.tar.zst"
+sha256 = "34fb7b12288f53ea6275b04e2b3b745f812cb775380e99e6c59f3814324f1e54"

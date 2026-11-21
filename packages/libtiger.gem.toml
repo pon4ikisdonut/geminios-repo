@@ -1,0 +1,11 @@
+[package]
+name = "libtiger"
+version = "0.3.4-8"
+license = "LGPL"
+arch = "x86_64"
+description = "A rendering library for Kate streams using Pango and Cairo"
+depends = ["pango", "libkate"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libtiger-0.3.4-8-x86_64.pkg.tar.zst"
+sha256 = "d99b418e4bfce0d13805bb0fbfa5230f778010fe97338e4d0142fe13ea7e64ad"

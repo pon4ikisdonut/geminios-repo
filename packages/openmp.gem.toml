@@ -1,0 +1,11 @@
+[package]
+name = "openmp"
+version = "23.1.5-1"
+license = "Apache-2.0 WITH LLVM-exception"
+arch = "x86_64"
+description = "LLVM OpenMP Runtime Library"
+depends = ["llvm-libs", "libelf", "libffi", "glibc", "libstdc++", "libgcc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/openmp-23.1.5-1-x86_64.pkg.tar.zst"
+sha256 = "c4e0bfe622513dddf6fcd45e4567c454fb07d0363d92b2627e55e6644b403917"

@@ -1,0 +1,11 @@
+[package]
+name = "libbsd"
+version = "0.12.2-2"
+license = "custom"
+arch = "x86_64"
+description = "Provides useful functions commonly found on BSD systems like strlcpy()"
+depends = ["glibc", "libmd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libbsd-0.12.2-2-x86_64.pkg.tar.zst"
+sha256 = "e26194849786b0202828a348be3f4b90d410604cd7d48f113a4301584a49895a"

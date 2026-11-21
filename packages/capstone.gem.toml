@@ -1,0 +1,11 @@
+[package]
+name = "capstone"
+version = "5.0.9-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Lightweight multi-platform, multi-architecture disassembly framework"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/capstone-5.0.9-1-x86_64.pkg.tar.zst"
+sha256 = "76fc16318206289010c1be7977c94d3ee0b48408d5fe3e558c05615a703aa1f5"

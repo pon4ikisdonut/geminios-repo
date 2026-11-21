@@ -1,0 +1,11 @@
+[package]
+name = "aisleriot"
+version = "3.22.35-2"
+license = "LGPL-3.0-or-later"
+arch = "x86_64"
+description = "A collection of patience games written in guile scheme"
+depends = ["at-spi2-core", "cairo", "dconf", "gdk-pixbuf2", "glib2", "glibc", "gtk3", "guile", "hicolor-icon-theme", "libcanberra", "librsvg"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/aisleriot-3.22.35-2-x86_64.pkg.tar.zst"
+sha256 = "a922827a7b291f19cd48d108ed45628bfd2f3240dccdb73e11e5d3436420b972"

@@ -1,0 +1,11 @@
+[package]
+name = "perl-file-sharedir"
+version = "1.118-8"
+license = "Artistic-1.0-Perl OR GPL-1.0-or-later"
+arch = "any"
+description = "Locate per-dist and per-module shared files"
+depends = ["perl", "perl-class-inspector"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/perl-file-sharedir-1.118-8-any.pkg.tar.zst"
+sha256 = "5b8829d6c53aae6f2c3b640b196e55008e47ec2adab7ce9e99e8dbf7fcdd8da5"

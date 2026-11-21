@@ -1,0 +1,11 @@
+[package]
+name = "libsoup3"
+version = "3.8.1-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "HTTP client/server library for GNOME"
+depends = ["brotli", "glib-networking", "glib2", "glibc", "krb5", "libnghttp2", "libpsl", "libsysprof-capture", "sqlite", "zlib", "zstd", "libbrotlidec.so", "libgssapi_krb5.so", "libglib-2.0.so", "libgobject-2.0.so", "libgio-2.0.so", "libpsl.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libsoup3-3.8.1-1-x86_64.pkg.tar.zst"
+sha256 = "a8c637736c948e01b9096b7e9251dc59404d51497fea7b68349546ef1aeb9b93"

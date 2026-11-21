@@ -1,0 +1,11 @@
+[package]
+name = "virtualbox-host-dkms"
+version = "7.2.22-2"
+license = "GPL-3.0-only AND (GPL-3.0-only OR CDDL-1.0)"
+arch = "x86_64"
+description = "VirtualBox Host kernel modules sources"
+depends = ["dkms", "gcc", "make"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/virtualbox-host-dkms-7.2.22-2-x86_64.pkg.tar.zst"
+sha256 = "eb1d25448de86cf92521563d52fec393cada09d8b69bcc48307d49982d6e249d"

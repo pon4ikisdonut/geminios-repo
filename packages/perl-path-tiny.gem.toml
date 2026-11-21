@@ -1,0 +1,11 @@
+[package]
+name = "perl-path-tiny"
+version = "0.150-2"
+license = "Apache-2.0"
+arch = "any"
+description = "File path utility"
+depends = ["perl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/perl-path-tiny-0.150-2-any.pkg.tar.zst"
+sha256 = "c755719b58e3a7fa131c26de60bcf92a47191a74e98f68cc7db579416556aa45"

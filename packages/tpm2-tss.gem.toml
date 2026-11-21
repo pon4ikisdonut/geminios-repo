@@ -1,0 +1,11 @@
+[package]
+name = "tpm2-tss"
+version = "4.2.2s-1"
+license = "BSD-2-Clause"
+arch = "x86_64"
+description = "Implementation of the TCG Trusted Platform Module 2.0 Software Stack (TSS2)"
+depends = ["curl", "glibc", "json-c", "openssl", "util-linux-libs", "libjson-c.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/tpm2-tss-4.2.2s-1-x86_64.pkg.tar.zst"
+sha256 = "71cb0492274b1b13c9a2270eb474ee2a6a99d5e0c886916814e1c4977cb475bb"

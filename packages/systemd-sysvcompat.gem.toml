@@ -1,0 +1,11 @@
+[package]
+name = "systemd-sysvcompat"
+version = "262.2-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "sysvinit compat for systemd"
+depends = ["systemd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/systemd-sysvcompat-262.2-1-x86_64.pkg.tar.zst"
+sha256 = "50eb1cd7fb930a5d56de36f5214eeefd9bd70e562d956a1fa68ae235e5c530ef"

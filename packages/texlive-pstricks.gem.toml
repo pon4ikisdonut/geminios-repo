@@ -1,0 +1,11 @@
+[package]
+name = "texlive-pstricks"
+version = "2026.1-1"
+license = "GPL"
+arch = "any"
+description = "TeX Live - PSTricks"
+depends = ["texlive-bin", "texlive-basic", "texlive-plaingeneric"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/texlive-pstricks-2026.1-1-any.pkg.tar.zst"
+sha256 = "dd0a68ad07da3b8d7c116c53a4d2203684805c2114e44eedc893729b8f4dcc47"

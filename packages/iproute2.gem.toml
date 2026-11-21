@@ -1,0 +1,11 @@
+[package]
+name = "iproute2"
+version = "7.3.0-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "IP Routing Utilities"
+depends = ["glibc", "libxtables.so", "libcap", "libcap.so", "libelf", "libbpf", "libbpf.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/iproute2-7.3.0-1-x86_64.pkg.tar.zst"
+sha256 = "e7afcf7bee5976e3c01053e46ebd396091a5341e5f267210eff251902aca65e9"

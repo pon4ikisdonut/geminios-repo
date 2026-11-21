@@ -1,0 +1,11 @@
+[package]
+name = "nss"
+version = "3.134-1"
+license = "MPL-2.0"
+arch = "x86_64"
+description = "Network Security Services"
+depends = ["glibc", "libgcc", "libstdc++", "nspr", "p11-kit", "sh", "sqlite"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/nss-3.134-1-x86_64.pkg.tar.zst"
+sha256 = "c9a45f7e16d8142e528965d751deb781ad7b6fa423134242074522ae305fb5b6"

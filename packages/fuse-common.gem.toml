@@ -1,0 +1,11 @@
+[package]
+name = "fuse-common"
+version = "3.18.3-1"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "Common files for fuse2/3 packages"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/fuse-common-3.18.3-1-x86_64.pkg.tar.zst"
+sha256 = "6948976906ea830ab210401402ab849e8b5211dd34952e82a92e28a9db3a7389"

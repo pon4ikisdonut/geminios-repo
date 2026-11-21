@@ -1,0 +1,11 @@
+[package]
+name = "gtkmm-4.0"
+version = "4.24.0-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "C++ bindings for GTK 4"
+depends = ["cairo", "cairomm-1.16", "gdk-pixbuf2", "glib2", "glibc", "glibmm-2.68", "graphene", "gtk4", "libgcc", "libsigc++-3.0", "libstdc++", "pangomm-2.48", "vulkan-icd-loader", "libcairomm-1.16.so", "libglibmm-2.68.so", "libpangomm-2.48.so", "libsigc-3.0.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gtkmm-4.0-4.24.0-1-x86_64.pkg.tar.zst"
+sha256 = "7270572c24d18c6e937386ddd43e96d3f1de4a00746a5d92a68b0cdd9d4c1e07"

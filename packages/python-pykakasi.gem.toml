@@ -1,0 +1,11 @@
+[package]
+name = "python-pykakasi"
+version = "2.3.0-3"
+license = "GPL-3.0-or-later"
+arch = "any"
+description = "Lightweight converter from Japanese Kana-kanji sentences into Kana-Roman"
+depends = ["python", "python-deprecated", "python-jaconv"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-pykakasi-2.3.0-3-any.pkg.tar.zst"
+sha256 = "1f490e436a6a04f896df166b2c65bed0aa0e8b076987922bf4659d314037e7a0"

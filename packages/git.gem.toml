@@ -1,0 +1,11 @@
+[package]
+name = "git"
+version = "2.56.1-1"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "the fast distributed version control system"
+depends = ["curl", "expat", "perl", "perl-error", "perl-mailtools", "openssl", "pcre2", "grep", "shadow", "zlib-ng"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/git-2.56.1-1-x86_64.pkg.tar.zst"
+sha256 = "e03b17fa53ecb9af41a00b599f5304fafdaa04bd36c9fdd04eb18ad7d7f537ad"

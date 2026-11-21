@@ -1,0 +1,11 @@
+[package]
+name = "python"
+version = "3.14.10-1"
+license = "PSF-2.0"
+arch = "x86_64"
+description = "The Python programming language"
+depends = ["bzip2", "expat", "gdbm", "libffi", "libnsl", "libxcrypt", "openssl-3", "zlib", "tzdata", "mpdecimal", "zstd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/python-3.14.10-1-x86_64.pkg.tar.zst"
+sha256 = "1e40927a3a91c0684e2dfe390eea5368d02cbc43371d6ac220e18dafbf6ec2a6"

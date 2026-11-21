@@ -1,0 +1,11 @@
+[package]
+name = "plasma-integration"
+version = "6.8.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Qt Platform Theme integration plugins for the Plasma workspaces"
+depends = ["glibc", "kcolorscheme", "kconfig", "kcoreaddons", "kguiaddons", "kiconthemes", "ki18n", "kio", "kjobwidgets", "knotifications", "kservice", "kstatusnotifieritem", "kwidgetsaddons", "kwindowsystem", "libstdc++", "libxcb", "libxcursor", "qqc2-breeze-style", "qqc2-desktop-style", "qt6-base", "qt6-declarative", "wayland", "noto-fonts", "ttf-hack", "xdg-desktop-portal-kde"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/plasma-integration-6.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "f73d954398dcc98f2163eb418fd3431cbb96cc076234a112a88ddd7e927e1cf9"

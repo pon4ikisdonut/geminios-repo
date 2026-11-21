@@ -1,0 +1,11 @@
+[package]
+name = "libnautilus-extension"
+version = "51.1-1"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "Extension interface for Nautilus"
+depends = ["glib2", "glibc", "libgcc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libnautilus-extension-51.1-1-x86_64.pkg.tar.zst"
+sha256 = "671d17197e2dc88543f6cbc9883747f4d3d10d4c5cfadd0f384f338f3b5cce95"

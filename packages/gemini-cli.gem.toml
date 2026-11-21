@@ -1,11 +1,11 @@
 [package]
 name = "gemini-cli"
-version = "1.0.0"
+version = "1.0.1"
 license = "MIT"
 arch = "x86_64"
 description = "GeminiOS CLI assistant (`gemini`, `ask`), `gemini-doctor`, and Zsh/Bash shell hooks"
 depends = ["geminid"]
 
 [source]
-url = "https://github.com/pon4ikisdonut/geminios-repo/releases/download/v1.0.0/gemini-cli-1.0.0.tar.gz"
+url = "https://github.com/pon4ikisdonut/geminios-repo/releases/download/v1.0.1/gemini-cli-1.0.1.tar.gz"
 sha256 = "ff1a551f288360df9d04eca34ca416a9f8647ab9bd071d779b5feb18372b59ad"

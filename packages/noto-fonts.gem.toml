@@ -1,0 +1,11 @@
+[package]
+name = "noto-fonts"
+version = "1:2026.11.01-1"
+license = "OFL-1.1-no-RFN"
+arch = "any"
+description = "Google Noto TTF fonts"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/noto-fonts-1:2026.11.01-1-any.pkg.tar.zst"
+sha256 = "4ce3e612e1f2df5f75de526473197ac341aba2ded5d17267b92edbd4c97bcfc6"

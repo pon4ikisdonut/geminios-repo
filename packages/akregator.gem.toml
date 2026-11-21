@@ -1,0 +1,11 @@
+[package]
+name = "akregator"
+version = "26.08.3-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "A Feed Reader by KDE"
+depends = ["glibc", "grantleetheme", "kcmutils", "kcodecs", "kcolorscheme", "kconfig", "kconfigwidgets", "kcoreaddons", "kcrash", "ki18n", "kiconthemes", "kio", "knotifications", "knotifyconfig", "kontactinterface", "kparts", "kstatusnotifieritem", "ktextaddons", "ktexttemplate", "kuserfeedback", "kwidgetsaddons", "kxmlgui", "libgcc", "libkdepim", "libstdc++", "messagelib", "pimcommon", "qt6-base", "qt6-webengine", "syndication"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/akregator-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "9353657497751fcfbf387f7e1f8fac5cf619d94eb2af6aef1f92ea303560caaa"

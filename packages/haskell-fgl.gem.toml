@@ -1,0 +1,11 @@
+[package]
+name = "haskell-fgl"
+version = "5.8.3.1-47"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Martin Erwig's Functional Graph Library"
+depends = ["ghc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-fgl-5.8.3.1-47-x86_64.pkg.tar.zst"
+sha256 = "11e515ed917b7f91536d24b3459fe7140d8107be35b3fd29b4bf3fb43e207246"

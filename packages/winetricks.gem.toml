@@ -1,0 +1,11 @@
+[package]
+name = "winetricks"
+version = "20260125-2"
+license = "LGPL-2.1-or-later"
+arch = "any"
+description = "Script to install various redistributable runtime libraries in Wine."
+depends = ["bash", "cabextract", "perl", "unzip", "wine"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/winetricks-20260125-2-any.pkg.tar.zst"
+sha256 = "dc27087f61bcd5cd5c627640f08594401e8c56dafab6e26791a1b91c38588562"

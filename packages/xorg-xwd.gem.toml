@@ -1,0 +1,11 @@
+[package]
+name = "xorg-xwd"
+version = "1.0.10-1"
+license = "MIT-open-group AND HPND-sell-variant"
+arch = "x86_64"
+description = "X Window System image dumping utility"
+depends = ["libxkbfile", "libx11", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xorg-xwd-1.0.10-1-x86_64.pkg.tar.zst"
+sha256 = "38d7ca8865e062fd08b77c9503559e9e982a296f2525df8c59ad434e058c9999"

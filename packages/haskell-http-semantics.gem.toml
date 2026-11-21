@@ -1,0 +1,11 @@
+[package]
+name = "haskell-http-semantics"
+version = "0.1.2-2"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "HTTP semantics library"
+depends = ["ghc-libs", "haskell-case-insensitive", "haskell-http-types", "haskell-network", "haskell-network-byte-order", "haskell-time-manager", "haskell-utf8-string"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-http-semantics-0.1.2-2-x86_64.pkg.tar.zst"
+sha256 = "4bf85724d144f3966139790e1238ae676a0f61aa576d036a2873b60919ce56fe"

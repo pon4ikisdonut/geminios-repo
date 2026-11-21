@@ -1,0 +1,11 @@
+[package]
+name = "pacman"
+version = "7.1.0.r9.g54d9411-4"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "A library-based package manager with dependency support"
+depends = ["bash", "coreutils", "curl", "libcurl.so", "gawk", "gettext", "glibc", "gnupg", "gpgme", "libgpgme.so", "grep", "libarchive", "libarchive.so", "openssl", "libcrypto.so", "pacman-mirrorlist", "systemd", "libmakepkg-dropins"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/pacman-7.1.0.r9.g54d9411-4-x86_64.pkg.tar.zst"
+sha256 = "e7b847d2989de38ec17ce9e2ca2a7b585ca61604dda0c73bc285b44005b234b1"

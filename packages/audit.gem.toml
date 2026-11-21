@@ -1,0 +1,11 @@
+[package]
+name = "audit"
+version = "4.2.1-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Userspace components of the audit framework"
+depends = ["bash", "glibc", "krb5", "libkrb5.so", "libgssapi_krb5.so", "libcap-ng", "libcap-ng.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/audit-4.2.1-1-x86_64.pkg.tar.zst"
+sha256 = "6b2f7e400336d05bf9a4b1b65015e4a7ac3a3842fbc67790913f9748513b964e"

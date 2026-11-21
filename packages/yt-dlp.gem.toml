@@ -1,0 +1,11 @@
+[package]
+name = "yt-dlp"
+version = "2026.10.26-1"
+license = "Unlicense"
+arch = "any"
+description = "A youtube-dl fork with additional features and fixes"
+depends = ["python", "python-certifi", "python-requests", "python-urllib3", "yt-dlp-ejs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/yt-dlp-2026.10.26-1-any.pkg.tar.zst"
+sha256 = "1b7909341dc15cfedf4a9e1c91e5a0e0b46334e7174ef07b74f3993942be8512"

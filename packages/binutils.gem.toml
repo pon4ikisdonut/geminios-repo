@@ -1,0 +1,11 @@
+[package]
+name = "binutils"
+version = "2.47-4"
+license = "FSFAP"
+arch = "x86_64"
+description = "A set of programs to assemble and manipulate binary and object files"
+depends = ["glibc", "jansson", "libelf", "libgcc", "libstdc++", "zlib", "zstd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/binutils-2.47-4-x86_64.pkg.tar.zst"
+sha256 = "d9508ad848fd6c31473ac0925cf8c3ec0d2a71bbbb5c7e39274186338a285660"

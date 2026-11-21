@@ -1,0 +1,11 @@
+[package]
+name = "haskell-mmorph"
+version = "1.2.2-2"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Monad morphisms"
+depends = ["ghc-libs", "haskell-transformers-compat"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-mmorph-1.2.2-2-x86_64.pkg.tar.zst"
+sha256 = "c3784b914eed77f877274bb2bacaf5bda06a79f19cc36aab59287712df350a73"

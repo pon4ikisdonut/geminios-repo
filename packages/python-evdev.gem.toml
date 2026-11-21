@@ -1,0 +1,11 @@
+[package]
+name = "python-evdev"
+version = "2.0.0-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Python bindings for the Linux input subsystem"
+depends = ["glibc", "python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-evdev-2.0.0-1-x86_64.pkg.tar.zst"
+sha256 = "ac7bd3928ca3485254457a09f2b3297c9f5e82d1b62775f12e62c310588e7f1c"

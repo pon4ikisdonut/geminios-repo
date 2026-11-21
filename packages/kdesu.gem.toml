@@ -1,0 +1,11 @@
+[package]
+name = "kdesu"
+version = "6.32.0-1"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "Integration with su for elevated privileges"
+depends = ["libstdc++", "glibc", "kconfig", "kcoreaddons", "ki18n", "kpty", "libx11", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kdesu-6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "20a6c18bdc0c9aa0a0c9cf2f6f75bba022897f5662a24e23fd5b8f6ca1ef6e93"

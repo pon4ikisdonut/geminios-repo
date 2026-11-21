@@ -1,0 +1,11 @@
+[package]
+name = "vulkan-tools"
+version = "1.4.363.0-1"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "Vulkan tools and utilities"
+depends = ["glibc", "libgcc", "libstdc++", "libx11", "libxcb", "vulkan-icd-loader", "wayland"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vulkan-tools-1.4.363.0-1-x86_64.pkg.tar.zst"
+sha256 = "b8d0cab28210881c237bdee344bfe6c4a43cf77373e6f8e6cfc3e98a575e2045"

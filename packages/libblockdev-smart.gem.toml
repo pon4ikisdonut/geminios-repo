@@ -1,0 +1,11 @@
+[package]
+name = "libblockdev-smart"
+version = "3.6.0-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "A library for manipulating block devices - S.M.A.R.T. support"
+depends = ["glib2", "libglib-2.0.so", "glibc", "json-glib", "libatasmart", "libblockdev", "libbd_utils.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libblockdev-smart-3.6.0-1-x86_64.pkg.tar.zst"
+sha256 = "ffc021ef28a2fc128f995439ac54f003663a9ebbd8ac01d1cd23b327d50c16fc"

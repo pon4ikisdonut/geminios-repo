@@ -1,0 +1,11 @@
+[package]
+name = "ruby-nkf"
+version = "0.3.0-1"
+license = "BSD-2-Clause"
+arch = "x86_64"
+description = "Ruby extension for Network Kanji Filter"
+depends = ["ruby"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ruby-nkf-0.3.0-1-x86_64.pkg.tar.zst"
+sha256 = "21771966f493300bbb8e37bc2768b3f32b364b2f6159620dc96dfe75308aed63"

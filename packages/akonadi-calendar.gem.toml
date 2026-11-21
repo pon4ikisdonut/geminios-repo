@@ -1,0 +1,11 @@
+[package]
+name = "akonadi-calendar"
+version = "26.08.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Akonadi calendar integration"
+depends = ["akonadi", "akonadi-contacts", "akonadi-mime", "glibc", "gpgmepp", "kcalendarcore", "kcalutils", "kcodecs", "kconfig", "kcontacts", "kcoreaddons", "kcrash", "kdbusaddons", "ki18n", "kidentitymanagement", "kio", "kitemmodels", "kmailtransport", "kmime", "knotifications", "kservice", "kwidgetsaddons", "kxmlgui", "libgcc", "libkleo", "libstdc++", "messagelib", "qgpgme", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/akonadi-calendar-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "c9c6586f26905c35fd21fcbddd443c72b89a5d8bd4982ecefacf50b1431c96d1"

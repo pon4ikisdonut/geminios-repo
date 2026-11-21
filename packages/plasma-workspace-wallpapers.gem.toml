@@ -1,0 +1,11 @@
+[package]
+name = "plasma-workspace-wallpapers"
+version = "6.8.3-1"
+license = "LGPL"
+arch = "any"
+description = "Additional wallpapers for the Plasma Workspace"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/plasma-workspace-wallpapers-6.8.3-1-any.pkg.tar.zst"
+sha256 = "1900a2900dffef182b2281917797e7476b54b1e0981eeb1d5d66330de671dbf5"

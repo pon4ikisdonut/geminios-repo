@@ -1,0 +1,11 @@
+[package]
+name = "libjxl"
+version = "0.13.0-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "JPEG XL image format reference implementation"
+depends = ["brotli", "giflib", "glibc", "gperftools", "libgcc", "highway", "libjpeg-turbo", "libpng", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libjxl-0.13.0-1-x86_64.pkg.tar.zst"
+sha256 = "8ff0f4c45e6692ab6ebc3c9f93ea9cf6ced260afc72c7ad5e25cb99acafe33d5"

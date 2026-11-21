@@ -1,0 +1,11 @@
+[package]
+name = "lib32-gcc-libs"
+version = "16.2.1+r23+gd564253eb6c8-1"
+license = "GFDL-1.3-or-later"
+arch = "x86_64"
+description = "32-bit runtime libraries shipped by GCC"
+depends = ["lib32-glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/lib32-gcc-libs-16.2.1+r23+gd564253eb6c8-1-x86_64.pkg.tar.zst"
+sha256 = "21fde8d5c5fda174b0277515fb6e49a450763a9c8a05f1956f719779e459465a"

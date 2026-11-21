@@ -1,0 +1,11 @@
+[package]
+name = "python-filelock"
+version = "4.0.10-1"
+license = "MIT"
+arch = "any"
+description = "A platform-independent file lock"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-filelock-4.0.10-1-any.pkg.tar.zst"
+sha256 = "e2e74f6b5fc12d5adc3a71cad28e7ad7a1f371fe268b8edf277d4e42c8fb28fa"

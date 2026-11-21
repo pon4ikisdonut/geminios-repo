@@ -1,0 +1,11 @@
+[package]
+name = "hyprutils"
+version = "0.14.4-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Hyprland utilities library used across the ecosystem"
+depends = ["pixman", "libpixman-1.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/hyprutils-0.14.4-1-x86_64.pkg.tar.zst"
+sha256 = "ab3e9b40e14c4627f7cafd85fef190f779b758eda42ff33a3ab4f7e610baab3b"

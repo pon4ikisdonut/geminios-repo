@@ -1,0 +1,11 @@
+[package]
+name = "ocl-icd"
+version = "2.3.5-1"
+license = "BSD-2-Clause"
+arch = "x86_64"
+description = "OpenCL ICD Bindings"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ocl-icd-2.3.5-1-x86_64.pkg.tar.zst"
+sha256 = "dd5a8adc1b0f9489c2dd182bb645cdaa4b7786811b34aa4acc26cf882d1428b8"

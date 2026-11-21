@@ -1,0 +1,11 @@
+[package]
+name = "6tunnel"
+version = "0.14-1"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "Tunnels IPv6 connections for IPv4-only applications"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/6tunnel-0.14-1-x86_64.pkg.tar.zst"
+sha256 = "d5ec1724a96217a3f10f64408717457e6fab0ba0787e673af6cdf63497f1443d"

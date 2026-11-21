@@ -1,0 +1,11 @@
+[package]
+name = "python-pefile"
+version = "2024.8.26-2"
+license = "MIT"
+arch = "any"
+description = "Python PE parsing module"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-pefile-2024.8.26-2-any.pkg.tar.zst"
+sha256 = "9e306ebe8b576a3a3f1d1db658e727253f29948d4145548d4dc3419532905fe5"

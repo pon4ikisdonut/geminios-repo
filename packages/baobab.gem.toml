@@ -1,0 +1,11 @@
+[package]
+name = "baobab"
+version = "50.0-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "A graphical directory tree analyzer"
+depends = ["cairo", "dconf", "glib2", "glibc", "graphene", "gsettings-desktop-schemas", "gtk4", "hicolor-icon-theme", "libadwaita", "librsvg", "pango"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/baobab-50.0-1-x86_64.pkg.tar.zst"
+sha256 = "0f0340407294b54ef3883bf7bf2002ba5c6daff77e893dcde0b3403ffd15708f"

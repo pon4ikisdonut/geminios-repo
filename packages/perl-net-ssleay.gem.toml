@@ -1,0 +1,11 @@
+[package]
+name = "perl-net-ssleay"
+version = "1.96-3"
+license = "Artistic-2.0"
+arch = "x86_64"
+description = "Perl bindings for OpenSSL and LibreSSL"
+depends = ["openssl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/perl-net-ssleay-1.96-3-x86_64.pkg.tar.zst"
+sha256 = "b6250b56fe9f23aab7f67e361c4213e480cdcea227d262b0a7c85c4c3f33178b"

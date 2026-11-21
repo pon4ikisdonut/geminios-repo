@@ -1,0 +1,11 @@
+[package]
+name = "ex-vi-compat"
+version = "3-1"
+license = "0BSD"
+arch = "any"
+description = "The ex and vi commands based on vim's compatibility modes"
+depends = ["bash", "vim"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ex-vi-compat-3-1-any.pkg.tar.zst"
+sha256 = "0a959c7c4c62f875b940e32669d45bb32d6a0e4a50c8a726029fda78fd9ea475"

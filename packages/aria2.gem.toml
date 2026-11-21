@@ -1,0 +1,11 @@
+[package]
+name = "aria2"
+version = "1.37.0-3"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "Download utility that supports HTTP(S), FTP, BitTorrent, and Metalink"
+depends = ["gnutls", "libxml2", "sqlite", "c-ares", "ca-certificates", "libssh2"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/aria2-1.37.0-3-x86_64.pkg.tar.zst"
+sha256 = "fd887fd41933137da7260522d62198ab9f9a5f1cf7fbceeb9127f29c1e98aad3"

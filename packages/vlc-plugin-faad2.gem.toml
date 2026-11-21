@@ -1,0 +1,11 @@
+[package]
+name = "vlc-plugin-faad2"
+version = "3.0.24-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Free and open source cross-platform multimedia player and framework - FAAD2 AAC plugin"
+depends = ["faad2", "glibc", "libvlc", "libvlccore.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vlc-plugin-faad2-3.0.24-2-x86_64.pkg.tar.zst"
+sha256 = "95ec37f0ac252064e2788234467b86448509ca0c85db7e13bac25890a4134676"

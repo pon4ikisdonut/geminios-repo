@@ -1,0 +1,11 @@
+[package]
+name = "kded5"
+version = "5.116.0-2"
+license = "LGPL"
+arch = "x86_64"
+description = "Extensible deamon for providing system level services"
+depends = ["kservice5", "kcrash5"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kded5-5.116.0-2-x86_64.pkg.tar.zst"
+sha256 = "eb7411b991755533f1a084e26cadaecd995481532dc984960fa36b8fad441103"

@@ -1,0 +1,11 @@
+[package]
+name = "avahi"
+version = "1:0.9rc5-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Service Discovery for Linux using mDNS/DNS-SD (compatible with Bonjour)"
+depends = ["bash", "dbus", "expat", "gdbm", "glib2", "glibc", "libcap", "libdaemon", "systemd-libs", "libdbus-1.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/avahi-1:0.9rc5-2-x86_64.pkg.tar.zst"
+sha256 = "be55af7cf20701e6e9786d15cc20b36e6764b5d062261cad7954db34e9dd9408"

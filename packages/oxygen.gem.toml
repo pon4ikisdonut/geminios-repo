@@ -1,0 +1,11 @@
+[package]
+name = "oxygen"
+version = "6.8.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "KDE Oxygen style"
+depends = ["frameworkintegration", "glibc", "kcmutils", "kcolorscheme", "kcompletion", "kconfig", "kconfigwidgets", "kcoreaddons", "kdecoration", "kguiaddons", "ki18n", "kwidgetsaddons", "kwindowsystem", "libstdc++", "libxcb", "oxygen-icons", "qt6-base", "qt6-declarative", "oxygen-cursors"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/oxygen-6.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "df601a57210c0b6a553bb4f8e5c67745414fe38981323fe6afbea99e5167bd68"

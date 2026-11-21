@@ -1,0 +1,11 @@
+[package]
+name = "sdbus-cpp"
+version = "2.3.1-1"
+license = "LicenseRef-sdbus-c++-LGPL-Exception-1.0"
+arch = "x86_64"
+description = "a high-level C++ D-Bus library designed to provide expressive, easy-to-use API"
+depends = ["expat", "systemd-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/sdbus-cpp-2.3.1-1-x86_64.pkg.tar.zst"
+sha256 = "c57ce276078cfcc3b9ef55056ad8ef47f2cf35ffe6c1bf56bfabb6e8a55ded33"

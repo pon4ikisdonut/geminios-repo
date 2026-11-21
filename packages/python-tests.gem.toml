@@ -1,0 +1,11 @@
+[package]
+name = "python-tests"
+version = "3.14.10-1"
+license = "PSF-2.0"
+arch = "x86_64"
+description = "Regression tests packages for Python"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/python-tests-3.14.10-1-x86_64.pkg.tar.zst"
+sha256 = "5902ecd7b7326895ff77250c8dab9813d1b3f8c883a5c226b9f33141c6b07d74"

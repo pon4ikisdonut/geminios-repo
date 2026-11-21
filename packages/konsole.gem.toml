@@ -1,0 +1,11 @@
+[package]
+name = "konsole"
+version = "26.08.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "KDE terminal emulator"
+depends = ["glibc", "icu", "kbookmarks", "kcolorscheme", "kconfig", "kconfigwidgets", "kcoreaddons", "kcrash", "kdbusaddons", "kglobalaccel", "kguiaddons", "ki18n", "kiconthemes", "kio", "knewstuff", "knotifications", "knotifyconfig", "kparts", "kpty", "kservice", "ktextwidgets", "kwidgetsaddons", "kwindowsystem", "kxmlgui", "libssh", "libstdc++", "libxkbcommon", "qt6-base", "qt6-multimedia", "sh"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/konsole-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "4f6c37f725a0e6ae78f98799f9c633821b81db31c4a603127ff1243f38eca0c1"

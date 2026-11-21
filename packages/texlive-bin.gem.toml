@@ -1,0 +1,11 @@
+[package]
+name = "texlive-bin"
+version = "2026.0-4"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "TeX Live binaries"
+depends = ["bash", "cairo", "ffcall", "fontconfig", "freetype2", "gd", "glibc", "gmp", "graphite", "harfbuzz", "icu", "libgcc", "libpaper", "libpng", "libsigsegv", "libstdc++", "libsynctex", "libunistring", "libx11", "mpfr", "ncurses", "perl", "pixman", "potrace", "readline", "zlib", "zziplib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/texlive-bin-2026.0-4-x86_64.pkg.tar.zst"
+sha256 = "a5e160dca61cc6738f2567522ed06eca390a7c5b91fdd657776986b764cc1330"

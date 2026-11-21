@@ -1,0 +1,11 @@
+[package]
+name = "python-docopt"
+version = "0.6.2-16"
+license = "MIT"
+arch = "any"
+description = "Pythonic argument parser, that will make you smile"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-docopt-0.6.2-16-any.pkg.tar.zst"
+sha256 = "4e862e32bd9fd2b4b4e34f7603bb3a72ab70a985c343abea5be792be712e8629"

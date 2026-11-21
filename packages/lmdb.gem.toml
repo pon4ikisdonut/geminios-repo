@@ -1,0 +1,11 @@
+[package]
+name = "lmdb"
+version = "0.9.35-1"
+license = "custom:OpenLDAP"
+arch = "x86_64"
+description = "Symas Lightning Memory-Mapped Database"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/lmdb-0.9.35-1-x86_64.pkg.tar.zst"
+sha256 = "50ae8083860e1ffadf4fab3c173a043fd97be41f5ceda7d2e77c528cd84d2386"

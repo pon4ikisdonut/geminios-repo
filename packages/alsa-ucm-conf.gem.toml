@@ -1,0 +1,11 @@
+[package]
+name = "alsa-ucm-conf"
+version = "1.2.16.1-1"
+license = "BSD-3-Clause"
+arch = "any"
+description = "ALSA Use Case Manager configuration (and topologies)"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/alsa-ucm-conf-1.2.16.1-1-any.pkg.tar.zst"
+sha256 = "73e3a6cf819dfcedf884616c18d2206dea77e98311717dca8135256fabe55fbc"

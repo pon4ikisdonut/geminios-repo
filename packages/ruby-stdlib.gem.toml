@@ -1,0 +1,11 @@
+[package]
+name = "ruby-stdlib"
+version = "3.4.12-2"
+license = "BSD-2-Clause"
+arch = "x86_64"
+description = "Full Ruby StdLib including default gems, bundled gems and tools"
+depends = ["ruby-default-gems", "ruby-bundled-gems"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ruby-stdlib-3.4.12-2-x86_64.pkg.tar.zst"
+sha256 = "e831fb639d21c7582c98d4e7f58c6c6296641a8c8b795822fbb610b17620dc03"

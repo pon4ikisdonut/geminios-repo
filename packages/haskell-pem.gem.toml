@@ -1,0 +1,11 @@
+[package]
+name = "haskell-pem"
+version = "0.2.4-458"
+license = "BSD"
+arch = "x86_64"
+description = "Privacy Enhanced Mail (PEM) format reader and writer."
+depends = ["ghc-libs", "haskell-basement", "haskell-memory"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-pem-0.2.4-458-x86_64.pkg.tar.zst"
+sha256 = "96d6d1d986ce0fbe971c4633d9fe8ee355600ff4b13f98a9e299a1fd2e3123da"

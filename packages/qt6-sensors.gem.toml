@@ -1,0 +1,11 @@
+[package]
+name = "qt6-sensors"
+version = "6.12.0-1"
+license = "Qt-GPL-exception-1.0"
+arch = "x86_64"
+description = "Provides access to sensor hardware and motion gesture recognition"
+depends = ["glibc", "libstdc++", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qt6-sensors-6.12.0-1-x86_64.pkg.tar.zst"
+sha256 = "64861dda3d6fdc211585c528dc0c0814fd4a48012a4b1f0b848f63e4d10d93c4"

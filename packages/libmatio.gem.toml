@@ -1,0 +1,11 @@
+[package]
+name = "libmatio"
+version = "1.5.30-1"
+license = "BSD-2-Clause"
+arch = "x86_64"
+description = "C library with a fortran 90/95 module interface for reading/writing MATLAB MAT-files"
+depends = ["glibc", "hdf5", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libmatio-1.5.30-1-x86_64.pkg.tar.zst"
+sha256 = "793ea554a35f2413206172f1d91e968a764bf871c3220c1a8c0caf8d1b819c2e"

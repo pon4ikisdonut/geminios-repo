@@ -1,0 +1,11 @@
+[package]
+name = "qemu-hw-usb-host"
+version = "11.1.3-1"
+license = "MIT"
+arch = "x86_64"
+description = "QEMU USB host device"
+depends = ["glibc", "libgcc", "libusb", "libusb-1.0.so", "qemu-common"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qemu-hw-usb-host-11.1.3-1-x86_64.pkg.tar.zst"
+sha256 = "0342b96f5079ee6b5a7711a15fd31a2cbc89c4cace36ae75d92c5a5d5b088829"

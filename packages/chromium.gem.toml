@@ -1,0 +1,11 @@
+[package]
+name = "chromium"
+version = "158.0.8127.36-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "A web browser built for speed, simplicity, and security"
+depends = ["alsa-lib", "at-spi2-core", "cairo", "dbus", "desktop-file-utils", "expat", "glib2", "glibc", "gtk3", "hicolor-icon-theme", "libcups", "libffi", "libgcc", "libgcrypt", "libpulse", "libstdc++", "libva", "libx11", "libxcb", "libxcomposite", "libxdamage", "libxext", "libxfixes", "libxkbcommon", "libxrandr", "libxss", "mesa", "nspr", "nss", "pango", "pciutils", "systemd", "systemd-libs", "ttf-liberation", "xdg-utils", "zlib", "fontconfig", "brotli", "libjpeg-turbo", "openh264", "simdutf", "highway", "dav1d", "flac", "libdrm", "libxml2", "zstd", "libwebp", "minizip", "opus", "double-conversion", "harfbuzz", "freetype2"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/chromium-158.0.8127.36-1-x86_64.pkg.tar.zst"
+sha256 = "1c68f16da8341608b883a58551d04b6d37f286b190ce934e25c9abbdfcae4567"

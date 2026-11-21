@@ -1,0 +1,11 @@
+[package]
+name = "libqmi"
+version = "1.38.0-2"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "QMI modem protocol helper library"
+depends = ["bash", "glib2", "glibc", "libgcc", "libgudev", "libmbim", "libqrtr-glib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libqmi-1.38.0-2-x86_64.pkg.tar.zst"
+sha256 = "2049b218b75da32e8be0ce4a8792fadef1abfab8149ace778bc09e9936100404"

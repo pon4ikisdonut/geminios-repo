@@ -1,0 +1,11 @@
+[package]
+name = "libxvmc"
+version = "1.0.15-1"
+license = "MIT"
+arch = "x86_64"
+description = "X11 Video Motion Compensation extension library"
+depends = ["libxext", "libxv", "libx11", "xorgproto", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libxvmc-1.0.15-1-x86_64.pkg.tar.zst"
+sha256 = "17be905ee73005d96c5f679efaa07f93a637abefb9feef59c50fb467c217db59"

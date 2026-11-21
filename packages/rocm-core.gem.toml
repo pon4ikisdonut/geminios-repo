@@ -1,0 +1,11 @@
+[package]
+name = "rocm-core"
+version = "10.1-2"
+license = "MIT"
+arch = "x86_64"
+description = "AMD ROCm core package (version files)"
+depends = ["glibc", "libgcc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/rocm-core-10.1-2-x86_64.pkg.tar.zst"
+sha256 = "30f86340f9e4b753955223fea4aa6731db0b4b9a042dde4079093b14e1eb0a47"

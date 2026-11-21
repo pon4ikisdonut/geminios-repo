@@ -1,0 +1,11 @@
+[package]
+name = "plasma-systemmonitor"
+version = "6.8.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "An interface for monitoring system sensors, process information and other system resources"
+depends = ["glibc", "kconfig", "kcoreaddons", "kcrash", "kdbusaddons", "kdeclarative", "kglobalaccel", "ki18n", "kiconthemes", "kio", "kirigami", "kirigami-addons", "kitemmodels", "knewstuff", "kquickcharts", "kservice", "ksystemstats", "kwindowsystem", "libksysguard", "libstdc++", "python", "qt6-base", "qt6-declarative"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/plasma-systemmonitor-6.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "59ecab91b706951599e218212b88fccf43f10b2486771284fde9fa5f6d8ba7ba"

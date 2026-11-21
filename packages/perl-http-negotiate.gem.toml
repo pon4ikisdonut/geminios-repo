@@ -1,0 +1,11 @@
+[package]
+name = "perl-http-negotiate"
+version = "6.01-16"
+license = "GPL"
+arch = "any"
+description = "Choose a variant to serve"
+depends = ["perl", "perl-http-message"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/perl-http-negotiate-6.01-16-any.pkg.tar.zst"
+sha256 = "c37a63c227067d4f7344aa9955e7327472c3ce9c9386c3cce8702edb6560806b"

@@ -1,0 +1,11 @@
+[package]
+name = "drkonqi"
+version = "6.8.3-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "The KDE crash handler"
+depends = ["elfutils", "gdb", "glibc", "kconfig", "kcoreaddons", "kcrash", "kdbusaddons", "kguiaddons", "ki18n", "kidletime", "kio", "kirigami", "kitemmodels", "knotifications", "kservice", "kstatusnotifieritem", "kwallet", "kwidgetsaddons", "kwindowsystem", "libgcc", "libstdc++", "polkit-qt6", "python", "python-psutil", "python-pygdbmi", "python-sentry_sdk", "qt6-base", "qt6-declarative", "syntax-highlighting", "systemd-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/drkonqi-6.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "d762edbac49199414940741c11d1eec25fe580f08d026c3e62fb97a41eb8f289"

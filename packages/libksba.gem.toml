@@ -1,0 +1,11 @@
+[package]
+name = "libksba"
+version = "1.8.1-1"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "Library for working with X.509 certificates, CMS data and related objects"
+depends = ["bash", "libgpg-error", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/libksba-1.8.1-1-x86_64.pkg.tar.zst"
+sha256 = "6aa88da7314b620af39ae619625b6ffac55f347c1a977cec3c4a0e4bc6f6a79d"

@@ -1,0 +1,11 @@
+[package]
+name = "zsh-syntax-highlighting"
+version = "0.8.0-2"
+license = "BSD-3-Clause"
+arch = "any"
+description = "Fish shell like syntax highlighting for Zsh"
+depends = ["zsh"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/zsh-syntax-highlighting-0.8.0-2-any.pkg.tar.zst"
+sha256 = "a39f7028c9d931a7e54da754833fd4489fd901c3bfa984648744b9c8b7381b41"

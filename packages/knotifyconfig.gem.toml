@@ -1,0 +1,11 @@
+[package]
+name = "knotifyconfig"
+version = "6.32.0-1"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "Configuration system for KNotify"
+depends = ["libstdc++", "glibc", "kconfig", "ki18n", "kio", "libcanberra", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/knotifyconfig-6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "4e4edf42da340cd09c5c247b20736e45bf82aca3498630cb7f62410b20aaa653"

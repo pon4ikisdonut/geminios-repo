@@ -1,0 +1,11 @@
+[package]
+name = "tree-sitter"
+version = "0.26.9-1"
+license = "MIT"
+arch = "x86_64"
+description = "Incremental parsing library"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/tree-sitter-0.26.9-1-x86_64.pkg.tar.zst"
+sha256 = "0ca81191d381a89293faf4e43d76629cb911807e7268f04ecb6b4cea12cb3e4e"

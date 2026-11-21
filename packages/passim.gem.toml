@@ -1,0 +1,11 @@
+[package]
+name = "passim"
+version = "0.1.13-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "A local caching server"
+depends = ["avahi", "glib2", "libgio-2.0.so", "gnutls", "hicolor-icon-theme", "libsoup3", "libsoup-3.0.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/passim-0.1.13-1-x86_64.pkg.tar.zst"
+sha256 = "fbbca46690643f595dcd5fa209eb1a73e3527bbdc3b69fd785ff5376625bd7f8"

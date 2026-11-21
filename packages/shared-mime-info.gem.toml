@@ -1,0 +1,11 @@
+[package]
+name = "shared-mime-info"
+version = "2.5.1-2"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Freedesktop.org Shared MIME Info"
+depends = ["libxml2", "glib2", "glibc", "libstdc++", "libgcc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/shared-mime-info-2.5.1-2-x86_64.pkg.tar.zst"
+sha256 = "e71f0788fbb52679b9a75f3558ef8a2b5c3c9f691f136b7574caefc0240461c1"

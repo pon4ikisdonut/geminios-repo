@@ -1,0 +1,11 @@
+[package]
+name = "libatomic_ops"
+version = "7.8.2-2"
+license = "MIT"
+arch = "x86_64"
+description = "Provides semi-portable access to hardware provided atomic memory operations"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libatomic_ops-7.8.2-2-x86_64.pkg.tar.zst"
+sha256 = "d6f9c0c4867e01c0e69cfe609cd50250b094a0bd51b4974808e6f2193e89f573"

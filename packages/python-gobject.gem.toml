@@ -1,0 +1,11 @@
+[package]
+name = "python-gobject"
+version = "3.58.1-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Python bindings for GLib/GObject/GIO/GTK"
+depends = ["glib2", "glibc", "gobject-introspection-runtime", "libffi", "python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-gobject-3.58.1-1-x86_64.pkg.tar.zst"
+sha256 = "99e80d704d3033511ed75a2615adb0ebbf5d9e292600e080ba5bbca2f0908c5c"

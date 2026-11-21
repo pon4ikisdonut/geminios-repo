@@ -1,0 +1,11 @@
+[package]
+name = "recode"
+version = "3.7.17-1"
+license = "LGPL-3.0-or-later"
+arch = "x86_64"
+description = "Converts files between various character sets and usages"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/recode-3.7.17-1-x86_64.pkg.tar.zst"
+sha256 = "5e8a4a2d7d38d59985a2ce71db2a061e250df4aaf790a4b7a20e8e37196452cd"

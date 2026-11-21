@@ -1,0 +1,11 @@
+[package]
+name = "libtar"
+version = "1.2.20-8"
+license = "BSD"
+arch = "x86_64"
+description = "C library for manipulating POSIX tar files"
+depends = ["zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libtar-1.2.20-8-x86_64.pkg.tar.zst"
+sha256 = "8b7bb7727902918663f21dbfdf8278fe5fed09fa44fe67f0209f1c9aded0c5eb"

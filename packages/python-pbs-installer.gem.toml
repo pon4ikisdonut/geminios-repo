@@ -1,0 +1,11 @@
+[package]
+name = "python-pbs-installer"
+version = "2026.11.10-1"
+license = "MIT"
+arch = "any"
+description = "Installer for Python Build Standalone"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-pbs-installer-2026.11.10-1-any.pkg.tar.zst"
+sha256 = "96c247366e14a71c7f3ed51648816846c949341d0bc6a693d98ec2971ae9f908"

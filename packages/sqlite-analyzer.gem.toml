@@ -1,0 +1,11 @@
+[package]
+name = "sqlite-analyzer"
+version = "3.54.1-1"
+license = "LicenseRef-Sqlite"
+arch = "x86_64"
+description = "An analysis program for sqlite3 database files"
+depends = ["sqlite", "tcl", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/sqlite-analyzer-3.54.1-1-x86_64.pkg.tar.zst"
+sha256 = "7919e858b0744821c3d039803e6805297a971c9d81002ecf5a77128e24e560d4"

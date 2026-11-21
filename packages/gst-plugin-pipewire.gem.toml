@@ -1,0 +1,11 @@
+[package]
+name = "gst-plugin-pipewire"
+version = "1:1.6.11-2"
+license = "MIT"
+arch = "x86_64"
+description = "Multimedia graph framework - pipewire plugin"
+depends = ["libpipewire", "libpipewire-0.3.so", "pipewire-audio", "pipewire", "glib2", "libglib-2.0.so", "libgobject-2.0.so", "glibc", "gst-plugins-base-libs", "gstreamer", "libgcc", "pipewire-session-manager"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gst-plugin-pipewire-1:1.6.11-2-x86_64.pkg.tar.zst"
+sha256 = "1c0373b227639b9140ab8679dd12f98bbe42ddab427063404b46176fc0d94949"

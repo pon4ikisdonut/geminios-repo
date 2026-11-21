@@ -1,0 +1,11 @@
+[package]
+name = "yarn"
+version = "1.22.22-2"
+license = "BSD-2-Clause"
+arch = "any"
+description = "Fast, reliable, and secure dependency management"
+depends = ["nodejs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/yarn-1.22.22-2-any.pkg.tar.zst"
+sha256 = "4cb628c3f7aa3214e8f261460bd899130a0aa96cecab3b74bcc7b90e77241cb4"

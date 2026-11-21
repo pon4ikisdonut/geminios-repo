@@ -1,0 +1,11 @@
+[package]
+name = "libinput"
+version = "1.32.0-1"
+license = "MIT"
+arch = "x86_64"
+description = "Input device management and event handling library"
+depends = ["glibc", "libevdev", "libgcc", "libwacom", "lua54", "mtdev", "systemd-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libinput-1.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "f2c600dda468e3c3614ca728584dfc99ff1968e6354a235cdab5792a90c51dfb"

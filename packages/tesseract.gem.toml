@@ -1,0 +1,11 @@
+[package]
+name = "tesseract"
+version = "5.5.4-1"
+license = "APACHE"
+arch = "x86_64"
+description = "An OCR program"
+depends = ["libgcc", "libgomp", "libstdc++", "curl", "libarchive", "leptonica", "tessdata", "tesseract-data-osd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/tesseract-5.5.4-1-x86_64.pkg.tar.zst"
+sha256 = "6c33ced8c8f2b82aaeaf88a7b670b144f3c4501368477db2bb83e03a2c0cc625"

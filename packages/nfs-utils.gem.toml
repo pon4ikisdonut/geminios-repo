@@ -1,0 +1,11 @@
+[package]
+name = "nfs-utils"
+version = "3.2.1-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Support programs for Network File Systems"
+depends = ["rpcbind", "nfsidmap", "gssproxy", "libevent", "device-mapper", "libxml2", "libtirpc", "e2fsprogs", "keyutils", "util-linux-libs", "libnl", "krb5", "libcap", "glibc", "libgcc", "sh", "readline"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/nfs-utils-3.2.1-1-x86_64.pkg.tar.zst"
+sha256 = "78d02ae2f61d8f2d293da1b63518a1020313a96bd7e2c7e32a06ff068e9539f5"

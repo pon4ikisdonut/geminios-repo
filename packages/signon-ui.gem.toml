@@ -1,0 +1,11 @@
+[package]
+name = "signon-ui"
+version = "0.17+20231016-4"
+license = "GPL-3.0-only"
+arch = "x86_64"
+description = "UI component responsible for handling the user interactions which can happen during the login process of an online account"
+depends = ["glib2", "glibc", "libaccounts-qt", "libgcc", "libnotify", "libproxy", "libstdc++", "qt6-base", "qt6-declarative", "qt6-webengine", "signond"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/signon-ui-0.17+20231016-4-x86_64.pkg.tar.zst"
+sha256 = "4fd71149b383066534f9d2591166f924c69e3997a662aeca13118510e4b4e5a0"

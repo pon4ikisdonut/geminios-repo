@@ -1,0 +1,11 @@
+[package]
+name = "rdma-core"
+version = "66.0-1"
+license = "CPL-1.0 OR BSD-2-Clause OR GPL-2.0-or-later"
+arch = "x86_64"
+description = "RDMA core userspace libraries and daemons"
+depends = ["bash", "glibc", "libnl", "perl", "systemd-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/rdma-core-66.0-1-x86_64.pkg.tar.zst"
+sha256 = "b6725b8e8664789b76581f5491773ac1690a10a6a4e5ee91cbe02ea60976f748"

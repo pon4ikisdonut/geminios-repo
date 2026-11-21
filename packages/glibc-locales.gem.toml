@@ -1,0 +1,11 @@
+[package]
+name = "glibc-locales"
+version = "2.44+r78+gfcfb867c58ab-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Pregenerated locales for GNU C Library"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/glibc-locales-2.44+r78+gfcfb867c58ab-1-x86_64.pkg.tar.zst"
+sha256 = "247d292b09870fc66c6ef9b250e9f0d6f51ee836b257782e06f4e5617f2962a9"

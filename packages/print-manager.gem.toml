@@ -1,0 +1,11 @@
+[package]
+name = "print-manager"
+version = "1:6.8.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "A tool for managing print jobs and printers"
+depends = ["glibc", "kcmutils", "kconfig", "kcoreaddons", "kdbusaddons", "kdeclarative", "ki18n", "kio", "kirigami", "kirigami-addons", "kitemmodels", "knotifications", "kwidgetsaddons", "kwindowsystem", "libcups", "libplasma", "libstdc++", "qt6-base", "qt6-declarative"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/print-manager-1:6.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "f6d6f374d4efbaa5e70616084ad85d507850e60e9623cb25c32e27c8440a360b"

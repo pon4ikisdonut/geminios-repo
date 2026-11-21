@@ -1,0 +1,11 @@
+[package]
+name = "kidletime"
+version = "6.32.0-1"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "Monitoring user activity"
+depends = ["glibc", "libstdc++", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kidletime-6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "8c351ad6a4548242a12298615663583121791eac13f3628ab59c894365411972"

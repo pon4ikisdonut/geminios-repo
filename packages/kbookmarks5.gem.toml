@@ -1,0 +1,11 @@
+[package]
+name = "kbookmarks5"
+version = "5.116.0-2"
+license = "LGPL"
+arch = "x86_64"
+description = "Support for bookmarks and the XBEL format"
+depends = ["kxmlgui5"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kbookmarks5-5.116.0-2-x86_64.pkg.tar.zst"
+sha256 = "243612444425575cda4b83d8ccd720ca6730a8002b703357e37fab1abe8a2c2e"

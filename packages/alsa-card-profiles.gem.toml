@@ -1,0 +1,11 @@
+[package]
+name = "alsa-card-profiles"
+version = "1:1.6.11-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Low-latency audio/video router and processor - ALSA card profiles"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/alsa-card-profiles-1:1.6.11-2-x86_64.pkg.tar.zst"
+sha256 = "d3dd6fafd1d056cb5a020710e6662bc0f91715a14587c86b94dce34483ea3da7"

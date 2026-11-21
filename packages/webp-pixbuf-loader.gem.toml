@@ -1,0 +1,11 @@
+[package]
+name = "webp-pixbuf-loader"
+version = "0.2.7-2"
+license = "LGPL"
+arch = "x86_64"
+description = "WebM GDK Pixbuf Loader library"
+depends = ["gdk-pixbuf2", "libwebp"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/webp-pixbuf-loader-0.2.7-2-x86_64.pkg.tar.zst"
+sha256 = "9eb6c22035b16f1c927da7fcf29e05c0a682c8d286a32803976e6c83e64c9ec7"

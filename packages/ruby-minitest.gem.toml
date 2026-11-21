@@ -1,0 +1,11 @@
+[package]
+name = "ruby-minitest"
+version = "5.27.0-1"
+license = "MIT"
+arch = "any"
+description = "Complete suite of testing facilities supporting TDD, BDD, mocking, and benchmarking"
+depends = ["ruby"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ruby-minitest-5.27.0-1-any.pkg.tar.zst"
+sha256 = "14cf8929f754143518861ef61666f655dc41f475089137ce12262147a6450cb1"

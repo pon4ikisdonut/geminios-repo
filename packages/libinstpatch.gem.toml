@@ -1,0 +1,11 @@
+[package]
+name = "libinstpatch"
+version = "1.1.8-1"
+license = "LGPL-2.1-only"
+arch = "x86_64"
+description = "Instrument file software library"
+depends = ["glibc", "glib2", "libglib-2.0.so", "libgobject-2.0.so", "libsndfile", "libsndfile.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libinstpatch-1.1.8-1-x86_64.pkg.tar.zst"
+sha256 = "72cb377faa7ac25c3e459bab313a84fa2839b7aed874c5f22efe825b26f78d23"

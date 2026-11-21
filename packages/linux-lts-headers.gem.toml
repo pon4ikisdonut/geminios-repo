@@ -1,0 +1,11 @@
+[package]
+name = "linux-lts-headers"
+version = "6.18.64-1"
+license = "Zlib"
+arch = "x86_64"
+description = "Headers and scripts for building modules for the LTS Linux kernel"
+depends = ["binutils", "glibc", "libelf", "libgcc", "openssl", "pahole", "xxhash", "zlib", "zstd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/linux-lts-headers-6.18.64-1-x86_64.pkg.tar.zst"
+sha256 = "e958aed3c4896d7150f1847fbe48c7748459d4404eb56332e9673f8a0fc2e910"

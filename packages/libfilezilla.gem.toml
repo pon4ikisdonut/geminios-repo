@@ -1,0 +1,11 @@
+[package]
+name = "libfilezilla"
+version = "1:0.59.0-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Small and modern C++ library, offering some basic functionality to build high-performing, platform-independent programs"
+depends = ["glibc", "gmp", "nettle", "gnutls", "libgcc", "libstdc++", "libnettle.so", "libhogweed.so", "libcrypt.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libfilezilla-1:0.59.0-1-x86_64.pkg.tar.zst"
+sha256 = "86f82d6ac668ff2f72507dee5c06e5ac38c0994c3c7aeb0b973ee94e7b54cfa8"

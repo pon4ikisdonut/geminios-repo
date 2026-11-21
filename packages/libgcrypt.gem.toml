@@ -1,0 +1,11 @@
+[package]
+name = "libgcrypt"
+version = "1.12.4-1"
+license = "LicenseRef-OCB1"
+arch = "x86_64"
+description = "General purpose cryptographic library based on the code from GnuPG"
+depends = ["libgpg-error", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/libgcrypt-1.12.4-1-x86_64.pkg.tar.zst"
+sha256 = "25ca27f53e0862e706b325d05893e43585be2bb0a0a4a750b8faa6e0e253e136"

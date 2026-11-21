@@ -1,0 +1,11 @@
+[package]
+name = "rsync"
+version = "3.5.2-3"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "A fast and versatile file copying tool for remote and local files"
+depends = ["acl", "libacl.so", "lz4", "openssl", "popt", "xxhash", "libxxhash.so", "zlib", "zstd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/rsync-3.5.2-3-x86_64.pkg.tar.zst"
+sha256 = "189c02261bb3cfc6d7b41f8bc750ce1d6c356032e22ea7176d747e7fcc485807"

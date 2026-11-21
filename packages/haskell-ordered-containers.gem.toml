@@ -1,0 +1,11 @@
+[package]
+name = "haskell-ordered-containers"
+version = "0.2.5-3"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Set- and Map-like types that remember the order elements were inserted"
+depends = ["ghc-libs", "haskell-hashable"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-ordered-containers-0.2.5-3-x86_64.pkg.tar.zst"
+sha256 = "e4677689fb3082e82ad2ead42f882a3d00896ef72cb71e301a7f881164b3d69a"

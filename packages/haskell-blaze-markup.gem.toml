@@ -1,0 +1,11 @@
+[package]
+name = "haskell-blaze-markup"
+version = "0.8.3.0-183"
+license = "BSD"
+arch = "x86_64"
+description = "A blazingly fast markup combinator library for Haskell"
+depends = ["ghc-libs", "haskell-blaze-builder"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-blaze-markup-0.8.3.0-183-x86_64.pkg.tar.zst"
+sha256 = "d7d23e97b075c7d3c6411d5d385f65bce239eada75efb2e1a236c4cec6f652ba"

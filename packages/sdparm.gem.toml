@@ -1,0 +1,11 @@
+[package]
+name = "sdparm"
+version = "1.12-1"
+license = "BSD"
+arch = "x86_64"
+description = "An utility similar to hdparm but for SCSI devices"
+depends = ["glibc", "bash"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/sdparm-1.12-1-x86_64.pkg.tar.zst"
+sha256 = "37fc710a6e82323467b9369e579944d84de631dc226c7aae8553a2680716f998"

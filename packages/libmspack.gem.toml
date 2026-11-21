@@ -1,0 +1,11 @@
+[package]
+name = "libmspack"
+version = "1:1.12-1"
+license = "LGPL-2.1-only"
+arch = "x86_64"
+description = "A library for Microsoft compression formats"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libmspack-1:1.12-1-x86_64.pkg.tar.zst"
+sha256 = "c4f41e5e010210e047f7bd5f83ed849cc44fbd1b444bbfe63f50841e629a67c0"

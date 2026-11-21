@@ -1,0 +1,11 @@
+[package]
+name = "haskell-sop-core"
+version = "0.5.0.2-5"
+license = "BSD"
+arch = "x86_64"
+description = "True Sums of Products"
+depends = ["ghc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-sop-core-0.5.0.2-5-x86_64.pkg.tar.zst"
+sha256 = "80eb8d6b44e843cc1806f7e209e60d4f68b85a02c15396840d00ce8824bc73e7"

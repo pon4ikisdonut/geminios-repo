@@ -1,0 +1,11 @@
+[package]
+name = "kitemmodels"
+version = "6.32.0-1"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "Models for Qt Model/View system"
+depends = ["libstdc++", "glibc", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kitemmodels-6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "6ae6a5e015f1515f1eee762c9b0999743a634016df8c712b2dd626801ddd6ead"

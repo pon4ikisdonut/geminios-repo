@@ -1,0 +1,11 @@
+[package]
+name = "python-eventlet"
+version = "0.41.3-1"
+license = "MIT"
+arch = "any"
+description = "Highly concurrent networking library"
+depends = ["python", "python-dnspython", "python-greenlet"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-eventlet-0.41.3-1-any.pkg.tar.zst"
+sha256 = "02f1352808a3d01b2d5e0417f1e2a4a81f02b9397d12877875787b7005b3bb69"

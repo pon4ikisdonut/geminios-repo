@@ -1,0 +1,11 @@
+[package]
+name = "gst-plugins-bad-libs"
+version = "1.28.9-3"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Multimedia graph framework - bad"
+depends = ["gst-plugins-base-libs", "gstreamer", "glib2", "glibc", "libdrm", "libgcc", "libglvnd", "libgudev", "libnice", "libstdc++", "libusb", "libva", "libx11", "libxcb", "libxkbcommon", "libxkbcommon-x11", "mesa", "orc", "vulkan-icd-loader", "wayland", "vmaf", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gst-plugins-bad-libs-1.28.9-3-x86_64.pkg.tar.zst"
+sha256 = "e7532d06640f2eabcd612a58ba2180cc0216a32ed884ef6bcd2a5dcba3237841"

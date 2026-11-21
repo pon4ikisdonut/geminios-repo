@@ -1,0 +1,11 @@
+[package]
+name = "aalib"
+version = "1.4rc5-19"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "ASCII art graphic library"
+depends = ["glibc", "gpm", "libx11", "ncurses", "slang"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/aalib-1.4rc5-19-x86_64.pkg.tar.zst"
+sha256 = "d1000be98fdbb30d96a1d77fd6cb2b666c2c6cca780c600cf12dfd42caf5f71d"

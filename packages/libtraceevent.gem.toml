@@ -1,0 +1,11 @@
+[package]
+name = "libtraceevent"
+version = "1:1.9.1-1"
+license = "LGPL-2.1-only"
+arch = "x86_64"
+description = "Linux kernel trace event library"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libtraceevent-1:1.9.1-1-x86_64.pkg.tar.zst"
+sha256 = "9afaf9c4224e92022ad058f62f540e4599f4075e27788aae0e881a7e76c35602"

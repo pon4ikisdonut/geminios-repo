@@ -1,0 +1,11 @@
+[package]
+name = "python-fastbencode"
+version = "0.3.11-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Implementation of bencode with optional fast C extensions"
+depends = ["glibc", "libgcc", "python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-fastbencode-0.3.11-1-x86_64.pkg.tar.zst"
+sha256 = "3569a004f658d454789fb303685a524fbdd0ec354398ef4b50ae8abd1ca0010f"

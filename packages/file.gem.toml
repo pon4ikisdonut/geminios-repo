@@ -1,0 +1,11 @@
+[package]
+name = "file"
+version = "5.48-1"
+license = "BSD-2-Clause-Darwin"
+arch = "x86_64"
+description = "File type identification utility"
+depends = ["glibc", "bzip2", "libbz2.so", "libseccomp", "libseccomp.so", "xz", "liblzma.so", "zlib", "libz.so", "zstd", "libzstd.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/file-5.48-1-x86_64.pkg.tar.zst"
+sha256 = "b77fe84e1dda2f32fcd11a004347c0a0c6bb9806376533c78abd78b4ea779af2"

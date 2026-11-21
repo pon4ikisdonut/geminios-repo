@@ -1,0 +1,11 @@
+[package]
+name = "kvantum"
+version = "1.1.9-1"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "SVG-based theme engine for Qt6 (including config tool and extra themes)"
+depends = ["glibc", "libgcc", "libstdc++", "libx11", "kwindowsystem", "qt6-base", "qt6-svg"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kvantum-1.1.9-1-x86_64.pkg.tar.zst"
+sha256 = "f89338694bad7d8400bcd95de4a8d7391c2e27c1a3c8c09797b4f71852ea0b45"

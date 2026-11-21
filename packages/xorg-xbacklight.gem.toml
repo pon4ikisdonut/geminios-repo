@@ -1,0 +1,11 @@
+[package]
+name = "xorg-xbacklight"
+version = "1.2.4-1"
+license = "MIT"
+arch = "x86_64"
+description = "RandR-based backlight control application"
+depends = ["xcb-util", "libxcb", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xorg-xbacklight-1.2.4-1-x86_64.pkg.tar.zst"
+sha256 = "a3bcc3b8c27e15c40a8aef96111c2224cf6105bd147bf71b1a29df627d13bb45"

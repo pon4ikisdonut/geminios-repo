@@ -1,0 +1,11 @@
+[package]
+name = "kmbox"
+version = "26.08.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Library for accessing mail storages in MBox format"
+depends = ["glibc", "kmime", "libstdc++", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kmbox-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "dc3501e9f1889f39a53e83efda0601ebb8aba4af232fdaea976c4a4fd49d7706"

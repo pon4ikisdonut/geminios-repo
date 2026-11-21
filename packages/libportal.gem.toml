@@ -1,0 +1,11 @@
+[package]
+name = "libportal"
+version = "0.11.0-1"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "GIO-style async APIs for most Flatpak portals"
+depends = ["glib2", "glibc", "libgcc", "libglib-2.0.so", "libgobject-2.0.so", "libgio-2.0.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libportal-0.11.0-1-x86_64.pkg.tar.zst"
+sha256 = "b25f331290f34bf10532eb55a8f25409ed53ac0ada45d6e0737edbc2455297bf"

@@ -1,0 +1,11 @@
+[package]
+name = "mailcap"
+version = "2.1.54-3"
+license = "MIT"
+arch = "any"
+description = "Helper application and MIME type associations for file types"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/mailcap-2.1.54-3-any.pkg.tar.zst"
+sha256 = "91d5c7a0583514f6398a1fff3abf71abd3d116f310c8a2ec81594c1ddc8bcbcf"

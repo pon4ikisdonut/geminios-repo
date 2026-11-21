@@ -1,0 +1,11 @@
+[package]
+name = "xorg-sessreg"
+version = "1.1.4-1"
+license = "MIT-open-group"
+arch = "x86_64"
+description = "Register X sessions in system utmp/utmpx databases"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xorg-sessreg-1.1.4-1-x86_64.pkg.tar.zst"
+sha256 = "cfc98444c1e459c51bb520f9323fae1893e2a7692d1dee6704e0a87b93651edd"

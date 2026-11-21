@@ -1,0 +1,11 @@
+[package]
+name = "xcb-util"
+version = "0.4.1-2"
+license = "X11-distribute-modifications-variant"
+arch = "x86_64"
+description = "Utility libraries for XC Binding"
+depends = ["libxcb", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xcb-util-0.4.1-2-x86_64.pkg.tar.zst"
+sha256 = "34ffaa2c68ac7985178a0cc379004fd40d0d0b1f02e48e8c0f4dc35b1e4946ea"

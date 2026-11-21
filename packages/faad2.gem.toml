@@ -1,0 +1,11 @@
+[package]
+name = "faad2"
+version = "2.11.4-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Freeware Advanced Audio (AAC) Decoder"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/faad2-2.11.4-1-x86_64.pkg.tar.zst"
+sha256 = "7543bdbdeabacf57953e409d577fddb50cd98c6eb1b9b9695a3c6eea9677b1cc"

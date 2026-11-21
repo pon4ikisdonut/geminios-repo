@@ -1,0 +1,11 @@
+[package]
+name = "haskell-hslua-typing"
+version = "0.2.0-28"
+license = "MIT"
+arch = "x86_64"
+description = "Type specifiers for Lua."
+depends = ["ghc-libs", "haskell-hslua-core", "haskell-hslua-marshalling"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-hslua-typing-0.2.0-28-x86_64.pkg.tar.zst"
+sha256 = "57bb4fed9c9559604dea53778951fac06a857837d7071be915771f910b1e9497"

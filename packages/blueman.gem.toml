@@ -1,0 +1,11 @@
+[package]
+name = "blueman"
+version = "2.4.6-2"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "GTK+ Bluetooth Manager"
+depends = ["bluez", "bluez-libs", "gtk3", "libnm", "python-cairo", "python-gobject"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/blueman-2.4.6-2-x86_64.pkg.tar.zst"
+sha256 = "5c6f31e98496e3ce0be93c1f3ed5313e2964937c482bdb75b8aedce521e0551e"

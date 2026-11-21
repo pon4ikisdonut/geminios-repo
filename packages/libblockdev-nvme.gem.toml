@@ -1,0 +1,11 @@
+[package]
+name = "libblockdev-nvme"
+version = "3.6.0-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "A library for manipulating block devices - NVME support"
+depends = ["glib2", "libglib-2.0.so", "glibc", "libblockdev", "libbd_utils.so", "libnvme"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libblockdev-nvme-3.6.0-1-x86_64.pkg.tar.zst"
+sha256 = "ad0f7235593cffb3bf92e913a5dae7c65ea916ad71e0cf597ab056394e3d0701"

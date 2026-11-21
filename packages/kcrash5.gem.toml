@@ -1,0 +1,11 @@
+[package]
+name = "kcrash5"
+version = "5.116.0-2"
+license = "LGPL"
+arch = "x86_64"
+description = "Support for application crash analysis and bug report from apps"
+depends = ["kcoreaddons5", "kwindowsystem5"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kcrash5-5.116.0-2-x86_64.pkg.tar.zst"
+sha256 = "fd90cd8fd804d721a8c77af3f7f4a41cae0250a1ac78f5139e2087e0869685ae"

@@ -1,0 +1,11 @@
+[package]
+name = "haskell-zip-archive"
+version = "0.4.3.2-177"
+license = "BSD"
+arch = "x86_64"
+description = "Library for creating and modifying zip archives."
+depends = ["ghc-libs", "haskell-digest", "haskell-old-time", "haskell-temporary", "haskell-zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-zip-archive-0.4.3.2-177-x86_64.pkg.tar.zst"
+sha256 = "4341ac3889827c5796b6397f2634618264acd41739b8e1789cc4cd21c4a01fb7"

@@ -1,0 +1,11 @@
+[package]
+name = "logrotate"
+version = "3.22.0-1"
+license = "GPL"
+arch = "x86_64"
+description = "Rotates system logs automatically"
+depends = ["popt", "gzip", "acl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/logrotate-3.22.0-1-x86_64.pkg.tar.zst"
+sha256 = "5a5619364c6655c15d35ef26359e0fd3fb570ec0dfa85e8ab0175eb630a9566f"

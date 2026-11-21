@@ -1,0 +1,11 @@
+[package]
+name = "python-boolean.py"
+version = "5.0-2"
+license = "BSD-2-Clause"
+arch = "any"
+description = "Implements boolean algebra in one module"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-boolean.py-5.0-2-any.pkg.tar.zst"
+sha256 = "c41afe7daa089dfc2b5f729d584fb7423e92f0a5a7440e095208a59872a09383"

@@ -1,0 +1,11 @@
+[package]
+name = "ruby-net-smtp"
+version = "0.5.2-1"
+license = "BSD-2-CLAUSE"
+arch = "any"
+description = "Simple Mail Transfer Protocol client library for Ruby"
+depends = ["ruby"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ruby-net-smtp-0.5.2-1-any.pkg.tar.zst"
+sha256 = "bd20a061fa80ac41ab743c7f94504268050925aa31407d157cac0f1cdd24f46f"

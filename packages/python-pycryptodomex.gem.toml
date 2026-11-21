@@ -1,0 +1,11 @@
+[package]
+name = "python-pycryptodomex"
+version = "3.23.0-3"
+license = "BSD-2-Clause"
+arch = "x86_64"
+description = "A self-contained Python package of low-level cryptographic primitives"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-pycryptodomex-3.23.0-3-x86_64.pkg.tar.zst"
+sha256 = "4f4189f42383a54b0a233ce303821562ea822a8e47eb392e1cbebaddd90e1aff"

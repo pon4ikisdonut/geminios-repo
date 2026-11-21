@@ -1,0 +1,11 @@
+[package]
+name = "lua"
+version = "5.5.1-1"
+license = "MIT"
+arch = "x86_64"
+description = "Powerful lightweight programming language designed for extending applications"
+depends = ["readline"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/lua-5.5.1-1-x86_64.pkg.tar.zst"
+sha256 = "2cd360ab4590950b40adae136dd45a22a50b0621c67db5691e066751f6f2416f"

@@ -1,0 +1,11 @@
+[package]
+name = "m4"
+version = "1.4.21-2"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "The GNU macro processor"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/m4-1.4.21-2-x86_64.pkg.tar.zst"
+sha256 = "d33224f8f2aad6a4f38cf997f88c23b2a4e4dffba20348a80a50805f98455934"

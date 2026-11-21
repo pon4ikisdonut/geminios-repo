@@ -1,0 +1,11 @@
+[package]
+name = "haskell-hslua-repl"
+version = "0.1.2-216"
+license = "MIT"
+arch = "x86_64"
+description = "Isocline-based Lua REPL"
+depends = ["ghc-libs", "haskell-hslua-core", "haskell-isocline", "haskell-lua"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-hslua-repl-0.1.2-216-x86_64.pkg.tar.zst"
+sha256 = "67355b6d8661857e29cab2d5af917c050c3fc11f1a2462e37353d0d1094f38aa"

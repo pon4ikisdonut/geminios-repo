@@ -1,0 +1,11 @@
+[package]
+name = "gsound"
+version = "1.0.3-4"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Small library for playing system sounds"
+depends = ["glib2", "glibc", "libcanberra"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gsound-1.0.3-4-x86_64.pkg.tar.zst"
+sha256 = "50d26aed781218070f671f70c36c556ff5e0cf5b1bb1d21461aabc7a20fd2e5c"

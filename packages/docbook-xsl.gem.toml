@@ -1,0 +1,11 @@
+[package]
+name = "docbook-xsl"
+version = "1.79.2-9"
+license = "LicenseRef-docbook-XSL"
+arch = "any"
+description = "XML stylesheets for Docbook-xml transformations"
+depends = ["docbook-xml", "libxml2", "libxslt"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/docbook-xsl-1.79.2-9-any.pkg.tar.zst"
+sha256 = "db99c591878ef9696353af75ce19cd6d082b4512ca5acc098c8464d1aeeda168"

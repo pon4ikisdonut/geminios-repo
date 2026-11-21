@@ -1,0 +1,11 @@
+[package]
+name = "python-unrardll"
+version = "0.1.7-5"
+license = "BSD"
+arch = "x86_64"
+description = "Python wrapper for UnRAR DLL"
+depends = ["libunrar", "python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-unrardll-0.1.7-5-x86_64.pkg.tar.zst"
+sha256 = "f53f6e2b48007d9fb8b10aa34f0bc01277d3afb6adfc762de7a41013a9f398bd"

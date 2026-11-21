@@ -1,0 +1,11 @@
+[package]
+name = "llvm-lit"
+version = "23.1.5-1"
+license = "Apache-2.0 WITH LLVM-exception"
+arch = "x86_64"
+description = "An LLVM testing tool"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/llvm-lit-23.1.5-1-x86_64.pkg.tar.zst"
+sha256 = "19cf93b2ad8d16589cdb18fdbfd02971ab2020bf881efc0b27282406ddf57ea2"

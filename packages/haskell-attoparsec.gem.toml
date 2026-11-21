@@ -1,0 +1,11 @@
+[package]
+name = "haskell-attoparsec"
+version = "0.14.4-246"
+license = "BSD"
+arch = "x86_64"
+description = "Fast combinator parsing for bytestrings and text"
+depends = ["ghc-libs", "haskell-scientific"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-attoparsec-0.14.4-246-x86_64.pkg.tar.zst"
+sha256 = "2adc59690b8f67c680940f65f637d1548c4c8894d88875d58836762a5ee388a5"

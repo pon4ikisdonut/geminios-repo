@@ -1,0 +1,11 @@
+[package]
+name = "libnftnl"
+version = "1.3.2-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Netfilter library providing interface to the nf_tables subsystem"
+depends = ["glibc", "libmnl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/libnftnl-1.3.2-1-x86_64.pkg.tar.zst"
+sha256 = "99114ae2579be7e4cdd553209394572c75751e3af9a3581d742f59a558f08620"

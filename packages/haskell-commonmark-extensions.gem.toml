@@ -1,0 +1,11 @@
+[package]
+name = "haskell-commonmark-extensions"
+version = "0.2.8-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Pure Haskell commonmark parser"
+depends = ["ghc-libs", "haskell-commonmark", "haskell-emojis", "haskell-network-uri"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-commonmark-extensions-0.2.8-1-x86_64.pkg.tar.zst"
+sha256 = "c89568687e8fde68d0fdaef9078aa4fbaea26c39ca003b0e2df29fedb435ddc0"

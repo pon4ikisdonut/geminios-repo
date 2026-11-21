@@ -1,0 +1,11 @@
+[package]
+name = "zix"
+version = "0.8.2-1"
+license = "0BSD OR ISC"
+arch = "x86_64"
+description = "A lightweight C99 portability and data structure library"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/zix-0.8.2-1-x86_64.pkg.tar.zst"
+sha256 = "563534f9bf8ac7b17f9936d0a00f2853b7ed8a0154d2d2e8147bf34fa4983dcf"

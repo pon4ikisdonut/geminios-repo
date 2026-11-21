@@ -1,0 +1,11 @@
+[package]
+name = "iptables-legacy"
+version = "1:1.8.13-1"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "Linux kernel packet control tool (using legacy interface)"
+depends = ["bash", "glibc", "libmnl", "libnetfilter_conntrack", "libnfnetlink", "libnftnl", "libpcap"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/iptables-legacy-1:1.8.13-1-x86_64.pkg.tar.zst"
+sha256 = "4042ef78aaec7d96df349199e18e24f8d9b8d59d075bfbe734f52bc055a5e196"

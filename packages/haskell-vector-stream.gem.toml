@@ -1,0 +1,11 @@
+[package]
+name = "haskell-vector-stream"
+version = "0.1.0.1-6"
+license = "BSD"
+arch = "x86_64"
+description = "Efficient Streams"
+depends = ["ghc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-vector-stream-0.1.0.1-6-x86_64.pkg.tar.zst"
+sha256 = "adbab5d6805210090de3b66a003bec31c64a9f2870404785ee4baa360cafbe3c"

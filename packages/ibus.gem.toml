@@ -1,0 +1,11 @@
+[package]
+name = "ibus"
+version = "1.5.34-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Intelligent input bus for Linux/Unix"
+depends = ["at-spi2-core", "cairo", "dconf", "gdk-pixbuf2", "glib2", "graphene", "gtk3", "gtk4", "hicolor-icon-theme", "libdbusmenu-glib", "libdbusmenu-gtk3", "libnotify", "libx11", "libxfixes", "libxi", "libxkbcommon", "pango", "python", "python-gobject", "wayland", "libibus"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ibus-1.5.34-2-x86_64.pkg.tar.zst"
+sha256 = "64c688e0615430b8367080571990d95cf53b5cd8debe0cbfd82a6907854e61e6"

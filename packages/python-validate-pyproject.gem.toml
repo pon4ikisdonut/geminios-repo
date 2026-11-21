@@ -1,0 +1,11 @@
+[package]
+name = "python-validate-pyproject"
+version = "0.27-1"
+license = "MIT"
+arch = "any"
+description = "Validation library and CLI tool for checking on 'pyproject.toml' files using JSON Schema"
+depends = ["python", "python-fastjsonschema", "python-packaging", "python-trove-classifiers"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-validate-pyproject-0.27-1-any.pkg.tar.zst"
+sha256 = "b6c6b4a7228771bb21352f21f7461112d62ce15cdd67b73b765d690506556255"

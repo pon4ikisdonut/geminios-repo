@@ -1,0 +1,11 @@
+[package]
+name = "texinfo"
+version = "7.3-3"
+license = "GPL3"
+arch = "x86_64"
+description = "GNU documentation system for on-line information and printed output"
+depends = ["ncurses", "gzip", "perl", "sh"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/texinfo-7.3-3-x86_64.pkg.tar.zst"
+sha256 = "61ff9ffa1515e03cbe85ac4dd1fee80c13e513ed99f5fc3753ff9fb9a0705b9d"

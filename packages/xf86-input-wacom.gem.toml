@@ -1,0 +1,11 @@
+[package]
+name = "xf86-input-wacom"
+version = "1.2.4-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "X.Org Wacom tablet driver"
+depends = ["libxi", "libxinerama", "libxrandr", "systemd-libs", "libx11", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xf86-input-wacom-1.2.4-1-x86_64.pkg.tar.zst"
+sha256 = "990162367cec24d7774bcff51f3db3e25ca80826fd0b6df92eeec668ae6151b5"

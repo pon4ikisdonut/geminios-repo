@@ -1,0 +1,11 @@
+[package]
+name = "kquickcharts"
+version = "6.32.0-1"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "A QtQuick plugin providing high-performance charts"
+depends = ["glibc", "kirigami", "libstdc++", "qt6-base", "qt6-declarative"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kquickcharts-6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "32a5257933dfa81254bee8fb229813d89af3569340cf5cee644426d66019b91e"

@@ -1,0 +1,11 @@
+[package]
+name = "python-setuptools"
+version = "1:84.2.1-1"
+license = "MIT"
+arch = "any"
+description = "Easily download, build, install, upgrade, and uninstall Python packages"
+depends = ["python", "python-jaraco.collections", "python-jaraco.functools", "python-jaraco.text", "python-more-itertools", "python-packaging", "python-platformdirs", "python-wheel"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-setuptools-1:84.2.1-1-any.pkg.tar.zst"
+sha256 = "14704478fd82e03078497f5be3235607d0937650dd5cdcca86bda347271ba9dc"

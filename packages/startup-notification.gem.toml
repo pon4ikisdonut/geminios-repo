@@ -1,0 +1,11 @@
+[package]
+name = "startup-notification"
+version = "0.12-9"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Libary to monitor and display application startup"
+depends = ["glibc", "libx11", "libxcb", "xcb-util"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/startup-notification-0.12-9-x86_64.pkg.tar.zst"
+sha256 = "ead2ea9178863a2477d69db564013eb5123f6381b388ddcd62d73b03018c7b63"

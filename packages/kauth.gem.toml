@@ -1,0 +1,11 @@
+[package]
+name = "kauth"
+version = "6.32.0-1"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "Abstraction to system policy and authentication features"
+depends = ["libstdc++", "glibc", "kcoreaddons", "kwindowsystem", "polkit-qt6", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kauth-6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "2a76514cf421eef07bab899e283e41b93ee0f05225cbb557b6511bd1a5bcb86a"

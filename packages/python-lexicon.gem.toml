@@ -1,0 +1,11 @@
+[package]
+name = "python-lexicon"
+version = "3.0.0-2"
+license = "BSD-2-Clause"
+arch = "any"
+description = "Powerful dict subclass(es) with aliasing & attribute access"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-lexicon-3.0.0-2-any.pkg.tar.zst"
+sha256 = "d5ff793e5c1b71cd32600ea19a35c8660dea07d37c5611f4e92af78244fd49fa"

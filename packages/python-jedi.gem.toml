@@ -1,0 +1,11 @@
+[package]
+name = "python-jedi"
+version = "0.20.1-1"
+license = "MIT"
+arch = "any"
+description = "Awesome autocompletion for python"
+depends = ["python", "python-parso"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-jedi-0.20.1-1-any.pkg.tar.zst"
+sha256 = "248cf7ccc04654a2dd6f03b7386b19592390eb4dad5791f733a19c0f6c03c7ef"

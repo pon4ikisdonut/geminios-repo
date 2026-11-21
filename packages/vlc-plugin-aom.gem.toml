@@ -1,0 +1,11 @@
+[package]
+name = "vlc-plugin-aom"
+version = "3.0.24-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Free and open source cross-platform multimedia player and framework - AOM AV1 plugin"
+depends = ["aom", "glibc", "libvlc", "libvlccore.so", "vlc-plugins-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vlc-plugin-aom-3.0.24-2-x86_64.pkg.tar.zst"
+sha256 = "2726a6e58c7019197e48428ea5b5bde5453bd879abc4f403913155ecbdab66c4"

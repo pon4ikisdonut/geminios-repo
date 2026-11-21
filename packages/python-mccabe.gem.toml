@@ -1,0 +1,11 @@
+[package]
+name = "python-mccabe"
+version = "0.7.0-9"
+license = "MIT"
+arch = "any"
+description = "McCabe complexity checker for Python"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-mccabe-0.7.0-9-any.pkg.tar.zst"
+sha256 = "bdc43e202056f4eb5075b218ebb0be2df188a5d21812b8040d26ca95e21d26f1"

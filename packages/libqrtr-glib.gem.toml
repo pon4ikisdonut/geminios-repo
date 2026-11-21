@@ -1,0 +1,11 @@
+[package]
+name = "libqrtr-glib"
+version = "1.4.0-2"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Qualcomm IPC Router protocol helper library"
+depends = ["glib2", "glibc", "libgcc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libqrtr-glib-1.4.0-2-x86_64.pkg.tar.zst"
+sha256 = "9a447513a5d23e8ebd8729b663cb47d989c54567fee57f12e25295d4c15e2b6c"

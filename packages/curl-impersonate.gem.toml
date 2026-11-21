@@ -1,0 +1,11 @@
+[package]
+name = "curl-impersonate"
+version = "2.2.2-1"
+license = "MIT"
+arch = "x86_64"
+description = "A build of curl that impersonates four major browsers: Chrome, Edge, Safari & Firefox"
+depends = ["glibc", "libgcc", "libgcc_s.so", "libstdc++", "libstdc++.so", "bash"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/curl-impersonate-2.2.2-1-x86_64.pkg.tar.zst"
+sha256 = "50ab5822d72abe08a5a67848494b6300e77c825664dbfdad19f7a9117631f64e"

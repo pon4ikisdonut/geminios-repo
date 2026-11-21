@@ -1,0 +1,11 @@
+[package]
+name = "audispd-plugins-zos"
+version = "4.2.1-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "z/OS plugin for the audit event dispatcher"
+depends = ["audit", "libauparse.so", "glibc", "libcap-ng", "libcap-ng.so", "libldap"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/audispd-plugins-zos-4.2.1-1-x86_64.pkg.tar.zst"
+sha256 = "0ea81f362bc404a4d03815d5e7f03203695403031ceca24a224aad4edba8b2ed"

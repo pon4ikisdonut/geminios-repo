@@ -1,0 +1,11 @@
+[package]
+name = "qt5-base"
+version = "5.15.19+kde+r97-1"
+license = "custom"
+arch = "x86_64"
+description = "A cross-platform application and UI framework"
+depends = ["libjpeg-turbo", "xcb-util-keysyms", "xcb-util-renderutil", "libgl", "fontconfig", "harfbuzz", "xdg-utils", "shared-mime-info", "xcb-util-wm", "libxrender", "libxi", "sqlite", "xcb-util-image", "mesa", "tslib", "libinput", "libxkbcommon-x11", "libproxy", "libcups", "double-conversion", "md4c", "qt5-translations"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qt5-base-5.15.19+kde+r97-1-x86_64.pkg.tar.zst"
+sha256 = "375b0a49b532ecd4d466fe60016093bd802de00998aad08136d5b275d9b75c94"

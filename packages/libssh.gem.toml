@@ -1,0 +1,11 @@
+[package]
+name = "libssh"
+version = "0.12.2-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Library for accessing ssh client services through C libraries"
+depends = ["glibc", "openssl", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libssh-0.12.2-2-x86_64.pkg.tar.zst"
+sha256 = "432aa9c0dee80445b7e9f9c998c1da589107cf22b2ebebae193ec9582d0b78f5"

@@ -1,0 +1,11 @@
+[package]
+name = "libshumate"
+version = "1.7.0-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Map widget for GTK 4"
+depends = ["cairo", "gdk-pixbuf2", "glib2", "glibc", "graphene", "gtk4", "json-glib", "libgcc", "libsoup3", "libsysprof-capture", "pango", "protobuf-c", "sqlite"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libshumate-1.7.0-1-x86_64.pkg.tar.zst"
+sha256 = "74edd95987a2b000bf18017bbcc0d47b9dd91fda39ab86ee1d46a58fb9ee7842"

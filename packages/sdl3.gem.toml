@@ -1,0 +1,11 @@
+[package]
+name = "sdl3"
+version = "3.4.20-1"
+license = "Zlib"
+arch = "x86_64"
+description = "A library for portable low-level access to a video framebuffer, audio output, mouse, and keyboard (Version 3)"
+depends = ["glibc", "libxext", "libxrender", "libx11", "libgl", "libxcursor", "hidapi", "libusb"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/sdl3-3.4.20-1-x86_64.pkg.tar.zst"
+sha256 = "5c417bcde05aa0207661fab420f56e0f41da84b4f3b4d98e41e0fffb635f7034"

@@ -1,0 +1,11 @@
+[package]
+name = "haskell-unordered-containers"
+version = "0.2.21-85"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Efficient hashing-based container types"
+depends = ["ghc-libs", "haskell-hashable"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-unordered-containers-0.2.21-85-x86_64.pkg.tar.zst"
+sha256 = "188f93e9f7b87d134ea019ec8ea5fc5287209e3626733682cee55b726b95cc74"

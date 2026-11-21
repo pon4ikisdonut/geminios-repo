@@ -1,0 +1,11 @@
+[package]
+name = "gettext"
+version = "1.0-2"
+license = "LGPL-2.0-only"
+arch = "x86_64"
+description = "GNU internationalization library"
+depends = ["acl", "attr", "curl", "glibc", "json-c", "libgcc", "libgomp", "libstdc++", "gnulib-l10n", "libunistring", "libxml2", "ncurses", "sh"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/gettext-1.0-2-x86_64.pkg.tar.zst"
+sha256 = "bf1bd9d2f096f1446a645a89a26663371ab6ef78a8ed4b1c3f006b60569a2e28"

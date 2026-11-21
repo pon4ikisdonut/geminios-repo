@@ -1,0 +1,11 @@
+[package]
+name = "haskell-data-default-instances-dlist"
+version = "0.0.1.2-243"
+license = "BSD"
+arch = "x86_64"
+description = "Default instances for types in dlist"
+depends = ["ghc-libs", "haskell-data-default-class", "haskell-dlist"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-data-default-instances-dlist-0.0.1.2-243-x86_64.pkg.tar.zst"
+sha256 = "82f94ebf2edfcc1fff11d6429ed9491f6705f187c6ce54f9e2e90e860f59a4d1"

@@ -1,0 +1,11 @@
+[package]
+name = "electron44"
+version = "44.11.2-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Build cross platform desktop apps with web technologies"
+depends = ["c-ares", "libgcc", "glibc", "gtk3", "libgtk-3.so", "libevent", "libffi", "libffi.so", "libpulse", "libpulse.so", "nss", "zlib", "libz.so", "fontconfig", "libfontconfig.so", "brotli", "libjpeg-turbo", "libjpeg.so", "flac", "libFLAC.so", "libdrm", "libxml2", "libxml2.so", "minizip", "opus", "libopus.so", "libxslt", "libxslt.so", "harfbuzz", "libharfbuzz.so", "libharfbuzz-subset.so", "freetype2", "libfreetype.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/electron44-44.11.2-1-x86_64.pkg.tar.zst"
+sha256 = "7bab2a6f2d7c7415814b228cc1971c49cf7a595ed6c5c35a785f23e1ce187b6a"

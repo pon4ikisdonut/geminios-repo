@@ -1,0 +1,11 @@
+[package]
+name = "krb5"
+version = "1.22.2-2"
+license = "custom"
+arch = "x86_64"
+description = "The Kerberos network authentication system"
+depends = ["bash", "e2fsprogs", "glibc", "keyutils", "libldap", "libverto-module-base", "openssl", "lmdb", "libcom_err.so", "libkeyutils.so", "libss.so", "libverto.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/krb5-1.22.2-2-x86_64.pkg.tar.zst"
+sha256 = "a546d2cc6a223de9ff1d06793c68c183844df54fc8cf5ef46babdc1bc47c7a9f"

@@ -1,0 +1,11 @@
+[package]
+name = "vlc-plugin-dca"
+version = "3.0.24-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Free and open source cross-platform multimedia player and framework - DTS Coherent Acoustics plugin"
+depends = ["glibc", "libdca", "libvlc", "libvlccore.so", "vlc-plugins-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vlc-plugin-dca-3.0.24-2-x86_64.pkg.tar.zst"
+sha256 = "855292e79aa67a78d9b4e1b0768c8577131e91b867b51f639bbb582cb2200478"

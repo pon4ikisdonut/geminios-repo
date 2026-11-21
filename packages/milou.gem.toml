@@ -1,0 +1,11 @@
+[package]
+name = "milou"
+version = "6.8.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "A dedicated search application built on top of Baloo"
+depends = ["glibc", "kconfig", "kcoreaddons", "kirigami", "krunner", "ksvg", "libplasma", "libstdc++", "qt6-base", "qt6-declarative"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/milou-6.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "c4300efd4ebeefaab0c2807222b173be6173c3178de5243d320aa48fc3a4352a"

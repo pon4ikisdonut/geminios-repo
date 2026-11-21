@@ -1,0 +1,11 @@
+[package]
+name = "linux-firmware-marvell"
+version = "20261019-1"
+license = "LicenseRef-marvell"
+arch = "any"
+description = "Firmware files for Linux - Firmware for Marvell devices"
+depends = ["linux-firmware-whence"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/linux-firmware-marvell-20261019-1-any.pkg.tar.zst"
+sha256 = "a8382273fb2c140c5b852df65d812dcc3de6045009d8772b9ec902e1aace8def"

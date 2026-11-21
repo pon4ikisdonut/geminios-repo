@@ -1,0 +1,11 @@
+[package]
+name = "curl"
+version = "8.23.0-2"
+license = "curl"
+arch = "x86_64"
+description = "command line tool and library for transferring data with URLs"
+depends = ["ca-certificates", "brotli", "libbrotlidec.so", "krb5", "libgssapi_krb5.so", "libidn2", "libidn2.so", "libnghttp2", "libnghttp2.so", "libnghttp3", "libnghttp3.so", "libngtcp2", "libngtcp2.so", "libpsl", "libpsl.so", "libssh2", "libssh2.so", "openssl", "libcrypto.so", "libssl.so", "zlib", "libz.so", "zstd", "libzstd.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/curl-8.23.0-2-x86_64.pkg.tar.zst"
+sha256 = "4d2bbf66b26c6dc7236e505c9d80644d3da6a28473c690365324edf276a68775"

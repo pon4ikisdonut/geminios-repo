@@ -1,0 +1,11 @@
+[package]
+name = "haskell-tagsoup"
+version = "0.14.8-396"
+license = "BSD"
+arch = "x86_64"
+description = "Parsing and extracting information from (possibly malformed) HTML/XML documents"
+depends = ["ghc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-tagsoup-0.14.8-396-x86_64.pkg.tar.zst"
+sha256 = "87a2c82231d15ce6c1bf2100095c47c068b7b04d137a37d8b7e334090147ff35"

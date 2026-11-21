@@ -1,0 +1,11 @@
+[package]
+name = "boost"
+version = "1.92.0-2"
+license = "BSL-1.0"
+arch = "x86_64"
+description = "Free peer-reviewed portable C++ source libraries (development headers)"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/boost-1.92.0-2-x86_64.pkg.tar.zst"
+sha256 = "70822c23dacb0921196ca0c449de615179055d5208b99b33b7785bc1cc5b99b7"

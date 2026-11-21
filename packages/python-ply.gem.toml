@@ -1,0 +1,11 @@
+[package]
+name = "python-ply"
+version = "3.11-17"
+license = "BSD-3-Clause"
+arch = "any"
+description = "Implementation of lex and yacc parsing tools"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-ply-3.11-17-any.pkg.tar.zst"
+sha256 = "1370d09b278eeb1387b3a2276dc56fc0138ee2b2c3696fabf6cd53c78e06500b"

@@ -1,0 +1,11 @@
+[package]
+name = "haskell-old-time"
+version = "1.1.1.0-64"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "This package provides the ability to adapt to locale conventions such as date and time formats."
+depends = ["ghc-libs", "haskell-old-locale"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-old-time-1.1.1.0-64-x86_64.pkg.tar.zst"
+sha256 = "71087222a5caae695dbd392e81384523245dc5bc1c162c5effcfe7ab04419a25"

@@ -1,0 +1,11 @@
+[package]
+name = "kpeople"
+version = "6.32.0-1"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "A library that provides access to all contacts and the people who hold them"
+depends = ["libstdc++", "glibc", "kcontacts", "kcoreaddons", "ki18n", "kitemviews", "kwidgetsaddons", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kpeople-6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "db699dbd682e0d683f8f2863e80b870ae64ba3d7e36e83dbaadf9ce99b779b8a"

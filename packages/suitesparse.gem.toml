@@ -1,0 +1,11 @@
+[package]
+name = "suitesparse"
+version = "7.14.1-1"
+license = "GPL"
+arch = "x86_64"
+description = "A collection of sparse matrix libraries"
+depends = ["blas", "glibc", "gmp", "lapack", "libgcc", "libgomp", "libstdc++", "mpfr"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/suitesparse-7.14.1-1-x86_64.pkg.tar.zst"
+sha256 = "f5f72345fda7f6b58ae250c984b4037d041877b8f49fcedf1c9c7e0d9eaccb45"

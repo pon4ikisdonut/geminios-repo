@@ -1,0 +1,11 @@
+[package]
+name = "python-trove-classifiers"
+version = "2026.9.21.13-1"
+license = "Apache-2.0"
+arch = "any"
+description = "Canonical source for classifiers on PyPI (pypi.org)"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-trove-classifiers-2026.9.21.13-1-any.pkg.tar.zst"
+sha256 = "cee61463da75f47cdb7e37637b67c7fdcf0126363b7079df3ca22bf04f75e4f9"

@@ -1,0 +1,11 @@
+[package]
+name = "xorg-server-devel"
+version = "21.1.26-1"
+license = "X11-distribute-modifications-variant"
+arch = "x86_64"
+description = "Development files for the X.Org X server"
+depends = ["xorgproto", "mesa", "libpciaccess", "pixman", "xorg-util-macros"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xorg-server-devel-21.1.26-1-x86_64.pkg.tar.zst"
+sha256 = "6882fcd54024e5df8c820e7affeec115816f4245e6cb7d7861d0eb75320058d8"

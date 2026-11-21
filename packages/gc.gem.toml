@@ -1,0 +1,11 @@
+[package]
+name = "gc"
+version = "8.2.12-1"
+license = "MIT"
+arch = "x86_64"
+description = "A garbage collector for C and C++"
+depends = ["gcc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/gc-8.2.12-1-x86_64.pkg.tar.zst"
+sha256 = "f81f6053b8986150529ad125827f00cc8f7652f827cea34fe3f0e97ce078434e"

@@ -1,0 +1,11 @@
+[package]
+name = "libntfs-3g"
+version = "2026.9.28-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "NTFS-3G core library"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libntfs-3g-2026.9.28-1-x86_64.pkg.tar.zst"
+sha256 = "100f4d5371cc381c2e8a7a16a89daba0435d4acf5c4911f0b5d2d4a338a7485c"

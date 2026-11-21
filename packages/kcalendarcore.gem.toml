@@ -1,0 +1,11 @@
+[package]
+name = "kcalendarcore"
+version = "6.32.0-1"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "The KDE calendar access library"
+depends = ["glibc", "libical", "libstdc++", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kcalendarcore-6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "138551c0f6c391e02671ef01823d80c808785b66fb35ffcdb2817d9fd527dc9a"

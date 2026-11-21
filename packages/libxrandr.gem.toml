@@ -1,0 +1,11 @@
+[package]
+name = "libxrandr"
+version = "1.5.5-1"
+license = "HPND-sell-variant"
+arch = "x86_64"
+description = "X11 RandR extension library"
+depends = ["libxext", "libxrender", "libx11", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libxrandr-1.5.5-1-x86_64.pkg.tar.zst"
+sha256 = "49d3a3596311477f8ad2e1735dae612013118802822f21ce22886f65103dd899"

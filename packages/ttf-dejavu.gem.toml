@@ -1,0 +1,11 @@
+[package]
+name = "ttf-dejavu"
+version = "2.37+18+g9b5d1b2f-8"
+license = "custom"
+arch = "any"
+description = "Font family based on the Bitstream Vera Fonts with a wider range of characters"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ttf-dejavu-2.37+18+g9b5d1b2f-8-any.pkg.tar.zst"
+sha256 = "d46da489e776dd3d74def85d6d613509db408e9de7a7e3445c63832fd3798e65"

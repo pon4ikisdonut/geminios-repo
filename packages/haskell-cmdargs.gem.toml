@@ -1,0 +1,11 @@
+[package]
+name = "haskell-cmdargs"
+version = "0.10.22-6"
+license = "BSD"
+arch = "x86_64"
+description = "Command line argument processing"
+depends = ["ghc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-cmdargs-0.10.22-6-x86_64.pkg.tar.zst"
+sha256 = "f2699f2e5176a1a348569b98ca53e4994be46b800e754f6324cfb1f675596c41"

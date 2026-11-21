@@ -1,0 +1,11 @@
+[package]
+name = "nasm"
+version = "3.02-1"
+license = "BSD-2-Clause"
+arch = "x86_64"
+description = "80x86 assembler designed for portability and modularity"
+depends = ["glibc", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/nasm-3.02-1-x86_64.pkg.tar.zst"
+sha256 = "3a749b14839e1ea665e42b991fa15dfb6e9fc871b8bf4f8a48a40b789edcf579"

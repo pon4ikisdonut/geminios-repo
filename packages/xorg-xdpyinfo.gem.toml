@@ -1,0 +1,11 @@
+[package]
+name = "xorg-xdpyinfo"
+version = "1.4.0-1"
+license = "MIT"
+arch = "x86_64"
+description = "Display information utility for X"
+depends = ["libx11", "libxext", "libxtst", "libxxf86vm", "libxrender", "libxcomposite", "libxinerama", "libxi", "libxcb", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xorg-xdpyinfo-1.4.0-1-x86_64.pkg.tar.zst"
+sha256 = "b916eef928cf877941d6b0fc20df3bafcb6b964287fc45c273507a1ebd4cf62a"

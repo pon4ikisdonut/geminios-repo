@@ -1,0 +1,11 @@
+[package]
+name = "peg"
+version = "0.1.19-1"
+license = "MIT"
+arch = "x86_64"
+description = "recursive-descent parser generators for C"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/peg-0.1.19-1-x86_64.pkg.tar.zst"
+sha256 = "39046284b55764198fc502452a324275d9a9afd75db47f3c3065162a360613b0"

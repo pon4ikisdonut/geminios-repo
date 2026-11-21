@@ -1,0 +1,11 @@
+[package]
+name = "iio-sensor-proxy"
+version = "3.9-1"
+license = "GPL-3.0-only"
+arch = "x86_64"
+description = "IIO accelerometer sensor to input device proxy"
+depends = ["glib2", "glibc", "libgcc", "libgudev", "libssc", "polkit"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/iio-sensor-proxy-3.9-1-x86_64.pkg.tar.zst"
+sha256 = "02d90729e6990f3a8208577a5d2fe65acbd3b6563d6ab4cc08019dbe07c7de6f"

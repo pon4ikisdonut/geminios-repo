@@ -1,0 +1,11 @@
+[package]
+name = "xorg-xlsatoms"
+version = "1.1.5-1"
+license = "MIT-open-group"
+arch = "x86_64"
+description = "List interned atoms defined on server"
+depends = ["libxcb", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xorg-xlsatoms-1.1.5-1-x86_64.pkg.tar.zst"
+sha256 = "f8ce1d774070685b23e4ac7ce7b9d0a37568abb21bbe8ca9f7242e0b06d35424"

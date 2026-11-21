@@ -1,0 +1,11 @@
+[package]
+name = "libabw"
+version = "0.1.4-1"
+license = "MPL-2.0"
+arch = "x86_64"
+description = "a library that parses the file format of AbiWord documents"
+depends = ["librevenge", "libxml2", "zlib", "glibc", "libstdc++", "libgcc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libabw-0.1.4-1-x86_64.pkg.tar.zst"
+sha256 = "1d9c0a8458235cffd37805bd7ddf52c2e0921d433541b78ad38a0327bf21d5f9"

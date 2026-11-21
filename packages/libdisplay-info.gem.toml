@@ -1,0 +1,11 @@
+[package]
+name = "libdisplay-info"
+version = "0.3.0-1"
+license = "MIT"
+arch = "x86_64"
+description = "EDID and DisplayID library"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libdisplay-info-0.3.0-1-x86_64.pkg.tar.zst"
+sha256 = "07ab1479ec5e70aea174e2d0e340bd9364b507ed74f2df3bfd51b3c6f40e5787"

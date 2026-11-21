@@ -1,0 +1,11 @@
+[package]
+name = "gtksourceview4"
+version = "4.8.4-2"
+license = "GPL"
+arch = "x86_64"
+description = "A text widget adding syntax highlighting and more to GNOME"
+depends = ["gtk3", "libxml2"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gtksourceview4-4.8.4-2-x86_64.pkg.tar.zst"
+sha256 = "cfb1cea2e2036643d51465b61eb9c70ba1626285401d4f6d9933e54f4d0ae634"

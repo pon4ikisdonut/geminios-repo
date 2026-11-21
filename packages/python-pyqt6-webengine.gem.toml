@@ -1,0 +1,11 @@
+[package]
+name = "python-pyqt6-webengine"
+version = "6.140.1-1"
+license = "GPL3"
+arch = "x86_64"
+description = "Python bindings for QtWebEngine"
+depends = ["glibc", "libstdc++", "python", "python-pyqt6", "qt6-base", "qt6-webengine"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-pyqt6-webengine-6.140.1-1-x86_64.pkg.tar.zst"
+sha256 = "56f5cfd71729c53d3591ca0db40ff466fb4f225408a49a27e681a28d6801afbb"

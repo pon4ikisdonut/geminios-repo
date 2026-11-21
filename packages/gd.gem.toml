@@ -1,0 +1,11 @@
+[package]
+name = "gd"
+version = "2.3.3-9"
+license = "custom"
+arch = "x86_64"
+description = "Library for the dynamic creation of images by programmers"
+depends = ["fontconfig", "libxpm", "libwebp", "libavif", "libheif"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gd-2.3.3-9-x86_64.pkg.tar.zst"
+sha256 = "8f3677fbb4c6986f2a8fa3c7b9082d8cac194787ecb0b3b9429e67165324fb21"

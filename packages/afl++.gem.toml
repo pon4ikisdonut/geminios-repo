@@ -1,0 +1,11 @@
+[package]
+name = "afl++"
+version = "5.03c-1"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "instrumentation-driven fuzzer for binary format"
+depends = ["bash", "clang", "compiler-rt", "glib2", "glibc", "libgcc", "libstdc++", "lld", "llvm", "python", "python-tqdm", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/afl++-5.03c-1-x86_64.pkg.tar.zst"
+sha256 = "cb60b090a44ab4e606d4e79f3a668d6b5dd018354bc72f39371ca55fcd4164ea"

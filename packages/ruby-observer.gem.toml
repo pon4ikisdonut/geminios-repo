@@ -1,0 +1,11 @@
+[package]
+name = "ruby-observer"
+version = "0.1.2-3"
+license = "BSD-Clause-2"
+arch = "any"
+description = "Implementation of the Observer object-oriented design pattern"
+depends = ["ruby"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ruby-observer-0.1.2-3-any.pkg.tar.zst"
+sha256 = "da8348da82dc6e155608cbbc1d5746757386f9536a5d45d20140169fb7cfaddb"

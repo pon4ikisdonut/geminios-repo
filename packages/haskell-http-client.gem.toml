@@ -1,0 +1,11 @@
+[package]
+name = "haskell-http-client"
+version = "0.7.19-135"
+license = "MIT"
+arch = "x86_64"
+description = "An HTTP client engine"
+depends = ["ghc-libs", "haskell-async", "haskell-base64-bytestring", "haskell-blaze-builder", "haskell-case-insensitive", "haskell-cookie", "haskell-http-types", "haskell-iproute", "haskell-mime-types", "haskell-network", "haskell-network-uri", "haskell-random", "haskell-streaming-commons"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-http-client-0.7.19-135-x86_64.pkg.tar.zst"
+sha256 = "4ab361e1e9a9ad9cc5491ff69dc668f9051d9ea72a2f96d72f01d45b7ded3df4"

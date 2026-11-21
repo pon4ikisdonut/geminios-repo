@@ -1,0 +1,11 @@
+[package]
+name = "aardvark-dns"
+version = "2.1.0-3"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "Authoritative dns server for A/AAAA container records"
+depends = ["glibc", "libgcc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/aardvark-dns-2.1.0-3-x86_64.pkg.tar.zst"
+sha256 = "40c769132c7bc100b73146fd40eee704e3be1bd8fa8a067d0deeca1ed250e4c6"

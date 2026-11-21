@@ -1,0 +1,11 @@
+[package]
+name = "man-pages-utils"
+version = "6.20-1"
+license = "GPL-3.0-or-later"
+arch = "any"
+description = "Linux man pages - command line tools"
+depends = ["sh"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/man-pages-utils-6.20-1-any.pkg.tar.zst"
+sha256 = "0cdcd5e4fa5e997c2ffadecd2e308dce9540be2a374c44cf59753188e1865b89"

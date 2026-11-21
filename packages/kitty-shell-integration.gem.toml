@@ -1,0 +1,11 @@
+[package]
+name = "kitty-shell-integration"
+version = "0.51.0-1"
+license = "GPL-3.0-only"
+arch = "x86_64"
+description = "Shell integration scripts for kitty, an OpenGL-based terminal emulator"
+depends = ["python3"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kitty-shell-integration-0.51.0-1-x86_64.pkg.tar.zst"
+sha256 = "4eef28fa7a74cced0bd4f03d2fc87e66387d8098087a21dcdb45bdc77db166bb"

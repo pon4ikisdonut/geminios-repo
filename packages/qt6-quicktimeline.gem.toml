@@ -1,0 +1,11 @@
+[package]
+name = "qt6-quicktimeline"
+version = "6.12.0-1"
+license = "Qt-GPL-exception-1.0"
+arch = "x86_64"
+description = "Qt module for keyframe-based timeline construction"
+depends = ["glibc", "libstdc++", "qt6-base", "qt6-declarative"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qt6-quicktimeline-6.12.0-1-x86_64.pkg.tar.zst"
+sha256 = "1338473b641659f95e8ca3bf19ed46cb73e5b67dc4a107f2b3d6f42e70b9d05b"

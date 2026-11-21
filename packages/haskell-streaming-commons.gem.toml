@@ -1,0 +1,11 @@
+[package]
+name = "haskell-streaming-commons"
+version = "0.2.3.1-80"
+license = "MIT"
+arch = "x86_64"
+description = "Common lower-level functions needed by various streaming data libraries"
+depends = ["ghc-libs", "haskell-async", "haskell-network", "haskell-random", "haskell-zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-streaming-commons-0.2.3.1-80-x86_64.pkg.tar.zst"
+sha256 = "65d271c657c0c9261553577570b3772c452024d08b995e8ec78acb5a6e4c9679"

@@ -1,0 +1,11 @@
+[package]
+name = "usb_modeswitch"
+version = "2.6.3.20261111-1"
+license = "GPL"
+arch = "x86_64"
+description = "Activating switchable USB devices on Linux."
+depends = ["libusb", "tcl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/usb_modeswitch-2.6.3.20261111-1-x86_64.pkg.tar.zst"
+sha256 = "c15e8f84fe30eecfd690de93952ab94d6a593d35ae34341e2299f9cbdd0a95aa"

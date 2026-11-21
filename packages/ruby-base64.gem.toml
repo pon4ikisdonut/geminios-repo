@@ -1,0 +1,11 @@
+[package]
+name = "ruby-base64"
+version = "0.3.0-1"
+license = "RUBY"
+arch = "any"
+description = "Support for encoding and decoding binary data using a Base64 representation"
+depends = ["ruby"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ruby-base64-0.3.0-1-any.pkg.tar.zst"
+sha256 = "d1a718e32c9daf7ba3d91a2588ccf6058d757992233f0e94dc3a75ce18a799ae"

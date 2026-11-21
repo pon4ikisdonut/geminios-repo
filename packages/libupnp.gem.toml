@@ -1,0 +1,11 @@
+[package]
+name = "libupnp"
+version = "1.14.31-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Portable Open Source UPnP Development Kit"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libupnp-1.14.31-1-x86_64.pkg.tar.zst"
+sha256 = "23fbdef6c2b86d93488b11957a8e456b1828598ccad7e409b131ddfaebe83126"

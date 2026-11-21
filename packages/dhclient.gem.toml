@@ -1,0 +1,11 @@
+[package]
+name = "dhclient"
+version = "4.4.3.P1-4"
+license = "custom:isc-dhcp"
+arch = "x86_64"
+description = "A standalone DHCP client from the dhcp package"
+depends = ["glibc", "bash", "iproute2", "run-parts"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/dhclient-4.4.3.P1-4-x86_64.pkg.tar.zst"
+sha256 = "926b06834283ef8486b53a244668f0926e20973b79eb484aafb6480ebf1e3893"

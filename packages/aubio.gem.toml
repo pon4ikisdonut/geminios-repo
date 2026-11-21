@@ -1,0 +1,11 @@
+[package]
+name = "aubio"
+version = "0.4.9-25"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "A tool for extracting annotations from audio signals"
+depends = ["ffmpeg", "libavcodec.so", "libavformat.so", "libavutil.so", "libswresample.so", "fftw", "glibc", "jack", "libjack.so", "libsamplerate", "libsamplerate.so", "libsndfile", "libsndfile.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/aubio-0.4.9-25-x86_64.pkg.tar.zst"
+sha256 = "40e85b6eb3a098acade8ce5d8f2780b91b0a0a9c1b41e032cfebf94fa009cd56"

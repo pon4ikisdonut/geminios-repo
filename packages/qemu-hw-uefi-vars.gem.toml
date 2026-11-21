@@ -1,0 +1,11 @@
+[package]
+name = "qemu-hw-uefi-vars"
+version = "11.1.3-1"
+license = "MIT"
+arch = "x86_64"
+description = "QEMU UEFI vars handling"
+depends = ["glibc", "gnutls", "libgcc", "qemu-common"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qemu-hw-uefi-vars-11.1.3-1-x86_64.pkg.tar.zst"
+sha256 = "b9d370ae427787af02790469bd0627a450ef4b37d0f63f28380bc5eed0e86e47"

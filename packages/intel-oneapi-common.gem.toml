@@ -1,0 +1,11 @@
+[package]
+name = "intel-oneapi-common"
+version = "2026.2.0_35-1"
+license = "LicenseRef-Intel-EULA-Developer-Tools AND LicenseRef-Intel-Simplified"
+arch = "any"
+description = "Intel's oneAPI common variables and licensing"
+depends = ["sh"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/intel-oneapi-common-2026.2.0_35-1-any.pkg.tar.zst"
+sha256 = "1087402fff281906d0ea5dc81052c7596e28f8a8e6106a39a264f9a7851cb27c"

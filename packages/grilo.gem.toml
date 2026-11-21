@@ -1,0 +1,11 @@
+[package]
+name = "grilo"
+version = "0.3.19-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Framework that provides access to various sources of multimedia content"
+depends = ["glib2", "glibc", "libgcc", "libsoup3", "libxml2", "totem-pl-parser"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/grilo-0.3.19-2-x86_64.pkg.tar.zst"
+sha256 = "45b4ca8a001c74dacdad0862043172055366aaded3fee678545117161f383c59"

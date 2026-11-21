@@ -1,0 +1,11 @@
+[package]
+name = "egl-gbm"
+version = "1.1.4-1"
+license = "MIT"
+arch = "x86_64"
+description = "The GBM EGL external platform library"
+depends = ["eglexternalplatform", "glibc", "mesa", "libdrm"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/egl-gbm-1.1.4-1-x86_64.pkg.tar.zst"
+sha256 = "a05b572db0397e79e757d8177fd015016e78c7afc7f9c2e3631bc61ca38479e9"

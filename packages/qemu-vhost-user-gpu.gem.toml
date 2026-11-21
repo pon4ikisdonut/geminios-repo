@@ -1,0 +1,11 @@
+[package]
+name = "qemu-vhost-user-gpu"
+version = "11.1.3-1"
+license = "MIT"
+arch = "x86_64"
+description = "QEMU vhost-user-gpu display device"
+depends = ["glib2", "libgcc", "libglib-2.0.so", "libgmodule-2.0.so", "glibc", "pixman", "libepoxy", "libpixman-1.so", "mesa", "numactl", "libnuma.so", "qemu-common", "virglrenderer"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qemu-vhost-user-gpu-11.1.3-1-x86_64.pkg.tar.zst"
+sha256 = "970941280f80c5e400946411896ed7bf40d525ee79d2ac190c3b60f75ea50820"

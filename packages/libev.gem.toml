@@ -1,0 +1,11 @@
+[package]
+name = "libev"
+version = "4.33-5"
+license = "BSD-2-Clause"
+arch = "x86_64"
+description = "A full-featured and high-performance event loop"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libev-4.33-5-x86_64.pkg.tar.zst"
+sha256 = "491bca1354602f24e8fb21a1c046774b86888a69b8ecba58ddb57693fa8e580a"

@@ -1,0 +1,11 @@
+[package]
+name = "ruby-racc"
+version = "1.8.1-2"
+license = "BSD-2-Clause"
+arch = "x86_64"
+description = "LALR parser generator written in Ruby itself and generates ruby programs"
+depends = ["glibc", "ruby"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ruby-racc-1.8.1-2-x86_64.pkg.tar.zst"
+sha256 = "1a66bee4a5efad0e353fe65b86beced73e8bd3f52208ebe1c5ebdae0e39373e6"

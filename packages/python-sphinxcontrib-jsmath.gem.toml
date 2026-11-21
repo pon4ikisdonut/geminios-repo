@@ -1,0 +1,11 @@
+[package]
+name = "python-sphinxcontrib-jsmath"
+version = "1.0.1-21"
+license = "BSD"
+arch = "any"
+description = "Sphinx extension which renders display math in HTML via JavaScript"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-sphinxcontrib-jsmath-1.0.1-21-any.pkg.tar.zst"
+sha256 = "cb15a5d15475751b2ab97f7b17d2fba00ad9aa19918b3b91af147b596db2dcbd"

@@ -1,0 +1,11 @@
+[package]
+name = "perl-regexp-common"
+version = "2024080801-4"
+license = "MIT"
+arch = "any"
+description = "Commonly requested regular expressions"
+depends = ["perl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/perl-regexp-common-2024080801-4-any.pkg.tar.zst"
+sha256 = "6d70413bd6801506879ffa09780a341fa63b07cf5249a6b26c85a4c8d7242fac"

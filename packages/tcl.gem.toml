@@ -1,0 +1,11 @@
+[package]
+name = "tcl"
+version = "8.6.16-1"
+license = "TCL"
+arch = "x86_64"
+description = "Powerful, easy-to-learn dynamic programming language"
+depends = ["zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/tcl-8.6.16-1-x86_64.pkg.tar.zst"
+sha256 = "71f827c68e65d34d9d2a119daccabcdeb99f791150c37b7287e7e5b5b4ae00ec"

@@ -1,0 +1,11 @@
+[package]
+name = "cmark-gfm"
+version = "0.29.0.gfm.13-2"
+license = "BSD-2-Clause"
+arch = "x86_64"
+description = "GitHub's fork of cmark, a CommonMark parsing and rendering library and program in C"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/cmark-gfm-0.29.0.gfm.13-2-x86_64.pkg.tar.zst"
+sha256 = "a819985982cfd005d6eca37b5e3345587ee6ad869daf5cb0944e7cadbb971c65"

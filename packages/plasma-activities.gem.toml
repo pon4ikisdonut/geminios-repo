@@ -1,0 +1,11 @@
+[package]
+name = "plasma-activities"
+version = "6.8.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Core components for KDE Activities"
+depends = ["glibc", "kconfig", "kcoreaddons", "libstdc++", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/plasma-activities-6.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "4f4936e595b1366506fa9f7f80ccf05af122e28cfea169008bc002aeee49c5b4"

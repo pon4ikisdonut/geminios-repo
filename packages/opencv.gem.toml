@@ -1,0 +1,11 @@
+[package]
+name = "opencv"
+version = "5.1.0-4"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "Open Source Computer Vision Library"
+depends = ["abseil-cpp", "cblas", "ffmpeg", "freetype2", "glib2", "glibc", "gst-plugins-base", "gst-plugins-base-libs", "gstreamer", "harfbuzz", "lapack", "libdc1394", "libgcc", "libglvnd", "libjpeg-turbo", "libjxl", "libpng", "libstdc++", "libtiff", "libwebp", "openexr", "openjpeg2", "protobuf", "tbb", "verdict", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/opencv-5.1.0-4-x86_64.pkg.tar.zst"
+sha256 = "34286f597e61ba3ee61894a157b03ed44002203c6c8beca5e5cc0183d1864471"

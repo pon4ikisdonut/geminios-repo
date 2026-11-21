@@ -1,0 +1,11 @@
+[package]
+name = "wavpack"
+version = "5.9.0-1"
+license = "BSD"
+arch = "x86_64"
+description = "Audio compression format with lossless, lossy and hybrid compression modes"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/wavpack-5.9.0-1-x86_64.pkg.tar.zst"
+sha256 = "d5aed609ce3bf3d21d6939f1022ff89baac1784f905a5abb9967bd5a047d0f41"

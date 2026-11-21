@@ -1,0 +1,11 @@
+[package]
+name = "mobile-broadband-provider-info"
+version = "20261111-1"
+license = "CC-PDDC"
+arch = "any"
+description = "APN configuration presets for mobile broadband connections"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/mobile-broadband-provider-info-20261111-1-any.pkg.tar.zst"
+sha256 = "2cb997297670a5869391222d083433def3cabef548b1f0de6d3edf626b278356"

@@ -1,0 +1,11 @@
+[package]
+name = "gnome-tweaks"
+version = "49.0-2"
+license = "GPL-3.0-or-later"
+arch = "any"
+description = "Graphical interface for advanced GNOME 3 settings (Tweak Tool)"
+depends = ["dconf", "glib2", "gnome-desktop-4", "gsettings-desktop-schemas", "gtk4", "hicolor-icon-theme", "libadwaita", "libgudev", "libnotify", "pango", "python", "python-gobject"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gnome-tweaks-49.0-2-any.pkg.tar.zst"
+sha256 = "4d48ec95ddd6e04a5f1edd74c9a0623c420abc08750bb9af1dabb86dce0b1e44"

@@ -1,0 +1,11 @@
+[package]
+name = "usbutils"
+version = "020-1"
+license = "MIT"
+arch = "x86_64"
+description = "A collection of USB tools to query connected USB devices"
+depends = ["glibc", "hwdata", "libusb", "libusb-1.0.so", "systemd-libs", "libudev.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/usbutils-020-1-x86_64.pkg.tar.zst"
+sha256 = "2884e40114c48defe0ee0c66f664bee954d65f2f961ca9fddb11507524519211"

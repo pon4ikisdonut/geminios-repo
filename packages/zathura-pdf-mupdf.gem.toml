@@ -1,0 +1,11 @@
+[package]
+name = "zathura-pdf-mupdf"
+version = "2026.07.18-7"
+license = "Zlib"
+arch = "x86_64"
+description = "PDF support for Zathura (MuPDF backend) (Supports PDF, ePub, and OpenXPS)"
+depends = ["cairo", "gumbo-parser", "jbig2dec", "libjpeg-turbo", "libmupdf", "openjpeg2", "openssl", "zathura"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/zathura-pdf-mupdf-2026.07.18-7-x86_64.pkg.tar.zst"
+sha256 = "0ca6d07182d8479a4ae11e2fe28eefcdcb3d2a14b1cb068d08e8f562837f467d"

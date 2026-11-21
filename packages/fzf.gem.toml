@@ -1,0 +1,11 @@
+[package]
+name = "fzf"
+version = "0.75.0-1"
+license = "MIT"
+arch = "x86_64"
+description = "Command-line fuzzy finder"
+depends = ["bash", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/fzf-0.75.0-1-x86_64.pkg.tar.zst"
+sha256 = "ac3099cc6c2e06608711fcbbabb59dd977991a00ee0324eee83c724bef7947d5"

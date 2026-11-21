@@ -1,0 +1,11 @@
+[package]
+name = "haskell-skylighting-format-ansi"
+version = "0.1-391"
+license = "BSD"
+arch = "x86_64"
+description = "ANSI formatter for skylighting syntax highlighting library"
+depends = ["ghc-libs", "haskell-ansi-terminal", "haskell-colour", "haskell-skylighting-core"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-skylighting-format-ansi-0.1-391-x86_64.pkg.tar.zst"
+sha256 = "12ab28db095b2b5da5263b781a690858ea3c4913a9272731753f39d686ad0f49"

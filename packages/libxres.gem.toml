@@ -1,0 +1,11 @@
+[package]
+name = "libxres"
+version = "1.2.3-1"
+license = "X11"
+arch = "x86_64"
+description = "X11 Resource extension library"
+depends = ["libxext", "libx11", "glibc", "xorgproto"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libxres-1.2.3-1-x86_64.pkg.tar.zst"
+sha256 = "dab2f5a95d171b7517065d5b35addf1001beb10f52441ef5fb594cfb529a4c74"

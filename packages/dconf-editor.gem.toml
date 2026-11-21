@@ -1,0 +1,11 @@
+[package]
+name = "dconf-editor"
+version = "49.0-1"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "GSettings editor for GNOME"
+depends = ["dconf", "glib2", "glibc", "gtk3", "hicolor-icon-theme", "libhandy"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/dconf-editor-49.0-1-x86_64.pkg.tar.zst"
+sha256 = "cd6b582065a733a4e06fe2d6685074bd9e1a9ff8013364f4216ccb71c94c488f"

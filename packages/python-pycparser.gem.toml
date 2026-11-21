@@ -1,0 +1,11 @@
+[package]
+name = "python-pycparser"
+version = "3.12-1"
+license = "BSD-3-Clause"
+arch = "any"
+description = "C parser and AST generator written in Python"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-pycparser-3.12-1-any.pkg.tar.zst"
+sha256 = "dd8f407a64445e2854ddb05235a0f372918d6e84e66499741511e11b084e6ec8"

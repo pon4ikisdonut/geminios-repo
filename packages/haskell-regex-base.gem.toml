@@ -1,0 +1,11 @@
+[package]
+name = "haskell-regex-base"
+version = "0.94.0.3-5"
+license = "BSD"
+arch = "x86_64"
+description = "Common \"Text.Regex.*\" API for Regex matching"
+depends = ["ghc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-regex-base-0.94.0.3-5-x86_64.pkg.tar.zst"
+sha256 = "e69d40681e32cece7ab805e8290566e156da5d22dac953a737bce8e7773eacc3"

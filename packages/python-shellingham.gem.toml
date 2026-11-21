@@ -1,0 +1,11 @@
+[package]
+name = "python-shellingham"
+version = "1.5.4-4"
+license = "ISC"
+arch = "any"
+description = "Detect what shell the current Python executable is running in"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-shellingham-1.5.4-4-any.pkg.tar.zst"
+sha256 = "e084698b830888745e492490f23b80961fbda1b283b13ef51aaf5244ab72a520"

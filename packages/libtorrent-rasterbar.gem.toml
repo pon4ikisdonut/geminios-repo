@@ -1,0 +1,11 @@
+[package]
+name = "libtorrent-rasterbar"
+version = "1:2.1.2-2"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "An efficient and feature complete C++ BitTorrent library implementation"
+depends = ["boost-libs", "glibc", "libgcc", "libstdc++", "openssl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libtorrent-rasterbar-1:2.1.2-2-x86_64.pkg.tar.zst"
+sha256 = "35548b1a4628a4416e57558e536d8591a3924a2013884883582b53893e904b93"

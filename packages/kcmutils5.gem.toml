@@ -1,0 +1,11 @@
+[package]
+name = "kcmutils5"
+version = "5.116.0-2"
+license = "LGPL"
+arch = "x86_64"
+description = "Utilities for interacting with KCModules"
+depends = ["kdeclarative5"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kcmutils5-5.116.0-2-x86_64.pkg.tar.zst"
+sha256 = "8adf07e2d64e33fcc7e43644c554cb859d72f1a8b0ebcdcdd1d579e8dd97995a"

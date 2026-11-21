@@ -1,0 +1,11 @@
+[package]
+name = "libgccjit"
+version = "16.2.1+r23+gd564253eb6c8-1"
+license = "GFDL-1.3-or-later"
+arch = "x86_64"
+description = "Just-In-Time Compilation with GCC backend"
+depends = ["gcc", "glibc", "gmp", "libisl.so", "libmpc", "mpfr", "zlib", "zstd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/libgccjit-16.2.1+r23+gd564253eb6c8-1-x86_64.pkg.tar.zst"
+sha256 = "cbb4c251bfda206688531f089bdf56fb6f95f36e627061f0bfb930c5601ddef9"

@@ -1,0 +1,11 @@
+[package]
+name = "python-annotated-types"
+version = "0.8.0-1"
+license = "MIT"
+arch = "any"
+description = "Reusable constraint types to use with typing.Annotated"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-annotated-types-0.8.0-1-any.pkg.tar.zst"
+sha256 = "7947ec195891025e4f9641821b8d470ca677d16be9b17ab859a6305c7999bdeb"

@@ -1,0 +1,11 @@
+[package]
+name = "ruby-net-imap"
+version = "0.5.15-1"
+license = "BSD-2-CLAUSE"
+arch = "any"
+description = "Ruby client api for Internet Message Access Protocol"
+depends = ["ruby", "ruby-net-protocol"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ruby-net-imap-0.5.15-1-any.pkg.tar.zst"
+sha256 = "b0d3ce0bb6de0240f4afb1785d884adde0ef3c8be3bc3a6ddb1b6dbb428b3a50"

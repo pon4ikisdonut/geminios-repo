@@ -1,0 +1,11 @@
+[package]
+name = "tree-sitter-cli"
+version = "0.26.9-1"
+license = "MIT"
+arch = "x86_64"
+description = "CLI tool for developing, testing, and using Tree-sitter parsers"
+depends = ["glibc", "libgcc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/tree-sitter-cli-0.26.9-1-x86_64.pkg.tar.zst"
+sha256 = "c9db373a0ec5fe715f59f2aee8e1a5ccebf6892ce1581518a42d0a1b64a1b523"

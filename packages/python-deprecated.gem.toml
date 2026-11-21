@@ -1,0 +1,11 @@
+[package]
+name = "python-deprecated"
+version = "3.0.1-1"
+license = "MIT"
+arch = "any"
+description = "Python @deprecated decorator to deprecate old python classes, functions or methods"
+depends = ["python", "python-wrapt"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-deprecated-3.0.1-1-any.pkg.tar.zst"
+sha256 = "032175e37b93ccb43fb230150ffddcc3a43af678d402b3b520f97dd60e0d7e90"

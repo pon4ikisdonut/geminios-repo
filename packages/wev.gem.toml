@@ -1,0 +1,11 @@
+[package]
+name = "wev"
+version = "1.1.0-1"
+license = "MIT"
+arch = "x86_64"
+description = "A tool for debugging wayland events on a Wayland window, analagous to the X11 tool xev"
+depends = ["wayland", "libxkbcommon"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/wev-1.1.0-1-x86_64.pkg.tar.zst"
+sha256 = "316ac98f27caa163cd4496913f639aa0a94c1865c7c54ef70e4058a5522191c9"

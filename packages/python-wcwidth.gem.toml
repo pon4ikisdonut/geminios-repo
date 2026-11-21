@@ -1,0 +1,11 @@
+[package]
+name = "python-wcwidth"
+version = "0.9.4-1"
+license = "MIT"
+arch = "x86_64"
+description = "Python library that measures the width of unicode strings rendered to a terminal"
+depends = ["glibc", "python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-wcwidth-0.9.4-1-x86_64.pkg.tar.zst"
+sha256 = "707f0fb3527c613b2410e5275dbca08d0ad0a531b12d5f62555806bf4a41e974"

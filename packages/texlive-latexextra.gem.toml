@@ -1,0 +1,11 @@
+[package]
+name = "texlive-latexextra"
+version = "2026.1-1"
+license = "GPL"
+arch = "any"
+description = "TeX Live - LaTeX additional packages"
+depends = ["texlive-bin", "texlive-latexrecommended", "texlive-pictures"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/texlive-latexextra-2026.1-1-any.pkg.tar.zst"
+sha256 = "497c09711b4641e62924183c2e765d84e482ce457aa699912f4eda46787d5367"

@@ -1,0 +1,11 @@
+[package]
+name = "libplacebo"
+version = "7.387.0-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Reusable library for GPU-accelerated video/image rendering primitives"
+depends = ["vulkan-icd-loader", "glslang", "lcms2", "shaderc", "glibc", "libgcc", "libstdc++", "libunwind", "libdovi", "xxhash", "libdovi.so", "liblcms2.so", "libshaderc_shared.so", "libvulkan.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libplacebo-7.387.0-1-x86_64.pkg.tar.zst"
+sha256 = "1f5da353b8326a9a154790e48849b2f5839dd097c7b9e8bf8503f5bcd3ae64a1"

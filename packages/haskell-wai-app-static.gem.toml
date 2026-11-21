@@ -1,0 +1,11 @@
+[package]
+name = "haskell-wai-app-static"
+version = "3.2.1-33"
+license = "MIT"
+arch = "x86_64"
+description = "WAI application for static serving"
+depends = ["ghc-libs", "haskell-base64-bytestring", "haskell-blaze-html", "haskell-blaze-markup", "haskell-cryptohash-md5", "haskell-file-embed", "haskell-http-date", "haskell-http-types", "haskell-mime-types", "haskell-old-locale", "haskell-optparse-applicative", "haskell-unix-compat", "haskell-unordered-containers", "haskell-wai", "haskell-wai-extra", "haskell-warp", "haskell-zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-wai-app-static-3.2.1-33-x86_64.pkg.tar.zst"
+sha256 = "5cd08aff6c1daa161d3e09e63315f140a01d68f50e4f42e9d27af8edee92db6c"

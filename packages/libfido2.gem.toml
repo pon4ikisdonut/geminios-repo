@@ -1,0 +1,11 @@
+[package]
+name = "libfido2"
+version = "1.17.0-2"
+license = "BSD-2-Clause"
+arch = "x86_64"
+description = "Library functionality for FIDO 2.0, including communication with a device over USB"
+depends = ["glibc", "openssl", "libcbor", "libcbor.so", "hidapi", "systemd-libs", "libudev.so", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libfido2-1.17.0-2-x86_64.pkg.tar.zst"
+sha256 = "0471e6be51e2b067cb6a58366be0b4d47a7e77de88f8fb31afedfd8c2966b28e"

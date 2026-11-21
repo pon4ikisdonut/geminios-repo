@@ -1,0 +1,11 @@
+[package]
+name = "vlc-plugin-mdns"
+version = "3.0.24-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Free and open source cross-platform multimedia player and framework - mDNS plugin"
+depends = ["glibc", "libmicrodns", "libvlc", "libvlccore.so", "vlc-plugins-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vlc-plugin-mdns-3.0.24-2-x86_64.pkg.tar.zst"
+sha256 = "5eeb5611c5561205c5f0b7f3f7abd65ca8d33447f61a97fceef4f1d625226945"

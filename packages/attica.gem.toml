@@ -1,0 +1,11 @@
+[package]
+name = "attica"
+version = "6.32.0-1"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "Qt library that implements the Open Collaboration Services API"
+depends = ["glibc", "libstdc++", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/attica-6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "f57a25b68ddce419fe12efe35441f413370b341065aa4169bbe1814f0d127b1a"

@@ -1,0 +1,11 @@
+[package]
+name = "wireguard-tools"
+version = "1.0.20260223-1"
+license = "GPL"
+arch = "x86_64"
+description = "next generation secure network tunnel - tools for configuration"
+depends = ["bash"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/wireguard-tools-1.0.20260223-1-x86_64.pkg.tar.zst"
+sha256 = "3f7c14dd90360706c04869f3cb4defdc9248d06cfc9b43bae6be5204a19af4ac"

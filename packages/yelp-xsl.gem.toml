@@ -1,0 +1,11 @@
+[package]
+name = "yelp-xsl"
+version = "49.0-1"
+license = "LGPL-2.1-or-later"
+arch = "any"
+description = "Document transformations from Yelp"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/yelp-xsl-49.0-1-any.pkg.tar.zst"
+sha256 = "1083b08dcb7dfd9bfe39ea0009a56e82b0705273ed88d289b5138c02053da037"

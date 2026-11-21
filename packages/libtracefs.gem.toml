@@ -1,0 +1,11 @@
+[package]
+name = "libtracefs"
+version = "1.8.4-1"
+license = "LGPL-2.1-only"
+arch = "x86_64"
+description = "Linux kernel trace file system library"
+depends = ["glibc", "libtraceevent", "libtraceevent.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libtracefs-1.8.4-1-x86_64.pkg.tar.zst"
+sha256 = "40ba696d72adb08859d1be34318bde2e4d4a219ec4c0c8d5b937b426a3eba540"

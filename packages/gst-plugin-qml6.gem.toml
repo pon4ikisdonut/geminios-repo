@@ -1,0 +1,11 @@
+[package]
+name = "gst-plugin-qml6"
+version = "1.28.9-3"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Multimedia graph framework - qml6 plugin"
+depends = ["gst-plugins-base-libs", "gstreamer", "glib2", "glibc", "libgcc", "libglvnd", "libstdc++", "qt6-base", "qt6-declarative"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gst-plugin-qml6-1.28.9-3-x86_64.pkg.tar.zst"
+sha256 = "aab35f578596a6dfb3edc4ec114612d53d9c03b6748672be1f5a583818c7a1bc"

@@ -1,0 +1,11 @@
+[package]
+name = "sane"
+version = "1.4.0-4"
+license = "LicenseRef-GPL-2.0-or-later-with-linking-exception"
+arch = "x86_64"
+description = "Scanner Access Now Easy"
+depends = ["bash", "cairo", "glibc", "libgcc", "libpng", "libieee1284", "libstdc++", "net-snmp", "v4l-utils", "avahi", "libavahi-client.so", "libavahi-common.so", "curl", "libcurl.so", "glib2", "libgobject-2.0.so", "libgphoto2", "libgphoto2.so", "libgphoto2_port.so", "libjpeg-turbo", "libjpeg.so", "libtiff", "libtiff.so", "libusb", "libusb-1.0.so", "libxml2", "libxml2.so", "poppler-glib", "libpoppler-glib.so", "systemd-libs", "libsystemd.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/sane-1.4.0-4-x86_64.pkg.tar.zst"
+sha256 = "3496d3e5b64539c497eb625ac3b3432c8eefc7cee4ec3421386068b27f197780"

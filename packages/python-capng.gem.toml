@@ -1,0 +1,11 @@
+[package]
+name = "python-capng"
+version = "0.9.6-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "A library for Linux that makes using posix capabilities easy (Python bindings)"
+depends = ["glibc", "libcap-ng", "libcap-ng.so", "python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/python-capng-0.9.6-1-x86_64.pkg.tar.zst"
+sha256 = "4f0e590a2032e38078d8c3d39fdc4131744dc41924cb8cfd228be3d56f88f7c2"

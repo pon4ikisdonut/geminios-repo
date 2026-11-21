@@ -1,0 +1,11 @@
+[package]
+name = "xlinks"
+version = "2.30-3"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "A text WWW browser, similar to Lynx (with support for X11)"
+depends = ["brotli", "libbrotlidec.so", "bzip2", "libbz2.so", "glibc", "gpm", "libgpm.so", "libevent", "libevent-2.1.so", "openssl", "libcrypto.so", "libssl.so", "xz", "liblzma.so", "zstd", "libzstd.so", "zlib", "libz.so", "links", "libgomp", "libgomp.so", "libjpeg-turbo", "libjpeg.so", "libpng", "libpng16.so", "libtiff", "libtiff.so", "libwebp", "libwebp.so", "libx11"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/xlinks-2.30-3-x86_64.pkg.tar.zst"
+sha256 = "58d6bbbfe2e0735d13b0fa34be292181e0c23fcb2c9af9d4c3704309f0100192"

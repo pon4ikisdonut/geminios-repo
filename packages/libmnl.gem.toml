@@ -1,0 +1,11 @@
+[package]
+name = "libmnl"
+version = "1.0.5-2"
+license = "LGPL2.1"
+arch = "x86_64"
+description = "Minimalistic user-space library oriented to Netlink developers."
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/libmnl-1.0.5-2-x86_64.pkg.tar.zst"
+sha256 = "1ee554fe2637bbee1da61f0bdbd3f9d1dd89ddbb9809cd5ef012540a748ff4a0"

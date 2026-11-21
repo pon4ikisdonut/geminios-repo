@@ -1,0 +1,11 @@
+[package]
+name = "dnssec-anchors"
+version = "20250524-1"
+license = "custom:none"
+arch = "any"
+description = "DNSSEC trust anchors for the root zone"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/dnssec-anchors-20250524-1-any.pkg.tar.zst"
+sha256 = "98e7fb7721d3aad4d99e9a77d5219cee8b49351ac7bf32981fac99de04c2abaf"

@@ -1,0 +1,11 @@
+[package]
+name = "aurorae"
+version = "6.8.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "A themeable window decoration for KWin"
+depends = ["glibc", "kcmutils", "kcolorscheme", "kconfig", "kcoreaddons", "kdecoration", "ki18n", "kirigami", "knewstuff", "kpackage", "ksvg", "libstdc++", "qt6-base", "qt6-declarative", "qt6-tools", "sh"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/aurorae-6.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "83d45ede94e6eba7adae675c818c790b1b0f51a13f390de152ecd9266bd4ca28"

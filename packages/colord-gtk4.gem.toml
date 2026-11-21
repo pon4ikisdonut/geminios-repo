@@ -1,0 +1,11 @@
+[package]
+name = "colord-gtk4"
+version = "0.3.1-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Additional GTK4 support code for colord"
+depends = ["colord-gtk-common", "cairo", "glib2", "glibc", "gtk4", "libcolord"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/colord-gtk4-0.3.1-1-x86_64.pkg.tar.zst"
+sha256 = "77d7ceb295654e44bd7410146c13c310cd55cf18be6d1014f20597115bc464da"

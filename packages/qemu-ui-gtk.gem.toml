@@ -1,0 +1,11 @@
+[package]
+name = "qemu-ui-gtk"
+version = "11.1.3-1"
+license = "MIT"
+arch = "x86_64"
+description = "QEMU GTK UI driver"
+depends = ["cairo", "gdk-pixbuf2", "libgdk_pixbuf-2.0.so", "glib2", "libgobject-2.0.so", "libglib-2.0.so", "glibc", "gtk3", "libgdk-3.so", "libgtk-3.so", "libepoxy", "libgcc", "libx11", "pixman", "libpixman-1.so", "qemu-common", "qemu-ui-opengl", "vte3", "libvte-2.91.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qemu-ui-gtk-11.1.3-1-x86_64.pkg.tar.zst"
+sha256 = "647c694e28b24b053e49b8522d0c2ea0268acb33793c63f7bc47edc65a3171db"

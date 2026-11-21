@@ -1,0 +1,11 @@
+[package]
+name = "haskell-hslua-packaging"
+version = "2.4.1-28"
+license = "MIT"
+arch = "x86_64"
+description = "Utilities to build Lua modules."
+depends = ["ghc-libs", "haskell-hslua-core", "haskell-hslua-marshalling", "haskell-hslua-objectorientation", "haskell-hslua-typing"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-hslua-packaging-2.4.1-28-x86_64.pkg.tar.zst"
+sha256 = "06437d88e2213b9fc7f605d3ef0b6537fb182e97cdd5baa18e466e47a46f2240"

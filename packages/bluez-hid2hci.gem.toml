@@ -1,0 +1,11 @@
+[package]
+name = "bluez-hid2hci"
+version = "5.88-1"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "Put HID proxying bluetooth HCI's into HCI mode"
+depends = ["systemd-libs", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/bluez-hid2hci-5.88-1-x86_64.pkg.tar.zst"
+sha256 = "58a714b2f69503dbe3905c3f83619499bff501a31e20ed9fc3e7f324e7c1ec1a"

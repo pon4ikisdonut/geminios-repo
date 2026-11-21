@@ -1,0 +1,11 @@
+[package]
+name = "libcdio-paranoia"
+version = "10.2+2.0.2-3"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "Compact Disc Digital Audio (CDDA) extraction tool using libcdio for CDROM access"
+depends = ["glibc", "libcdio"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libcdio-paranoia-10.2+2.0.2-3-x86_64.pkg.tar.zst"
+sha256 = "9b85bf9d7abb252f3af15c4a759cb7b9013143eb6399207d11e636d13fcd857c"

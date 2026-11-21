@@ -1,0 +1,11 @@
+[package]
+name = "kwallet5"
+version = "5.116.0-6"
+license = "LGPL-3.0-or-later"
+arch = "x86_64"
+description = "Secure and unified container for user passwords"
+depends = ["libstdc++", "glibc", "kconfig5", "kwindowsystem5", "qt5-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kwallet5-5.116.0-6-x86_64.pkg.tar.zst"
+sha256 = "1214f53f3c3c7a65023ca63b18a7a0b73bb214b5ec05c8e8b258bd8982d08db8"

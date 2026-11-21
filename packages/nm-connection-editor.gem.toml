@@ -1,0 +1,11 @@
+[package]
+name = "nm-connection-editor"
+version = "1.36.0-2"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "NetworkManager GUI connection editor and widgets"
+depends = ["jansson", "libnma"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/nm-connection-editor-1.36.0-2-x86_64.pkg.tar.zst"
+sha256 = "210909a6924dcc32ea328af89d9e57cc3002dd2b74fb764c1296739e61f7a87e"

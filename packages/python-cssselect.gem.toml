@@ -1,0 +1,11 @@
+[package]
+name = "python-cssselect"
+version = "1.6.0-1"
+license = "BSD-3-Clause"
+arch = "any"
+description = "A Python3 library that parses CSS3 Selectors and translates them to XPath 1.0"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-cssselect-1.6.0-1-any.pkg.tar.zst"
+sha256 = "ccdeb87dd6d66cf51ec38dfbdefe89e1c4a7177e679fd32122dddab2001d1811"

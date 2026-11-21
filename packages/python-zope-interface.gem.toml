@@ -1,0 +1,11 @@
+[package]
+name = "python-zope-interface"
+version = "8.7-1"
+license = "ZPL-2.1"
+arch = "x86_64"
+description = "Zope Interfaces for Python 3.x"
+depends = ["glibc", "python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-zope-interface-8.7-1-x86_64.pkg.tar.zst"
+sha256 = "4543a1c9e719953b10275eee79391add6b8af9dc254aa98c2995b74441454e2f"

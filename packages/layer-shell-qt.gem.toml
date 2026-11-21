@@ -1,0 +1,11 @@
+[package]
+name = "layer-shell-qt"
+version = "6.8.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Qt component to allow applications to make use of the Wayland wl-layer-shell protocol"
+depends = ["glibc", "qt6-base", "libstdc++", "wayland"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/layer-shell-qt-6.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "5f11380e587557ac0ac1e9d26d4e6b7d34bd6652118d6e1d2b17b1b7cd501621"

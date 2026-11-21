@@ -1,0 +1,11 @@
+[package]
+name = "libgoom2"
+version = "2k4-5"
+license = "LGPL"
+arch = "x86_64"
+description = "Shared library part of the Goom visualization plugin"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libgoom2-2k4-5-x86_64.pkg.tar.zst"
+sha256 = "598e5f4d6ca4bd83005d518d1a633feaf76a514f7a9a2abf952abf3eeeb5299a"

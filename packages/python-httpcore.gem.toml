@@ -1,0 +1,11 @@
+[package]
+name = "python-httpcore"
+version = "1.0.9-3"
+license = "BSD-3-Clause"
+arch = "any"
+description = "A minimal HTTP client"
+depends = ["python", "python-h11", "python-certifi"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-httpcore-1.0.9-3-any.pkg.tar.zst"
+sha256 = "cb28c55620f3c03f928b28fde5c824406b7f54a2d994887b7330e6cd694deddf"

@@ -1,0 +1,11 @@
+[package]
+name = "haskell-syb"
+version = "0.7.4-49"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "library for generic programming in Haskell"
+depends = ["ghc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-syb-0.7.4-49-x86_64.pkg.tar.zst"
+sha256 = "0f5d8dda6005339ba06290a9c753eebb6a3859f9f089e36ef311bd8725b52b94"

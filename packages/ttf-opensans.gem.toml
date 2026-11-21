@@ -1,0 +1,11 @@
+[package]
+name = "ttf-opensans"
+version = "3.003-1"
+license = "OFL-1.1"
+arch = "any"
+description = "Sans-serif typeface commissioned by Google"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ttf-opensans-3.003-1-any.pkg.tar.zst"
+sha256 = "803c7b5d81fd263d68900b05c9b5fa4047270324fe6e5b4901207efa7415005f"

@@ -1,0 +1,11 @@
+[package]
+name = "libsrtp"
+version = "1:2.8.2-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Library for SRTP (Secure Realtime Transport Protocol)"
+depends = ["glibc", "nspr", "nss"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libsrtp-1:2.8.2-1-x86_64.pkg.tar.zst"
+sha256 = "756a5483fa089ba63facbdcf94784d1171f86fe2494abc00604e5097cdb36260"

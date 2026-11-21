@@ -1,0 +1,11 @@
+[package]
+name = "python-editables"
+version = "0.6-1"
+license = "MIT"
+arch = "any"
+description = "Python library for creating editable wheels"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-editables-0.6-1-any.pkg.tar.zst"
+sha256 = "905dcd892bb3f3fea083c83762ef19474cd72bf3d9b18f2ae3a30493fe937506"

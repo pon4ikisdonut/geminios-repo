@@ -1,0 +1,11 @@
+[package]
+name = "haskell-network-byte-order"
+version = "0.1.9-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Network byte order utilities"
+depends = ["ghc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-network-byte-order-0.1.9-1-x86_64.pkg.tar.zst"
+sha256 = "10aa79e59fdfd44c054fbe59524e893d6a3f9da4d57e414cfa601e4d21ceba57"

@@ -1,0 +1,11 @@
+[package]
+name = "libheif"
+version = "1.23.7-1"
+license = "LGPL-3.0-or-later"
+arch = "x86_64"
+description = "An HEIF and AVIF file format decoder and encoder"
+depends = ["aom", "libaom.so", "glibc", "libgcc_s.so", "libde265", "libgcc", "libgcc_s.so", "libstdc++", "libstdc++.so", "libwebp", "libsharpyuv.so", "openh264", "libopenh264.so", "openh264", "libopenh264.so", "x264", "libx264.so", "x265", "libx265.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libheif-1.23.7-1-x86_64.pkg.tar.zst"
+sha256 = "416cbbca351a9537d58667bb3e3d55fb128a6aa716b7e46cf2494bc1bd416af4"

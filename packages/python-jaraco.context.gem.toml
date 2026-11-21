@@ -1,0 +1,11 @@
+[package]
+name = "python-jaraco.context"
+version = "6.1.2-1"
+license = "MIT"
+arch = "any"
+description = "Context managers by jaraco"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-jaraco.context-6.1.2-1-any.pkg.tar.zst"
+sha256 = "97b5709a7f0c1b8192756b3f9a414100b9438f9eff0d85df4b37fd0fb293f25a"

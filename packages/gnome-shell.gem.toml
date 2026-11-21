@@ -1,0 +1,11 @@
+[package]
+name = "gnome-shell"
+version = "1:51.1-1"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "Next generation desktop shell"
+depends = ["accountsservice", "at-spi2-core", "bash", "cairo", "dconf", "gcr-4", "gdk-pixbuf2", "gjs", "glib2", "glibc", "gnome-autoar", "gnome-desktop-4", "gnome-session", "gnome-settings-daemon", "graphene", "gsettings-desktop-schemas", "gtk4", "hicolor-icon-theme", "ibus", "json-glib", "libadwaita", "libcanberra-pulse", "libgcc", "libgdm", "libglvnd", "libgweather-4", "libibus", "libical", "libnm", "libnma-gtk4", "libpipewire", "libpulse", "libsecret", "libsoup3", "libx11", "libxext", "libxfixes", "mutter", "pango", "polkit", "systemd-libs", "unzip", "upower", "webkitgtk-6.0", "libmutter-51.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gnome-shell-1:51.1-1-x86_64.pkg.tar.zst"
+sha256 = "c0e8e344a1543dd576a44ec00b47762921bb30bb510f05d481e667d0e93cc4df"

@@ -1,0 +1,11 @@
+[package]
+name = "python-pynacl"
+version = "1.6.2-1"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "Python binding to the Networking and Cryptography (NaCl) library"
+depends = ["glibc", "libsodium", "python", "python-cffi"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-pynacl-1.6.2-1-x86_64.pkg.tar.zst"
+sha256 = "3f155253d0bc6e99ec7e9fcf9ef861736815c615bf770671979b695a6185838d"

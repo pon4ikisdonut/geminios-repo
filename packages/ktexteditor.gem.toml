@@ -1,0 +1,11 @@
+[package]
+name = "ktexteditor"
+version = "6.32.0-1"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "Advanced embeddable text editor"
+depends = ["editorconfig-core-c", "libgcc", "glibc", "karchive", "kauth", "kcodecs", "kcolorscheme", "kcompletion", "kconfig", "kconfigwidgets", "kcoreaddons", "kguiaddons", "ki18n", "kio", "kitemviews", "kparts", "kwidgetsaddons", "kxmlgui", "libstdc++", "qt6-declarative", "qt6-base", "qt6-speech", "sonnet", "syntax-highlighting"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ktexteditor-6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "9df0aa20a724368d6b7d3fa33f128b313b7435fef67ff51f117deb889ed611cb"

@@ -1,0 +1,11 @@
+[package]
+name = "kde-gtk-config"
+version = "6.8.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Syncs KDE settings to GTK applications"
+depends = ["glib2", "glibc", "kcolorscheme", "kconfig", "kcoreaddons", "kdbusaddons", "kdecoration", "kguiaddons", "kwindowsystem", "libstdc++", "qt6-base", "qt6-svg", "sh", "xdg-desktop-portal-gtk", "xsettingsd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kde-gtk-config-6.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "21ca2862cad4a0b1af95eaf72b4b9e1f7af84a593ca3e7370121d7bb1fb67b54"

@@ -1,0 +1,11 @@
+[package]
+name = "gnupg"
+version = "2.4.9-4"
+license = "Unicode-TOU"
+arch = "x86_64"
+description = "Complete and free implementation of the OpenPGP standard"
+depends = ["glibc", "gnutls", "libgcrypt", "libgpg-error", "libksba", "libldap", "libusb", "pinentry", "sh", "sqlite", "tpm2-tss", "zlib", "bzip2", "libbz2.so", "libassuan", "libassuan.so", "npth", "libnpth.so", "readline", "libreadline.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/gnupg-2.4.9-4-x86_64.pkg.tar.zst"
+sha256 = "5c52520b4856eea5e12fc9f70eab9eafb5586725cce8ffc1ae3746cfce115dc1"

@@ -1,0 +1,11 @@
+[package]
+name = "gnutls"
+version = "3.8.14-1"
+license = "GPL-3.0-or-later AND LGPL-2.1-or-later"
+arch = "x86_64"
+description = "A library which provides a secure layer over a reliable transport layer"
+depends = ["glibc", "gmp", "libtasn1", "zlib", "nettle", "leancrypto", "libstdc++", "libgcc", "libp11-kit", "libidn2", "zstd", "libidn2.so", "libunistring", "brotli"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/gnutls-3.8.14-1-x86_64.pkg.tar.zst"
+sha256 = "2afa42b2de696940f51663982ffb77e45e5a9297ef1f426f737bcc12d015766b"

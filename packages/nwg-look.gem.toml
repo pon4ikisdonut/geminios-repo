@@ -1,0 +1,11 @@
+[package]
+name = "nwg-look"
+version = "1.2.1-1"
+license = "MIT"
+arch = "x86_64"
+description = "GTK settings editor adapted to work on wlroots-based compositors"
+depends = ["glibc", "gtk3", "at-spi2-core", "cairo", "fontconfig", "freetype2", "gdk-pixbuf2", "glib2", "harfbuzz", "pango", "zlib", "xcur2png"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/nwg-look-1.2.1-1-x86_64.pkg.tar.zst"
+sha256 = "33ab0944b41ce1403ef9aaac8680b23050670124b218314210beb7f64c725f05"

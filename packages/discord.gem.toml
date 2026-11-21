@@ -1,0 +1,11 @@
+[package]
+name = "discord"
+version = "1:1.0.170-1"
+license = "LicenseRef-custom"
+arch = "x86_64"
+description = "All-in-one voice and text chat for gamers"
+depends = ["libnotify", "libxss", "nspr", "nss", "gtk3", "hicolor-icon-theme"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/discord-1:1.0.170-1-x86_64.pkg.tar.zst"
+sha256 = "fd7e90207be51c32bbab168b49a5d0dcfc5729cea350b2a5e99a8267813f0319"

@@ -1,0 +1,11 @@
+[package]
+name = "rofi"
+version = "2.1.1-1"
+license = "MIT"
+arch = "x86_64"
+description = "A window switcher, application launcher and dmenu replacement"
+depends = ["bash", "cairo", "gdk-pixbuf2", "glib2", "glibc", "hicolor-icon-theme", "libxcb", "libxkbcommon", "libxkbcommon-x11", "pango", "startup-notification", "wayland", "xcb-imdkit", "xcb-util", "xcb-util-cursor", "xcb-util-keysyms", "xcb-util-wm"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/rofi-2.1.1-1-x86_64.pkg.tar.zst"
+sha256 = "f9bbfdd6818f16405c304cc7a7d0c6d19179430c03338b44bb52b1e43d4b1953"

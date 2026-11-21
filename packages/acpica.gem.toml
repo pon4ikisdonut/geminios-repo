@@ -1,0 +1,11 @@
+[package]
+name = "acpica"
+version = "20251212-1"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "ACPI tools, including Intel ACPI Source Language compiler"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/acpica-20251212-1-x86_64.pkg.tar.zst"
+sha256 = "9666c2f52ba8678ddc61687f4fba7a42b7323afda3334460513873c1d837c9ae"

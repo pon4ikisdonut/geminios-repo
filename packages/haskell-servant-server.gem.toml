@@ -1,0 +1,11 @@
+[package]
+name = "haskell-servant-server"
+version = "0.20.3.0-212"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "A family of combinators for defining webservices APIs and serving them"
+depends = ["ghc-libs", "haskell-base-compat", "haskell-aeson", "haskell-base64-bytestring", "haskell-constraints", "haskell-http-api-data", "haskell-http-media", "haskell-http-types", "haskell-monad-control", "haskell-network", "haskell-servant", "haskell-sop-core", "haskell-resourcet", "haskell-tagged", "haskell-transformers-base", "haskell-wai", "haskell-wai-app-static", "haskell-warp", "haskell-word8"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-servant-server-0.20.3.0-212-x86_64.pkg.tar.zst"
+sha256 = "15b4c57f0f518ec773bdcd36eb7f5874d09d76e404aab2ddfd2fb26ab50cbd17"

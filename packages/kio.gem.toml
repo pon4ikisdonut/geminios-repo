@@ -1,0 +1,11 @@
+[package]
+name = "kio"
+version = "6.32.0-1"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "Resource and network access abstraction"
+depends = ["acl", "libstdc++", "glibc", "karchive", "kbookmarks", "kcolorscheme", "kcompletion", "kconfig", "kcoreaddons", "kcrash", "kdbusaddons", "kguiaddons", "ki18n", "kiconthemes", "kitemviews", "kjobwidgets", "kservice", "kwallet", "kwidgetsaddons", "kwindowsystem", "libxml2", "libxslt", "qt6-base", "solid", "util-linux-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kio-6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "0e1ddd84ee7e78839abe9a4812e5571dc6922192878af7c72978d402eb3bf70a"

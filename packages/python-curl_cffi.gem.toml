@@ -1,0 +1,11 @@
+[package]
+name = "python-curl_cffi"
+version = "0.16.3-1"
+license = "MIT"
+arch = "x86_64"
+description = "Python FFI binding for curl-impersonate"
+depends = ["glibc", "curl-impersonate", "python", "python-certifi", "python-cffi", "python-eventlet", "python-gevent", "python-typing_extensions", "python-rich"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-curl_cffi-0.16.3-1-x86_64.pkg.tar.zst"
+sha256 = "7c33c872ee48080b770b39059b8f078bf8bc045b547b55f4539d81f40c510fc6"

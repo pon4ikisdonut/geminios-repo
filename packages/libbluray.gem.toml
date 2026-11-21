@@ -1,0 +1,11 @@
+[package]
+name = "libbluray"
+version = "1.5.1-1"
+license = "LGPL-2.1-only"
+arch = "x86_64"
+description = "Library to access Blu-Ray disks for video playback"
+depends = ["fontconfig", "glibc", "libfreetype.so", "libxml2"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libbluray-1.5.1-1-x86_64.pkg.tar.zst"
+sha256 = "69f006d2a282f28fee68b01f617528f04bec475ac67c03e334f03c606b7cb104"

@@ -1,0 +1,11 @@
+[package]
+name = "qemu-system-hppa"
+version = "11.1.3-1"
+license = "MIT"
+arch = "x86_64"
+description = "QEMU system emulator for HPPA"
+depends = ["capstone", "fuse3", "libgcc", "glibc", "glib2", "libgio-2.0.so", "libglib-2.0.so", "libgmodule-2.0.so", "gnutls", "keyutils", "libaio", "libelf", "libbpf", "libbpf.so", "libjpeg-turbo", "libjpeg.so", "libpng", "libsasl", "libseccomp", "libseccomp.so", "libslirp", "libslirp.so", "liburing", "liburing.so", "libxdp", "libxdp.so", "lzo", "ndctl", "numactl", "libnuma.so", "pam", "libpam.so", "pixman", "libpixman-1.so", "qemu-common", "rdma-core", "snappy", "vde2", "zlib", "zstd", "libzstd.so", "qemu-system-hppa-firmware", "systemd-libs", "libudev.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qemu-system-hppa-11.1.3-1-x86_64.pkg.tar.zst"
+sha256 = "f82b9dad27bcceee2789995c9cb1fa4ae4f6d6f56a4a1487899ae9506d0acf6e"

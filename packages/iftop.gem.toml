@@ -1,0 +1,11 @@
+[package]
+name = "iftop"
+version = "1.0pre4-6"
+license = "GPL"
+arch = "x86_64"
+description = "Display bandwidth usage on an interface"
+depends = ["libpcap", "ncurses"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/iftop-1.0pre4-6-x86_64.pkg.tar.zst"
+sha256 = "a84c5f3ebab511eb54e9a5a38fec0016dc708917f314a4f8fe817b40943e6ff8"

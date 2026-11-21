@@ -1,0 +1,11 @@
+[package]
+name = "libcamera-ipa"
+version = "0.7.2-4"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "A complex camera support library for Linux, Android, and ChromeOS - signed IPA"
+depends = ["glibc", "libcamera", "libcamera.so", "libcamera-base.so", "libgcc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libcamera-ipa-0.7.2-4-x86_64.pkg.tar.zst"
+sha256 = "a020f85a349a5a43367ae8dab9fbb7f275cdca34367507e8417bfbe3c8f40796"

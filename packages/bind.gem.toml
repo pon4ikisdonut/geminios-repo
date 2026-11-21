@@ -1,0 +1,11 @@
+[package]
+name = "bind"
+version = "9.20.31-1"
+license = "MPL2"
+arch = "x86_64"
+description = "A complete, highly portable implementation of the DNS protocol"
+depends = ["bash", "dnssec-anchors", "e2fsprogs", "glibc", "icu", "libedit", "json-c", "krb5", "libcap", "libidn2", "libmaxminddb", "libnsl", "libuv", "libxml2", "lmdb", "openssl", "readline", "xz", "zlib", "jemalloc", "libnghttp2", "liburcu"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/bind-9.20.31-1-x86_64.pkg.tar.zst"
+sha256 = "4eef8e443fef5bf1a903b6fd37cc666cdb9224f1b0bbffb18603411f5361a697"

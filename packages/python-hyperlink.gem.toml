@@ -1,0 +1,11 @@
+[package]
+name = "python-hyperlink"
+version = "21.0.0-8"
+license = "MIT"
+arch = "any"
+description = "A featureful, correct URL for Python"
+depends = ["python-idna"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-hyperlink-21.0.0-8-any.pkg.tar.zst"
+sha256 = "517908628c3eec7b8076e38a33c84e5f0cc08450b3a97dee9ee66929a0ce6a57"

@@ -1,0 +1,11 @@
+[package]
+name = "playerctl"
+version = "2.4.1-5"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "mpris media player controller and lib for spotify, vlc, audacious, bmp, xmms2, and others."
+depends = ["glib2", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/playerctl-2.4.1-5-x86_64.pkg.tar.zst"
+sha256 = "fa6f327318ef543d8ed33818c62f8aaa011f4b352a4f8e90892cfd3c1c004b80"

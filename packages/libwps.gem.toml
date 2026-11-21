@@ -1,0 +1,11 @@
+[package]
+name = "libwps"
+version = "0.4.14-4"
+license = "LGPL-2.1-or-later OR MPL-2.0"
+arch = "x86_64"
+description = "a Microsoft Works file word processor format import filter library"
+depends = ["librevenge", "libstdc++", "libgcc", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libwps-0.4.14-4-x86_64.pkg.tar.zst"
+sha256 = "2d9c446a7a54727d6f39d46eee90257894eed2d93df5136fb7a3f96a9634234e"

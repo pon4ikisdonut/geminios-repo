@@ -1,0 +1,11 @@
+[package]
+name = "zip"
+version = "3.0-14"
+license = "LicenseRef-Info-ZIP"
+arch = "x86_64"
+description = "Compressor/archiver for creating and modifying zipfiles"
+depends = ["bzip2"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/zip-3.0-14-x86_64.pkg.tar.zst"
+sha256 = "b1b09aedec942330aae0715be52066455aac418f8f8c39ee3db00d7b3d92cd0b"

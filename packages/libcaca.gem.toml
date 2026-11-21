@@ -1,0 +1,11 @@
+[package]
+name = "libcaca"
+version = "0.99.beta20-7"
+license = "WTFPL"
+arch = "x86_64"
+description = "Color ASCII art library"
+depends = ["freeglut", "glibc", "glu", "imlib2", "libglvnd", "libstdc++", "libx11", "ncurses", "slang", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libcaca-0.99.beta20-7-x86_64.pkg.tar.zst"
+sha256 = "072b0d54e3630542f808d912ea57960affc3ca6b23ae6c8bff9e1717ef2ea816"

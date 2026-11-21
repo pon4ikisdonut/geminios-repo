@@ -1,0 +1,11 @@
+[package]
+name = "python-curl-adapter"
+version = "1.2.3-1"
+license = "MIT"
+arch = "any"
+description = "A curl HTTP adapter switch for requests library — make browser-like requests with custom TLS fingerprints"
+depends = ["python", "python-brotli", "python-curl_cffi", "python-eventlet", "python-pycurl", "python-requests", "python-urllib3"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-curl-adapter-1.2.3-1-any.pkg.tar.zst"
+sha256 = "358a8baac816d60fdb35d9c7e1cf1a1f24cf6ef58ccd384dc9f8db6f98073096"

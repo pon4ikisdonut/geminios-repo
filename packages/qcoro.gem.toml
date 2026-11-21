@@ -1,0 +1,11 @@
+[package]
+name = "qcoro"
+version = "0.13.0-2"
+license = "MIT"
+arch = "x86_64"
+description = "C++ Coroutines for Qt"
+depends = ["glibc", "libgcc", "libstdc++", "qt6-base", "qt6-declarative", "qt6-websockets"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qcoro-0.13.0-2-x86_64.pkg.tar.zst"
+sha256 = "9d4f604b3353c8153b9d59e43c55f8bef8e8d0efb432b91512d3df049ce54c05"

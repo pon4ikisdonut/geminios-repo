@@ -1,0 +1,11 @@
+[package]
+name = "python-multivolumefile"
+version = "0.2.3-10"
+license = "LGPL"
+arch = "any"
+description = "Multi volume file wrapper library"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-multivolumefile-0.2.3-10-any.pkg.tar.zst"
+sha256 = "380c609df703ab798fc54d0dfd61adc22b8bfe16610bf0103f42d9fcd28395d6"

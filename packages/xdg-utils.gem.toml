@@ -1,0 +1,11 @@
+[package]
+name = "xdg-utils"
+version = "1.2.1-2"
+license = "MIT"
+arch = "any"
+description = "Command line tools that assist applications with a variety of desktop integration tasks"
+depends = ["sh", "file"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xdg-utils-1.2.1-2-any.pkg.tar.zst"
+sha256 = "35de6314be9c3c95e1e6bb6ecde5ceb2d9efb8412c0f154cd309eb9dcb16ebd7"

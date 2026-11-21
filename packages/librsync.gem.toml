@@ -1,0 +1,11 @@
+[package]
+name = "librsync"
+version = "1:2.3.4-2"
+license = "LGPL"
+arch = "x86_64"
+description = "Library for calculating and applying network deltas"
+depends = ["popt"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/librsync-1:2.3.4-2-x86_64.pkg.tar.zst"
+sha256 = "0f885814cc8231140746e711c42ce2f7ddcc83af69371d51983529f2d10a7ccc"

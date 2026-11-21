@@ -1,0 +1,11 @@
+[package]
+name = "libkeybinder3"
+version = "0.3.2-5"
+license = "MIT"
+arch = "x86_64"
+description = "A library for registering global keyboard shortcuts"
+depends = ["gtk3"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libkeybinder3-0.3.2-5-x86_64.pkg.tar.zst"
+sha256 = "726d51e5d4939aa575ca758dd97ff48dc567ffed9827b3536b02dc81a8f4c2a3"

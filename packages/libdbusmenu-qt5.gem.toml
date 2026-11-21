@@ -1,0 +1,11 @@
+[package]
+name = "libdbusmenu-qt5"
+version = "0.9.3+16.04.20160218-8"
+license = "GPL"
+arch = "x86_64"
+description = "A library that provides a Qt implementation of the DBusMenu spec"
+depends = ["glibc", "libgcc", "libstdc++", "qt5-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libdbusmenu-qt5-0.9.3+16.04.20160218-8-x86_64.pkg.tar.zst"
+sha256 = "6da3c304f278cdf1f43df40c96c7d86484262425a844ec31480d23cdbf2acf16"

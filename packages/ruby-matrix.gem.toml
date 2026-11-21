@@ -1,0 +1,11 @@
+[package]
+name = "ruby-matrix"
+version = "0.4.3-1"
+license = "BSD-2-CLAUSE"
+arch = "any"
+description = "An implementation of Matrix and Vector classes"
+depends = ["ruby"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ruby-matrix-0.4.3-1-any.pkg.tar.zst"
+sha256 = "722dc8dfa610027a2ed5a494f295720c9ceb7c2fbbe1d50b397d1dfac18306d5"

@@ -1,0 +1,11 @@
+[package]
+name = "libmd"
+version = "1.3.0-1"
+license = "BSD-3-Clause AND BSD-2-Clause AND ISC AND Beerware AND CC-PDM-1.0"
+arch = "x86_64"
+description = "Message Digest functions from BSD systems"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libmd-1.3.0-1-x86_64.pkg.tar.zst"
+sha256 = "54147206639feaec7559f284e1094dd12523eb9bbec0ec877f99af87eedf123c"

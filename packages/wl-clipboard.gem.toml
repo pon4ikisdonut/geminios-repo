@@ -1,0 +1,11 @@
+[package]
+name = "wl-clipboard"
+version = "1:2.3.0-1"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "Command-line copy/paste utilities for Wayland"
+depends = ["glibc", "wayland"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/wl-clipboard-1:2.3.0-1-x86_64.pkg.tar.zst"
+sha256 = "3ba82e724f496eeafe16a6e6f2a54f0bbf5e64f28bf8555a0d3ce4efa8c17693"

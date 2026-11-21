@@ -1,0 +1,11 @@
+[package]
+name = "python-autocommand"
+version = "2.2.2-9"
+license = "LGPL"
+arch = "any"
+description = "A library to create a command-line program from a function"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-autocommand-2.2.2-9-any.pkg.tar.zst"
+sha256 = "17b5712b2fd15f1202c72861998da29c4d25696f22cb4d1a704373fcf7926043"

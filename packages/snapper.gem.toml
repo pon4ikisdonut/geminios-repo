@@ -1,0 +1,11 @@
+[package]
+name = "snapper"
+version = "0.13.2-2"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "A tool for managing BTRFS and LVM snapshots"
+depends = ["btrfs-progs", "libxml2", "dbus", "boost-libs", "acl", "json-c"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/snapper-0.13.2-2-x86_64.pkg.tar.zst"
+sha256 = "d4a88484519e8a1e6412887e42da78a48b4f31dc0ad7a08c68255ee5677197a6"

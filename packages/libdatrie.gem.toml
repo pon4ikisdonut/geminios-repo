@@ -1,0 +1,11 @@
+[package]
+name = "libdatrie"
+version = "0.2.14-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Double-array trie library"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libdatrie-0.2.14-1-x86_64.pkg.tar.zst"
+sha256 = "f5ad651ed99afa29d44c662da4f2c6e93764e8a1d47487f41837be1c94ddd38e"

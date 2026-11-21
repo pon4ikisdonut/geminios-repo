@@ -1,0 +1,11 @@
+[package]
+name = "python-idna"
+version = "3.20-1"
+license = "BSD-3-Clause"
+arch = "any"
+description = "Internationalized Domain Names in Applications (IDNA)"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-idna-3.20-1-any.pkg.tar.zst"
+sha256 = "b7d5bcfc85f987724594d26a5cb1efe95035993cda6f9cca61ed1f850e301596"

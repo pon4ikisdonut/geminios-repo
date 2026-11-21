@@ -1,0 +1,11 @@
+[package]
+name = "texlive-fontsrecommended"
+version = "2026.1-1"
+license = "GPL"
+arch = "any"
+description = "TeX Live - Recommended fonts"
+depends = ["texlive-bin", "texlive-basic"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/texlive-fontsrecommended-2026.1-1-any.pkg.tar.zst"
+sha256 = "ae29596c7ce3197b1d8ca4e7ecdb586a6d07dfabd740b690bace570d74bea4b1"

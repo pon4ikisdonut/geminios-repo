@@ -1,0 +1,11 @@
+[package]
+name = "ruby-debug"
+version = "1.11.1-1"
+license = "BSD-2-Clause"
+arch = "x86_64"
+description = "Debugging functionality for Ruby"
+depends = ["ruby", "ruby-irb", "ruby-reline"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ruby-debug-1.11.1-1-x86_64.pkg.tar.zst"
+sha256 = "6835b2090c01998be6cd47f546d26a04719fa15cb09499c1076ac71474650e81"

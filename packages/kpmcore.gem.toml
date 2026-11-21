@@ -1,0 +1,11 @@
+[package]
+name = "kpmcore"
+version = "26.08.3-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Library for managing partitions"
+depends = ["glibc", "kcoreaddons", "ki18n", "kwidgetsaddons", "libgcc", "libstdc++", "polkit-qt6", "qt6-base", "smartmontools", "util-linux-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kpmcore-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "1316a7049e3f722e4d5108a9908d1bea1acd1e4574612ffcf57c756d2970c057"

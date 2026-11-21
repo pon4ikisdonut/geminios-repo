@@ -1,0 +1,11 @@
+[package]
+name = "spdlog"
+version = "1.17.0-2"
+license = "MIT"
+arch = "x86_64"
+description = "Very fast, header-only/compiled, C++ logging library"
+depends = ["glibc", "libfmt.so", "libgcc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/spdlog-1.17.0-2-x86_64.pkg.tar.zst"
+sha256 = "592374aa27d278867f7c9c54d9b6f3f42ce24f83f3b094725b52db098ea02e8b"

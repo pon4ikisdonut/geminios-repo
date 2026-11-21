@@ -1,0 +1,11 @@
+[package]
+name = "python-sphinxcontrib-devhelp"
+version = "2.0.0-6"
+license = "BSD-2-Clause"
+arch = "any"
+description = "Sphinx extension which outputs Devhelp document"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-sphinxcontrib-devhelp-2.0.0-6-any.pkg.tar.zst"
+sha256 = "5ca9acb314b3789dd0e1b769d36042547392b818a7c1d5997fd5b8a0abca67e1"

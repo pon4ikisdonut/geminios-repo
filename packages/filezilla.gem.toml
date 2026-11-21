@@ -1,0 +1,11 @@
+[package]
+name = "filezilla"
+version = "3.72.1-1"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "Fast and reliable FTP, FTPS and SFTP client"
+depends = ["dbus", "libdbus-1.so", "fzssh", "gtk3", "libgtk-3.so", "libgdk-3.so", "hicolor-icon-theme", "libfilezilla", "libfilezilla.so", "sqlite", "libsqlite3.so", "wxwidgets-gtk3", "xdg-utils"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/filezilla-3.72.1-1-x86_64.pkg.tar.zst"
+sha256 = "48c8631bf8c51b742749199a464bbf1cf3c438adead98a796c633e40403e1e88"

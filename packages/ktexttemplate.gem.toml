@@ -1,0 +1,11 @@
+[package]
+name = "ktexttemplate"
+version = "6.32.0-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Library to allow application developers to separate the structure of documents from the data they contain"
+depends = ["glibc", "libgcc", "libstdc++", "qt6-base", "qt6-declarative"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ktexttemplate-6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "7e4b0119d1e2771482264d7efd4631a96fa2296aaf3f322f4bcefaa8d01745ce"

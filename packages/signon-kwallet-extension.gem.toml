@@ -1,0 +1,11 @@
+[package]
+name = "signon-kwallet-extension"
+version = "26.08.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "KWallet integration for signon framework"
+depends = ["glibc", "kwallet", "libgcc", "libstdc++", "qt6-base", "signond"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/signon-kwallet-extension-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "e64f6543f542e1c72677fa19921e43169303d3426638e61271919fc892d41941"

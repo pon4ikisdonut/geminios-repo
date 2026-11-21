@@ -1,0 +1,11 @@
+[package]
+name = "haskell-unicode-transforms"
+version = "0.4.0.1-252"
+license = "BSD"
+arch = "x86_64"
+description = "Unicode transforms (normalization NFC/NFD/NFKC/NFKD)"
+depends = ["ghc-libs", "haskell-unicode-data"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-unicode-transforms-0.4.0.1-252-x86_64.pkg.tar.zst"
+sha256 = "7a7b2f615a4bb51ae3ba1452358600884fda8da0e8a301fe377bfc53defd1991"

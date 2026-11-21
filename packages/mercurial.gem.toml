@@ -1,0 +1,11 @@
+[package]
+name = "mercurial"
+version = "7.2.4-1"
+license = "GPL"
+arch = "x86_64"
+description = "A scalable distributed SCM tool"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/mercurial-7.2.4-1-x86_64.pkg.tar.zst"
+sha256 = "cc05e7dee2f641bd0e37365a36cf82b86fd84987e51916aea8170991400a715f"

@@ -1,0 +1,11 @@
+[package]
+name = "nmap"
+version = "7.993-2"
+license = "LicenseRef-Nmap-Public-Source-License-Version-0.95"
+arch = "x86_64"
+description = "Utility for network discovery and security auditing"
+depends = ["glibc", "libgcc", "libpcap", "libssh2", "libstdc++", "lua54", "openssl", "pcre2", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/nmap-7.993-2-x86_64.pkg.tar.zst"
+sha256 = "2a6430bcaa08b6de109278bb4d4aabe6fbff8d2761347e07589b69d4be81dc74"

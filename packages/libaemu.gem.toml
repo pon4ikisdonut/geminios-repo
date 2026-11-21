@@ -1,0 +1,11 @@
+[package]
+name = "libaemu"
+version = "0.1.2-5"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "This is an utility library for common functions used in the Android Emulator"
+depends = ["glibc", "gcc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libaemu-0.1.2-5-x86_64.pkg.tar.zst"
+sha256 = "1d23cd1acdeb28f7183c279231fdc80acc424349b26abb4eafa528498d7d07f8"

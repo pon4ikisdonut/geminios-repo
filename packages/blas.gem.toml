@@ -1,0 +1,11 @@
+[package]
+name = "blas"
+version = "3.12.1-2"
+license = "custom"
+arch = "x86_64"
+description = "Basic Linear Algebra Subprograms"
+depends = ["gcc-libs", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/blas-3.12.1-2-x86_64.pkg.tar.zst"
+sha256 = "bf754001fe933c998fc879b2e469e8565482aa9aa163a2f6428d87b3c6d6c55d"

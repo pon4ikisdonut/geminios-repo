@@ -1,0 +1,11 @@
+[package]
+name = "python-tinycss2"
+version = "1.5.1-2"
+license = "BSD-3-Clause"
+arch = "any"
+description = "Low-level CSS parser for Python"
+depends = ["python-webencodings"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-tinycss2-1.5.1-2-any.pkg.tar.zst"
+sha256 = "e9b0fba4422c503e6ef0707b2cb3070fbfe5cfde9f24ccbf6e2af4a0a812a522"

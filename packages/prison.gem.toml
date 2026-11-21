@@ -1,0 +1,11 @@
+[package]
+name = "prison"
+version = "6.32.0-1"
+license = "MIT"
+arch = "x86_64"
+description = "A barcode API to produce QRCode barcodes and DataMatrix barcodes"
+depends = ["libgcc", "glibc", "libstdc++", "libdmtx", "qrencode", "qt6-base", "qt6-multimedia", "zxing-cpp"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/prison-6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "1e3ff4754de28a1ec75d0a5aa8d3a32df730252733038cae28dcb4e09be94158"

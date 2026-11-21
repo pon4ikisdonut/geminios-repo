@@ -1,0 +1,11 @@
+[package]
+name = "python-pytz"
+version = "2026.1-1"
+license = "MIT"
+arch = "any"
+description = "Cross platform time zone library for Python"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-pytz-2026.1-1-any.pkg.tar.zst"
+sha256 = "e9c5e927fa574bba9364f13230fb6d6048f52fae30e05e93bf7d063b1a341cd3"

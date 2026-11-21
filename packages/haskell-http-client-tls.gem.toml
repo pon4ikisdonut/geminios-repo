@@ -1,0 +1,11 @@
+[package]
+name = "haskell-http-client-tls"
+version = "0.3.6.4-238"
+license = "MIT"
+arch = "x86_64"
+description = "http-client backend using the connection package and tls library"
+depends = ["ghc-libs", "haskell-case-insensitive", "haskell-crypton", "haskell-crypton-connection", "haskell-data-default", "haskell-http-client", "haskell-http-types", "haskell-memory", "haskell-network", "haskell-network-uri", "haskell-tls"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-http-client-tls-0.3.6.4-238-x86_64.pkg.tar.zst"
+sha256 = "39ce61ee53000baab87e94add4b658aeff09e1529535564e971423bfaa43dd2f"

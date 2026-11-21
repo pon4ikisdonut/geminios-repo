@@ -1,0 +1,11 @@
+[package]
+name = "kconfigwidgets"
+version = "6.32.0-1"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "Widgets for KConfig"
+depends = ["libstdc++", "glibc", "kcodecs", "kcolorscheme", "kconfig", "kcoreaddons", "ki18n", "kwidgetsaddons", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kconfigwidgets-6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "10404f59fb55b205fbad3c2bb576e41dbd0f5256de1d4518ad0e5816b4559e6a"

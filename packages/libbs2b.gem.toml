@@ -1,0 +1,11 @@
+[package]
+name = "libbs2b"
+version = "3.1.0-11"
+license = "MIT"
+arch = "x86_64"
+description = "Bauer stereophonic-to-binaural DSP effect library"
+depends = ["glibc", "libsndfile", "libstdc++", "libsndfile.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libbs2b-3.1.0-11-x86_64.pkg.tar.zst"
+sha256 = "b50871a0b53667c22b72ecbc01efccfe8554d9c907b39529796c2050d46fc8c4"

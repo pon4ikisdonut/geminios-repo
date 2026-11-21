@@ -1,0 +1,11 @@
+[package]
+name = "deno"
+version = "2.9.8-1"
+license = "MIT"
+arch = "x86_64"
+description = "A secure runtime for JavaScript and TypeScript"
+depends = ["dbus", "lcms2", "libffi", "libgcc", "sqlite", "wayland", "zlib", "zstd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/deno-2.9.8-1-x86_64.pkg.tar.zst"
+sha256 = "6c5e38d1075920764264ab8c210ee7260a0d7083f7ae814baebd20276d5fa8a5"

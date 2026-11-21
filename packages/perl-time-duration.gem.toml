@@ -1,0 +1,11 @@
+[package]
+name = "perl-time-duration"
+version = "1:1.21-2"
+license = "PerlArtistic"
+arch = "any"
+description = "rounded or exact English expression of durations"
+depends = ["perl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/perl-time-duration-1:1.21-2-any.pkg.tar.zst"
+sha256 = "c13b70ca8a0edebe3bfc6ddf7c9906e5b48c6c3270c540432852bd3affb80294"

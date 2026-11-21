@@ -1,0 +1,11 @@
+[package]
+name = "texlive-bibtexextra"
+version = "2026.1-1"
+license = "GPL"
+arch = "any"
+description = "TeX Live - BibTeX additional styles"
+depends = ["texlive-bin", "texlive-latex"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/texlive-bibtexextra-2026.1-1-any.pkg.tar.zst"
+sha256 = "9fb57270338012aa38f43328a577448e86041829e1921c7287fd54412f3d5ae9"

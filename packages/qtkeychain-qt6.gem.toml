@@ -1,0 +1,11 @@
+[package]
+name = "qtkeychain-qt6"
+version = "0.18.0-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Provides support for secure credentials storage"
+depends = ["glib2", "glibc", "libgcc", "libstdc++", "org.freedesktop.secrets", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qtkeychain-qt6-0.18.0-1-x86_64.pkg.tar.zst"
+sha256 = "706ca619f0cd2264f9537cac8d5cc07cb057b60b7adbbda79c2c60b8f156e1df"

@@ -1,0 +1,11 @@
+[package]
+name = "geoip-database"
+version = "20260204-1"
+license = "LicenseRef-GeoLite2-End-User-License-Agreement"
+arch = "any"
+description = "GeoIP legacy country database (based on GeoLite2 data created by MaxMind)"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/geoip-database-20260204-1-any.pkg.tar.zst"
+sha256 = "031c96a97246c85b0b6c58e4aef944f466bb269e52e384b1284b3893ffc90f0a"

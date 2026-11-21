@@ -1,0 +1,11 @@
+[package]
+name = "aj-snapshot"
+version = "0.9.9-3"
+license = "GPL3"
+arch = "x86_64"
+description = "Command line utility to store/restore ALSA and/or JACK connections to/from an XML file"
+depends = ["jack", "mxml"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/aj-snapshot-0.9.9-3-x86_64.pkg.tar.zst"
+sha256 = "ade0c7c2b4b5f780386517fce259bcd5edd6dab464996bcaf1dc26083e7b91b5"

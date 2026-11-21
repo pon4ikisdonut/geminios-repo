@@ -1,0 +1,11 @@
+[package]
+name = "haskell-aeson"
+version = "2.2.5.0-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "A JSON parsing and encoding library optimized for ease of use and high performance"
+depends = ["ghc-libs", "haskell-character-ps", "haskell-data-fix", "haskell-dlist", "haskell-hashable", "haskell-indexed-traversable", "haskell-integer-conversion", "haskell-integer-logarithms", "haskell-network-uri", "haskell-onetuple", "haskell-primitive", "haskell-quickcheck", "haskell-scientific", "haskell-semialign", "haskell-strict", "haskell-tagged", "haskell-text-iso8601", "haskell-text-short", "haskell-th-abstraction", "haskell-these", "haskell-time-compat", "haskell-unordered-containers", "haskell-uuid-types", "haskell-vector", "haskell-witherable"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-aeson-2.2.5.0-1-x86_64.pkg.tar.zst"
+sha256 = "c00f88cdb58a0e195ad62499b1df3f330f5a3ad9cf5223bad2cc9650a8cd6d6c"

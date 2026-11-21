@@ -1,0 +1,11 @@
+[package]
+name = "libxfont2"
+version = "2.0.10-1"
+license = "X11"
+arch = "x86_64"
+description = "X11 font rasterisation library"
+depends = ["freetype2", "libfontenc", "xorgproto", "zlib", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libxfont2-2.0.10-1-x86_64.pkg.tar.zst"
+sha256 = "77456011512b0567978c55e96bbab998f65af145b70f4580d61043f46b3efa78"

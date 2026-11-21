@@ -1,0 +1,11 @@
+[package]
+name = "ragel"
+version = "7.0.4-1"
+license = "MIT"
+arch = "x86_64"
+description = "Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code"
+depends = ["colm", "glibc", "libgcc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ragel-7.0.4-1-x86_64.pkg.tar.zst"
+sha256 = "676bcdde30fa0c06eac01ca40a95cab0aea3f3ce20a904c2df6388a883fb4915"

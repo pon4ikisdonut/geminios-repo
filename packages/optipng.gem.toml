@@ -1,0 +1,11 @@
+[package]
+name = "optipng"
+version = "7.9.1-1"
+license = "ZLIB"
+arch = "x86_64"
+description = "Compresses PNG files to a smaller size, without losing any information."
+depends = ["glibc", "libpng", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/optipng-7.9.1-1-x86_64.pkg.tar.zst"
+sha256 = "4e682cb87250eabc23736a34e00032ede5b7415a6619903a5466f1e76bbab99d"

@@ -1,0 +1,11 @@
+[package]
+name = "acme.sh"
+version = "3.1.7-1"
+license = "GPL-3.0-only"
+arch = "any"
+description = "An ACME Shell script, an acme client alternative to certbot"
+depends = ["bash"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/acme.sh-3.1.7-1-any.pkg.tar.zst"
+sha256 = "b7e3ee000d6f2bbba1db6309476f7aff02ff4ce76994e48b36fd3ca40b53b549"

@@ -1,0 +1,11 @@
+[package]
+name = "gcc"
+version = "16.2.1+r23+gd564253eb6c8-1"
+license = "GFDL-1.3-or-later"
+arch = "x86_64"
+description = "The GNU Compiler Collection - C and C++ frontends"
+depends = ["libasan", "libgcc", "libhwasan", "liblsan", "libstdc++", "libtsan", "libubsan", "binutils", "glibc", "gmp", "libisl.so", "libmpc", "mpfr", "zlib", "zstd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/gcc-16.2.1+r23+gd564253eb6c8-1-x86_64.pkg.tar.zst"
+sha256 = "1d79371ccf3138e3c172dd83b51560687b65ab824c1ad7e9cb41b7857ed9c55f"

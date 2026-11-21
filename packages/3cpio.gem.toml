@@ -1,0 +1,11 @@
+[package]
+name = "3cpio"
+version = "0.14.0-2"
+license = "ISC"
+arch = "x86_64"
+description = "Manage Linux kernel initramfs cpio files written in Rust"
+depends = ["glibc", "libgcc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/3cpio-0.14.0-2-x86_64.pkg.tar.zst"
+sha256 = "53c47fdf70cc44c978a71d0f15e5361903b9a2191cf7032f54534aa13638831a"

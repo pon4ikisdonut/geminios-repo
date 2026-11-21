@@ -1,0 +1,11 @@
+[package]
+name = "adlplug-lv2"
+version = "1.0.2-13"
+license = "LGPL-2.1-only"
+arch = "x86_64"
+description = "FM synthesizer for ADLMIDI with OPL3 chip emulation - LV2 plugin"
+depends = ["fmt", "freetype2", "gcc-libs", "glibc", "libx11", "libxext", "lv2-host"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/adlplug-lv2-1.0.2-13-x86_64.pkg.tar.zst"
+sha256 = "698ed518a49b784f8fcd9d1be1bf865630033fe57f097f530b8f9ffc26755ebf"

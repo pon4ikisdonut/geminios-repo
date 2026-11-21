@@ -1,0 +1,11 @@
+[package]
+name = "resvg"
+version = "0.50.0-1"
+license = "MIT"
+arch = "x86_64"
+description = "SVG rendering library and CLI"
+depends = ["gdk-pixbuf2"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/resvg-0.50.0-1-x86_64.pkg.tar.zst"
+sha256 = "534f9dea3cd1f569a3ea5fe1cd7eaa0fef69277bf6acf70c32aefa485023b163"

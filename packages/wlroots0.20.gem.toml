@@ -1,0 +1,11 @@
+[package]
+name = "wlroots0.20"
+version = "0.20.2-1"
+license = "MIT"
+arch = "x86_64"
+description = "Modular Wayland compositor library"
+depends = ["glibc", "libdisplay-info.so", "libdrm", "libglvnd", "libinput", "liblcms2.so", "libliftoff.so", "libpixman-1.so", "libseat.so", "libudev.so", "libvulkan.so", "libwayland-client.so", "libwayland-server.so", "libxcb", "libxkbcommon.so", "wayland-protocols", "opengl-driver", "xcb-util-errors", "xcb-util-renderutil", "xcb-util-wm"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/wlroots0.20-0.20.2-1-x86_64.pkg.tar.zst"
+sha256 = "8b1da3fbf29cc45908d8de771bd22a5813b298a9049462df5b8952f23c3ffb8f"

@@ -1,0 +1,11 @@
+[package]
+name = "gobject-introspection"
+version = "1.86.0-2"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Introspection system for GObject-based libraries"
+depends = ["gobject-introspection-runtime", "libgirepository", "glib2", "glibc", "libffi", "python", "python-mako", "python-markdown", "python-setuptools"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gobject-introspection-1.86.0-2-x86_64.pkg.tar.zst"
+sha256 = "03b932edc9e8bfaced0fc2a0970ccf2879c5d03961109664f96deb9ac8d9440b"

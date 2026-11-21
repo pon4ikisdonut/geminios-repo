@@ -1,0 +1,11 @@
+[package]
+name = "libgirepository"
+version = "1.86.0-2"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Introspection system for GObject-based libraries - runtime library"
+depends = ["glib2", "glibc", "libffi", "libffi.so", "libglib-2.0.so", "libgobject-2.0.so", "libgmodule-2.0.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libgirepository-1.86.0-2-x86_64.pkg.tar.zst"
+sha256 = "edf68340a4aab5c4e5a7a2886512367c7ed6ad2be5e1f07ffc6aff07ebb0a1bf"

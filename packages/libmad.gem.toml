@@ -1,0 +1,11 @@
+[package]
+name = "libmad"
+version = "0.16.5-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "A high-quality MPEG audio decoder"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libmad-0.16.5-1-x86_64.pkg.tar.zst"
+sha256 = "866000eab243d0f8246e49647ed3fae4962099b2541a3082c9850c706d6eedd2"

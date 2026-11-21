@@ -1,0 +1,11 @@
+[package]
+name = "bluez-qt"
+version = "6.32.0-1"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "Qt wrapper for Bluez 5 DBus API"
+depends = ["bluez", "glibc", "libstdc++", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/bluez-qt-6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "9584758bc0810e7af4dbb81665779a88f3e9ad4e8931ac415ff91a36a015cbbb"

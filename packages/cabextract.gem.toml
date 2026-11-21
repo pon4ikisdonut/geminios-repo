@@ -1,0 +1,11 @@
+[package]
+name = "cabextract"
+version = "1.11-3"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "A program to extract Microsoft cabinet (.CAB) files"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/cabextract-1.11-3-x86_64.pkg.tar.zst"
+sha256 = "89f90aa1aefd7215d4d78e656454dde49b29ca5d4526cdc4a8f1be1e07ac9a65"

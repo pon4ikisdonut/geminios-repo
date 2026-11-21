@@ -1,0 +1,11 @@
+[package]
+name = "kactivitymanagerd"
+version = "6.8.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "System service to manage user activities and track the usage patterns"
+depends = ["glibc", "kconfig", "kcoreaddons", "kcrash", "kglobalaccel", "ki18n", "kio", "kservice", "kxmlgui", "libstdc++", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kactivitymanagerd-6.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "20228ff059ec3627cf6f8f8f08ab552a410c156242fd950f4d7cddde6f591083"

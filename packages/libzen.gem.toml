@@ -1,0 +1,11 @@
+[package]
+name = "libzen"
+version = "0.4.41-3"
+license = "Zlib"
+arch = "x86_64"
+description = "A C++ utility library"
+depends = ["glibc", "libgcc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libzen-0.4.41-3-x86_64.pkg.tar.zst"
+sha256 = "aea7c2467b2580ee707b30ac6d6f3759be5c566c17699692149c950f566c8d18"

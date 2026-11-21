@@ -1,0 +1,11 @@
+[package]
+name = "libqaccessibilityclient-qt6"
+version = "0.6.0-4"
+license = "LGPL2.1"
+arch = "x86_64"
+description = "Helper library to make writing accessibility tools easier"
+depends = ["at-spi2-core", "glibc", "libstdc++", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libqaccessibilityclient-qt6-0.6.0-4-x86_64.pkg.tar.zst"
+sha256 = "e478d9abacfcc7381bb21a2d06659524072904119edba89607165d74fb8dd801"

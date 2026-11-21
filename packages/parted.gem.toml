@@ -1,0 +1,11 @@
+[package]
+name = "parted"
+version = "3.8-1"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "A program for creating, destroying, resizing, checking and copying partitions"
+depends = ["glibc", "device-mapper", "libdevmapper.so", "util-linux-libs", "libblkid.so", "libuuid.so", "readline", "libncursesw.so", "ncurses", "libncursesw.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/parted-3.8-1-x86_64.pkg.tar.zst"
+sha256 = "082e294123c4b993fa367c32fd5807e0ec9366b2420d17286d64654326a880f3"

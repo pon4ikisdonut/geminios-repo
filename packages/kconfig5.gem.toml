@@ -1,0 +1,11 @@
+[package]
+name = "kconfig5"
+version = "5.116.0-2"
+license = "LGPL"
+arch = "x86_64"
+description = "Configuration system"
+depends = ["qt5-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kconfig5-5.116.0-2-x86_64.pkg.tar.zst"
+sha256 = "c6d4843745f3d8f701b5bf51cde87ec7f06f41cdeac1e1ba383dc56fe58f480d"

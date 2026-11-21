@@ -1,0 +1,11 @@
+[package]
+name = "kiconthemes"
+version = "6.32.0-1"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "Support for icon themes"
+depends = ["breeze-icons", "libstdc++", "glibc", "karchive", "kcolorscheme", "kconfig", "ki18n", "kwidgetsaddons", "qt6-base", "qt6-svg"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kiconthemes-6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "b16697dd9d8cf443f6dbd3fd234e47a3d4e179d9543196664d6272328bc62c50"

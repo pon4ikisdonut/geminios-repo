@@ -1,0 +1,11 @@
+[package]
+name = "haskell-erf"
+version = "2.0.0.0-29"
+license = "BSD"
+arch = "x86_64"
+description = "The error function, erf, and related functions."
+depends = ["ghc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-erf-2.0.0.0-29-x86_64.pkg.tar.zst"
+sha256 = "ff372109917acbd3c05f5b0af6e83ebe38488cdc9ddcb8f1d6883f2bc860f244"

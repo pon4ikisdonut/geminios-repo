@@ -1,0 +1,11 @@
+[package]
+name = "gum"
+version = "2.0.2-1"
+license = "MIT"
+arch = "x86_64"
+description = "A tool for glamorous shell scripts"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gum-2.0.2-1-x86_64.pkg.tar.zst"
+sha256 = "bfa451b3cd43172f495d4ae713e7ec0efd36e552a79d2c94fd25cb0ae27b7130"

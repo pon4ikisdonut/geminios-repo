@@ -1,0 +1,11 @@
+[package]
+name = "lemon"
+version = "3.54.1-1"
+license = "LicenseRef-Sqlite"
+arch = "x86_64"
+description = "A parser generator"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/lemon-3.54.1-1-x86_64.pkg.tar.zst"
+sha256 = "a160d63bd10d50b81bdfb16be0e41ff7c4425f72adc30dde72feac9f64a5301c"

@@ -1,0 +1,11 @@
+[package]
+name = "cmark"
+version = "0.31.2-1"
+license = "BSD-2-Clause"
+arch = "x86_64"
+description = "CommonMark parsing and rendering library and program in C"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/cmark-0.31.2-1-x86_64.pkg.tar.zst"
+sha256 = "20aa066e2f2051eca725f3f700580813a2d357814fd53c76d916ab641afa1fa8"

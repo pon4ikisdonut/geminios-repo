@@ -1,0 +1,11 @@
+[package]
+name = "mtools"
+version = "1:4.0.50-1"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "A collection of utilities to access MS-DOS disks"
+depends = ["bash", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/mtools-1:4.0.50-1-x86_64.pkg.tar.zst"
+sha256 = "e96885823fa1e417ab3c6aaf541a6c5eaa361949e92a8de01517aa5f1ef5f4a0"

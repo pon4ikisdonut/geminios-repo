@@ -1,0 +1,11 @@
+[package]
+name = "ghostscript"
+version = "10.08.0-1"
+license = "AGPL-3.0-or-later"
+arch = "x86_64"
+description = "An interpreter for the PostScript language"
+depends = ["libxt", "libcups", "fontconfig", "zlib", "libpng", "libjpeg-turbo", "jbig2dec", "libtiff", "lcms2", "libpaper", "ijs", "openjpeg2", "libidn", "poppler-data", "cairo", "glibc", "libx11", "gdk-pixbuf2", "glib2", "sh"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ghostscript-10.08.0-1-x86_64.pkg.tar.zst"
+sha256 = "869b22230802a93bcde28bd53f8fa91a5ab2d1a1b96ff8b94627b9119b391bf4"

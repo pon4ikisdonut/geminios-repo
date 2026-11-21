@@ -1,0 +1,11 @@
+[package]
+name = "plymouth"
+version = "26.134.222-3"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Graphical boot splash screen"
+depends = ["adwaita-fonts", "bash", "cairo", "filesystem", "fontconfig", "freetype2", "glib2", "glibc", "libdrm", "libevdev", "libpng", "libx11", "libxkbcommon", "pango", "systemd-libs", "xkeyboard-config"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/plymouth-26.134.222-3-x86_64.pkg.tar.zst"
+sha256 = "81b2f013974aca30ec7c9f9470ad6827467147076fbcf7b22492fadb6e35b124"

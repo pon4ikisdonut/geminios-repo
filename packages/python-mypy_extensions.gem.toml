@@ -1,0 +1,11 @@
+[package]
+name = "python-mypy_extensions"
+version = "1.1.0-2"
+license = "MIT"
+arch = "any"
+description = "Experimental type system extensions for programs checked with the mypy typechecker"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-mypy_extensions-1.1.0-2-any.pkg.tar.zst"
+sha256 = "16b83831e1815f0133dd908015ff914d5577e70b8cbb4b01ae40ac58833f7451"

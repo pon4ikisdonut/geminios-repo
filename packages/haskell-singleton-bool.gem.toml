@@ -1,0 +1,11 @@
+[package]
+name = "haskell-singleton-bool"
+version = "0.1.8-116"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Type level booleans"
+depends = ["ghc-libs", "haskell-boring", "haskell-dec", "haskell-some"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-singleton-bool-0.1.8-116-x86_64.pkg.tar.zst"
+sha256 = "84ac61abe89b2405f1c54a58f684aec050328aa6e6992d93d58a1c577ea258f1"

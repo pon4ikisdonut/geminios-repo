@@ -1,0 +1,11 @@
+[package]
+name = "audacity"
+version = "1:3.7.9-1"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "A program that lets you manipulate digital audio waveforms"
+depends = ["alsa-lib", "libasound.so", "expat", "flac", "libFLAC.so", "libFLAC++.so", "glibc", "gdk-pixbuf2", "libgdk_pixbuf-2.0.so", "glib2", "libglib-2.0.so", "libgobject-2.0.so", "gtk3", "libgdk-3.so", "libgtk-3.so", "hicolor-icon-theme", "jack", "lame", "libgcc", "libid3tag", "libid3tag.so", "libogg", "libogg.so", "libsbsms", "libsbsms.so", "libsndfile", "libsndfile.so", "libsoxr", "libstdc++", "libvorbis", "libvorbis.so", "libvorbisenc.so", "libvorbisfile.so", "libx11", "lilv", "liblilv-0.so", "mpg123", "libmpg123.so", "opus", "libopus.so", "opusfile", "portaudio", "libportaudio.so", "portmidi", "libportmidi.so", "portsmf", "libportSMF.so", "soundtouch", "sqlite", "libsqlite3.so", "suil", "libsuil-0.so", "twolame", "libtwolame.so", "util-linux-libs", "wxwidgets-gtk3", "vamp-plugin-sdk", "libvamp-hostsdk.so", "wavpack", "wxwidgets-common"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/audacity-1:3.7.9-1-x86_64.pkg.tar.zst"
+sha256 = "98bcb4d79110b6ae34ed7e31a89170c02e9047183722ca3e818e36e7dbdcbd05"

@@ -1,0 +1,11 @@
+[package]
+name = "syncthing"
+version = "2.1.7-1"
+license = "MPL-2.0"
+arch = "x86_64"
+description = "Open Source Continuous Replication / Cluster Synchronization Thing"
+depends = ["glibc", "sqlite", "libsqlite3.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/syncthing-2.1.7-1-x86_64.pkg.tar.zst"
+sha256 = "2dfa5d91060e28e0a7beb7fe26ef539019d47b2111defc0a27ffa007fa5e95c8"

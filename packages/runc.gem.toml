@@ -1,0 +1,11 @@
+[package]
+name = "runc"
+version = "1.5.3-1"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "CLI tool for managing OCI compliant containers"
+depends = ["libpathrs", "libseccomp"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/runc-1.5.3-1-x86_64.pkg.tar.zst"
+sha256 = "05b0fbd6e9e07962b0169ded2b6cccaf7f0ac75b7529461f5f8cbe84544e54a2"

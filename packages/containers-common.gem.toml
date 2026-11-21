@@ -1,0 +1,11 @@
+[package]
+name = "containers-common"
+version = "1:0.70.0-2"
+license = "Apache-2.0"
+arch = "any"
+description = "Configuration files and manpages for containers"
+depends = ["container-network-stack"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/containers-common-1:0.70.0-2-any.pkg.tar.zst"
+sha256 = "03699765cfcf8bf30c63c359d2a8189868b2763b0ef3f808ffb5592d8315ab26"

@@ -1,0 +1,11 @@
+[package]
+name = "rtmpdump"
+version = "1:2.6-2"
+license = "LGPL-2.1-only"
+arch = "x86_64"
+description = "A toolkit for RTMP streams"
+depends = ["glibc", "gnutls", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/rtmpdump-1:2.6-2-x86_64.pkg.tar.zst"
+sha256 = "de9e8a16607ad6e03febad6af2e2e8f7acfbe6c7dcd39679c3c6dae0c9e708a3"

@@ -1,0 +1,11 @@
+[package]
+name = "python-jaraco.functools"
+version = "4.1.0-3"
+license = "MIT"
+arch = "any"
+description = "Functools like those found in stdlib"
+depends = ["python", "python-more-itertools"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-jaraco.functools-4.1.0-3-any.pkg.tar.zst"
+sha256 = "b6fde8d3fef8e1338d92aa59c85b3179e4d35a67029b123a74ee23f62bd86344"

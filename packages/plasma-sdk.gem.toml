@@ -1,0 +1,11 @@
+[package]
+name = "plasma-sdk"
+version = "6.8.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Applications useful for Plasma development"
+depends = ["glibc", "karchive", "kcmutils", "kcolorscheme", "kcompletion", "kconfig", "kcoreaddons", "kcrash", "kdbusaddons", "kdeclarative", "ki18n", "kiconthemes", "kio", "kirigami", "kitemmodels", "knewstuff", "kpackage", "ksvg", "ktexteditor", "kwidgetsaddons", "libplasma", "libstdc++", "plasma5support", "qt6-5compat", "qt6-base", "qt6-declarative", "sh"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/plasma-sdk-6.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "a7f599c498116003c4aa223c58b5435bdcb37587251fcb234be65894f94f4472"

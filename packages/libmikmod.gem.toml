@@ -1,0 +1,11 @@
+[package]
+name = "libmikmod"
+version = "3.3.16-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Module player library supporting many formats, including MOD, S3M, IT and XM"
+depends = ["glibc", "sh"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libmikmod-3.3.16-1-x86_64.pkg.tar.zst"
+sha256 = "7183be0bef7c42d098ad3145510020f0f16f7814f78960cc9a81755734f09cb7"

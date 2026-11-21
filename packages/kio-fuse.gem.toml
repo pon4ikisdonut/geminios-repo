@@ -1,0 +1,11 @@
+[package]
+name = "kio-fuse"
+version = "5.1.1-2"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "FUSE interface for KIO"
+depends = ["fuse3", "glibc", "kcoreaddons", "kio", "libstdc++", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kio-fuse-5.1.1-2-x86_64.pkg.tar.zst"
+sha256 = "11cf3a84e8e7816ffb612d492e84c0628ed5e49c9a7a6211d312b2205f9564b9"

@@ -1,0 +1,11 @@
+[package]
+name = "qt5-graphicaleffects"
+version = "5.15.19-1"
+license = "custom"
+arch = "x86_64"
+description = "Graphical effects for use with Qt Quick 2"
+depends = ["qt5-declarative"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qt5-graphicaleffects-5.15.19-1-x86_64.pkg.tar.zst"
+sha256 = "8f7539f98d962f5749abf9534ce68c8412f8cc72e846b35df75e78e6cd491001"

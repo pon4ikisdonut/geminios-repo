@@ -1,0 +1,11 @@
+[package]
+name = "tinyxml2"
+version = "11.0.0-2"
+license = "LicenseRef-zlib"
+arch = "x86_64"
+description = "Simple XML parser made for easy integration"
+depends = ["glibc", "libgcc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/tinyxml2-11.0.0-2-x86_64.pkg.tar.zst"
+sha256 = "75ebed93d1496529b97068b17f4aad8c8932a4126f3f5e7ea31c46b0e43e218d"

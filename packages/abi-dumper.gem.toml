@@ -1,0 +1,11 @@
+[package]
+name = "abi-dumper"
+version = "1.4-2"
+license = "LGPL-2.1-or-later"
+arch = "any"
+description = "Dump ABI of an ELF object containing DWARF debug info"
+depends = ["binutils", "ctags", "elfutils", "perl", "vtable-dumper"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/abi-dumper-1.4-2-any.pkg.tar.zst"
+sha256 = "c6ece8e24184f204e1d23112858d8715edbe5aa9a72b5fe95858620276f716b7"

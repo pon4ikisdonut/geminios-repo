@@ -1,0 +1,11 @@
+[package]
+name = "libva"
+version = "2.24.1-1"
+license = "MIT"
+arch = "x86_64"
+description = "Video Acceleration (VA) API for Linux"
+depends = ["glibc", "libdrm", "libgl", "libx11", "libxcb", "libxext", "libxfixes", "wayland"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libva-2.24.1-1-x86_64.pkg.tar.zst"
+sha256 = "59b0a85c6edb8953b7cbb077a3078c0e589e4e4b06cbf871417e40d0c0357747"

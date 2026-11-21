@@ -1,0 +1,11 @@
+[package]
+name = "dbus"
+version = "1.16.4-1"
+license = "AFL-2.1 OR GPL-2.0-or-later"
+arch = "x86_64"
+description = "Freedesktop.org message bus system"
+depends = ["audit", "expat", "glibc", "libcap-ng", "systemd-libs", "libaudit.so", "libcap-ng.so", "libexpat.so", "libsystemd.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/dbus-1.16.4-1-x86_64.pkg.tar.zst"
+sha256 = "04917312c828d336d78269cb1ccefa508a2dc4bca6de611c3988734b752337d4"

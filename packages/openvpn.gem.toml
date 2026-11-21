@@ -1,0 +1,11 @@
+[package]
+name = "openvpn"
+version = "2.7.9-1"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "An easy-to-use, robust and highly configurable VPN (Virtual Private Network)"
+depends = ["libcap-ng", "libcap-ng.so", "libnl", "libnl-genl-3.so", "libnl-3.so", "lz4", "lzo", "liblzo2.so", "openssl", "libcrypto.so", "libssl.so", "pkcs11-helper", "libpkcs11-helper.so", "systemd-libs", "libsystemd.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/openvpn-2.7.9-1-x86_64.pkg.tar.zst"
+sha256 = "853ad0d3f1d0a871270ec049a5f414be499235865dffb0448218718c6e8c5056"

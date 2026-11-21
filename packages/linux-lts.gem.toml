@@ -1,0 +1,11 @@
+[package]
+name = "linux-lts"
+version = "6.18.64-1"
+license = "Zlib"
+arch = "x86_64"
+description = "The LTS Linux kernel and modules"
+depends = ["coreutils", "initramfs", "kmod"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/linux-lts-6.18.64-1-x86_64.pkg.tar.zst"
+sha256 = "bb164f90c8aa3ad01249014d3ecadfad43e9e726e64e883fafbac0239ecc054f"

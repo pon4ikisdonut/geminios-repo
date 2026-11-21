@@ -1,0 +1,11 @@
+[package]
+name = "haskell-monad-control"
+version = "1.0.3.1-409"
+license = "BSD"
+arch = "x86_64"
+description = "Lift control operations, like exception catching, through monad transformers"
+depends = ["ghc-libs", "haskell-transformers-base", "haskell-transformers-compat"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-monad-control-1.0.3.1-409-x86_64.pkg.tar.zst"
+sha256 = "ccf90fa853d71ff522a31ecdd26f857f7ac00e4ab0ff5761d66385b90f11339c"

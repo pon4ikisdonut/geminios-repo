@@ -1,0 +1,11 @@
+[package]
+name = "yazi"
+version = "26.9.1-2"
+license = "MIT"
+arch = "x86_64"
+description = "Blazing fast terminal file manager written in Rust, based on async I/O"
+depends = ["glibc", "hicolor-icon-theme", "libgcc", "lua", "oniguruma"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/yazi-26.9.1-2-x86_64.pkg.tar.zst"
+sha256 = "76271a8eaf0bdc309ff01db42e97a35863eda51be7e4af70ef48735ffed90141"

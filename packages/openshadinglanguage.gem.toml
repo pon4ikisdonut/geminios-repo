@@ -1,0 +1,11 @@
+[package]
+name = "openshadinglanguage"
+version = "1.15.7.0-2"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Advanced shading language for production GI renderers"
+depends = ["openimageio", "imath", "freetype2", "libpng", "libtiff", "zlib", "pugixml", "ncurses", "clang", "qt6-base", "fmt", "glibc", "llvm-libs", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/openshadinglanguage-1.15.7.0-2-x86_64.pkg.tar.zst"
+sha256 = "5fa987de7c00a75763a2b7f0540a52ad13dc87f9db27de644c55391b8854eb41"

@@ -1,0 +1,11 @@
+[package]
+name = "kscreen"
+version = "6.8.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "KDE screen management software"
+depends = ["glibc", "kcmutils", "kconfig", "kcoreaddons", "kcrash", "ki18n", "kimageformats", "kirigami", "kitemmodels", "ksvg", "kwindowsystem", "layer-shell-qt", "libgcc", "libkscreen", "libstdc++", "libplasma", "plasma5support", "qt6-base", "qt6-declarative", "wayland"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kscreen-6.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "5fac9a379e35596c75c73ff3c808becb8afc7a236fa40132313b43b9634f673b"

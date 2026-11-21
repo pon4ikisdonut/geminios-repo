@@ -1,0 +1,11 @@
+[package]
+name = "kcalutils"
+version = "26.08.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "The KDE calendar utility library"
+depends = ["glibc", "kcalendarcore", "kcodecs", "kcoreaddons", "ki18n", "kiconthemes", "kidentitymanagement", "ktexttemplate", "kwidgetsaddons", "libgcc", "libstdc++", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kcalutils-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "3bdbf9c2c4b5da75fe9d6056141cac2d348b796de19fd9e59874230a7f220793"

@@ -1,0 +1,11 @@
+[package]
+name = "haskell-unliftio"
+version = "0.2.25.1-163"
+license = "MIT"
+arch = "x86_64"
+description = "The MonadUnliftIO typeclass for unlifting monads to IO (batteries included)"
+depends = ["ghc-libs", "haskell-async", "haskell-safe-exceptions", "haskell-unliftio-core"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-unliftio-0.2.25.1-163-x86_64.pkg.tar.zst"
+sha256 = "480cf5574c49c294fde1c3d355a4ad3a92b2c750073dafe9e7118596226e77ad"

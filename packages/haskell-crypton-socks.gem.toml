@@ -1,0 +1,11 @@
+[package]
+name = "haskell-crypton-socks"
+version = "0.6.2-90"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "SOCKS Protocol Version 5"
+depends = ["ghc-libs", "haskell-cereal", "haskell-network", "haskell-network-bsd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-crypton-socks-0.6.2-90-x86_64.pkg.tar.zst"
+sha256 = "57e3ee36bda94eedef8ff1b6ad0237bd2039ca1007080c6bcde38e13cc61e8d1"

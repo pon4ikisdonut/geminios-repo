@@ -1,0 +1,11 @@
+[package]
+name = "appstream-qt"
+version = "1.2.3-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Qt6 interface for AppStream"
+depends = ["appstream", "glib2", "glibc", "libgcc", "libstdc++", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/appstream-qt-1.2.3-1-x86_64.pkg.tar.zst"
+sha256 = "5745f00aaf66f801250736953d523ae1d77ce335712d670e3295325748f5ee18"

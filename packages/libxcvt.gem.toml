@@ -1,0 +1,11 @@
+[package]
+name = "libxcvt"
+version = "0.1.3-1"
+license = "HPND-sell-variant"
+arch = "x86_64"
+description = "library providing a standalone version of the X server implementation of the VESA CVT standard timing modelines generator"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libxcvt-0.1.3-1-x86_64.pkg.tar.zst"
+sha256 = "0e402123056ca36d3462ea830d8b18275f8c3d30167b5cda9b8e690f58e53003"

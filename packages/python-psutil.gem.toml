@@ -1,0 +1,11 @@
+[package]
+name = "python-psutil"
+version = "7.2.2-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "A cross-platform process and system utilities module for Python"
+depends = ["glibc", "python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-psutil-7.2.2-1-x86_64.pkg.tar.zst"
+sha256 = "1e5928dfd3070fbba60c0e9f7c2ce96faf4fb04c3e16a1291a3bd176222a21b3"

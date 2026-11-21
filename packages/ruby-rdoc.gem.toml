@@ -1,0 +1,11 @@
+[package]
+name = "ruby-rdoc"
+version = "6.14.0-1"
+license = "Ruby"
+arch = "any"
+description = "Command-line documentation generator for Ruby projects"
+depends = ["ruby", "ruby-erb", "ruby-psych"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ruby-rdoc-6.14.0-1-any.pkg.tar.zst"
+sha256 = "ae336f93524690a763523e825a00a541dbb26b446e80aa994ed1de231f85ed5d"

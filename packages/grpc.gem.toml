@@ -1,0 +1,11 @@
+[package]
+name = "grpc"
+version = "1.84.3-1"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "High performance, open source, general RPC framework that puts mobile and HTTP/2 first."
+depends = ["glibc", "libgcc", "zlib", "systemd-libs", "c-ares", "protobuf", "openssl", "re2", "abseil-cpp"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/grpc-1.84.3-1-x86_64.pkg.tar.zst"
+sha256 = "0af980b29930305632e312fa3352923ddd4f8dc14f81794c5b099bdc0000d4bc"

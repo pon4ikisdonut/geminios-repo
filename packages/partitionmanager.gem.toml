@@ -1,0 +1,11 @@
+[package]
+name = "partitionmanager"
+version = "26.08.3-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "A KDE utility that allows you to manage disks, partitions, and file systems"
+depends = ["glibc", "kcolorscheme", "kconfig", "kconfigwidgets", "kcoreaddons", "kcrash", "kdbusaddons", "ki18n", "kio", "kpmcore", "kwidgetsaddons", "kwindowsystem", "kxmlgui", "libstdc++", "polkit-qt6", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/partitionmanager-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "b9c635070faaf87968ffe35fca13a0f869f528643bfc72b826cc93fdea5813a3"

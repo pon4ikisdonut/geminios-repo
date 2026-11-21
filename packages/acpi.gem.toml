@@ -1,0 +1,11 @@
+[package]
+name = "acpi"
+version = "1.8-2"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Client for battery, power, and thermal readings"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/acpi-1.8-2-x86_64.pkg.tar.zst"
+sha256 = "4a6bc7f9237f094f92e9ed51c8317a11a3e1b7e5ce4ba95423c5c0bd901182f7"

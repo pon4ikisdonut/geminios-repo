@@ -1,0 +1,11 @@
+[package]
+name = "cifs-utils"
+version = "7.9-1"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "CIFS filesystem user-space tools"
+depends = ["keyutils", "krb5", "pam", "libcap-ng", "libwbclient", "talloc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/cifs-utils-7.9-1-x86_64.pkg.tar.zst"
+sha256 = "086befab80425b7d08a7029ae3b4dcb1c97d98d4f27d3e090ab403a9e999c26e"

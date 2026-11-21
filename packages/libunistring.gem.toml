@@ -1,0 +1,11 @@
+[package]
+name = "libunistring"
+version = "1.4.2-1"
+license = "LGPL-3.0-or-later"
+arch = "x86_64"
+description = "Library for manipulating Unicode strings and C strings"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/libunistring-1.4.2-1-x86_64.pkg.tar.zst"
+sha256 = "582625bc02e710b587f4ed319e5c7ad29fd5d4d424b6384f125fc094f07ce590"

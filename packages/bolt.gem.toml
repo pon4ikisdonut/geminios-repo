@@ -1,0 +1,11 @@
+[package]
+name = "bolt"
+version = "0.9.11-3"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Thunderbolt 3 device manager"
+depends = ["polkit", "systemd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/bolt-0.9.11-3-x86_64.pkg.tar.zst"
+sha256 = "39fa256a5ccb093d40bf41af68f037d43785af76df8601dbc85d1ef24222b726"

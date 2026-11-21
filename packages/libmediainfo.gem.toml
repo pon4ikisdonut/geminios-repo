@@ -1,0 +1,11 @@
+[package]
+name = "libmediainfo"
+version = "26.10-1"
+license = "BSD-2-Clause"
+arch = "x86_64"
+description = "Shared library for MediaInfo"
+depends = ["glibc", "curl", "glib2", "libmms", "libzen", "libgcc", "libstdc++", "tinyxml2", "graphviz", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libmediainfo-26.10-1-x86_64.pkg.tar.zst"
+sha256 = "cde60ea5a0342786516bfaa199662b83e0f58900bacd1adc58023a00feb1210c"

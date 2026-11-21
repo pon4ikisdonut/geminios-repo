@@ -1,0 +1,11 @@
+[package]
+name = "aws-c-io"
+version = "1.0.0-1"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "AWS SDK module to handle all IO and TLS work for application protocols"
+depends = ["aws-c-cal", "aws-c-common", "glibc", "s2n-tls"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/aws-c-io-1.0.0-1-x86_64.pkg.tar.zst"
+sha256 = "f8cdc67e2b5a918944ff32d7b5047b6f3363bc1abca72b313b56ae4fb81260ea"

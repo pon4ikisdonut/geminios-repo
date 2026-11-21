@@ -1,0 +1,11 @@
+[package]
+name = "xmlsec"
+version = "1.3.13-2"
+license = "MIT"
+arch = "x86_64"
+description = "XML Security Library is a C library based on LibXML2"
+depends = ["libxslt", "openssl", "gnutls", "nss", "libltdl", "nspr", "libxml2", "glibc", "sh"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xmlsec-1.3.13-2-x86_64.pkg.tar.zst"
+sha256 = "e0a41d29707caa49860218c9d8800a793451ba547783366bc67f7e84bab97205"

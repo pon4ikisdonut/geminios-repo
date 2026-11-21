@@ -1,0 +1,11 @@
+[package]
+name = "kdenetwork-filesharing"
+version = "26.08.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Properties dialog plugin to share a directory with the local network"
+depends = ["glibc", "kauth", "kcoreaddons", "ki18n", "kio", "kirigami", "kwidgetsaddons", "libstdc++", "qcoro", "qt6-base", "qt6-declarative", "samba"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kdenetwork-filesharing-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "1de653055df1c62cb3939b3774e08f61642ab1b0e4c22b29802980beec290275"

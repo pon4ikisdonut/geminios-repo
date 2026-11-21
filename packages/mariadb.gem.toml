@@ -1,0 +1,11 @@
+[package]
+name = "mariadb"
+version = "13.0.2-3"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "Fast SQL database server, derived from MySQL"
+depends = ["mariadb-clients", "bzip2", "libbz2.so", "coreutils", "jemalloc", "libxml2", "libxml2.so", "lz4", "liblz4.so", "systemd-libs", "libsystemd.so", "zstd", "libzstd.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/mariadb-13.0.2-3-x86_64.pkg.tar.zst"
+sha256 = "39df7ef6ab02fd987b801e6040cf9b2134e6e1ad349964e2ad7f1a64a92407bc"

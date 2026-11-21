@@ -1,0 +1,11 @@
+[package]
+name = "linux-firmware-radeon"
+version = "20261019-1"
+license = "LicenseRef-radeon"
+arch = "any"
+description = "Firmware files for Linux - Firmware for ATI Radeon GPUs"
+depends = ["linux-firmware-whence"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/linux-firmware-radeon-20261019-1-any.pkg.tar.zst"
+sha256 = "02f62fb26656075246f32a76c2cc5bb13c2ce38e4d3ecc40754c33e26c6bc09f"

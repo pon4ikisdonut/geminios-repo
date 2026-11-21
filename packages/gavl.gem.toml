@@ -1,0 +1,11 @@
+[package]
+name = "gavl"
+version = "2.0.1-2"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Low level library, upon which multimedia APIs can be built"
+depends = ["glibc", "nettle", "gnutls", "libdrm", "libgl", "libva"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gavl-2.0.1-2-x86_64.pkg.tar.zst"
+sha256 = "073da60ff0aaa7526d3a402b06ff9ad9276c9f7c2ca8bc392318d36998cc5d60"

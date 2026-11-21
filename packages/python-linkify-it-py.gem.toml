@@ -1,0 +1,11 @@
+[package]
+name = "python-linkify-it-py"
+version = "2.2.0-1"
+license = "MIT"
+arch = "any"
+description = "Links recognition library with full unicode support"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-linkify-it-py-2.2.0-1-any.pkg.tar.zst"
+sha256 = "d4cf71475f94bf57bf98fa751766a5093447bcb8429d49248c73cd2eedc32222"

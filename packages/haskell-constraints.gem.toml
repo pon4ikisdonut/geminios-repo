@@ -1,0 +1,11 @@
+[package]
+name = "haskell-constraints"
+version = "0.14.4-76"
+license = "BSD-2-Clause"
+arch = "x86_64"
+description = "Constraint manipulation"
+depends = ["ghc-libs", "haskell-boring", "haskell-hashable"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-constraints-0.14.4-76-x86_64.pkg.tar.zst"
+sha256 = "93f3ab5509a818732bec9cbc5ce923034a7730fdf4c18db3bb38d8fbed31df7b"

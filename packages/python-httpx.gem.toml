@@ -1,0 +1,11 @@
+[package]
+name = "python-httpx"
+version = "0.28.1-7"
+license = "BSD-3-Clause"
+arch = "any"
+description = "A next generation HTTP client for Python"
+depends = ["python", "python-certifi", "python-httpcore", "python-idna", "python-anyio"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-httpx-0.28.1-7-any.pkg.tar.zst"
+sha256 = "c5366415f2cfd1be85e5b9ae4056e0576c3c76921422bc12a7a99d072b72f851"

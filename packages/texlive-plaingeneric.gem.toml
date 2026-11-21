@@ -1,0 +1,11 @@
+[package]
+name = "texlive-plaingeneric"
+version = "2026.1-1"
+license = "GPL"
+arch = "any"
+description = "TeX Live - Plain (La)TeX packages"
+depends = ["texlive-bin", "texlive-basic"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/texlive-plaingeneric-2026.1-1-any.pkg.tar.zst"
+sha256 = "99b967ca0daf1504625508295c29ab8377e9cb39b7f14fd43b754aea4c096b3a"

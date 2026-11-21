@@ -1,0 +1,11 @@
+[package]
+name = "signal-desktop"
+version = "8.36.0-1"
+license = "AGPL-3.0-only"
+arch = "x86_64"
+description = "Signal Private Messenger for Linux"
+depends = ["alsa-lib", "libasound.so", "at-spi2-core", "libatk-bridge-2.0.so", "cairo", "libcairo.so", "dbus", "libdbus-1.so", "expat", "libexpat.so", "glib2", "libgio-2.0.so", "glibc", "gtk3", "hicolor-icon-theme", "libcups", "libdrm", "libgcc", "libnotify", "libpulse", "libstdc++", "libstdc++.so", "libx11", "libxcb", "libxcomposite", "libxdamage", "libxext", "libxfixes", "libxkbcommon", "libxkbcommon.so", "libxrandr", "mesa", "nspr", "nss", "pango", "libpango-1.0.so", "systemd-libs", "libudev.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/signal-desktop-8.36.0-1-x86_64.pkg.tar.zst"
+sha256 = "547c13ddce54070347b6842e1edf1efc25451742c29cbf30a3dc4557230c32e4"

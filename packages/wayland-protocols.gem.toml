@@ -1,0 +1,11 @@
+[package]
+name = "wayland-protocols"
+version = "1.50-1"
+license = "MIT"
+arch = "any"
+description = "Specifications of extended Wayland protocols"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/wayland-protocols-1.50-1-any.pkg.tar.zst"
+sha256 = "9fc5d6f59513343bf20a994037591373e3d473f005c58c33ed089b01f52a9c84"

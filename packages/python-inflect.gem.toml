@@ -1,0 +1,11 @@
+[package]
+name = "python-inflect"
+version = "7.5.0-2"
+license = "MIT"
+arch = "any"
+description = "Correctly generate plurals, singular nouns, ordinals, indefinite articles"
+depends = ["python", "python-more-itertools", "python-typeguard", "python-typing_extensions"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-inflect-7.5.0-2-any.pkg.tar.zst"
+sha256 = "9d0ffecad5197b86c5f02f29e927485ce0efa1c3fa515922b7298b9ce317024a"

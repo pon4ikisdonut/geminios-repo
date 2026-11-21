@@ -1,0 +1,11 @@
+[package]
+name = "libsm"
+version = "1.2.6-1"
+license = "MIT-open-group"
+arch = "x86_64"
+description = "X11 Session Management library"
+depends = ["libice", "util-linux-libs", "xorgproto", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libsm-1.2.6-1-x86_64.pkg.tar.zst"
+sha256 = "ce334b07a9701ba6ef4d610257500f7b035dc1cdc0a658e056d293547cde0976"

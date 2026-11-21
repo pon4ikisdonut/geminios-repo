@@ -1,0 +1,11 @@
+[package]
+name = "libb64"
+version = "1.2.1-5"
+license = "custom:Public Domain"
+arch = "x86_64"
+description = "Base64 Encoding/Decoding Routines"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libb64-1.2.1-5-x86_64.pkg.tar.zst"
+sha256 = "d685decd0688270a9e869334f01431b4c4bcad6f3b4542631ec0b923d516707e"

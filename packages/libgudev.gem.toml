@@ -1,0 +1,11 @@
+[package]
+name = "libgudev"
+version = "238-4"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "GObject bindings for libudev"
+depends = ["glib2", "glibc", "libgcc", "libsystemd", "libglib-2.0.so", "libgobject-2.0.so", "libudev.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libgudev-238-4-x86_64.pkg.tar.zst"
+sha256 = "9a78afc58dbf41dd2af33e9c8a6cfb7dc89d0b5150593c7e8ca6beda28d11259"

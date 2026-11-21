@@ -1,0 +1,11 @@
+[package]
+name = "python-patiencediff"
+version = "1.0.2-1"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "Patiencediff Python and C implementations"
+depends = ["glibc", "libgcc", "python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-patiencediff-1.0.2-1-x86_64.pkg.tar.zst"
+sha256 = "0132ea16085b05e133847adfbeeca53df16709a66549612767325b7aa8459651"

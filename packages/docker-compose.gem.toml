@@ -1,0 +1,11 @@
+[package]
+name = "docker-compose"
+version = "5.8.0-1"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "Fast, isolated development environments using Docker"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/docker-compose-5.8.0-1-x86_64.pkg.tar.zst"
+sha256 = "c1ee6d767ac51ff137a3acb6f1465a52c125f9525fc576fbad896f2dc5827a4f"

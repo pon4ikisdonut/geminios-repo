@@ -1,0 +1,11 @@
+[package]
+name = "opencascade"
+version = "1:7.9.3-4"
+license = "LicenseRef-LGPL-exception"
+arch = "x86_64"
+description = "SDK intended for development of applications dealing with 3D CAD data"
+depends = ["freetype2", "fontconfig", "glibc", "libgcc", "libglvnd", "libstdc++", "libx11", "tcl", "tk", "vtk"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/opencascade-1:7.9.3-4-x86_64.pkg.tar.zst"
+sha256 = "16b5b417459604e572a1314e5c135cfff1857b0e8e12b1d3e0539bb3d6019093"

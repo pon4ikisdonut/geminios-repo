@@ -1,0 +1,11 @@
+[package]
+name = "flac"
+version = "1.5.0-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Free Lossless Audio Codec"
+depends = ["glibc", "gcc-libs", "libogg"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/flac-1.5.0-1-x86_64.pkg.tar.zst"
+sha256 = "7c8dce6bde402b9d243fd240847722a57b94df1dbf53e0cabc9119219dd04735"

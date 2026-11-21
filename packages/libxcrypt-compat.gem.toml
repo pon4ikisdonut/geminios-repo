@@ -1,0 +1,11 @@
+[package]
+name = "libxcrypt-compat"
+version = "4.5.2-1"
+license = "LGPL"
+arch = "x86_64"
+description = "Modern library for one-way hashing of passwords - legacy API functions"
+depends = ["libxcrypt"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/libxcrypt-compat-4.5.2-1-x86_64.pkg.tar.zst"
+sha256 = "89476037bf6a96561b86b8b61a2b1d5c34ea2d07036bc9427abdf799d57e934c"

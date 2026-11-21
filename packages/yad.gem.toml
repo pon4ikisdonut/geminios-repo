@@ -1,0 +1,11 @@
+[package]
+name = "yad"
+version = "15.0-2"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "A fork of zenity - display graphical dialogs from shell scripts or command line"
+depends = ["gtk3", "webkit2gtk-4.1", "gtksourceview4", "gspell"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/yad-15.0-2-x86_64.pkg.tar.zst"
+sha256 = "f725b35d43e4ed493fd8c4553e948c3ed4624fa15dba9a6347da7a1850064a73"

@@ -1,0 +1,11 @@
+[package]
+name = "polkit-gnome"
+version = "0.105-12"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Legacy polkit authentication agent for GNOME"
+depends = ["gdk-pixbuf2", "glib2", "glibc", "gtk3", "polkit"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/polkit-gnome-0.105-12-x86_64.pkg.tar.zst"
+sha256 = "4413127849dd3b541d8ede73f5ff8d6441037c59a823023e2cddb6da2312a913"

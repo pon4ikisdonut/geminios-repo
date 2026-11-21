@@ -1,0 +1,11 @@
+[package]
+name = "haskell-cryptohash-md5"
+version = "0.11.101.0-272"
+license = "BSD"
+arch = "x86_64"
+description = "Fast, pure and practical MD5 implementation"
+depends = ["ghc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-cryptohash-md5-0.11.101.0-272-x86_64.pkg.tar.zst"
+sha256 = "cb5c03132faecb2b9d04ac794d3a2de9b91f7bf429c08ff21ed6de11be475707"

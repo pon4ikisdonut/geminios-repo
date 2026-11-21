@@ -1,0 +1,11 @@
+[package]
+name = "libxslt"
+version = "1.1.45-3"
+license = "MIT"
+arch = "x86_64"
+description = "XML stylesheet transformation library"
+depends = ["bash", "glibc", "libxml2"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libxslt-1.1.45-3-x86_64.pkg.tar.zst"
+sha256 = "755ed3949fabdba7ddce286d0d8608fbb7edbb213414712217de8d7583e6cc86"

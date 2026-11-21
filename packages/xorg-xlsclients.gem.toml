@@ -1,0 +1,11 @@
+[package]
+name = "xorg-xlsclients"
+version = "1.1.6-1"
+license = "MIT"
+arch = "x86_64"
+description = "List client applications running on a display"
+depends = ["libxcb", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xorg-xlsclients-1.1.6-1-x86_64.pkg.tar.zst"
+sha256 = "96ab11bc0adc9e3a1d159d81dc492fc6a5a642a4b103f488d8293f122503d41e"

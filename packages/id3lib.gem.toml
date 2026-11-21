@@ -1,0 +1,11 @@
+[package]
+name = "id3lib"
+version = "3.8.3-20"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "Library for reading, writing, and manipulating ID3v1 and ID3v2 tags"
+depends = ["glibc", "libgcc", "libstdc++", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/id3lib-3.8.3-20-x86_64.pkg.tar.zst"
+sha256 = "6a093052323aac58f5f45ea258284d15bfa1de814b2d735a9d843a080d15bf6f"

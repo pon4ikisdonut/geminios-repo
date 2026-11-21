@@ -1,0 +1,11 @@
+[package]
+name = "perl-lwp-mediatypes"
+version = "6.05-1"
+license = "GPL-1.0-or-later"
+arch = "any"
+description = "Guess the media type of a file or a URL"
+depends = ["perl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/perl-lwp-mediatypes-6.05-1-any.pkg.tar.zst"
+sha256 = "69dae4b4ea1e0b8c8d8243c3ebf8ca159518e27a2fb348a72b3b7742d18ab469"

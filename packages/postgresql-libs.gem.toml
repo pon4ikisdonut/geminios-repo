@@ -1,0 +1,11 @@
+[package]
+name = "postgresql-libs"
+version = "18.7-1"
+license = "PostgreSQL"
+arch = "x86_64"
+description = "Sophisticated object-relational DBMS - Client binaries and libraries"
+depends = ["curl", "libcurl.so", "glibc", "krb5", "libgssapi_krb5.so", "libldap", "lz4", "liblz4.so", "openssl", "libcrypto.so", "libssl.so", "readline", "libreadline.so", "zlib", "libz.so", "zstd", "libzstd.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/postgresql-libs-18.7-1-x86_64.pkg.tar.zst"
+sha256 = "a56674d4d04edfab5f7defd410bee3d11b9a1ed27042fe979c831319997bb49f"

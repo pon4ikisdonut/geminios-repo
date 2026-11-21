@@ -1,0 +1,11 @@
+[package]
+name = "libwbclient"
+version = "2:4.25.1-1"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "winbind client library"
+depends = ["libbsd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libwbclient-2:4.25.1-1-x86_64.pkg.tar.zst"
+sha256 = "e95b14014c087d85e95c559d01fab035e8317a401c0241f3421902ff6ded7ee8"

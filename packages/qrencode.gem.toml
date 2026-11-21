@@ -1,0 +1,11 @@
+[package]
+name = "qrencode"
+version = "4.1.1-4"
+license = "GPL"
+arch = "x86_64"
+description = "C library for encoding data in a QR Code symbol."
+depends = ["libpng"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qrencode-4.1.1-4-x86_64.pkg.tar.zst"
+sha256 = "8ce056bd7e3b77713483f642aa1b82da044e3a7781296c217513c2902e1354a2"

@@ -1,0 +1,11 @@
+[package]
+name = "akonadi-import-wizard"
+version = "26.08.3-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Import data from other mail clients to KMail"
+depends = ["akonadi", "glibc", "kconfig", "kconfigwidgets", "kcontacts", "kcoreaddons", "kcrash", "kdbusaddons", "ki18n", "kiconthemes", "kidentitymanagement", "kmailtransport", "kwidgetsaddons", "kxmlgui", "libgcc", "libstdc++", "mailcommon", "mailimporter", "messagelib", "pimcommon", "qt6-base", "qtkeychain-qt6"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/akonadi-import-wizard-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "2bd4dd1a2e13f3d48e7016b1c63fb3fcb8fb6c20c59f546378f291630088ca64"

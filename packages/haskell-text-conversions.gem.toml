@@ -1,0 +1,11 @@
+[package]
+name = "haskell-text-conversions"
+version = "0.3.1.1-234"
+license = "ISC"
+arch = "x86_64"
+description = "Safe conversions between textual types"
+depends = ["ghc-libs", "haskell-base16-bytestring", "haskell-base64-bytestring"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-text-conversions-0.3.1.1-234-x86_64.pkg.tar.zst"
+sha256 = "f3abaed9e8a7df99c67c1f6e4c6f62ebc5ca0e2312f25fb6498619b5066a20d6"

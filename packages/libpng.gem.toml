@@ -1,0 +1,11 @@
+[package]
+name = "libpng"
+version = "1.6.59-1"
+license = "libpng-2.0"
+arch = "x86_64"
+description = "A collection of routines used to create PNG format graphics files"
+depends = ["zlib", "sh"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libpng-1.6.59-1-x86_64.pkg.tar.zst"
+sha256 = "c25e3f039aa598e65d01ee4404cb4a83b383b53b483a7b8627e391cc2c036de1"

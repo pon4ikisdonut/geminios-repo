@@ -1,0 +1,11 @@
+[package]
+name = "sqlite"
+version = "3.54.1-1"
+license = "LicenseRef-Sqlite"
+arch = "x86_64"
+description = "A C library that implements an SQL database engine"
+depends = ["readline", "zlib", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/sqlite-3.54.1-1-x86_64.pkg.tar.zst"
+sha256 = "d2584b4d8455bffe0f6acee34837f416248e624578ead28fe5b24d7ce94d1073"

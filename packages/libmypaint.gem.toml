@@ -1,0 +1,11 @@
+[package]
+name = "libmypaint"
+version = "1.6.1-2"
+license = "ISC"
+arch = "x86_64"
+description = "Library for making brushstrokes which is used by MyPaint and other projects"
+depends = ["glibc", "json-c", "gegl", "glib2", "json-glib", "babl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libmypaint-1.6.1-2-x86_64.pkg.tar.zst"
+sha256 = "6606b1705fc0428d711d5668ec2e08879448e8cec203300a5a0c60d2dd85786b"

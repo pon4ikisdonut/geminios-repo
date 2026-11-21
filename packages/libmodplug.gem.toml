@@ -1,0 +1,11 @@
+[package]
+name = "libmodplug"
+version = "0.8.9.2-1"
+license = "LicenseRef-PublicDomain"
+arch = "x86_64"
+description = "A MOD playing library"
+depends = ["glibc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libmodplug-0.8.9.2-1-x86_64.pkg.tar.zst"
+sha256 = "2fc54f1fa74407db961ed8a27ba4cc4e8616bca072c65dcb1a4c4d01dc066ce9"

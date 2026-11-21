@@ -1,0 +1,11 @@
+[package]
+name = "python-wrapt"
+version = "2.5.2-1"
+license = "BSD-2-Clause"
+arch = "x86_64"
+description = "A Python module for decorators, wrappers and monkey patching"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-wrapt-2.5.2-1-x86_64.pkg.tar.zst"
+sha256 = "017cfbac6974642eba3199c1bfe72b8e4d1199405874b197363fd8dbcd883e87"

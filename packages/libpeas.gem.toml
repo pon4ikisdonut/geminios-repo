@@ -1,0 +1,11 @@
+[package]
+name = "libpeas"
+version = "1.38.1-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "GObject Plugin System"
+depends = ["glib2", "glibc", "gtk3", "hicolor-icon-theme"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libpeas-1.38.1-2-x86_64.pkg.tar.zst"
+sha256 = "16a73714bcfc5785ef70a7fce654064422da621701c15cc2f3ef03c2b819168c"

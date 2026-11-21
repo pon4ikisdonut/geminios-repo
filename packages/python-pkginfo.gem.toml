@@ -1,0 +1,11 @@
+[package]
+name = "python-pkginfo"
+version = "2.0-1"
+license = "MIT"
+arch = "any"
+description = "Query metadata from sdists / bdists / installed packages"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-pkginfo-2.0-1-any.pkg.tar.zst"
+sha256 = "f04e86347fa4659f908459038e620a32c10ec397aafe8bce98335d6d3badfec7"

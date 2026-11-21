@@ -1,0 +1,11 @@
+[package]
+name = "libwebp"
+version = "1.6.0-2"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "WebP image codec library"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libwebp-1.6.0-2-x86_64.pkg.tar.zst"
+sha256 = "a80e7edd3ddd27c6fd8cd83d0bd98d46b3f0279b7ee01f5baeded0d6f26f8975"

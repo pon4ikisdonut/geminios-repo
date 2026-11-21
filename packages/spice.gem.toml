@@ -1,0 +1,11 @@
+[package]
+name = "spice"
+version = "0.16.0-5"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "SPICE server"
+depends = ["pixman", "opus", "libjpeg-turbo", "glib2", "libsasl", "lz4", "spice-protocol", "libcacard", "zlib", "libstdc++", "glibc", "libgcc", "openssl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/spice-0.16.0-5-x86_64.pkg.tar.zst"
+sha256 = "936caccd62dc41941df60c1eba3ea59b7691e03afeceedf177090d53954b85bf"

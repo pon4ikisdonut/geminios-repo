@@ -1,0 +1,11 @@
+[package]
+name = "gnome-menus"
+version = "3.38.1-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "GNOME menu specifications"
+depends = ["glib2", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gnome-menus-3.38.1-1-x86_64.pkg.tar.zst"
+sha256 = "6b9041082ad40497916779d78ef6db1aaf35fb004dc9ad1bc9b63c18288f60f3"

@@ -1,0 +1,11 @@
+[package]
+name = "mbedtls"
+version = "4.2.0-1"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "An open source, portable, easy to use, readable and flexible TLS library"
+depends = ["glibc", "sh"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/mbedtls-4.2.0-1-x86_64.pkg.tar.zst"
+sha256 = "3ccf014d4833e994e38a80769cb59ee9aac30f4cbce0e0dd857c743fc532f63d"

@@ -1,0 +1,11 @@
+[package]
+name = "python-websockets"
+version = "17.2-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Python implementation of the WebSocket Protocol (RFC 6455)"
+depends = ["glibc", "python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-websockets-17.2-1-x86_64.pkg.tar.zst"
+sha256 = "6db424139f18769540855348d182b792ada9fb8d2285adf3225fc9badd8e1759"

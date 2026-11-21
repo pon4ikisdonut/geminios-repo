@@ -1,0 +1,11 @@
+[package]
+name = "cmake"
+version = "4.5.1-1"
+license = "MIT"
+arch = "x86_64"
+description = "A cross-platform open-source make system"
+depends = ["cppdap", "curl", "expat", "glibc", "hicolor-icon-theme", "jsoncpp", "libarchive", "libgcc", "libstdc++", "libuv", "ncurses", "rhash", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/cmake-4.5.1-1-x86_64.pkg.tar.zst"
+sha256 = "cf86b5cab22b5bd3d6420fff11420e56e90edd01ba1ce04e3bc031ca79de7d2f"

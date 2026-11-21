@@ -1,0 +1,11 @@
+[package]
+name = "python-moddb"
+version = "0.16.0-1"
+license = "MIT"
+arch = "any"
+description = "A Python scraper to access ModDB mods, games and more as objects"
+depends = ["python", "python-beautifulsoup4", "python-curl-adapter", "python-requests", "python-typing_extensions"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-moddb-0.16.0-1-any.pkg.tar.zst"
+sha256 = "9291d7fe9424a641e9bc6c4db4c8bc54bec167c05aa23fbab0c6e1391cfd8b5a"

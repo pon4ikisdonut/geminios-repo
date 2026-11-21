@@ -1,0 +1,11 @@
+[package]
+name = "extra-cmake-modules"
+version = "6.32.0-1"
+license = "LGPL"
+arch = "any"
+description = "Extra modules and scripts for CMake"
+depends = ["cmake"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/extra-cmake-modules-6.32.0-1-any.pkg.tar.zst"
+sha256 = "52cbb4adb3f1d72f1ab33fba5c1f6535518978361d01b51e4e79539de2144dfd"

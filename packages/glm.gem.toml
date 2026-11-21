@@ -1,0 +1,11 @@
+[package]
+name = "glm"
+version = "1.0.3-1"
+license = "MIT"
+arch = "x86_64"
+description = "C++ mathematics library for 3D software based on the OpenGL Shading Language (GLSL) specification"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/glm-1.0.3-1-x86_64.pkg.tar.zst"
+sha256 = "5749f88b1f6e325253a26e3e3775ce533e391a284a0283991a68d5dc6f158507"

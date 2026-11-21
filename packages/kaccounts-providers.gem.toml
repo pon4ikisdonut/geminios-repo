@@ -1,0 +1,11 @@
+[package]
+name = "kaccounts-providers"
+version = "26.08.3-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Online account providers for the KAccounts system"
+depends = ["glibc", "kaccounts-integration", "kcoreaddons", "ki18n", "kio", "kirigami", "kpackage", "libstdc++", "qt6-base", "qt6-declarative", "qt6-webengine"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kaccounts-providers-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "241721035fb41ebc36da7f0297616997c293407f26d44a05c49c2e9913e63e1d"

@@ -1,0 +1,11 @@
+[package]
+name = "python-html5lib"
+version = "1.1-18"
+license = "MIT"
+arch = "any"
+description = "A Python HTML parser/tokenizer based on the WHATWG HTML5 spec"
+depends = ["python-six", "python-webencodings"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-html5lib-1.1-18-any.pkg.tar.zst"
+sha256 = "541a9017b628c0d940e9faeba47627d4f038c3bcf50fe3a68711180d13a6a5e3"

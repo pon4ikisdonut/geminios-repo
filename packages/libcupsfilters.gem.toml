@@ -1,0 +1,11 @@
+[package]
+name = "libcupsfilters"
+version = "2.2.1.r108.g3bf18925-1"
+license = "Apache-2.0 WITH LLVM-exception"
+arch = "x86_64"
+description = "OpenPrinting CUPS Filters - contains all the code of the filters of the former cups-filters package as library functions"
+depends = ["libcups", "libexif", "pdfio", "libjxl", "poppler", "libjpeg-turbo", "libpng", "libtiff", "lcms2", "fontconfig", "glibc", "dbus"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libcupsfilters-2.2.1.r108.g3bf18925-1-x86_64.pkg.tar.zst"
+sha256 = "a65cdf0f9442bcc2187209d0d974a8adba30d2320a87cb6cd7158b3ed0b39240"

@@ -1,0 +1,11 @@
+[package]
+name = "tlp"
+version = "1.11.0-1"
+license = "GPL-2.0-or-later"
+arch = "any"
+description = "Linux Advanced Power Management"
+depends = ["bash", "hdparm", "iw", "pciutils", "perl", "rfkill", "usbutils"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/tlp-1.11.0-1-any.pkg.tar.zst"
+sha256 = "32a2a93f92327d6c51dd37fabbe217118ad06d8c98d94008136224544c7dfbc6"

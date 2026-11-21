@@ -1,0 +1,11 @@
+[package]
+name = "libpaper"
+version = "2.2.8-1"
+license = "MIT"
+arch = "x86_64"
+description = "Library for handling paper characteristics"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libpaper-2.2.8-1-x86_64.pkg.tar.zst"
+sha256 = "6999728a4bee467ff3ec792e524d852ec1841b186402f6bd078c23b03b88f3e9"

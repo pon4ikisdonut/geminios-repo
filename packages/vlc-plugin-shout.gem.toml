@@ -1,0 +1,11 @@
+[package]
+name = "vlc-plugin-shout"
+version = "3.0.24-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Free and open source cross-platform multimedia player and framework - shoutcast plugin"
+depends = ["glibc", "libshout", "libvlc", "libvlccore.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vlc-plugin-shout-3.0.24-2-x86_64.pkg.tar.zst"
+sha256 = "15bb7d62cf7d30dbc4fc743d695c7891af48cb7f4dda9e95c9f14cae9b9d03fd"

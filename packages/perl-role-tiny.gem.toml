@@ -1,0 +1,11 @@
+[package]
+name = "perl-role-tiny"
+version = "2.002005-1"
+license = "GPL"
+arch = "any"
+description = "Roles. Like a nouvelle cuisine portion size slice of Moose."
+depends = ["perl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/perl-role-tiny-2.002005-1-any.pkg.tar.zst"
+sha256 = "4d8255370d8e59ed071af28ce79022e555ca3cbd47665e5d2dbfb3c81d170b5c"

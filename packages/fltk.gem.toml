@@ -1,0 +1,11 @@
+[package]
+name = "fltk"
+version = "1.4.5-2"
+license = "LGPL-2.0-only WITH FLTK-exception"
+arch = "x86_64"
+description = "Graphical user interface toolkit for Wayland and X"
+depends = ["alsa-lib", "cairo", "dbus", "glib2", "glibc", "glu", "hicolor-icon-theme", "libdecor", "libgcc", "libglvnd", "libjpeg-turbo", "libpng", "libstdc++", "libx11", "libxcursor", "libxfixes", "libxinerama", "libxkbcommon", "pango", "sh", "wayland", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/fltk-1.4.5-2-x86_64.pkg.tar.zst"
+sha256 = "e541d24a6fd9d72eaa875b45b92bbc52579a3494edcc754137e814ca965bd37e"

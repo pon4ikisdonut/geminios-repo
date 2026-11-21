@@ -1,0 +1,11 @@
+[package]
+name = "haskell-base16-bytestring"
+version = "1.0.2.0-252"
+license = "BSD"
+arch = "x86_64"
+description = "RFC 4648-compliant Base16 encodings for ByteStrings"
+depends = ["ghc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-base16-bytestring-1.0.2.0-252-x86_64.pkg.tar.zst"
+sha256 = "364aec7c79811c579484d4ea2619b4db4299e0a3446d56dd0310b419ac8c6044"

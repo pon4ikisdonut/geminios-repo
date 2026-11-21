@@ -1,0 +1,11 @@
+[package]
+name = "neovim"
+version = "0.12.6-1"
+license = "LicenseRef-vim"
+arch = "x86_64"
+description = "Fork of Vim aiming to improve user experience, plugins, and GUIs"
+depends = ["glibc", "libgcc", "libluv", "libtree-sitter.so", "libunibilium.so", "libutf8proc", "libuv", "libvterm", "lua51-lpeg", "luajit", "msgpack-c", "tree-sitter", "tree-sitter-c", "tree-sitter-lua", "tree-sitter-markdown", "tree-sitter-query", "tree-sitter-vim", "tree-sitter-vimdoc", "unibilium"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/neovim-0.12.6-1-x86_64.pkg.tar.zst"
+sha256 = "10cce7735e227f39d295d5584c052a418ef3d92001d46a7fcf573890f46b37b9"

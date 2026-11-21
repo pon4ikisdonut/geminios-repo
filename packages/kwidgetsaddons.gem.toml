@@ -1,0 +1,11 @@
+[package]
+name = "kwidgetsaddons"
+version = "6.32.0-1"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "Addons to QtWidgets"
+depends = ["libstdc++", "glibc", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kwidgetsaddons-6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "d8316d5917a9f1b29eafd4ac41fc85196c40e8a952e59952eb2c0b916f2f59b1"

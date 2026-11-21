@@ -1,0 +1,11 @@
+[package]
+name = "lcms2"
+version = "2.20-1"
+license = "MIT"
+arch = "x86_64"
+description = "Small-footprint color management engine, version 2"
+depends = ["glibc", "libjpeg-turbo", "libtiff"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/lcms2-2.20-1-x86_64.pkg.tar.zst"
+sha256 = "48da9f8eafcd71ea9e4d47f6315d154ba2a2044829904876ebaa0f63e0ad1b63"

@@ -1,0 +1,11 @@
+[package]
+name = "libexif"
+version = "0.6.26-1"
+license = "LGPL"
+arch = "x86_64"
+description = "Library to parse an EXIF file and read the data from those tags"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libexif-0.6.26-1-x86_64.pkg.tar.zst"
+sha256 = "92890eb0eece217dff5df78403d32682693b0b1557f20ca9264ca798646caea5"

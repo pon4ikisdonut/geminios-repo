@@ -1,0 +1,11 @@
+[package]
+name = "sddm-kcm"
+version = "6.8.3-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "KDE Config Module for SDDM"
+depends = ["glibc", "karchive", "kauth", "kcmutils", "kconfig", "kcoreaddons", "ki18n", "kio", "kirigami", "knewstuff", "kservice", "kwidgetsaddons", "libstdc++", "qt6-base", "qt6-declarative", "sddm"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/sddm-kcm-6.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "cd5a49bb5bd34b882f2a7cb061dcfe3736cb535e9657ba636fccad7404223fcc"

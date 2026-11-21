@@ -1,0 +1,11 @@
+[package]
+name = "tlottie"
+version = "1.0.6-1"
+license = "MIT"
+arch = "x86_64"
+description = "Rust library for drawing Lottie animations"
+depends = ["glibc", "libgcc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/tlottie-1.0.6-1-x86_64.pkg.tar.zst"
+sha256 = "c1af735e0d428e772da6db56a4edf3d57ab5c624011f37ce87ba23dddd1df4c9"

@@ -1,0 +1,11 @@
+[package]
+name = "haskell-ansi-terminal"
+version = "1.1.2-28"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Simple ANSI terminal support"
+depends = ["ghc-libs", "haskell-ansi-terminal-types", "haskell-colour"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-ansi-terminal-1.1.2-28-x86_64.pkg.tar.zst"
+sha256 = "bc00cef23d11663899b6b3f4de799a37d4ef87a9d3f6ac74557ac775ce8c7067"

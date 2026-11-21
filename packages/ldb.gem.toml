@@ -1,0 +1,11 @@
+[package]
+name = "ldb"
+version = "2:4.25.1-1"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "Schema-less, ldap like, API and database"
+depends = ["libtevent.so", "lmdb", "popt", "talloc", "tdb", "libtdb.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ldb-2:4.25.1-1-x86_64.pkg.tar.zst"
+sha256 = "04910fbd71aa3b77a6ea80030c03f0398ec4a95e68729102cd233bde20ad86a7"

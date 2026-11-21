@@ -1,0 +1,11 @@
+[package]
+name = "openssh"
+version = "10.6p2-1"
+license = "MIT"
+arch = "x86_64"
+description = "SSH protocol implementation for remote login, command execution and file transfer"
+depends = ["glibc", "krb5", "libkrb5.so", "libgssapi_krb5.so", "libedit", "libedit.so", "libxcrypt", "libcrypt.so", "openssl", "libcrypto.so", "pam", "libpam.so", "zlib", "libz.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/openssh-10.6p2-1-x86_64.pkg.tar.zst"
+sha256 = "0031b2ae2d65211c8f85f0212277b420f8aa1e051e817de6b86cbfe3da016106"

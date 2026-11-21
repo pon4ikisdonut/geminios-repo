@@ -1,0 +1,11 @@
+[package]
+name = "gdk-pixbuf2"
+version = "2.44.8-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "An image loading library"
+depends = ["glib2", "glibc", "glycin", "shared-mime-info"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gdk-pixbuf2-2.44.8-1-x86_64.pkg.tar.zst"
+sha256 = "48de0aa8c384d6cc4092851c462bbf17cb3275967f112f7b31e19443ff86b78f"

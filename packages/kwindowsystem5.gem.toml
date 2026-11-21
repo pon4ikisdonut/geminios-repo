@@ -1,0 +1,11 @@
+[package]
+name = "kwindowsystem5"
+version = "5.116.0-2"
+license = "LGPL"
+arch = "x86_64"
+description = "Access to the windowing system"
+depends = ["qt5-x11extras"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kwindowsystem5-5.116.0-2-x86_64.pkg.tar.zst"
+sha256 = "91f6aeb80a57637740b79a1988024fc90e9d0f490fc4af48f385c5bef6548af9"

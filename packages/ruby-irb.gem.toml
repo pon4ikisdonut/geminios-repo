@@ -1,0 +1,11 @@
+[package]
+name = "ruby-irb"
+version = "1.15.0-1"
+license = "BSD-2-Clause"
+arch = "any"
+description = "Interactive Ruby command-line tool for REPL (Read Eval Print Loop)."
+depends = ["ruby", "ruby-rdoc", "ruby-reline"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ruby-irb-1.15.0-1-any.pkg.tar.zst"
+sha256 = "a2681ce3214bc9232eb7c861527d638b59e97db7994a764b116b2ef25a20fb7f"

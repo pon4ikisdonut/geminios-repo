@@ -1,0 +1,11 @@
+[package]
+name = "readline"
+version = "8.3.6-1"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "GNU readline library"
+depends = ["glibc", "libncursesw.so", "ncurses"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/readline-8.3.6-1-x86_64.pkg.tar.zst"
+sha256 = "016b2aeebfbe9dfb89283c52bb49487d95ea23a875d477da42d000a793613020"

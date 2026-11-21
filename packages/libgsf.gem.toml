@@ -1,0 +1,11 @@
+[package]
+name = "libgsf"
+version = "1.14.60-1"
+license = "LGPL-2.1-only"
+arch = "x86_64"
+description = "Extensible I/O abstraction library for dealing with structured file formats"
+depends = ["bzip2", "gdk-pixbuf2", "glib2", "glibc", "libxml2", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libgsf-1.14.60-1-x86_64.pkg.tar.zst"
+sha256 = "64abd3d509e148bf349db32ffbbda35f3f4d3b02fdd48fb218513a213c275091"

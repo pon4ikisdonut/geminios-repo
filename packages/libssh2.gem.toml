@@ -1,0 +1,11 @@
+[package]
+name = "libssh2"
+version = "1.11.1-8"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "A library implementing the SSH2 protocol as defined by Internet Drafts"
+depends = ["glibc", "openssl", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/libssh2-1.11.1-8-x86_64.pkg.tar.zst"
+sha256 = "bffde249160fa014b6adb2ee46babb1978d3188d51e24a4de0d83689d7c1887f"

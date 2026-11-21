@@ -1,0 +1,11 @@
+[package]
+name = "mlt"
+version = "7.42.0-3"
+license = "LGPL-2.1-only"
+arch = "x86_64"
+description = "An open source multimedia framework"
+depends = ["glibc", "libebur128", "libgcc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/mlt-7.42.0-3-x86_64.pkg.tar.zst"
+sha256 = "f188ddf9d3880f5ab20d3f10b1cf22bc6fb55e404ed981b648c9c4614dddad84"

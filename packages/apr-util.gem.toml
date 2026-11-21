@@ -1,0 +1,11 @@
+[package]
+name = "apr-util"
+version = "1.6.6-2"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "The Apache Portable Runtime"
+depends = ["apr", "expat", "glibc", "libxcrypt"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/apr-util-1.6.6-2-x86_64.pkg.tar.zst"
+sha256 = "99999fe74f34568460a1d3b2d74f061184430e772e3f8b72724585718b482a7a"

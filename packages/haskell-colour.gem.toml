@@ -1,0 +1,11 @@
+[package]
+name = "haskell-colour"
+version = "2.3.7-109"
+license = "MIT"
+arch = "x86_64"
+description = "A model for human colour/color perception"
+depends = ["ghc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-colour-2.3.7-109-x86_64.pkg.tar.zst"
+sha256 = "9a4e7e4a67b27f98883c615f36b25967916b1dba89d53c6a5d0fea185c15fbb9"

@@ -1,0 +1,11 @@
+[package]
+name = "ministream"
+version = "0.99.1-1"
+license = "LGPL-2.1-only"
+arch = "x86_64"
+description = "Lightweight alternative to AppStream"
+depends = ["glibc", "glib2"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ministream-0.99.1-1-x86_64.pkg.tar.zst"
+sha256 = "22b5025fe5f619b1c878aa547e3ce1ce41f0026962f14bf84fa991f94aaad261"

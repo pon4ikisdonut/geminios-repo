@@ -1,0 +1,11 @@
+[package]
+name = "xfsprogs"
+version = "7.2.1-1"
+license = "LGPL-2.1-only"
+arch = "x86_64"
+description = "XFS filesystem utilities"
+depends = ["device-mapper", "libedit", "libinih", "liburcu", "sh", "util-linux-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/xfsprogs-7.2.1-1-x86_64.pkg.tar.zst"
+sha256 = "856adfac0afe51be444303497f5bdea41e89c52409dc17137df6b91ae1e6d12e"

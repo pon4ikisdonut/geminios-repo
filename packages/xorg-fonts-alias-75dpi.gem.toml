@@ -1,0 +1,11 @@
+[package]
+name = "xorg-fonts-alias-75dpi"
+version = "1.0.6-1"
+license = "LicenseRef-xorg-fonts-alias"
+arch = "any"
+description = "X.org font alias files - 75dpi font familiy"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xorg-fonts-alias-75dpi-1.0.6-1-any.pkg.tar.zst"
+sha256 = "06078d476daa817db8af7ba1af68f53aa900ed47988c502415a22127d2bf0b02"

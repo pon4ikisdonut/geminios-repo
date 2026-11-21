@@ -1,0 +1,11 @@
+[package]
+name = "libei"
+version = "1.6.0-2"
+license = "MIT"
+arch = "x86_64"
+description = "Library for Emulated Input"
+depends = ["glibc", "libevdev", "libgcc", "libxkbcommon", "systemd-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libei-1.6.0-2-x86_64.pkg.tar.zst"
+sha256 = "36e0482d629b846baaefc0363212b5afb291e6f9417b43ab4230c1a1d5f8b50b"

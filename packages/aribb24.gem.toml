@@ -1,0 +1,11 @@
+[package]
+name = "aribb24"
+version = "1.0.3-4"
+license = "LGPL3"
+arch = "x86_64"
+description = "Library for ARIB STD-B24, decoding JIS 8 bit characters and parsing MPEG-TS stream"
+depends = ["libpng"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/aribb24-1.0.3-4-x86_64.pkg.tar.zst"
+sha256 = "94353761c4a16f9f5b44f493c982cce203da0cc80a33bc1ad5df0d3821c74eb6"

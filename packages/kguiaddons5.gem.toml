@@ -1,0 +1,11 @@
+[package]
+name = "kguiaddons5"
+version = "5.116.0-2"
+license = "LGPL"
+arch = "x86_64"
+description = "Addons to QtGui"
+depends = ["qt5-x11extras", "qt5-wayland"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kguiaddons5-5.116.0-2-x86_64.pkg.tar.zst"
+sha256 = "52eafc7300f9e7a5c7fbf1fdd4b250b8cb7c15ddb1d6f032e524cb32b3ffbf0c"

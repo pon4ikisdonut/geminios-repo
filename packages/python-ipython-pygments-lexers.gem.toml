@@ -1,0 +1,11 @@
+[package]
+name = "python-ipython-pygments-lexers"
+version = "1.1.1-3"
+license = "BSD-3-Clause"
+arch = "any"
+description = "Defines a variety of Pygments lexers for highlighting IPython code"
+depends = ["python-pygments"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-ipython-pygments-lexers-1.1.1-3-any.pkg.tar.zst"
+sha256 = "8099daff7456859cf0da79f37cb8dea92022ec13958c9c9fc67ee9d8921b23d6"

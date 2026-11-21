@@ -1,0 +1,11 @@
+[package]
+name = "libp11-kit"
+version = "0.26.6-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Loads and enumerates PKCS#11 modules (library)"
+depends = ["glibc", "libffi", "libtasn1"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/libp11-kit-0.26.6-1-x86_64.pkg.tar.zst"
+sha256 = "d7aeee5e9f20e0af6d682c853ab9cf8fdc60f1140b222e23dc03be8e26e70669"

@@ -1,0 +1,11 @@
+[package]
+name = "muparser"
+version = "2.3.5-2"
+license = "BSD-2-Clause"
+arch = "x86_64"
+description = "A fast math parser library"
+depends = ["glibc", "libgcc", "libgomp", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/muparser-2.3.5-2-x86_64.pkg.tar.zst"
+sha256 = "0a7fba76ff0d5c2c1e4b509d0176dd862bf232670276f73bd204f8b398fcced6"

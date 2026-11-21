@@ -1,0 +1,11 @@
+[package]
+name = "freerdp"
+version = "2:3.33.1-2"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "Free implementation of the Remote Desktop Protocol (RDP)"
+depends = ["fuse3", "glibc", "jansson", "libcups", "libgcc", "libstdc++", "libx11", "libxcursor", "libxext", "libxdamage", "libxfixes", "libxkbcommon", "libxi", "libxinerama", "libxkbfile", "libxrandr", "libxrender", "libxtst", "sdl3", "sdl3_ttf", "sndio", "wayland", "alsa-lib", "libasound.so", "ffmpeg", "libavcodec.so", "libavutil.so", "libswresample.so", "libswscale.so", "icu", "libicuuc.so", "krb5", "libk5crypto.so", "libkrb5.so", "libcbor", "libcbor.so", "libfido2", "libfido2.so", "libjpeg-turbo", "libjpeg.so", "libpng", "libpng16.so", "libpulse", "libpulse.so", "libusb", "libusb-1.0.so", "libwebp", "libwebp.so", "openssl", "libcrypto.so", "libssl.so", "pam", "libpam.so", "zlib", "libz.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/freerdp-2:3.33.1-2-x86_64.pkg.tar.zst"
+sha256 = "9256ef2f83eee731166f159c6141881d5808ccf5ddd6261f52b144d5273ad198"

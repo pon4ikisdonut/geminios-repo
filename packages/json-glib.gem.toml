@@ -1,0 +1,11 @@
+[package]
+name = "json-glib"
+version = "1.10.8-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "JSON library built on GLib"
+depends = ["glib2", "glibc", "libglib-2.0.so", "libgobject-2.0.so", "libgio-2.0.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/json-glib-1.10.8-1-x86_64.pkg.tar.zst"
+sha256 = "3c2ec1b51d45f7c2d0cee7d28520b0772cc6d01fa09b808536e08dca7dd638eb"

@@ -1,0 +1,11 @@
+[package]
+name = "xdg-desktop-portal-kde"
+version = "6.8.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "A backend implementation for xdg-desktop-portal using Qt/KF5"
+depends = ["glibc", "kcmutils", "kconfig", "kcoreaddons", "kcrash", "kdeclarative", "kglobalaccel", "kiconthemes", "ki18n", "kio", "kio-fuse", "kirigami", "kirigami-addons", "kitemviews", "knotifications", "kpipewire", "kservice", "kstatusnotifieritem", "kwayland", "kwindowsystem", "libstdc++", "libxkbcommon", "plasma-workspace", "qt6-base", "qt6-declarative", "wayland", "xdg-desktop-portal"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xdg-desktop-portal-kde-6.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "5a07dd99df5535325039d6924492773239d8622f952b6eaaeb018ba739740604"

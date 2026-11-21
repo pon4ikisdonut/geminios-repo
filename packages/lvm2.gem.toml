@@ -1,0 +1,11 @@
+[package]
+name = "lvm2"
+version = "2.03.44-1"
+license = "LGPL-2.1-only"
+arch = "x86_64"
+description = "Logical Volume Manager 2 utilities"
+depends = ["bash", "device-mapper", "glibc", "libaio", "libaio.so", "readline", "libreadline.so", "systemd-libs", "libudev.so", "thin-provisioning-tools", "util-linux-libs", "libblkid.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/lvm2-2.03.44-1-x86_64.pkg.tar.zst"
+sha256 = "5e54ddd42dfad75271d7d5b7038d75e640e6563319ac72578d78f21e08729701"

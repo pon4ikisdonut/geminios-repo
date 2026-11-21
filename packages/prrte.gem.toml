@@ -1,0 +1,11 @@
+[package]
+name = "prrte"
+version = "3.0.14-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "PMIx Reference RunTime Environment"
+depends = ["glibc", "hwloc", "libevent", "libevent_core-2.1.so", "libevent_pthreads-2.1.so", "openpmix", "libpmix.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/prrte-3.0.14-1-x86_64.pkg.tar.zst"
+sha256 = "4f4e6c1efb2d0f40d39271c6e02ce06ea04ebb2a3cae14179551c3590c9912f1"

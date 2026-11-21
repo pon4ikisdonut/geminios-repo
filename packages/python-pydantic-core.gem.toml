@@ -1,0 +1,11 @@
+[package]
+name = "python-pydantic-core"
+version = "3:2.50.2-1"
+license = "MIT"
+arch = "x86_64"
+description = "Core validation logic for pydantic written in rust"
+depends = ["glibc", "libgcc", "python", "python-typing-inspection", "python-typing_extensions"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-pydantic-core-3:2.50.2-1-x86_64.pkg.tar.zst"
+sha256 = "ed6c517e17d175535bc238483c4f533c7690f6c5ed9a9ed3fcd360de67599804"

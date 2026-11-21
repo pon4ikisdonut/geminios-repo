@@ -1,0 +1,11 @@
+[package]
+name = "gvfs-smb"
+version = "1.62.0-3"
+license = "LGPL-2.0-only"
+arch = "x86_64"
+description = "Virtual filesystem implementation for GIO - SMB/CIFS backend (Windows file sharing)"
+depends = ["gvfs", "smbclient", "dconf", "glib2", "glibc", "libgcc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gvfs-smb-1.62.0-3-x86_64.pkg.tar.zst"
+sha256 = "1708c944f6e6c3f8f80add37c19cc586777badd9cbdad64f4ebf48a9704091fb"

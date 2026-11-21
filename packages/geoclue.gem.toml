@@ -1,0 +1,11 @@
+[package]
+name = "geoclue"
+version = "2.8.2-2"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Modular geoinformation service built on the D-Bus messaging system"
+depends = ["avahi", "glib2", "glibc", "json-glib", "libgcc", "libmm-glib", "libsoup3"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/geoclue-2.8.2-2-x86_64.pkg.tar.zst"
+sha256 = "740436587c28c8deaccd116e3e07319a62931b63fd2c9d23d03709bba94d30e5"

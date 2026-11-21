@@ -1,0 +1,11 @@
+[package]
+name = "lshw"
+version = "B.02.20-3"
+license = "GPL"
+arch = "x86_64"
+description = "A small tool to provide detailed information on the hardware configuration of the machine."
+depends = ["hwdata"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/lshw-B.02.20-3-x86_64.pkg.tar.zst"
+sha256 = "e90333947ee13b3421e5cef1e4ef095441f58f2b9629803588a98e32153ca67b"

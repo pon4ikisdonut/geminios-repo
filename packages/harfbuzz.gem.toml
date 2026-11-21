@@ -1,0 +1,11 @@
+[package]
+name = "harfbuzz"
+version = "15.1.0-1"
+license = "MIT"
+arch = "x86_64"
+description = "OpenType text shaping engine"
+depends = ["freetype2", "libfreetype.so", "glib2", "libglib-2.0.so", "libgobject-2.0.so", "glibc", "graphite", "libgraphite2.so", "libpng", "libpng16.so", "zlib", "libz.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/harfbuzz-15.1.0-1-x86_64.pkg.tar.zst"
+sha256 = "ea4e65751012d77756717e76dbe0a97245ee9a0d87b9475b1d8ff7a16007ae65"

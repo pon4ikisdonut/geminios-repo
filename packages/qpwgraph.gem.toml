@@ -1,0 +1,11 @@
+[package]
+name = "qpwgraph"
+version = "1.0.5-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "PipeWire Graph Qt GUI Interface"
+depends = ["glibc", "hicolor-icon-theme", "libgcc", "libstdc++", "qt6-base", "qt6-svg", "alsa-lib", "libasound.so", "libpipewire", "libpipewire-0.3.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qpwgraph-1.0.5-1-x86_64.pkg.tar.zst"
+sha256 = "644b521b611dffd5a27655c76242394bf16db946882914f6093a7325a0bffdec"

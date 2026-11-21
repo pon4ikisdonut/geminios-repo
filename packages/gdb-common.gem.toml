@@ -1,0 +1,11 @@
+[package]
+name = "gdb-common"
+version = "18.1-2"
+license = "LGPL-3.0-or-later"
+arch = "x86_64"
+description = "The GNU Debugger"
+depends = ["python", "guile"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gdb-common-18.1-2-x86_64.pkg.tar.zst"
+sha256 = "40513f3bdef05305107641ff0e9484c1a024b7ef1a0a31518351dab4ebe416d0"

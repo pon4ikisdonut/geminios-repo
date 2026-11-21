@@ -1,0 +1,11 @@
+[package]
+name = "cccl"
+version = "3.5.0-1"
+license = "Apache-2.0"
+arch = "any"
+description = "CUDA Core Compute Libraries"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/cccl-3.5.0-1-any.pkg.tar.zst"
+sha256 = "af6163241a40eae96317396d7e2e3cd72b14518e293093fee8d12e1557c25794"

@@ -1,0 +1,11 @@
+[package]
+name = "qt5-x11extras"
+version = "5.15.19-1"
+license = "custom"
+arch = "x86_64"
+description = "Provides platform-specific APIs for X11"
+depends = ["qt5-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qt5-x11extras-5.15.19-1-x86_64.pkg.tar.zst"
+sha256 = "6f8b11edee65e9646be560956dab2b371e9be43c414b47414b885a6b5d3163d9"

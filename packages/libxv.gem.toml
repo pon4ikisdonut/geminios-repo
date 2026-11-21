@@ -1,0 +1,11 @@
+[package]
+name = "libxv"
+version = "1.0.13-1"
+license = "HPND-sell-variant"
+arch = "x86_64"
+description = "X11 Video extension library"
+depends = ["libxext", "libx11", "glibc", "xorgproto"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libxv-1.0.13-1-x86_64.pkg.tar.zst"
+sha256 = "9cae2311e50945fd5144575aa010da6009ca85d68a492f253920ac16c936e290"

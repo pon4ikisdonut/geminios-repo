@@ -1,0 +1,11 @@
+[package]
+name = "podofo"
+version = "1.1.2-4"
+license = "LGPL-2.1-only"
+arch = "x86_64"
+description = "A C++ library to work with the PDF file format"
+depends = ["fontconfig", "glibc", "libstdc++", "libgcc", "fmt", "freetype2", "libjpeg-turbo", "libpng", "libtiff", "libxml2", "openssl", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/podofo-1.1.2-4-x86_64.pkg.tar.zst"
+sha256 = "ff1337dca0fb17ef3a82d296a38eff861d109dbd0ac1a1044f93b3d2848c9bcb"

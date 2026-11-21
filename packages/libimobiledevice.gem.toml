@@ -1,0 +1,11 @@
+[package]
+name = "libimobiledevice"
+version = "1.4.0-3"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Library to communicate with services on iOS devices using native protocols"
+depends = ["glibc", "libimobiledevice-glue", "libplist", "libtatsu", "libusbmuxd", "openssl", "readline"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libimobiledevice-1.4.0-3-x86_64.pkg.tar.zst"
+sha256 = "1864c7832ae8f6180a12f35dc4d88e5f74b49d13b9c6830531543641b23b11cb"

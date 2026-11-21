@@ -1,0 +1,11 @@
+[package]
+name = "kstatusnotifieritem"
+version = "6.32.0-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Implementation of Status Notifier Items"
+depends = ["glibc", "kwindowsystem", "libstdc++", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kstatusnotifieritem-6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "e1a30ebd6e4255e9e1e59f023759f28568ded193d5747401fee92ee35e95a879"

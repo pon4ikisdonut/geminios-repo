@@ -1,0 +1,11 @@
+[package]
+name = "sdl3_ttf"
+version = "3.2.2-3"
+license = "Zlib"
+arch = "x86_64"
+description = "A library that allows you to use TrueType fonts in your SDL applications (Version 3)"
+depends = ["glibc", "sdl3", "freetype2", "harfbuzz"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/sdl3_ttf-3.2.2-3-x86_64.pkg.tar.zst"
+sha256 = "0f51cfe5370558091cf14529bfef557b8465c1c8491809b10db95666294ada39"

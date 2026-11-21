@@ -1,0 +1,11 @@
+[package]
+name = "perl-params-util"
+version = "1.102-8"
+license = "GPL"
+arch = "x86_64"
+description = "Simple, compact and correct param-checking functions"
+depends = ["perl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/perl-params-util-1.102-8-x86_64.pkg.tar.zst"
+sha256 = "efc2e59803388a84f822f1010e3828cd907b3c50110f0ea2aa25c575bef1473e"

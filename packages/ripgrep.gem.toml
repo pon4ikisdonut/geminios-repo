@@ -1,0 +1,11 @@
+[package]
+name = "ripgrep"
+version = "15.2.0-1"
+license = "MIT OR Unlicense"
+arch = "x86_64"
+description = "A search tool that combines the usability of ag with the raw speed of grep"
+depends = ["glibc", "libgcc", "pcre2"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ripgrep-15.2.0-1-x86_64.pkg.tar.zst"
+sha256 = "4ab540861ee43dfe6974403dd3f03830615fd4b53971736f5c4fc7aa82133a21"

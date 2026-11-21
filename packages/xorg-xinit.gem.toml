@@ -1,0 +1,11 @@
+[package]
+name = "xorg-xinit"
+version = "1.4.4-1"
+license = "MIT-open-group"
+arch = "x86_64"
+description = "X.Org initialisation program"
+depends = ["libx11", "xorg-xauth", "xorg-xrdb", "xorg-xmodmap", "sh", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xorg-xinit-1.4.4-1-x86_64.pkg.tar.zst"
+sha256 = "edf4f98e4c787074b3d182daf9eadfacee3ce14785397ccd63fe11f9ffb1c903"

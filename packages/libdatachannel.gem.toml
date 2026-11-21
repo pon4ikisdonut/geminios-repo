@@ -1,0 +1,11 @@
+[package]
+name = "libdatachannel"
+version = "0.24.5-3"
+license = "MPL-2.0"
+arch = "x86_64"
+description = "C/C++ WebRTC network library featuring Data Channels, Media Transport, and WebSockets"
+depends = ["glibc", "libstdc++", "libgcc", "openssl", "libjuice", "libsrtp"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libdatachannel-0.24.5-3-x86_64.pkg.tar.zst"
+sha256 = "fe0efcd39b6e5aae5ca9d44bb59c597f13e2ceb3283afc4fb538afc71199f52c"

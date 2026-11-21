@@ -1,0 +1,11 @@
+[package]
+name = "haskell-uuid-types"
+version = "1.0.6.1-154"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Type definitions for Universally Unique Identifiers"
+depends = ["ghc-libs", "haskell-hashable", "haskell-random"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-uuid-types-1.0.6.1-154-x86_64.pkg.tar.zst"
+sha256 = "977aa263b947011abdabe5840d4ebe529c973baad8cd67d1dc6ea76539be3247"

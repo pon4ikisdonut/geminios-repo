@@ -1,0 +1,11 @@
+[package]
+name = "haskell-skylighting-format-blaze-html"
+version = "0.1.2.2-32"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "HTML formatter for skylighting syntax highlighting library"
+depends = ["ghc-libs", "haskell-blaze-html", "haskell-skylighting-core"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-skylighting-format-blaze-html-0.1.2.2-32-x86_64.pkg.tar.zst"
+sha256 = "720ff4251c16ed4c50e3f5548e18b46636ff8ae090f94e240574f756c7e28e51"

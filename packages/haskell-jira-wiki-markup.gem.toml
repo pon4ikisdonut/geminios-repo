@@ -1,0 +1,11 @@
+[package]
+name = "haskell-jira-wiki-markup"
+version = "1.5.1-193"
+license = "MIT"
+arch = "x86_64"
+description = "Handle Jira wiki markup"
+depends = ["ghc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-jira-wiki-markup-1.5.1-193-x86_64.pkg.tar.zst"
+sha256 = "7ec25ffc9265b34d8fb30fa7e9f48f48d7d41711e448eccc2744a8fa033face4"

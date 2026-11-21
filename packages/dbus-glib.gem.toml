@@ -1,0 +1,11 @@
+[package]
+name = "dbus-glib"
+version = "0.116-1"
+license = "AFL-2.1 OR GPL-2.0-or-later"
+arch = "x86_64"
+description = "GLib bindings for D-Bus (deprecated)"
+depends = ["dbus", "expat", "glib2", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/dbus-glib-0.116-1-x86_64.pkg.tar.zst"
+sha256 = "6e79dd54852b52de6f08150f6ca03fc2918e209cd59af0daebe1c0897b8d6f78"

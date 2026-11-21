@@ -1,0 +1,11 @@
+[package]
+name = "libdvdread"
+version = "7.1.1-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Library for reading DVD video disks"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libdvdread-7.1.1-1-x86_64.pkg.tar.zst"
+sha256 = "41d9fce076d8dc28d85cbad6327ef5997dc52c13494871e3c1a2bb0c01a4112a"

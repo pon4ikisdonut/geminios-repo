@@ -1,0 +1,11 @@
+[package]
+name = "cdrtools"
+version = "3.02a09-6"
+license = "CDDL-1.0"
+arch = "x86_64"
+description = "Highly portable CD/DVD/BluRay command line recording software"
+depends = ["acl", "glibc", "libcap"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/cdrtools-3.02a09-6-x86_64.pkg.tar.zst"
+sha256 = "ebd97f0f2dbe1b6620b30bc741fee8db80624c2470666b60f57f02516f6b5971"

@@ -1,0 +1,11 @@
+[package]
+name = "yajl"
+version = "2.1.0-7"
+license = "ISC"
+arch = "x86_64"
+description = "Yet Another JSON Library"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/yajl-2.1.0-7-x86_64.pkg.tar.zst"
+sha256 = "762d0ca721dcb6b85a5927cb9285f4e2656212bc985a36c2eea01fd0facd862c"

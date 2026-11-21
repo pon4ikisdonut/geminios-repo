@@ -1,0 +1,11 @@
+[package]
+name = "imath"
+version = "3.2.3-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "A C++ and python library of 2D and 3D vector, matrix, and math operations for computer graphics"
+depends = ["glibc", "libgcc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/imath-3.2.3-1-x86_64.pkg.tar.zst"
+sha256 = "f034fcd6b6df873e8dd248b4ad7a5b9dab86b30f9fd249be92d4299741ac07c2"

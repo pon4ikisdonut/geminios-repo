@@ -1,0 +1,11 @@
+[package]
+name = "vlc-plugin-svg"
+version = "3.0.24-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Free and open source cross-platform multimedia player and framework - SVG plugins"
+depends = ["cairo", "glib2", "glibc", "librsvg", "libvlc", "libvlccore.so", "vlc-plugins-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vlc-plugin-svg-3.0.24-2-x86_64.pkg.tar.zst"
+sha256 = "37be6360d9f4ab96fe16bf808e8c9c41ce58db51af1b036e40da6c28c81bdcaf"

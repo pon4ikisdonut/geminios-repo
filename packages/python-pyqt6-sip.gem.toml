@@ -1,0 +1,11 @@
+[package]
+name = "python-pyqt6-sip"
+version = "13.13.1-1"
+license = "BSD-2-Clause"
+arch = "x86_64"
+description = "The sip module support for PyQt6"
+depends = ["glibc", "python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-pyqt6-sip-13.13.1-1-x86_64.pkg.tar.zst"
+sha256 = "3e616e0a971655ec0ba2dfa82fb46773e6a04ec6ad8ec76f0ac546f759c62c7e"

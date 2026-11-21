@@ -1,0 +1,11 @@
+[package]
+name = "vlc-plugin-sftp"
+version = "3.0.24-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Free and open source cross-platform multimedia player and framework - SFTP plugin"
+depends = ["glibc", "libssh2", "libvlc", "libvlccore.so", "vlc-plugins-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vlc-plugin-sftp-3.0.24-2-x86_64.pkg.tar.zst"
+sha256 = "006959226b76140349c9bab9f471ed582782a091c06c3c36d070743617a7c6c2"

@@ -1,0 +1,11 @@
+[package]
+name = "webkit2gtk-4.1"
+version = "2.54.3-1"
+license = "Unicode-TOU"
+arch = "x86_64"
+description = "Web content engine for GTK"
+depends = ["at-spi2-core", "atk", "bubblewrap", "cairo", "enchant", "expat", "fontconfig", "freetype2", "gdk-pixbuf2", "glib2", "glibc", "gst-plugins-bad-libs", "gst-plugins-base-libs", "gstreamer", "gtk3", "harfbuzz", "harfbuzz-icu", "hyphen", "icu", "lcms2", "libatomic", "libavif", "libdrm", "libegl", "libepoxy", "libgcc", "libgcrypt", "libgl", "libgles", "libjpeg-turbo", "libjxl", "libmanette", "libpng", "libseccomp", "libsecret", "libsoup3", "libstdc++", "libsystemd", "libtasn1", "libwebp", "libx11", "libxml2", "libxslt", "mesa", "openjpeg2", "pango", "sqlite", "ttf-font", "wayland", "woff2", "xdg-dbus-proxy", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/webkit2gtk-4.1-2.54.3-1-x86_64.pkg.tar.zst"
+sha256 = "3ca89124d8e48ef93512beeffa44ff3eeea774c7cfcc5d856c2d43f6bcd3a042"

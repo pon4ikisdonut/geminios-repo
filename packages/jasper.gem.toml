@@ -1,0 +1,11 @@
+[package]
+name = "jasper"
+version = "4.2.9-1"
+license = "LicenseRef-JasPer2.0"
+arch = "x86_64"
+description = "Software-based implementation of the codec specified in the emerging JPEG-2000 Part-1 standard"
+depends = ["freeglut", "glibc", "glu", "libglvnd", "libjpeg-turbo"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/jasper-4.2.9-1-x86_64.pkg.tar.zst"
+sha256 = "de413717cf274894de2a4bbbc8c85be727f313fb3bbc2ed30fe316cfc773a6b1"

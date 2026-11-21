@@ -1,0 +1,11 @@
+[package]
+name = "libffi"
+version = "3.8.1-1"
+license = "MIT"
+arch = "x86_64"
+description = "Portable foreign function interface library"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/libffi-3.8.1-1-x86_64.pkg.tar.zst"
+sha256 = "de2b807b473eea794d465a971e010ffac62fe9e779e95afd5d0dba97210b803d"

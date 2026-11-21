@@ -1,0 +1,11 @@
+[package]
+name = "linux-firmware-atheros"
+version = "20261019-1"
+license = "LicenseRef-atheros"
+arch = "any"
+description = "Firmware files for Linux - Firmware for Qualcomm Atheros WiFi and Bluetooth adapters"
+depends = ["linux-firmware-whence"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/linux-firmware-atheros-20261019-1-any.pkg.tar.zst"
+sha256 = "83d2ae3a1b79ca4f7b180f7a032c3d6a3dc9f77bb4f0ff47619c8556977f9787"

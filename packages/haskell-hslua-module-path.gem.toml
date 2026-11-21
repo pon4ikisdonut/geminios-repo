@@ -1,0 +1,11 @@
+[package]
+name = "haskell-hslua-module-path"
+version = "1.2.0-27"
+license = "MIT"
+arch = "x86_64"
+description = "Lua module to work with file paths."
+depends = ["ghc-libs", "haskell-hslua-core", "haskell-hslua-marshalling", "haskell-hslua-packaging"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-hslua-module-path-1.2.0-27-x86_64.pkg.tar.zst"
+sha256 = "c9d6359a2735da828df49478a00ebdb9d6dda92a4d58eaf371724cda55d455bd"

@@ -1,0 +1,11 @@
+[package]
+name = "libappindicator"
+version = "12.10.1-2"
+license = "GPL-3.0-only"
+arch = "x86_64"
+description = "Allow applications to extend a menu via Ayatana indicators in Unity, KDE or Systray"
+depends = ["glib2", "glibc", "gtk3", "libdbusmenu-glib", "libdbusmenu-gtk3"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libappindicator-12.10.1-2-x86_64.pkg.tar.zst"
+sha256 = "ea32344476a667a31c698e07150b8a126ddca37035f41f7e3a3c72aba95f2637"

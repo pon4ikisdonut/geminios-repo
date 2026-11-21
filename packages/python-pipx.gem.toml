@@ -1,0 +1,11 @@
+[package]
+name = "python-pipx"
+version = "1.18.4-2"
+license = "MIT"
+arch = "any"
+description = "Install and Run Python Applications in Isolated Environments"
+depends = ["python", "python-userpath", "python-argcomplete", "python-packaging", "python-platformdirs", "python-filelock"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-pipx-1.18.4-2-any.pkg.tar.zst"
+sha256 = "8fd74496b30ea7e13950dbbea0740734b1d148d0ce2158845188d0d36294aa9b"

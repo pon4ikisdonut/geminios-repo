@@ -1,0 +1,11 @@
+[package]
+name = "pipewire-jack"
+version = "1:1.6.11-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Low-latency audio/video router and processor - JACK replacement"
+depends = ["libpipewire", "libpipewire-0.3.so", "pipewire-audio", "pipewire", "glibc", "pipewire-session-manager", "sh"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/pipewire-jack-1:1.6.11-2-x86_64.pkg.tar.zst"
+sha256 = "6da7ebb39aebe4785a69ce113b15b904b88aa2ea65895591096d7e286fc82406"

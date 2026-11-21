@@ -1,0 +1,11 @@
+[package]
+name = "perl-file-chdir"
+version = "0.1011-6"
+license = "PerlArtistic"
+arch = "any"
+description = "a more sensible way to change directories"
+depends = ["perl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/perl-file-chdir-0.1011-6-any.pkg.tar.zst"
+sha256 = "ed0544e854eb580e5d5afb4e5c2a539f520b1a5b7cde0d5fae2ffe103726363d"

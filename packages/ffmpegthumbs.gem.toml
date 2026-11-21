@@ -1,0 +1,11 @@
+[package]
+name = "ffmpegthumbs"
+version = "26.08.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "FFmpeg-based thumbnail creator for video files"
+depends = ["ffmpeg", "glibc", "kconfig", "kcoreaddons", "kio", "libstdc++", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ffmpegthumbs-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "16806cbf6cca2f93a607d0db8c477bd111c84fff5bdf78db67616f105ce2a6e0"

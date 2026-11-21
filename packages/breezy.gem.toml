@@ -1,0 +1,11 @@
+[package]
+name = "breezy"
+version = "3.3.22-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "A decentralized revision control system with support for Bazaar and Git file formats"
+depends = ["glibc", "libgcc", "python", "python-catalogus", "python-configobj", "python-dulwich", "python-fastbencode", "python-merge3", "python-patiencediff", "python-vcsgraph", "python-yaml"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/breezy-3.3.22-1-x86_64.pkg.tar.zst"
+sha256 = "a403edda5e50fd8189b5377992627198f19dca67dd7aa0620e1efe6900143e94"

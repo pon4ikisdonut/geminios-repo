@@ -1,0 +1,11 @@
+[package]
+name = "alsa-plugins"
+version = "1:1.2.12-6"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Additional ALSA plugins"
+depends = ["alsa-lib", "libasound.so", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/alsa-plugins-1:1.2.12-6-x86_64.pkg.tar.zst"
+sha256 = "2163decc9f4b8f3108eb56c7957e1e7894e83ca494c6f550892c82bad494183a"

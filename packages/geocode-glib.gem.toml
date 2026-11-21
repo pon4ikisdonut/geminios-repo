@@ -1,0 +1,11 @@
+[package]
+name = "geocode-glib"
+version = "3.26.4-6"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Helper library for geocoding services"
+depends = ["glib2", "glibc", "hicolor-icon-theme", "json-glib", "libgcc", "libsoup3", "libsoup-3.0.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/geocode-glib-3.26.4-6-x86_64.pkg.tar.zst"
+sha256 = "999ee47327f610ea80776af492ea589eb75b1ca444f8c806b818ef2c7163f44f"

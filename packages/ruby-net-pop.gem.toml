@@ -1,0 +1,11 @@
+[package]
+name = "ruby-net-pop"
+version = "0.1.2-5"
+license = "BSD-2-CLAUSE"
+arch = "any"
+description = "Ruby client library for POP3"
+depends = ["ruby"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ruby-net-pop-0.1.2-5-any.pkg.tar.zst"
+sha256 = "2d3efbac029db6bb2e4a8dd3eb0f6138da80f489388cdd6d84ed756061440a98"

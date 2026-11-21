@@ -1,0 +1,11 @@
+[package]
+name = "aarch64-linux-gnu-gdb"
+version = "17.2-1"
+license = "GPL3"
+arch = "x86_64"
+description = "The GNU Debugger for the ARM64 target"
+depends = ["xz", "ncurses", "expat", "python", "guile", "gdb-common", "mpfr", "libelf", "source-highlight"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/aarch64-linux-gnu-gdb-17.2-1-x86_64.pkg.tar.zst"
+sha256 = "e53d4e0a5ef68e3440577d3bd4ff691e0d76a88c0665881fc0ec15819ca4c390"

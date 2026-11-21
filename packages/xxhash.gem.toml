@@ -1,0 +1,11 @@
+[package]
+name = "xxhash"
+version = "0.8.4-1"
+license = "BSD"
+arch = "x86_64"
+description = "Extremely fast non-cryptographic hash algorithm"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xxhash-0.8.4-1-x86_64.pkg.tar.zst"
+sha256 = "ef60bad0552de3eb8a0e1e2a07eb1bcaceaa771a5f36401a2cf0de135ffcc72b"

@@ -1,0 +1,11 @@
+[package]
+name = "ttf-jetbrains-mono"
+version = "2.304-2"
+license = "custom:OFL"
+arch = "any"
+description = "Typeface for developers, by JetBrains"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ttf-jetbrains-mono-2.304-2-any.pkg.tar.zst"
+sha256 = "eb298342cb380332342357fbebba3f3ff0702ef2f86fc6ee4903a7094acd6e87"

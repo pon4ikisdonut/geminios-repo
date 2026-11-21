@@ -1,0 +1,11 @@
+[package]
+name = "oxygen-cursors"
+version = "6.8.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Oxygen cursors"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/oxygen-cursors-6.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "4fd63aa359e28eb10b65347b020d56128689982f740bff9dcb232072d174c662"

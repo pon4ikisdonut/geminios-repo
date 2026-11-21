@@ -1,0 +1,11 @@
+[package]
+name = "manifold"
+version = "3.4.1-1"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "Geometry library for topological robustness"
+depends = ["glibc", "libgcc", "libstdc++", "nanobind", "pybind11", "onetbb"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/manifold-3.4.1-1-x86_64.pkg.tar.zst"
+sha256 = "b09b592f35495f99664ae608d45ca3f7fcb1b20dc57cd9984100b043369cea0e"

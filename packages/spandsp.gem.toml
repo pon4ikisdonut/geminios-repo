@@ -1,0 +1,11 @@
+[package]
+name = "spandsp"
+version = "3.1.1-1"
+license = "LGPL-2.1-only"
+arch = "x86_64"
+description = "Low-level signal processing library that modulates and demodulates signals commonly used in telephony"
+depends = ["glibc", "libjpeg-turbo", "libtiff"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/spandsp-3.1.1-1-x86_64.pkg.tar.zst"
+sha256 = "b5eeb37e18874ee861719e8ace793cc2d9fe6d23ca35f3d085e7e83a6629ca3b"

@@ -1,0 +1,11 @@
+[package]
+name = "kdsoap-ws-discovery-client"
+version = "0.4.0-3"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "WS-Discovery client library based on KDSoap"
+depends = ["glibc", "kdsoap", "libstdc++", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kdsoap-ws-discovery-client-0.4.0-3-x86_64.pkg.tar.zst"
+sha256 = "e38cf0b087924bbaca5376d706c22923883c41b57e690f94249c853bd6d491fc"

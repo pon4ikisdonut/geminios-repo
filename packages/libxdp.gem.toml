@@ -1,0 +1,11 @@
+[package]
+name = "libxdp"
+version = "1.6.3-2"
+license = "BSD2"
+arch = "x86_64"
+description = "The libxdp package contains the libxdp library for managing XDP programs"
+depends = ["libelf", "linux-api-headers", "libbpf"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libxdp-1.6.3-2-x86_64.pkg.tar.zst"
+sha256 = "4146de33b9b12531064de40cb671537407c2267e4304159f407be92f2c8758a4"

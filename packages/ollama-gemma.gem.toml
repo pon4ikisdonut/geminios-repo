@@ -1,13 +1,13 @@
 [package]
 name = "ollama-gemma"
-version = "1.0.0"
+version = "1.0.1"
 license = "MIT"
 arch = "x86_64"
 description = "Local Gemma AI fallback helper managed by geminid hardware checker"
 depends = ["geminid"]
 
 [source]
-url = "https://github.com/pon4ikisdonut/geminios-repo/releases/download/v1.0.0/ollama-gemma-1.0.0.tar.gz"
+url = "https://github.com/pon4ikisdonut/geminios-repo/releases/download/v1.0.1/ollama-gemma-1.0.1.tar.gz"
 sha256 = "7afe8b060c8ee70373966aeffc2295a000d032396e3017dbefaf8ed93d6c749f"
 
 [hooks]

@@ -1,0 +1,11 @@
+[package]
+name = "htop"
+version = "3.5.3-1"
+license = "GPL"
+arch = "x86_64"
+description = "Interactive process viewer"
+depends = ["libcap", "libcap.so", "libnl", "ncurses", "libncursesw.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/htop-3.5.3-1-x86_64.pkg.tar.zst"
+sha256 = "f21661bc0229ef8ef9b1898b61b37bcd84fcc334c01f724d184e220aba89fda6"

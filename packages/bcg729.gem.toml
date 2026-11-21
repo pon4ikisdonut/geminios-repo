@@ -1,0 +1,11 @@
+[package]
+name = "bcg729"
+version = "1.1.2-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Encoder and decoder of the ITU G.729 Annex A/B speech codec"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/bcg729-1.1.2-1-x86_64.pkg.tar.zst"
+sha256 = "91bf9f7d0a13bab6cf73faa89ef607a23c656c9539b4667a4402e41c8bdaf765"

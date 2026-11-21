@@ -1,0 +1,11 @@
+[package]
+name = "evtest"
+version = "1.36-1"
+license = "GPL"
+arch = "x86_64"
+description = "Input device event monitor and query tool"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/evtest-1.36-1-x86_64.pkg.tar.zst"
+sha256 = "0e436f33beb0e41c71bd80fe3f1e85399c21ef59a459d0c35f1b62c347c2a91b"

@@ -1,0 +1,11 @@
+[package]
+name = "glycin-gtk4"
+version = "2.2.6-2"
+license = "MPL-2.0 OR LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Sandboxed and extendable image decoding - GTK4 integration"
+depends = ["fontconfig", "glib2", "glibc", "glycin", "gtk4", "lcms2", "libgcc", "libseccomp"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/glycin-gtk4-2.2.6-2-x86_64.pkg.tar.zst"
+sha256 = "0c0339e62bd64cf517db16ea6b10c0873f0c56b80b5ca50d8f2185308d1a6691"

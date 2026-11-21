@@ -1,0 +1,11 @@
+[package]
+name = "libiec61883"
+version = "1.2.0-9"
+license = "LGPL"
+arch = "x86_64"
+description = "A higher level API for streaming DV, MPEG-2 and audio over Linux IEEE 1394"
+depends = ["libraw1394"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libiec61883-1.2.0-9-x86_64.pkg.tar.zst"
+sha256 = "ce0718c4be56ebe9570c6571412191bc1bc57461ac646397b4e52b0f2b5032cd"

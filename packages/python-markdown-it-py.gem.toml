@@ -1,0 +1,11 @@
+[package]
+name = "python-markdown-it-py"
+version = "4.2.0-1"
+license = "MIT"
+arch = "any"
+description = "Python port of markdown-it. Markdown parsing, done right!"
+depends = ["python-mdurl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-markdown-it-py-4.2.0-1-any.pkg.tar.zst"
+sha256 = "11d315b1f5285d1f9a8ec0a6a12f54a5a5d56770e3643d5707590a11075a22a5"

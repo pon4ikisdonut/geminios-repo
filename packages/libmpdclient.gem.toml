@@ -1,0 +1,11 @@
+[package]
+name = "libmpdclient"
+version = "2.27-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "C library to implement a MPD client"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libmpdclient-2.27-1-x86_64.pkg.tar.zst"
+sha256 = "ea65d96eb7efb1a2016d62e2dafc789d1fee6c11aec501aa449e141fb46bb401"

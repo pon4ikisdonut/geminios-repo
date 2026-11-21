@@ -1,0 +1,11 @@
+[package]
+name = "zoxide"
+version = "0.10.0-1"
+license = "MIT"
+arch = "x86_64"
+description = "A smarter cd command for your terminal"
+depends = ["glibc", "libgcc", "libgcc_s.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/zoxide-0.10.0-1-x86_64.pkg.tar.zst"
+sha256 = "a1dfbdc3b89e102606e176bf73670c8670f3ff1a82d58f2dfe22383e3bbcfdae"

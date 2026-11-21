@@ -1,0 +1,11 @@
+[package]
+name = "python-sphinx"
+version = "9.1.0-1"
+license = "BSD-2-Clause"
+arch = "any"
+description = "Python documentation generator"
+depends = ["python-babel", "python-docutils", "python-imagesize", "python-jinja", "python-packaging", "python-pygments", "python-requests", "python-roman-numerals-py", "python-snowballstemmer", "python-sphinx-alabaster-theme", "python-sphinxcontrib-applehelp", "python-sphinxcontrib-devhelp", "python-sphinxcontrib-htmlhelp", "python-sphinxcontrib-jsmath", "python-sphinxcontrib-qthelp", "python-sphinxcontrib-serializinghtml"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-sphinx-9.1.0-1-any.pkg.tar.zst"
+sha256 = "8cc17b44ad0045545305d98b7aa9aa85edcfc95a29917f3cc9c8acb1eedc2e84"

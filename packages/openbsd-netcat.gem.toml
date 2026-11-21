@@ -1,0 +1,11 @@
+[package]
+name = "openbsd-netcat"
+version = "1.239_1-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "TCP/IP swiss army knife. OpenBSD variant."
+depends = ["glibc", "libbsd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/openbsd-netcat-1.239_1-1-x86_64.pkg.tar.zst"
+sha256 = "fb70266e3d67e9f823d18ef50a32003ded7a486f0a732142ef6ea55548eb155a"

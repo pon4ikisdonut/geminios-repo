@@ -1,0 +1,11 @@
+[package]
+name = "libpwquality"
+version = "1.4.5-7"
+license = "BSD-3-Clause OR GPL-2.0-or-later"
+arch = "x86_64"
+description = "Library for password quality checking and generating random passwords"
+depends = ["cracklib", "glibc", "pam"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libpwquality-1.4.5-7-x86_64.pkg.tar.zst"
+sha256 = "1c7110f166d74ff3671b62e4242e6e21a59c483eb26bcd7b3e72d723b9d8bb2b"

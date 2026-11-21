@@ -1,0 +1,11 @@
+[package]
+name = "vlc-cli"
+version = "3.0.24-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Free and open source cross-platform multimedia player and framework - command line interface"
+depends = ["bash", "glibc", "libvlc", "libvlc.so", "vlc-plugins-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vlc-cli-3.0.24-2-x86_64.pkg.tar.zst"
+sha256 = "5fcdb3b3913dcb3d26612c9373dc253b1afe8e21223ea36a5b9920ebb3f86571"

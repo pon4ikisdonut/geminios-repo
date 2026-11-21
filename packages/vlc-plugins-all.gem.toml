@@ -1,0 +1,11 @@
+[package]
+name = "vlc-plugins-all"
+version = "3.0.24-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Free and open source cross-platform multimedia player and framework - all plugins"
+depends = ["vlc-plugin-fluidsynth", "vlc-plugin-firewire", "vlc-plugin-gstreamer", "vlc-plugin-jack", "vlc-plugin-libsecret", "vlc-plugin-lua", "vlc-plugin-notify", "vlc-plugin-pulse", "vlc-plugin-smb", "vlc-plugin-svg", "vlc-plugin-x264", "vlc-plugin-x265", "vlc-plugins-base", "vlc-plugins-extra", "vlc-plugins-video-output", "vlc-plugins-visualization"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vlc-plugins-all-3.0.24-2-x86_64.pkg.tar.zst"
+sha256 = "a8202fc7d86caae1a246e951119e60145fb4c4340bcbac3b1f99b7dfa2d05946"

@@ -1,0 +1,11 @@
+[package]
+name = "npm"
+version = "12.2.3-1"
+license = "Artistic-2.0"
+arch = "any"
+description = "JavaScript package manager"
+depends = ["node-gyp", "nodejs", "nodejs-nopt", "semver"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/npm-12.2.3-1-any.pkg.tar.zst"
+sha256 = "41ad6c346aa811a02258e0adbc59aa4d53f27d607200e6dcf46a45b5583ffda9"

@@ -1,0 +1,11 @@
+[package]
+name = "xorg-server-xephyr"
+version = "21.1.26-1"
+license = "X11-distribute-modifications-variant"
+arch = "x86_64"
+description = "A nested X server that runs as an X application"
+depends = ["libxfont2", "libgl", "libepoxy", "libunwind", "systemd-libs", "pixman", "xorg-server-common", "xcb-util-image", "xcb-util-renderutil", "xcb-util-wm", "xcb-util-keysyms", "nettle", "libtirpc", "xcb-util", "libxdmcp", "libx11", "libxau", "libxshmfence", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xorg-server-xephyr-21.1.26-1-x86_64.pkg.tar.zst"
+sha256 = "599d85569d0a99c83b2e4529c009f03c6921db428aa14f28aecc36cf7362f714"

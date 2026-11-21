@@ -1,0 +1,11 @@
+[package]
+name = "haskell-http2"
+version = "5.2.4-12"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "HTTP/2 library"
+depends = ["ghc-libs", "haskell-async", "haskell-case-insensitive", "haskell-http-types", "haskell-http-semantics", "haskell-network", "haskell-network-byte-order", "haskell-network-control", "haskell-time-manager", "haskell-unix-time", "haskell-unliftio", "haskell-utf8-string"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-http2-5.2.4-12-x86_64.pkg.tar.zst"
+sha256 = "c4ed20bbae3b45c3d53c79d6e1f9f9b09068ae2b84fc5a6fc3fb6a7d4cabc196"

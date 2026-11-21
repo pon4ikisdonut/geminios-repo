@@ -1,0 +1,11 @@
+[package]
+name = "libebml"
+version = "1.4.7-1"
+license = "LGPL-2.1-only"
+arch = "x86_64"
+description = "Extensible Binary Meta Language library"
+depends = ["glibc", "libgcc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libebml-1.4.7-1-x86_64.pkg.tar.zst"
+sha256 = "69b04ec1ee76a1255599d56edbe00496173a141141ce4fa1362225bebdf39cb0"

@@ -1,0 +1,11 @@
+[package]
+name = "python-build"
+version = "1.6.1-1"
+license = "MIT"
+arch = "any"
+description = "A simple, correct Python build frontend"
+depends = ["python", "python-packaging", "python-pyproject-hooks"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-build-1.6.1-1-any.pkg.tar.zst"
+sha256 = "845433b636bc8d64cdafd1f608e8cebe0791b30a5e9ce73c4fd8cb57912f9f8f"

@@ -1,0 +1,11 @@
+[package]
+name = "python-typeguard"
+version = "4.6.1-1"
+license = "MIT"
+arch = "any"
+description = "Run-time type checker for Python"
+depends = ["python-typing_extensions"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-typeguard-4.6.1-1-any.pkg.tar.zst"
+sha256 = "9ccd897f436e3c949225d7a3623eb8cd7de90d26167dc0901847cd976d1fec3f"

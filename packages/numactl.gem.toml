@@ -1,0 +1,11 @@
+[package]
+name = "numactl"
+version = "2.0.19-1"
+license = "LGPL-2.1-only"
+arch = "x86_64"
+description = "Simple NUMA policy support"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/numactl-2.0.19-1-x86_64.pkg.tar.zst"
+sha256 = "699bce74daee11fa49de93999ba4e023f132bc51a7768dec845b2979d54f367d"

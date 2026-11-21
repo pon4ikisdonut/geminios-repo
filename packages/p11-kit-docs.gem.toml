@@ -1,0 +1,11 @@
+[package]
+name = "p11-kit-docs"
+version = "0.26.6-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Loads and enumerates PKCS#11 modules (documentation)"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/p11-kit-docs-0.26.6-1-x86_64.pkg.tar.zst"
+sha256 = "73ba187724ad7863a4f71f2edec8906b38c8c9a80b7eeabab78f43085d0c67ab"

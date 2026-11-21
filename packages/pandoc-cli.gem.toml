@@ -1,0 +1,11 @@
+[package]
+name = "pandoc-cli"
+version = "3.11-89"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Conversion between documentation formats"
+depends = ["ghc-libs", "haskell-pandoc", "haskell-pandoc-lua-engine", "haskell-pandoc-server", "haskell-safe", "haskell-temporary", "haskell-wai-extra", "haskell-warp", "hslua-cli"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/pandoc-cli-3.11-89-x86_64.pkg.tar.zst"
+sha256 = "706fbc581bd03a403fed1c74f367921feec36f5c89f3361611bf61a3218b43d3"

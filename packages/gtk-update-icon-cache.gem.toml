@@ -1,0 +1,11 @@
+[package]
+name = "gtk-update-icon-cache"
+version = "1:4.24.1-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "GTK icon cache updater"
+depends = ["bash", "gdk-pixbuf2", "glib2", "glibc", "hicolor-icon-theme", "librsvg"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gtk-update-icon-cache-1:4.24.1-1-x86_64.pkg.tar.zst"
+sha256 = "daa2b4c82e8c94e05b201ad393294f549fda6e3717dfb2aca759ee70557dddfa"

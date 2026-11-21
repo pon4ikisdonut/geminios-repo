@@ -1,0 +1,11 @@
+[package]
+name = "libraw1394"
+version = "2.1.2-4"
+license = "LGPL-2.1-only"
+arch = "x86_64"
+description = "Provides an API to the Linux IEEE1394 (FireWire) driver"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libraw1394-2.1.2-4-x86_64.pkg.tar.zst"
+sha256 = "c4e68646b84e8657d77d50dfc8c9849df911729a4ed8daf54c042b21ae6bc4d4"

@@ -1,0 +1,11 @@
+[package]
+name = "haskell-case-insensitive"
+version = "1.2.1.0-524"
+license = "BSD"
+arch = "x86_64"
+description = "Case insensitive string comparison"
+depends = ["ghc-libs", "haskell-hashable"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-case-insensitive-1.2.1.0-524-x86_64.pkg.tar.zst"
+sha256 = "9e63acb6d9cc7e1bb45eb2cd7d0c51a31eb3eb63692a8ddcdf16c30eef8eb347"

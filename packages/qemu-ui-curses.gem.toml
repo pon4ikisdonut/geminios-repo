@@ -1,0 +1,11 @@
+[package]
+name = "qemu-ui-curses"
+version = "11.1.3-1"
+license = "MIT"
+arch = "x86_64"
+description = "QEMU curses UI driver"
+depends = ["glib2", "libgcc", "libglib-2.0.so", "glibc", "ncurses", "libncursesw.so", "qemu-common"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qemu-ui-curses-11.1.3-1-x86_64.pkg.tar.zst"
+sha256 = "5cc77907d88ff7315b42aa9ea699f70fe193936c4255bc093206eee681e88c98"

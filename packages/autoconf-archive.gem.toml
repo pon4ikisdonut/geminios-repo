@@ -1,0 +1,11 @@
+[package]
+name = "autoconf-archive"
+version = "1:2024.10.16-4"
+license = "GPL-3.0-or-later WITH Autoconf-exception-3.0"
+arch = "any"
+description = "A collection of freely re-usable Autoconf macros"
+depends = ["autoconf"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/autoconf-archive-1:2024.10.16-4-any.pkg.tar.zst"
+sha256 = "9c0482120a81bc5f1baedb2d3628e663508e902b9443e1af9b87e13d3a35b509"

@@ -1,0 +1,11 @@
+[package]
+name = "python-xlib"
+version = "0.33-7"
+license = "LGPL-2.1-or-later"
+arch = "any"
+description = "A fully functional X client library for Python programs"
+depends = ["python-six"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-xlib-0.33-7-any.pkg.tar.zst"
+sha256 = "139e805324a4a29fa60090399490d5286804c63c04aedfbf51cf216cacae32fd"

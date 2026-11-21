@@ -1,0 +1,11 @@
+[package]
+name = "wxwidgets-gtk3"
+version = "3.2.12-1"
+license = "custom:wxWindows"
+arch = "x86_64"
+description = "GTK+3 implementation of wxWidgets API for GUI"
+depends = ["bash", "cairo", "fontconfig", "gdk-pixbuf2", "glib2", "glibc", "gst-plugins-bad-libs", "gstreamer", "gtk3", "libgcc", "libglvnd", "libjpeg-turbo", "libnotify", "libmspack", "libpng", "libsm", "libstdc++", "libtiff", "libx11", "libxkbcommon", "libxtst", "pango", "sdl2", "wayland", "wxwidgets-common"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/wxwidgets-gtk3-3.2.12-1-x86_64.pkg.tar.zst"
+sha256 = "61c8aa479140ecd46b3c0c10728e6e70947a04a69badc5f98609ff766f7425bd"

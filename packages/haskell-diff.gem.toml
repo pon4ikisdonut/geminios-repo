@@ -1,0 +1,11 @@
+[package]
+name = "haskell-diff"
+version = "1.0.2-3"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Diff algorithm in pure Haskell"
+depends = ["ghc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-diff-1.0.2-3-x86_64.pkg.tar.zst"
+sha256 = "fb50adc80fe6d941de2a82210945f5be91f6cf9db1cd67ef3d4627e1426a31a7"

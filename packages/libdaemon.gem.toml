@@ -1,0 +1,11 @@
+[package]
+name = "libdaemon"
+version = "0.14-6"
+license = "LGPL"
+arch = "x86_64"
+description = "Lightweight C library that eases the writing of UNIX daemons"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libdaemon-0.14-6-x86_64.pkg.tar.zst"
+sha256 = "ece83006a468d5205ea45d1de8e9cdb3a864700f9d904fc4b7d52d69dce1b0b6"

@@ -1,0 +1,11 @@
+[package]
+name = "libdrm"
+version = "2.4.134-1"
+license = "MIT"
+arch = "x86_64"
+description = "Userspace interface to kernel DRM services"
+depends = ["libpciaccess", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libdrm-2.4.134-1-x86_64.pkg.tar.zst"
+sha256 = "29d101f13d219d01ee4aae25e8f84026e0740d747d56c37ea5573c4618e7df04"

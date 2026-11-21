@@ -1,0 +1,11 @@
+[package]
+name = "fuse2"
+version = "2.9.9-6"
+license = "LGPL-2.1-only"
+arch = "x86_64"
+description = "Interface for userspace programs to export a filesystem to the Linux kernel"
+depends = ["glibc", "fuse-common"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/fuse2-2.9.9-6-x86_64.pkg.tar.zst"
+sha256 = "9da48ac65195c414973c6e171e19d890784a739e28288cbaa44c54472bbe0c1d"

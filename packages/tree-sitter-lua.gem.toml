@@ -1,0 +1,11 @@
+[package]
+name = "tree-sitter-lua"
+version = "0.5.0-3"
+license = "MIT"
+arch = "x86_64"
+description = "Lua grammar for tree-sitter"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/tree-sitter-lua-0.5.0-3-x86_64.pkg.tar.zst"
+sha256 = "f03aeff3b077b43795e9adb846d92c62e5aa2b243114ae6c6757ad03db42768e"

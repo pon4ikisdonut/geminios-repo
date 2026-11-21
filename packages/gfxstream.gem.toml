@@ -1,0 +1,11 @@
+[package]
+name = "gfxstream"
+version = "0.1.2-2"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "Graphics Streaming Kit (colloquially known as Gfxstream) is a code generator that makes it easier to serialize and forward graphics API calls from one place to another"
+depends = ["libaemu", "libglvnd", "mesa", "glu", "freeglut", "libdrm", "glm"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gfxstream-0.1.2-2-x86_64.pkg.tar.zst"
+sha256 = "91ce9302d467f7656b21457b57f9275db3f52a4c38bd909181d5d41f3c406993"

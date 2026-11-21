@@ -1,0 +1,11 @@
+[package]
+name = "hspell"
+version = "1.4-7"
+license = "AGPL-3.0-only"
+arch = "x86_64"
+description = "Hebrew spell-checker"
+depends = ["glibc", "zlib", "perl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/hspell-1.4-7-x86_64.pkg.tar.zst"
+sha256 = "98d3987dc7d6166bab10643414967edeee2c05aab1d8a9e95e0be8d3890639ba"

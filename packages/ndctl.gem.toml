@@ -1,0 +1,11 @@
+[package]
+name = "ndctl"
+version = "85-1"
+license = "MIT"
+arch = "x86_64"
+description = "Utility library for managing the libnvdimm (non-volatile memory device) sub-system in the Linux kernel"
+depends = ["iniparser", "json-c", "keyutils", "kmod", "libtraceevent", "libtracefs", "systemd-libs", "util-linux-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ndctl-85-1-x86_64.pkg.tar.zst"
+sha256 = "8473584f486f93fecefd62240ef1e83194e562c9ff899c1491036edae9e41443"

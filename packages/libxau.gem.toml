@@ -1,0 +1,11 @@
+[package]
+name = "libxau"
+version = "1.0.12-1"
+license = "MIT-open-group"
+arch = "x86_64"
+description = "X11 authorisation library"
+depends = ["glibc", "xorgproto"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libxau-1.0.12-1-x86_64.pkg.tar.zst"
+sha256 = "605c8b059c36792f4e0cc235acadf39d0762df6c7878825a1be01a00ae7ea21e"

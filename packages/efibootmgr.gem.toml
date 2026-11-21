@@ -1,0 +1,11 @@
+[package]
+name = "efibootmgr"
+version = "18-4"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Linux user-space application to modify the EFI Boot Manager"
+depends = ["glibc", "popt", "efivar", "libefiboot.so", "libefivar.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/efibootmgr-18-4-x86_64.pkg.tar.zst"
+sha256 = "1e6166d0024f3f0de37919a51f5c00981e42e6e087937858cf82f30edf71f17e"

@@ -1,0 +1,11 @@
+[package]
+name = "xorg-bdftopcf"
+version = "1.1.2-1"
+license = "MIT-open-group"
+arch = "x86_64"
+description = "Convert X font from Bitmap Distribution Format to Portable Compiled Format"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xorg-bdftopcf-1.1.2-1-x86_64.pkg.tar.zst"
+sha256 = "3b5ff8d3e8a807685f8a44db3fe5028c2e666f10ce3371505561d59924ed5bb9"

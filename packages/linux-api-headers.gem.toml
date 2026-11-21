@@ -1,0 +1,11 @@
+[package]
+name = "linux-api-headers"
+version = "7.3-1"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "Kernel headers sanitized for use in userspace"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/linux-api-headers-7.3-1-x86_64.pkg.tar.zst"
+sha256 = "a5a6f5fc8922ef454c54e65e321906183e6606acaadaf416896dcbc44f2194ed"

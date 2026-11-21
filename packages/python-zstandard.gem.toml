@@ -1,0 +1,11 @@
+[package]
+name = "python-zstandard"
+version = "0.25.0-3"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Python bindings to the Zstandard (zstd) compression library"
+depends = ["glibc", "python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-zstandard-0.25.0-3-x86_64.pkg.tar.zst"
+sha256 = "a3fdcf8ce59a60754fd54c2013cb8bac1f22e54c96511ad2a27d41a4699ccb03"

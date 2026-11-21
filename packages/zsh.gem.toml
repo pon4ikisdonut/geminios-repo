@@ -1,0 +1,11 @@
+[package]
+name = "zsh"
+version = "5.9.2-1"
+license = "custom"
+arch = "x86_64"
+description = "A very advanced and programmable command interpreter (shell) for UNIX"
+depends = ["pcre2", "libcap", "gdbm"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/zsh-5.9.2-1-x86_64.pkg.tar.zst"
+sha256 = "92982239da698cd541ed2f8c366b6d152c06d0aad22c78f7313f364edab15433"

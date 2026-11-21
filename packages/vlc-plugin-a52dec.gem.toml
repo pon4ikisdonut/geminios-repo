@@ -1,0 +1,11 @@
+[package]
+name = "vlc-plugin-a52dec"
+version = "3.0.24-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Free and open source cross-platform multimedia player and framework - ATSC A/52 (AC-3) plugin"
+depends = ["a52dec", "glibc", "libvlc", "libvlccore.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vlc-plugin-a52dec-3.0.24-2-x86_64.pkg.tar.zst"
+sha256 = "9c404c629060eee31dbf4b2f44fbab7e9bd4359c64a97ff623fa671741d6f0ce"

@@ -1,0 +1,11 @@
+[package]
+name = "podman"
+version = "6.2.0-1"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "A tool for managing OCI containers and pods."
+depends = ["catatonit", "conmon", "containers-common", "oci-runtime", "glibc", "nftables", "gpgme", "libgpgme.so", "libgcc", "libseccomp", "libseccomp.so", "passt", "shadow", "sqlite"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/podman-6.2.0-1-x86_64.pkg.tar.zst"
+sha256 = "2ff5ffc3e7a0053f0cee7ef27dc56b2062c201e8a3ebc2ef2fd2f7040e71f262"

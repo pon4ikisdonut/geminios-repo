@@ -1,0 +1,11 @@
+[package]
+name = "phodav"
+version = "3.2-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "WebDav server implementation using libsoup (RFC 4918)"
+depends = ["avahi", "glib2", "glibc", "libgcc", "libsoup3", "libxml2", "systemd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/phodav-3.2-1-x86_64.pkg.tar.zst"
+sha256 = "b0767bc991999e12fc27942feedaf7f0f58b0f4fb87fec6cba7e60ade21b4a08"

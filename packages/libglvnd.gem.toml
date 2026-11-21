@@ -1,0 +1,11 @@
+[package]
+name = "libglvnd"
+version = "1.7.0-3"
+license = "custom:BSD-like"
+arch = "x86_64"
+description = "The GL Vendor-Neutral Dispatch library"
+depends = ["libxext", "mesa", "opengl-driver"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libglvnd-1.7.0-3-x86_64.pkg.tar.zst"
+sha256 = "633c2e95d7798d0ce7ee1b7fe970a22325f7f6d35b9f923bb61b223a80934437"

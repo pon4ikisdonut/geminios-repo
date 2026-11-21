@@ -1,0 +1,11 @@
+[package]
+name = "flatpak"
+version = "1:1.18.4-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Linux application sandboxing and distribution framework (formerly xdg-app)"
+depends = ["appstream", "bash", "bubblewrap", "curl", "dbus", "dconf", "fuse3", "gdk-pixbuf2", "glib2", "glibc", "gpgme", "json-glib", "libarchive", "libgcc", "libmalcontent", "libseccomp", "libxau", "libxml2", "ostree", "polkit", "python", "python-gobject", "systemd", "systemd-libs", "wayland", "xdg-dbus-proxy", "xdg-utils", "zstd", "libostree-1.so", "xdg-desktop-portal"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/flatpak-1:1.18.4-2-x86_64.pkg.tar.zst"
+sha256 = "dc14c79146f4cd6b6f6ec16813ee99d9efbfe7538f75b5e3d4d214a09f3286ad"

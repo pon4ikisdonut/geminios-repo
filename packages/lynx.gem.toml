@@ -1,0 +1,11 @@
+[package]
+name = "lynx"
+version = "2.9.3-2"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "A text browser for the World Wide Web"
+depends = ["brotli", "bzip2", "glibc", "libidn2", "ncurses", "openssl", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/lynx-2.9.3-2-x86_64.pkg.tar.zst"
+sha256 = "5d465f8c788b992f3cc8994c326c4dfd8ef8c70d8c222a9696d2c0cbdfd9011b"

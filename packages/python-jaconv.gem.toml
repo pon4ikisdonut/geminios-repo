@@ -1,0 +1,11 @@
+[package]
+name = "python-jaconv"
+version = "0.5.0-1"
+license = "MIT"
+arch = "any"
+description = "Japanese character interconverter for Hiragana, Katakana, Hankaku, and Zenkaku"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-jaconv-0.5.0-1-any.pkg.tar.zst"
+sha256 = "6f066148f30b48e695ac0d5204b00d6577c1fd97f97e8fc5c61162481a7265c3"

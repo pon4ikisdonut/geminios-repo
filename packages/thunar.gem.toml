@@ -1,0 +1,11 @@
+[package]
+name = "thunar"
+version = "4.20.10-1"
+license = "LGPL-2.1-only"
+arch = "x86_64"
+description = "Modern, fast and easy-to-use file manager for Xfce"
+depends = ["desktop-file-utils", "libexif", "hicolor-icon-theme", "libnotify", "pcre2", "libgudev", "exo", "libxfce4util", "libxfce4ui"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/thunar-4.20.10-1-x86_64.pkg.tar.zst"
+sha256 = "e3dc828f4b8701a98551ff2d4a7ec0b8a80a9aa352d238f385b9e489820858c1"

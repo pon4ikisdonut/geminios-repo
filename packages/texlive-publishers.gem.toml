@@ -1,0 +1,11 @@
+[package]
+name = "texlive-publishers"
+version = "2026.1-1"
+license = "GPL"
+arch = "any"
+description = "TeX Live - Publisher styles, theses, etc."
+depends = ["texlive-bin", "texlive-latex"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/texlive-publishers-2026.1-1-any.pkg.tar.zst"
+sha256 = "3fd7204989db7e1ecc2b80564bd4542af429cff708deab2342273991543fc711"

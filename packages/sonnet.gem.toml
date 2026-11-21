@@ -1,0 +1,11 @@
+[package]
+name = "sonnet"
+version = "6.32.0-1"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "Spelling framework for Qt"
+depends = ["libstdc++", "glibc", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/sonnet-6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "d20fa4eda95414f2109442ed1ba34e24d078098823d2699296ff0945a06f98bd"

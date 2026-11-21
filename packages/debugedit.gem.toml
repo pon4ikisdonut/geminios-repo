@@ -1,0 +1,11 @@
+[package]
+name = "debugedit"
+version = "5.4-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Tool to mangle source locations in .debug files"
+depends = ["glibc", "libelf", "xxhash", "cpio", "elfutils", "gdb"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/debugedit-5.4-1-x86_64.pkg.tar.zst"
+sha256 = "4d21fb45a055ace24d4313125eafa0083fff8f661dbb01714f6f00e25274ec64"

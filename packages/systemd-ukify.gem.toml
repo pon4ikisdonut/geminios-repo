@@ -1,0 +1,11 @@
+[package]
+name = "systemd-ukify"
+version = "262.2-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Combine kernel and initrd into a signed Unified Kernel Image"
+depends = ["systemd", "binutils", "python-cryptography", "python", "python-pefile"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/systemd-ukify-262.2-1-x86_64.pkg.tar.zst"
+sha256 = "ad40367eeddbd50e637dfa0561310475f2092890e1c31291afc9089575977ae6"

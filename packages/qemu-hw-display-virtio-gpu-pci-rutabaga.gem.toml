@@ -1,0 +1,11 @@
+[package]
+name = "qemu-hw-display-virtio-gpu-pci-rutabaga"
+version = "11.1.3-1"
+license = "MIT"
+arch = "x86_64"
+description = "QEMU virtio-gpu-pci-rutabaga display device"
+depends = ["qemu-common"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qemu-hw-display-virtio-gpu-pci-rutabaga-11.1.3-1-x86_64.pkg.tar.zst"
+sha256 = "84d28645e0c5137db95297aa189a1403e0e04c96f11881865e9a1d19adb6b3c6"

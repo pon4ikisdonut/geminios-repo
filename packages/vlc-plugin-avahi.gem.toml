@@ -1,0 +1,11 @@
+[package]
+name = "vlc-plugin-avahi"
+version = "3.0.24-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Free and open source cross-platform multimedia player and framework - mDNS/DNS-SD plugin"
+depends = ["avahi", "glibc", "libvlc", "libvlccore.so", "vlc-plugins-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vlc-plugin-avahi-3.0.24-2-x86_64.pkg.tar.zst"
+sha256 = "142c770ba034827fa9e982dbe195f3ee17cbe5c304f954f9508c89dd3784bf50"

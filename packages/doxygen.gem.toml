@@ -1,0 +1,11 @@
+[package]
+name = "doxygen"
+version = "1.18.0-2"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Documentation system for C++, C, Java, IDL and PHP"
+depends = ["clang", "fmt", "libfmt.so", "glibc", "libgcc", "libstdc++", "llvm-libs", "spdlog", "libspdlog.so", "sqlite", "libsqlite3.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/doxygen-1.18.0-2-x86_64.pkg.tar.zst"
+sha256 = "6f5fd4fd1a91523af17b2d4e9fce1b45b6260944d7d03fd1a22dda59311bb53e"

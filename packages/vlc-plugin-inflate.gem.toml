@@ -1,0 +1,11 @@
+[package]
+name = "vlc-plugin-inflate"
+version = "3.0.24-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Free and open source cross-platform multimedia player and framework - inflate plugin"
+depends = ["glibc", "libvlc", "libvlccore.so", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vlc-plugin-inflate-3.0.24-2-x86_64.pkg.tar.zst"
+sha256 = "2bc6b88cb753d82d120539868321515bdcd2286bbb896e0d30d1dee292b8e810"

@@ -1,0 +1,11 @@
+[package]
+name = "xerces-c"
+version = "3.3.0-4"
+license = "APACHE"
+arch = "x86_64"
+description = "A validating XML parser written in a portable subset of C++"
+depends = ["libgcc", "libstdc++", "curl", "libnsl", "icu"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xerces-c-3.3.0-4-x86_64.pkg.tar.zst"
+sha256 = "848a0d86a2c88183aef14af49ad2435d1ba5fb0ca429c1419f028da29320c75e"

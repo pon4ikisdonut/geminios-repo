@@ -1,0 +1,11 @@
+[package]
+name = "abcmidi"
+version = "2026_10_09-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Tools for ABC and MIDI files"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/abcmidi-2026_10_09-1-x86_64.pkg.tar.zst"
+sha256 = "e973ce7f0ca283e06fa87f112a844a812693d3bba2b9c9d2ab9d3872b7859ab9"

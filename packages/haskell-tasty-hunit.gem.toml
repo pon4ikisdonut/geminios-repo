@@ -1,0 +1,11 @@
+[package]
+name = "haskell-tasty-hunit"
+version = "0.10.2-406"
+license = "MIT"
+arch = "x86_64"
+description = "HUnit support for the Tasty test framework."
+depends = ["ghc-libs", "haskell-tasty", "haskell-call-stack"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-tasty-hunit-0.10.2-406-x86_64.pkg.tar.zst"
+sha256 = "b2575fc2f95fc3ea401f8dd5ff7266d7afb78b41e2cbbfdbf69b4117782c4526"

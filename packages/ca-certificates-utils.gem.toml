@@ -1,0 +1,11 @@
+[package]
+name = "ca-certificates-utils"
+version = "20240618-1"
+license = "GPL-2.0-or-later"
+arch = "any"
+description = "Common CA certificates (utilities)"
+depends = ["bash", "coreutils", "findutils", "p11-kit"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/ca-certificates-utils-20240618-1-any.pkg.tar.zst"
+sha256 = "aabd5b2b7030716ccdd465d607e734e851fe4a01adf8293a3968fe22eb89ce9b"

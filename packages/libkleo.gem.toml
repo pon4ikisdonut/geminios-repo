@@ -1,0 +1,11 @@
+[package]
+name = "libkleo"
+version = "26.08.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "KDE PIM cryptographic library"
+depends = ["glibc", "gpgmepp", "kcolorscheme", "kcodecs", "kcompletion", "kconfig", "kcoreaddons", "ki18n", "kitemmodels", "kwidgetsaddons", "libgcc", "libstdc++", "qgpgme", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libkleo-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "70fa83636727564a9f6d7287d815dea4e3370e59b788d7d2bc155e04c1e56b9d"

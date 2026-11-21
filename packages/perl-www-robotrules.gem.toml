@@ -1,0 +1,11 @@
+[package]
+name = "perl-www-robotrules"
+version = "6.03-1"
+license = "GPL-1.0-or-later"
+arch = "any"
+description = "Database of robots.txt-derived permissions"
+depends = ["perl", "perl-uri"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/perl-www-robotrules-6.03-1-any.pkg.tar.zst"
+sha256 = "f7fa7ecc0778277142078e475450b60689b2fd81142737f8fe2dc0a78e715be0"

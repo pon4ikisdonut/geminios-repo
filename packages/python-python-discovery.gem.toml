@@ -1,0 +1,11 @@
+[package]
+name = "python-python-discovery"
+version = "1.9.5-1"
+license = "MIT"
+arch = "any"
+description = "Python interpreter discovery"
+depends = ["python", "python-filelock"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-python-discovery-1.9.5-1-any.pkg.tar.zst"
+sha256 = "a0c51103f76f3513850d0a0280cee95e1dbcb950b0aedcfaf086e0c1133dd46e"

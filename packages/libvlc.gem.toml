@@ -1,0 +1,11 @@
+[package]
+name = "libvlc"
+version = "3.0.24-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Free and open source cross-platform multimedia player and framework - library"
+depends = ["dbus", "glibc", "libgcc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libvlc-3.0.24-2-x86_64.pkg.tar.zst"
+sha256 = "a95e8094867c5e3706f936fcac317cab6516fae5fcda404cfea4e3304abe1ac8"

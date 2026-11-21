@@ -1,0 +1,11 @@
+[package]
+name = "qca-qt6"
+version = "2.3.12-3"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Qt Cryptographic Architecture"
+depends = ["ca-certificates", "glibc", "libgcc", "libstdc++", "nss", "qt6-5compat", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qca-qt6-2.3.12-3-x86_64.pkg.tar.zst"
+sha256 = "1225137a5ec107724ff8a4fe8b18d494249eed7bee0f746cf1161ce4ad828064"

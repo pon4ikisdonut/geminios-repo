@@ -1,0 +1,11 @@
+[package]
+name = "kaccounts-integration"
+version = "26.08.3-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Online account management system and its Plasma integration components"
+depends = ["glibc", "kcmutils", "kconfig", "kcoreaddons", "kdbusaddons", "ki18n", "kio", "kirigami", "kwallet", "libaccounts-qt", "libstdc++", "qt6-base", "signon-kwallet-extension", "signon-plugin-oauth2", "signon-ui", "signond"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kaccounts-integration-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "2289e3bd04672ce0f6d1e3f020ab040aa02f0d5de9ef492f6b34ab0b939f9537"

@@ -1,0 +1,11 @@
+[package]
+name = "glib2"
+version = "2.90.1-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Low level core library"
+depends = ["bash", "glibc", "libffi", "libsysprof-capture", "pcre2", "util-linux-libs", "zlib", "libffi.so", "libmount.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/glib2-2.90.1-1-x86_64.pkg.tar.zst"
+sha256 = "b7d930dae1b926dd8dfa9375183182ebc7a26689428fd109feaeace3aecf99a0"

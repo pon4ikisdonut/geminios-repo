@@ -1,0 +1,11 @@
+[package]
+name = "lrzip"
+version = "1:0.7.3-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Multi-threaded compression with rzip/lzma, lzo, and zpaq"
+depends = ["bash", "bzip2", "glibc", "lz4", "lzo", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/lrzip-1:0.7.3-1-x86_64.pkg.tar.zst"
+sha256 = "00f596af2b1235b7679ed20ae976e58278d63f71af26821d05ba161f062b30e5"

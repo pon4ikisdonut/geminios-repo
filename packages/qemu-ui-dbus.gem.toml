@@ -1,0 +1,11 @@
+[package]
+name = "qemu-ui-dbus"
+version = "11.1.3-1"
+license = "MIT"
+arch = "x86_64"
+description = "QEMU D-Bus UI driver"
+depends = ["glib2", "libgcc", "libgio-2.0.so", "libgobject-2.0.so", "libglib-2.0.so", "glibc", "libepoxy", "pixman", "libpixman-1.so", "qemu-common"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qemu-ui-dbus-11.1.3-1-x86_64.pkg.tar.zst"
+sha256 = "22c471da6882e70fffe5a8aebdc13ef0f307aeb310c4b818241f2feeb5a6b881"

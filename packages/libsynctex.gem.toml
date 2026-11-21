@@ -1,0 +1,11 @@
+[package]
+name = "libsynctex"
+version = "2026.0-4"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Library for synchronization between TeX files and resulting file"
+depends = ["glibc", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libsynctex-2026.0-4-x86_64.pkg.tar.zst"
+sha256 = "13d35cdd36aefa0e1d27b233db79dc2f4ba65fb4a60aa7e064b02370d401d87e"

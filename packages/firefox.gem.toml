@@ -1,0 +1,11 @@
+[package]
+name = "firefox"
+version = "160.0.1-1"
+license = "MPL-2.0"
+arch = "x86_64"
+description = "Fast, Private & Safe Web Browser"
+depends = ["alsa-lib", "at-spi2-core", "bash", "cairo", "dbus", "ffmpeg", "fontconfig", "freetype2", "gdk-pixbuf2", "glib2", "glibc", "gtk3", "hicolor-icon-theme", "libgcc", "libpulse", "libstdc++", "libx11", "libxcb", "libxcomposite", "libxdamage", "libxext", "libxfixes", "libxrandr", "libxss", "libxt", "mime-types", "nspr", "nss", "pango", "ttf-font"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/firefox-160.0.1-1-x86_64.pkg.tar.zst"
+sha256 = "85aea0605ebdeef92435a18f6e362b5a02fb7a21775d38538cab8a067bb62855"

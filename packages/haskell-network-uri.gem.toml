@@ -1,0 +1,11 @@
+[package]
+name = "haskell-network-uri"
+version = "2.6.4.2-206"
+license = "BSD"
+arch = "x86_64"
+description = "A library for client-side HTTP"
+depends = ["ghc-libs", "haskell-th-compat"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-network-uri-2.6.4.2-206-x86_64.pkg.tar.zst"
+sha256 = "c4ec3aeb271bda49619cb0de7b793fe8bf57594ba033c93ece95437d167f583d"

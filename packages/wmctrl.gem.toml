@@ -1,0 +1,11 @@
+[package]
+name = "wmctrl"
+version = "1.07-6"
+license = "GPL"
+arch = "x86_64"
+description = "Control your EWMH compliant window manager from command line"
+depends = ["glib2", "libxmu"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/wmctrl-1.07-6-x86_64.pkg.tar.zst"
+sha256 = "61c73328483b5bd45fe623308b5e73c723d8dbbbe9747bbb24d34043ee670366"

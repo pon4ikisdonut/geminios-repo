@@ -1,0 +1,11 @@
+[package]
+name = "python-rich"
+version = "15.0.0-1"
+license = "MIT"
+arch = "any"
+description = "Python library for rich text and beautiful formatting in the terminal"
+depends = ["python", "python-markdown-it-py", "python-pygments"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-rich-15.0.0-1-any.pkg.tar.zst"
+sha256 = "4056304cf0bb897e946dfb252d02a9b271083ddf63f5748ae7b0053a55d44ae6"

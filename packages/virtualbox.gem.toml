@@ -1,0 +1,11 @@
+[package]
+name = "virtualbox"
+version = "7.2.22-2"
+license = "GPL-3.0-only AND (GPL-3.0-only OR CDDL-1.0)"
+arch = "x86_64"
+description = "Powerful x86 virtualization for enterprise as well as home use"
+depends = ["curl", "libcurl.so", "glibc", "libgcc", "libgcc_s.so", "libglvnd", "libGL.so", "liblzf", "liblzf.so", "libogg", "libogg.so", "libpng", "libpng16.so", "libstdc++", "libstdc++.so", "libtpms", "libvorbis", "libvorbisenc.so", "libvorbis.so", "libvpx", "libvpx.so", "libx11", "libxcb", "libxml2", "libxml2.so", "libxt", "openssl", "libcrypto.so", "libssl.so", "procps-ng", "python", "qt6-base", "qt6-scxml", "qt6-tools", "sdl", "shared-mime-info", "xz", "liblzma.so", "zlib", "libz.so", "VIRTUALBOX-HOST-MODULES"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/virtualbox-7.2.22-2-x86_64.pkg.tar.zst"
+sha256 = "dc79aa7d3aaa3cfdb7ccb54fe20864f4e83944ae3f2e07df5beb8dc5dc5202ea"

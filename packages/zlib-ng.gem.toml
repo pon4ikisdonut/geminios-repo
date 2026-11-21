@@ -1,0 +1,11 @@
+[package]
+name = "zlib-ng"
+version = "2.3.3-1"
+license = "Zlib"
+arch = "x86_64"
+description = "zlib replacement with optimizations for next generation systems"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/zlib-ng-2.3.3-1-x86_64.pkg.tar.zst"
+sha256 = "52971dcf5ca5e763a070518da9d615be52ea8f645fd44ee323211b6251d1cc67"

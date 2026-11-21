@@ -1,0 +1,11 @@
+[package]
+name = "uthash"
+version = "2.3.0-3"
+license = "BSD"
+arch = "any"
+description = "C preprocessor implementations of a hash table and a linked list"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/uthash-2.3.0-3-any.pkg.tar.zst"
+sha256 = "d4bfd007bf5dde773f13fa91fe0116b12ebd1cc2f91ddd9239a81bc12ce860d4"

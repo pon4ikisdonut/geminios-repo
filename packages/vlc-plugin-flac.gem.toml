@@ -1,0 +1,11 @@
+[package]
+name = "vlc-plugin-flac"
+version = "3.0.24-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Free and open source cross-platform multimedia player and framework - FLAC plugin"
+depends = ["flac", "glibc", "libvlc", "libvlccore.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vlc-plugin-flac-3.0.24-2-x86_64.pkg.tar.zst"
+sha256 = "d640ad7e2080a0bea79137c8bebe0205730e35db2208a0ad2ff6ac3d1c67b4d0"

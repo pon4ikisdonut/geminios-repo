@@ -1,0 +1,11 @@
+[package]
+name = "fluidsynth"
+version = "2.6.2-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "A real-time software synthesizer based on the SoundFont 2 specifications"
+depends = ["glibc", "libgcc", "libgomp", "libstdc++", "sdl3", "alsa-lib", "libasound.so", "dbus", "libdbus-1.so", "jack", "libjack.so", "libpipewire", "libpipewire-0.3.so", "libpulse", "libpulse-simple.so", "libsndfile", "libsndfile.so", "portaudio", "libportaudio.so", "readline", "libreadline.so", "systemd-libs", "libsystemd.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/fluidsynth-2.6.2-1-x86_64.pkg.tar.zst"
+sha256 = "b61b1606121eb2cfadfe0b837be78985e9faf9390554d32ba2a393b7fdff4546"

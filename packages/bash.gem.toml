@@ -1,0 +1,11 @@
+[package]
+name = "bash"
+version = "5.3.20-1"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "The GNU Bourne Again shell"
+depends = ["readline", "libreadline.so", "glibc", "ncurses"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/bash-5.3.20-1-x86_64.pkg.tar.zst"
+sha256 = "73a67dc509ed4a6dd64e4c7eca2895643f48083940f49431782ce78c4d4619e1"

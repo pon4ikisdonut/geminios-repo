@@ -1,0 +1,11 @@
+[package]
+name = "perl-sub-exporter"
+version = "0.992-1"
+license = "GPL-1.0-or-later"
+arch = "any"
+description = "A sophisticated exporter for custom-built routines"
+depends = ["perl", "perl-data-optlist", "perl-params-someutil", "perl-sub-install"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/perl-sub-exporter-0.992-1-any.pkg.tar.zst"
+sha256 = "ffd7bebbf86325ab6b637ced0f34f0f8bbc703066b37c46fd56012fe2c67e38a"

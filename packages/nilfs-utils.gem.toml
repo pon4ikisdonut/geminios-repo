@@ -1,0 +1,11 @@
+[package]
+name = "nilfs-utils"
+version = "2.3.1-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "A log-structured file system supporting continuous snapshotting (userspace utils)"
+depends = ["util-linux"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/nilfs-utils-2.3.1-1-x86_64.pkg.tar.zst"
+sha256 = "d3113b8434ac468b75ccb5e31a5e4fe999aaf53b96aeed952b08f2a740bceccb"

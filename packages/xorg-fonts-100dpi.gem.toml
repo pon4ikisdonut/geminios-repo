@@ -1,0 +1,11 @@
+[package]
+name = "xorg-fonts-100dpi"
+version = "1.0.4-3"
+license = "custom"
+arch = "any"
+description = "X.org 100dpi fonts"
+depends = ["xorg-fonts-alias-100dpi"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xorg-fonts-100dpi-1.0.4-3-any.pkg.tar.zst"
+sha256 = "c535b6dcdfd71fc09c9f440f695ad664c45dfa844b30c1394d6fad1dca764000"

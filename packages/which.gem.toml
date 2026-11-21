@@ -1,0 +1,11 @@
+[package]
+name = "which"
+version = "2.25-1"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "A utility to show the full path of commands"
+depends = ["bash", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/which-2.25-1-x86_64.pkg.tar.zst"
+sha256 = "f9a30aca3eba69a4ad5e9b0117f8fcc60a33770e4ed435634b8d4c167363fe4f"

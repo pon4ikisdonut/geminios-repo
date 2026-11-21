@@ -1,0 +1,11 @@
+[package]
+name = "libunibreak"
+version = "7.0-1"
+license = "custom:zlib/libpng"
+arch = "x86_64"
+description = "An implementation of the line breaking algorithm as described in Unicode 5.2.0 Standard Annex 14, Revision 24"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libunibreak-7.0-1-x86_64.pkg.tar.zst"
+sha256 = "0bb013ef4b8c9ba0ee0fe009201726600a0021330bb4dea690450e33faa45279"

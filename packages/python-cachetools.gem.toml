@@ -1,0 +1,11 @@
+[package]
+name = "python-cachetools"
+version = "8.0.2-1"
+license = "MIT"
+arch = "any"
+description = "Extensible memoizing collections and decorators"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-cachetools-8.0.2-1-any.pkg.tar.zst"
+sha256 = "f6cdc2437cebd57c8d95e8271585d1d949f9f6f606dd58a93e2f1d78742d809a"

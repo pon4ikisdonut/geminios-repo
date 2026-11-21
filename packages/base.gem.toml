@@ -1,0 +1,11 @@
+[package]
+name = "base"
+version = "3-3"
+license = "GPL"
+arch = "any"
+description = "Minimal package set to define a basic Arch Linux installation"
+depends = ["filesystem", "gcc-libs", "glibc", "bash", "coreutils", "file", "findutils", "gawk", "grep", "procps-ng", "sed", "tar", "gettext", "pciutils", "psmisc", "shadow", "util-linux", "bzip2", "gzip", "xz", "licenses", "pacman", "archlinux-keyring", "systemd", "systemd-sysvcompat", "iputils", "iproute2"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/base-3-3-any.pkg.tar.zst"
+sha256 = "e144d83f03b1a003d31bf9c83990bfe0a503bb7bd8721dee88d72c74606acd37"

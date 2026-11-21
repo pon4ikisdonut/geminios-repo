@@ -1,0 +1,11 @@
+[package]
+name = "liblqr"
+version = "0.4.3-1"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "A seam-carving C/C++ library called Liquid Rescale"
+depends = ["glib2", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/liblqr-0.4.3-1-x86_64.pkg.tar.zst"
+sha256 = "5724b3b80d44f874783d0c8ff20c87afeb1dee03a1084375e91a597c10b231e3"

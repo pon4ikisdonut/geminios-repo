@@ -1,0 +1,11 @@
+[package]
+name = "leancrypto"
+version = "1.9.1-1"
+license = "LicenseRef-leancrypto"
+arch = "x86_64"
+description = "Lean cryptographic library usable for bare-metal environments"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/leancrypto-1.9.1-1-x86_64.pkg.tar.zst"
+sha256 = "0494b72775287ab8a9f87dbb9a579cdde1e39fbb855e9040cf7bae793f04339f"

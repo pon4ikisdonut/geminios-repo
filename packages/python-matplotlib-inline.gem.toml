@@ -1,0 +1,11 @@
+[package]
+name = "python-matplotlib-inline"
+version = "0.2.2-1"
+license = "BSD-3-Clause"
+arch = "any"
+description = "Inline Matplotlib backend for Jupyter"
+depends = ["python-traitlets"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-matplotlib-inline-0.2.2-1-any.pkg.tar.zst"
+sha256 = "0ce4d3b40cf3db95de18698eaa1eb86d591388cee8c6ecf938452bc94ccf17ee"

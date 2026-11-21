@@ -1,0 +1,11 @@
+[package]
+name = "python-asttokens"
+version = "3.0.2-1"
+license = "Apache-2.0"
+arch = "any"
+description = "Get the currently executing AST node of a frame, and other information"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-asttokens-3.0.2-1-any.pkg.tar.zst"
+sha256 = "12b23e0a7b13f9a21ed69c10fb63b47295804eaac9ccbf9d869509c2fffd1ac9"

@@ -1,0 +1,11 @@
+[package]
+name = "haskell-cborg"
+version = "0.2.10.0-176"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Concise Binary Object Representation (CBOR)"
+depends = ["ghc-libs", "haskell-half", "haskell-primitive"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-cborg-0.2.10.0-176-x86_64.pkg.tar.zst"
+sha256 = "edbc99ba8fb7b912d4ca2eec307b078b731e71dace8aeecf6a35191416e89402"

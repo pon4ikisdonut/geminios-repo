@@ -1,0 +1,11 @@
+[package]
+name = "adwaita-cursors"
+version = "51.0-1"
+license = "CC-BY-SA-3.0 OR LGPL-3.0-only"
+arch = "any"
+description = "GNOME standard cursors"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/adwaita-cursors-51.0-1-any.pkg.tar.zst"
+sha256 = "7eba104ea1a7a04e3058bf5fc8108ec37bbd38b4966bc36722b23bfaff2e5af4"

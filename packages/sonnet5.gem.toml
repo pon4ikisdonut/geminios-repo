@@ -1,0 +1,11 @@
+[package]
+name = "sonnet5"
+version = "5.116.0-2"
+license = "LGPL"
+arch = "x86_64"
+description = "Spelling framework for Qt5"
+depends = ["qt5-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/sonnet5-5.116.0-2-x86_64.pkg.tar.zst"
+sha256 = "ac4ec1bb3cacb1e7670b8729ed285e1ef76078a3bb58a607db9655a3c5f062bf"

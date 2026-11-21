@@ -1,0 +1,11 @@
+[package]
+name = "kdiagram"
+version = "3.0.1-5"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Powerful libraries for creating business diagrams"
+depends = ["glibc", "libstdc++", "qt6-base", "qt6-svg"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kdiagram-3.0.1-5-x86_64.pkg.tar.zst"
+sha256 = "e56b7f3d7fa4ef62cccae1c331bb8fd0a2e8cbdafa34d6151c6392167fbac08c"

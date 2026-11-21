@@ -1,0 +1,11 @@
+[package]
+name = "libisofs"
+version = "1.5.8.2-2"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Library to pack up hard disk files and directories into a ISO 9660 disk image"
+depends = ["glibc", "acl", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libisofs-1.5.8.2-2-x86_64.pkg.tar.zst"
+sha256 = "ede3c95bf2b4065dc0f4719b33af99e3cc23eb2a5731049d1a91c6709f990d52"

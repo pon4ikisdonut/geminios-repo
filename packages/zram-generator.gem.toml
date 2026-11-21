@@ -1,0 +1,11 @@
+[package]
+name = "zram-generator"
+version = "1.2.1-1"
+license = "MIT"
+arch = "x86_64"
+description = "Systemd unit generator for zram devices"
+depends = ["systemd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/zram-generator-1.2.1-1-x86_64.pkg.tar.zst"
+sha256 = "753d8d4d3bb5902c94dcb5459d1e4c9a3280bcf2c5c24e1e4ee67703f430b89a"

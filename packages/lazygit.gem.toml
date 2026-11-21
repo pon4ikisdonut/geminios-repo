@@ -1,0 +1,11 @@
+[package]
+name = "lazygit"
+version = "0.66.3-1"
+license = "MIT"
+arch = "x86_64"
+description = "Simple terminal UI for git commands"
+depends = ["git", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/lazygit-0.66.3-1-x86_64.pkg.tar.zst"
+sha256 = "1a36710a52d46d0c287cc565751237166af9ed8c522cd8f7f587d4e046547fc7"

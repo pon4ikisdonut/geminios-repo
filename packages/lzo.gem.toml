@@ -1,0 +1,11 @@
+[package]
+name = "lzo"
+version = "2.10-5"
+license = "GPL"
+arch = "x86_64"
+description = "Portable lossless data compression library"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/lzo-2.10-5-x86_64.pkg.tar.zst"
+sha256 = "dd5ec871aea5ddfd38d4a25539e966dc05e75d6969ebc31917c8d25b97ccd69e"

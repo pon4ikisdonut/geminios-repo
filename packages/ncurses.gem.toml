@@ -1,0 +1,11 @@
+[package]
+name = "ncurses"
+version = "6.6-2"
+license = "MIT-open-group"
+arch = "x86_64"
+description = "System V Release 4.0 curses emulation library"
+depends = ["glibc", "libgcc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/ncurses-6.6-2-x86_64.pkg.tar.zst"
+sha256 = "9b80390fd681121443a45a51b74e2e2ade245ce22af8769915d63165b727e27c"

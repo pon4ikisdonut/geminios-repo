@@ -1,0 +1,11 @@
+[package]
+name = "perl-try-tiny"
+version = "0.32-4"
+license = "MIT"
+arch = "any"
+description = "Minimal try/catch with proper localization of $@"
+depends = ["perl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/perl-try-tiny-0.32-4-any.pkg.tar.zst"
+sha256 = "7e330bf5b7949f64b19c4fef870206609efa0c253325839bc84cf98b349813df"

@@ -1,0 +1,11 @@
+[package]
+name = "cdparanoia"
+version = "10.2-10"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Compact Disc Digital Audio extraction tool"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/cdparanoia-10.2-10-x86_64.pkg.tar.zst"
+sha256 = "03cafb8d7d0cdd713aec4e9e6cf8137562ddbbb07ac10c5a24ae16bba14bc52f"

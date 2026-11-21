@@ -1,0 +1,11 @@
+[package]
+name = "libcups"
+version = "2:2.4.20-1"
+license = "Apache-2.0 WITH LLVM-exception AND BSD-3-Clause AND Zlib AND BSD-2-Clause"
+arch = "x86_64"
+description = "OpenPrinting CUPS - client libraries and headers"
+depends = ["gnutls", "avahi", "glibc", "zlib", "sh"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libcups-2:2.4.20-1-x86_64.pkg.tar.zst"
+sha256 = "a83b00e3578c33b11e1d0713599689e6c601c8b569a55fbbe656164985799be2"

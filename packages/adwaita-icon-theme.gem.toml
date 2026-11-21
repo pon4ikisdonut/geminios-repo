@@ -1,0 +1,11 @@
+[package]
+name = "adwaita-icon-theme"
+version = "51.0-1"
+license = "CC-BY-SA-3.0 OR LGPL-3.0-only"
+arch = "any"
+description = "GNOME standard icons"
+depends = ["adwaita-icon-theme-legacy", "hicolor-icon-theme", "adwaita-cursors"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/adwaita-icon-theme-51.0-1-any.pkg.tar.zst"
+sha256 = "e64aba66149a0aced7a44f08e15c1e74ceeb18a6c7f86fbede88edccab57e685"

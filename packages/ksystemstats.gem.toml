@@ -1,0 +1,11 @@
+[package]
+name = "ksystemstats"
+version = "6.8.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "A plugin based system monitoring daemon"
+depends = ["glibc", "kcoreaddons", "kcrash", "ki18n", "kio", "libksysguard", "libstdc++", "lm_sensors", "qt6-base", "solid"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ksystemstats-6.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "cc58bb17607d70efc3ea65a14c48c6a227afbd569ce77fa753d2b7fee1d9ab68"

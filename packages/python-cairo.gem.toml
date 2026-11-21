@@ -1,0 +1,11 @@
+[package]
+name = "python-cairo"
+version = "1.29.2-1"
+license = "MPL"
+arch = "x86_64"
+description = "Python bindings for the cairo graphics library"
+depends = ["cairo", "python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-cairo-1.29.2-1-x86_64.pkg.tar.zst"
+sha256 = "006b14fe103d40270710fd0379e5f68dd6a8f35b5e2979034df6e30648c7a242"

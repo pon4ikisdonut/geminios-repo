@@ -1,0 +1,11 @@
+[package]
+name = "python-pyzstd"
+version = "0.20.0-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Python bindings to Zstandard (zstd) compression library"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-pyzstd-0.20.0-1-x86_64.pkg.tar.zst"
+sha256 = "98f3d15c2f938abd3410f3b3932916ed96da67a68dcc3940d6e384438841f3a4"

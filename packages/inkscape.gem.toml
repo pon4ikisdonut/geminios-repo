@@ -1,0 +1,11 @@
+[package]
+name = "inkscape"
+version = "1.4.4-8"
+license = "LGPL"
+arch = "x86_64"
+description = "Professional vector graphics editor"
+depends = ["atkmm", "libatkmm-1.6.so", "boost-libs", "cairo", "libcairo.so", "libcairo-gobject.so", "cairomm", "libcairomm-1.0.so", "double-conversion", "fontconfig", "libfontconfig.so", "freetype2", "libfreetype.so", "gc", "gdk-pixbuf2", "libgdk_pixbuf-2.0.so", "glib2", "libglib-2.0.so", "libgmodule-2.0.so", "glibc", "glibmm", "libglibmm-2.4.so", "gobject-introspection-runtime", "graphicsmagick", "gsl", "gspell", "libgspell-1.so", "gtk3", "libgdk-3.so", "libgtk-3.so", "gtkmm3", "libgdkmm-3.0.so", "libgtkmm-3.0.so", "gtksourceview4", "libgtksourceview-4.so", "harfbuzz", "libharfbuzz.so", "hicolor-icon-theme", "lcms2", "liblcms2.so", "lib2geom", "lib2geom.so", "libcdr", "libepoxy", "libepoxy.so", "libgcc", "libgcc_s.so", "libgomp", "libgomp.so", "libjpeg-turbo", "libjpeg.so", "libpng", "libpng16.so", "librevenge", "libsigc++", "libsigc-2.0.so", "libstdc++", "libstdc++.so", "libvisio", "libwpg", "libx11", "libxml2", "libxml2.so", "libxslt", "libxslt.so", "pango", "libpango-1.0.so", "libpangocairo-1.0.so", "libpangoft2-1.0.so", "pangomm", "libpangomm-1.4.so", "poppler", "libpoppler.so", "poppler-glib", "libpoppler-glib.so", "potrace", "python", "python-appdirs", "python-beautifulsoup4", "python-cachecontrol", "python-cairo", "python-certifi", "python-chardet", "python-cssselect", "python-filelock", "python-gobject", "python-idna", "python-lxml", "python-msgpack", "python-numpy", "python-packaging", "python-pillow", "python-pyserial", "python-requests", "python-tinycss2", "python-urllib3", "python-zstandard", "readline", "libreadline.so", "scour", "ttf-font", "zlib", "libz.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/inkscape-1.4.4-8-x86_64.pkg.tar.zst"
+sha256 = "9d8ce99aac3f7d22ed5c97803f94423b52f419c576cda88cffb9541a4c8e8cc1"

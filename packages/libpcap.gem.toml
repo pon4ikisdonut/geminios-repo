@@ -1,0 +1,11 @@
+[package]
+name = "libpcap"
+version = "1.11.0-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "A system-independent interface for user-level packet capture"
+depends = ["glibc", "libnl", "sh", "libdbus-1.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/libpcap-1.11.0-1-x86_64.pkg.tar.zst"
+sha256 = "ed40e51f84882865d254571015a8ad403bf9c0ec743cf454e8223199de34580d"

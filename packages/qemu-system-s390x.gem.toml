@@ -1,0 +1,11 @@
+[package]
+name = "qemu-system-s390x"
+version = "11.1.3-1"
+license = "MIT"
+arch = "x86_64"
+description = "QEMU system emulator for S390"
+depends = ["capstone", "fuse3", "libgcc", "glibc", "glib2", "libgio-2.0.so", "libglib-2.0.so", "libgmodule-2.0.so", "gnutls", "keyutils", "libaio", "libelf", "libbpf", "libbpf.so", "libjpeg-turbo", "libjpeg.so", "libpng", "libsasl", "libseccomp", "libseccomp.so", "libslirp", "libslirp.so", "liburing", "liburing.so", "libxdp", "libxdp.so", "lzo", "ndctl", "numactl", "libnuma.so", "pam", "libpam.so", "pixman", "libpixman-1.so", "qemu-common", "rdma-core", "snappy", "vde2", "zlib", "zstd", "libzstd.so", "qemu-system-s390x-firmware", "systemd-libs", "libudev.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qemu-system-s390x-11.1.3-1-x86_64.pkg.tar.zst"
+sha256 = "c82f06ec45b2f20ad19e4159966054ba36ec41e024520d9c0c26eb2e01576ad7"

@@ -1,0 +1,11 @@
+[package]
+name = "systemd"
+version = "262.2-1"
+license = "MIT-0"
+arch = "x86_64"
+description = "system and service manager"
+depends = ["systemd-libs", "acl", "bash", "cryptsetup", "dbus", "dbus-units", "glibc", "kbd", "kmod", "hwdata", "libgcrypt", "libxcrypt", "libidn2", "lz4", "pam", "libelf", "libgcc", "libseccomp", "util-linux", "xz", "pcre2", "audit", "openssl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/systemd-262.2-1-x86_64.pkg.tar.zst"
+sha256 = "38a9c2d5e4f5db9bbb2c58d274de973d6637c87eba81c19c7a1b4fb1aca0b513"

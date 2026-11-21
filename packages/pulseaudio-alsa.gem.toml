@@ -1,0 +1,11 @@
+[package]
+name = "pulseaudio-alsa"
+version = "1:1.2.12-6"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "ALSA Configuration for PulseAudio"
+depends = ["alsa-plugins", "libpulse"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/pulseaudio-alsa-1:1.2.12-6-x86_64.pkg.tar.zst"
+sha256 = "816e27f7a52548583a407561660491c2a02c69a514c7bd13175590bf27c7c19a"

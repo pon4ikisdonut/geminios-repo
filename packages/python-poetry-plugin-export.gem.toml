@@ -1,0 +1,11 @@
+[package]
+name = "python-poetry-plugin-export"
+version = "1.10.1-1"
+license = "MIT"
+arch = "any"
+description = "Poetry plugin to export the dependencies to various formats"
+depends = ["python-poetry"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-poetry-plugin-export-1.10.1-1-any.pkg.tar.zst"
+sha256 = "b988d843c249b4bcce699e02d766c94c81bdae9c8c730bd5bc91a47062c29794"

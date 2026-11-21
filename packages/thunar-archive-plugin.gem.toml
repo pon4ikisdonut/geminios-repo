@@ -1,0 +1,11 @@
+[package]
+name = "thunar-archive-plugin"
+version = "0.6.0-1"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "Adds archive operations to the Thunar file context menus"
+depends = ["thunar", "hicolor-icon-theme"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/thunar-archive-plugin-0.6.0-1-x86_64.pkg.tar.zst"
+sha256 = "3991baf0f8928e4025a9230597d5e7ac12b8457fb0767663c80d36ad4a2d45b8"

@@ -1,0 +1,11 @@
+[package]
+name = "haskell-emojis"
+version = "0.1.6-3"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Conversion between emoji characters and their names"
+depends = ["ghc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-emojis-0.1.6-3-x86_64.pkg.tar.zst"
+sha256 = "60cf6896aa8e6563d684daf0461e5e3301c8a10fc80a384423f8522a5d32b68a"

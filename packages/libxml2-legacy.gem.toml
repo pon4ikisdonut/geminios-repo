@@ -1,0 +1,11 @@
+[package]
+name = "libxml2-legacy"
+version = "2.13.9-2"
+license = "MIT"
+arch = "x86_64"
+description = "XML C parser and toolkit (legacy version)"
+depends = ["glibc", "icu", "xz", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libxml2-legacy-2.13.9-2-x86_64.pkg.tar.zst"
+sha256 = "aac28a52e81422935e3bfa44044030640c5d525ad8f65a9672a3ab7139974652"

@@ -1,0 +1,11 @@
+[package]
+name = "ttf-nerd-fonts-symbols-common"
+version = "3.5.1-1"
+license = "MIT"
+arch = "any"
+description = "High number of extra glyphs from popular 'iconic fonts' (common files)"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ttf-nerd-fonts-symbols-common-3.5.1-1-any.pkg.tar.zst"
+sha256 = "1d5847efc1c2261d94bcea319490c7d8019f96938142d1285053f52f28897b94"

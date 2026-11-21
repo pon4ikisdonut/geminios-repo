@@ -1,0 +1,11 @@
+[package]
+name = "lzop"
+version = "1.04-4"
+license = "GPL"
+arch = "x86_64"
+description = "File compressor using lzo lib"
+depends = ["lzo"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/lzop-1.04-4-x86_64.pkg.tar.zst"
+sha256 = "5d4764e9d5f630e012729d19cd78bba54d3fee6f72f660534ff6b664d084d89c"

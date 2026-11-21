@@ -1,0 +1,11 @@
+[package]
+name = "crypto++"
+version = "8.9.0-3"
+license = "BSL-1.0"
+arch = "x86_64"
+description = "A free C++ class library of cryptographic schemes"
+depends = ["glibc", "libgcc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/crypto++-8.9.0-3-x86_64.pkg.tar.zst"
+sha256 = "b1a7201804378e37c0484ed0e58c9cb656610cfa7d8bb56661a1cf06d64dcfee"

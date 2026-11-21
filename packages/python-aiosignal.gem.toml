@@ -1,0 +1,11 @@
+[package]
+name = "python-aiosignal"
+version = "1.4.0-3"
+license = "Apache-2.0"
+arch = "any"
+description = "List of registered asynchronous callbacks"
+depends = ["python", "python-frozenlist"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-aiosignal-1.4.0-3-any.pkg.tar.zst"
+sha256 = "4d5b01d50589959f9db0a1038592adf0a5ca6869dd6b5695c9855bdd3c57d829"

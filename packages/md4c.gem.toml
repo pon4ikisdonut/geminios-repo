@@ -1,0 +1,11 @@
+[package]
+name = "md4c"
+version = "0.6.0-2"
+license = "MIT"
+arch = "x86_64"
+description = "C Markdown parser"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/md4c-0.6.0-2-x86_64.pkg.tar.zst"
+sha256 = "f18aebcc90018c774fc5bb2ef9823950546f1667889f1a303b156224f3fc5edc"

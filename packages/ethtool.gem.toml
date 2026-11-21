@@ -1,0 +1,11 @@
+[package]
+name = "ethtool"
+version = "1:7.2-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Utility for controlling network drivers and hardware"
+depends = ["glibc", "libmnl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ethtool-1:7.2-1-x86_64.pkg.tar.zst"
+sha256 = "2feacfc79d4d1af7010647a493c860d369db78dad151eb1d14b704bfbd7808a8"

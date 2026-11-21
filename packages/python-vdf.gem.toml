@@ -1,0 +1,11 @@
+[package]
+name = "python-vdf"
+version = "4.0-5"
+license = "MIT"
+arch = "any"
+description = "Library for working with Valve's VDF text format"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-vdf-4.0-5-any.pkg.tar.zst"
+sha256 = "29d553baaffaa60ecd3d22f836e744c9a912b449aec31160ae4008726f2e9425"

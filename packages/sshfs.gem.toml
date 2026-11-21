@@ -1,0 +1,11 @@
+[package]
+name = "sshfs"
+version = "3.7.7-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "FUSE client based on the SSH File Transfer Protocol"
+depends = ["fuse3", "glib2", "glibc", "openssh"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/sshfs-3.7.7-1-x86_64.pkg.tar.zst"
+sha256 = "20777de6c652e0ef9ce074909ea5f18d227d52600e7cdbcc8dd82500a1b0351a"

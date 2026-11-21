@@ -1,0 +1,11 @@
+[package]
+name = "go"
+version = "2:1.27.4-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Core compiler tools for the Go programming language"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/go-2:1.27.4-1-x86_64.pkg.tar.zst"
+sha256 = "80efa5d5375cdfc3ed5748fc1d9ba074190233c8250c08d58e206ca3869c60ed"

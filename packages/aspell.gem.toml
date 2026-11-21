@@ -1,0 +1,11 @@
+[package]
+name = "aspell"
+version = "0.60.8.3-1"
+license = "BSD-2-Clause"
+arch = "x86_64"
+description = "A spell checker designed to eventually replace Ispell"
+depends = ["glibc", "libstdc++", "ncurses", "libncursesw.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/aspell-0.60.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "aaee5bccee4ce827dd1c9dac6b0335ab4f860613e3c43e7b327e4bc5c2b9af1d"

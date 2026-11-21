@@ -1,0 +1,11 @@
+[package]
+name = "alsa-firmware"
+version = "1.2.4-4"
+license = "custom"
+arch = "any"
+description = "Firmware binaries for loader programs in alsa-tools and hotplug firmware loader"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/alsa-firmware-1.2.4-4-any.pkg.tar.zst"
+sha256 = "f6039660d166b1bc540cad913800e224729dd99564c89fb05bfc8aa90e8897dd"

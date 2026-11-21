@@ -1,0 +1,11 @@
+[package]
+name = "xf86-video-vesa"
+version = "2.6.0-3"
+license = "MIT"
+arch = "x86_64"
+description = "X.org vesa video driver"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xf86-video-vesa-2.6.0-3-x86_64.pkg.tar.zst"
+sha256 = "585fac2ef3da42db2c0aedf5ba0993b9e089001cd80a4785297020f782cd62e6"

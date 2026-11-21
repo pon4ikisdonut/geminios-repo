@@ -1,0 +1,11 @@
+[package]
+name = "python-pyudev"
+version = "0.24.4-1"
+license = "LGPL-2.1-or-later"
+arch = "any"
+description = "Python bindings to libudev"
+depends = ["systemd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-pyudev-0.24.4-1-any.pkg.tar.zst"
+sha256 = "068bb5f9beefde78878f2401d56e5b0eb6072830b61320dce653567768a710a1"

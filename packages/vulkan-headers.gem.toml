@@ -1,0 +1,11 @@
+[package]
+name = "vulkan-headers"
+version = "1:1.4.363.0-1"
+license = "Apache-2.0 OR MIT"
+arch = "any"
+description = "Vulkan header files and API registry"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vulkan-headers-1:1.4.363.0-1-any.pkg.tar.zst"
+sha256 = "574e320444b0eac2479f2c3441c6d030176db572bca8a783bf2a67b808a11ebd"

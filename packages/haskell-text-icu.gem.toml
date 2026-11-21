@@ -1,0 +1,11 @@
+[package]
+name = "haskell-text-icu"
+version = "0.8.0.5-176"
+license = "BSD"
+arch = "x86_64"
+description = "Bindings to the ICU library"
+depends = ["ghc-libs", "icu"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-text-icu-0.8.0.5-176-x86_64.pkg.tar.zst"
+sha256 = "3c529da001dae045874c744a25a8d7b80fc17584a3c8aad007efbb14cfa6e179"

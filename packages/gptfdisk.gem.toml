@@ -1,0 +1,11 @@
+[package]
+name = "gptfdisk"
+version = "1.0.10-2"
+license = "GPL2"
+arch = "x86_64"
+description = "A text-mode partitioning tool that works on GUID Partition Table (GPT) disks"
+depends = ["gcc-libs", "popt", "libuuid.so", "libncursesw.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gptfdisk-1.0.10-2-x86_64.pkg.tar.zst"
+sha256 = "d373298ab5a7ef322af1cdcea394c7a89d3c7e7c87f6ca6c5fd7550c9d06083c"

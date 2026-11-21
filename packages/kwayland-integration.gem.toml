@@ -1,0 +1,11 @@
+[package]
+name = "kwayland-integration"
+version = "6.8.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Provides integration plugins for various KDE frameworks for the wayland windowing system"
+depends = ["glibc", "kwayland5", "kwindowsystem5", "libstdc++", "qt5-base", "qt5-wayland", "wayland"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kwayland-integration-6.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "383e8553f50727c36757ed6a877e0ed71c17effb0fbe66445b91af604b1b9360"

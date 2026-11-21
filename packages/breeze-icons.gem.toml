@@ -1,0 +1,11 @@
+[package]
+name = "breeze-icons"
+version = "6.32.0-1"
+license = "LGPL-2.1-only"
+arch = "x86_64"
+description = "Breeze icon theme"
+depends = ["glibc", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/breeze-icons-6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "73e03473dbce053bb2152cfd84d95b5746c5eb36c0398e8e71f5bcf38ebe3eb7"

@@ -1,0 +1,11 @@
+[package]
+name = "libxi"
+version = "1.8.4-1"
+license = "MIT"
+arch = "x86_64"
+description = "X11 Input extension library"
+depends = ["libxext", "libxfixes", "libx11", "glibc", "xorgproto"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libxi-1.8.4-1-x86_64.pkg.tar.zst"
+sha256 = "264bcc5732f144774922654c2975504583451504044168798fe2f11cb2b0a5bc"

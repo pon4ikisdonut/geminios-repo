@@ -1,0 +1,11 @@
+[package]
+name = "xsettingsd"
+version = "1.0.4-2"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Provides settings to X11 applications via the XSETTINGS specification"
+depends = ["glibc", "libgcc", "libstdc++", "libxfixes", "libx11"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xsettingsd-1.0.4-2-x86_64.pkg.tar.zst"
+sha256 = "cd6f5723b85b43f50624b3c02bb2360b6c41e08c4c0639246bf487131f03107c"

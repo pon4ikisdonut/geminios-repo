@@ -1,0 +1,11 @@
+[package]
+name = "haskell-network"
+version = "3.2.2.0-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Low-level networking interface"
+depends = ["ghc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-network-3.2.2.0-1-x86_64.pkg.tar.zst"
+sha256 = "cb116c480c972ed07c921f5452595327734e6482e2d28f1a5b619db7bf3283af"

@@ -1,0 +1,11 @@
+[package]
+name = "libexttextcat"
+version = "3.4.9-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "N-Gram-Based Text Categorization library primarily intended for language guessing"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libexttextcat-3.4.9-1-x86_64.pkg.tar.zst"
+sha256 = "b041cfa1916cac7b1bd2a090fc19d942aff9721f54275c650551e562ffc4fbf2"

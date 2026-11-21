@@ -1,0 +1,11 @@
+[package]
+name = "passt"
+version = "2026_10_02.cba3570-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Plug A Simple Socket Transport"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/passt-2026_10_02.cba3570-1-x86_64.pkg.tar.zst"
+sha256 = "66cb32c7bceeb4f24fa46444ef61f61183ffef9d08a27b0ade572bb645b7dc31"

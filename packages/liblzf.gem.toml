@@ -1,0 +1,11 @@
+[package]
+name = "liblzf"
+version = "3.6-5"
+license = "BSD"
+arch = "x86_64"
+description = "A very small data compression library"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/liblzf-3.6-5-x86_64.pkg.tar.zst"
+sha256 = "d3382240223fb0cfdfb4eb87390b0c5da8380c153754cdd8714867111e6fa86a"

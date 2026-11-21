@@ -1,0 +1,11 @@
+[package]
+name = "gcc-d"
+version = "16.2.1+r23+gd564253eb6c8-1"
+license = "GFDL-1.3-or-later"
+arch = "x86_64"
+description = "D frontend for GCC"
+depends = ["gcc", "glibc", "gmp", "libgphobos", "libisl.so", "libmpc", "mpfr", "zlib", "zstd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/gcc-d-16.2.1+r23+gd564253eb6c8-1-x86_64.pkg.tar.zst"
+sha256 = "3a26a83a117193a99daad73e009cbba08ad5b6b6b59454a1166245d3f19832f6"

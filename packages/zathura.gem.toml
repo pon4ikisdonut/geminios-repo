@@ -1,0 +1,11 @@
+[package]
+name = "zathura"
+version = "2026.10.23-2"
+license = "Zlib"
+arch = "x86_64"
+description = "Minimalistic document viewer"
+depends = ["girara", "sqlite", "desktop-file-utils", "file", "libsynctex", "libseccomp", "gtk4", "glib2", "json-glib", "xxhash"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/zathura-2026.10.23-2-x86_64.pkg.tar.zst"
+sha256 = "f90c237ebbda75290709466993acf868eded25d5d5bf595c734602f0f1edab30"

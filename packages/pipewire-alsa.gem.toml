@@ -1,0 +1,11 @@
+[package]
+name = "pipewire-alsa"
+version = "1:1.6.11-2"
+license = "MIT"
+arch = "x86_64"
+description = "Low-latency audio/video router and processor - ALSA configuration"
+depends = ["pipewire-audio", "pipewire", "pipewire-session-manager"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/pipewire-alsa-1:1.6.11-2-x86_64.pkg.tar.zst"
+sha256 = "94ed6da434c49d97fc5c6408c5aea3133eda3d12b2c0ef1bc51427799a76f731"

@@ -1,0 +1,11 @@
+[package]
+name = "java-environment-common"
+version = "3-6"
+license = "GPL"
+arch = "any"
+description = "Common files for Java Development Kits"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/java-environment-common-3-6-any.pkg.tar.zst"
+sha256 = "3b7116cfc5bbaea30d95842c11a7f0decdfb33d65ae41577dc464eef51beb5d3"

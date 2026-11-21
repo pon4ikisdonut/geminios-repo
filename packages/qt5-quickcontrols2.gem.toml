@@ -1,0 +1,11 @@
+[package]
+name = "qt5-quickcontrols2"
+version = "5.15.19+kde+r5-1"
+license = "custom"
+arch = "x86_64"
+description = "Next generation user interface controls based on Qt Quick"
+depends = ["qt5-declarative"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qt5-quickcontrols2-5.15.19+kde+r5-1-x86_64.pkg.tar.zst"
+sha256 = "d40691ffba09e2dae8da22b02db8aae76e700528f4954b4b0be00afa58876e11"

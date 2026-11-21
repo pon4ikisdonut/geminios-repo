@@ -1,0 +1,11 @@
+[package]
+name = "vlc-plugins-base"
+version = "3.0.24-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Free and open source cross-platform multimedia player and framework - base plugins"
+depends = ["glibc", "libgcc", "libstdc++", "librist", "libvlc", "libvlccore.so", "vlc-plugin-alsa", "vlc-plugin-a52dec", "vlc-plugin-archive", "vlc-plugin-dav1d", "vlc-plugin-dbus", "vlc-plugin-dbus-screensaver", "vlc-plugin-faad2", "vlc-plugin-flac", "vlc-plugin-gnutls", "vlc-plugin-inflate", "vlc-plugin-jpeg", "vlc-plugin-journal", "vlc-plugin-matroska", "vlc-plugin-mpg123", "vlc-plugin-ogg", "vlc-plugin-opus", "vlc-plugin-png", "vlc-plugin-shout", "vlc-plugin-speex", "vlc-plugin-tag", "vlc-plugin-theora", "vlc-plugin-twolame", "vlc-plugin-vorbis", "vlc-plugin-vpx", "vlc-plugin-xml", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vlc-plugins-base-3.0.24-2-x86_64.pkg.tar.zst"
+sha256 = "075e3b05ae063d804465c16b7ea5817b978e94efb46243dc105f6dd332cff361"

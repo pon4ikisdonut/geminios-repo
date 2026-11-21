@@ -1,0 +1,11 @@
+[package]
+name = "egl-wayland2"
+version = "1.0.2-1"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "EGLStream-based Wayland external platform (2)"
+depends = ["eglexternalplatform", "mesa", "glibc", "libdrm", "wayland"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/egl-wayland2-1.0.2-1-x86_64.pkg.tar.zst"
+sha256 = "a891ac3f6c459185a54d463b87fc8924600893fd78d08b6e8bcd4a6b778c8d01"

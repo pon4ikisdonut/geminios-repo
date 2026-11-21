@@ -1,0 +1,11 @@
+[package]
+name = "python-rpds-py"
+version = "2026.9.1-1"
+license = "MIT"
+arch = "x86_64"
+description = "Python bindings to the Rust rpds crate for persistent data structures"
+depends = ["glibc", "libgcc", "python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-rpds-py-2026.9.1-1-x86_64.pkg.tar.zst"
+sha256 = "bc94531aecb23a3731194eaf062f172c898cf57ed2fbb3d2f30402f32b0ecb80"

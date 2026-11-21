@@ -1,0 +1,11 @@
+[package]
+name = "haskell-witherable"
+version = "0.5-31"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "filterable traversable"
+depends = ["ghc-libs", "haskell-base-orphans", "haskell-hashable", "haskell-indexed-traversable", "haskell-indexed-traversable-instances", "haskell-unordered-containers", "haskell-vector"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-witherable-0.5-31-x86_64.pkg.tar.zst"
+sha256 = "502206e63b1942d0cc2c7574ccdc6563bcbe3bbaa62c70e7c112ab44fe9729c3"

@@ -1,0 +1,11 @@
+[package]
+name = "ipython"
+version = "9.19-1"
+license = "BSD-3-Clause"
+arch = "any"
+description = "Enhanced Interactive Python shell"
+depends = ["python", "python-ipython-pygments-lexers", "python-jedi", "python-matplotlib-inline", "python-pexpect", "python-prompt_toolkit", "python-psutil", "python-pygments", "python-stack-data", "python-traitlets", "python-wcwidth"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ipython-9.19-1-any.pkg.tar.zst"
+sha256 = "53293f01fce3bf0ec1eda914821e8488cb3f3dd8209c739dc0b5634fb53deb0a"

@@ -1,0 +1,11 @@
+[package]
+name = "libutf8proc"
+version = "2.12.0-1"
+license = "custom"
+arch = "x86_64"
+description = "C library for processing UTF-8 encoded Unicode strings"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libutf8proc-2.12.0-1-x86_64.pkg.tar.zst"
+sha256 = "297205aba0d093921dbfbc70b9ecf7359838f0c3418b6265af960aed12bfd072"

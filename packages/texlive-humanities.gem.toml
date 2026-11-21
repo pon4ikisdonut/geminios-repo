@@ -1,0 +1,11 @@
+[package]
+name = "texlive-humanities"
+version = "2026.1-1"
+license = "GPL"
+arch = "any"
+description = "TeX Live - Humanities packages"
+depends = ["texlive-bin", "texlive-latex"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/texlive-humanities-2026.1-1-any.pkg.tar.zst"
+sha256 = "3ec1563c572252eb2c050ca1e024a58edee5351921405f53910e63607d50a437"

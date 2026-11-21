@@ -1,0 +1,11 @@
+[package]
+name = "libiscsi"
+version = "1.20.3-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Clientside library to implement the iSCSI protocol"
+depends = ["glibc", "gnutls", "popt", "libgcrypt"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libiscsi-1.20.3-1-x86_64.pkg.tar.zst"
+sha256 = "00b1f829fc051970f87e415420925c34fb2c9f366c97278001d835a4e123c7f1"

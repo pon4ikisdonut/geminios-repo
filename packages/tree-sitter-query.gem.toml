@@ -1,0 +1,11 @@
+[package]
+name = "tree-sitter-query"
+version = "0.8.0-2"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "TS query grammar for tree-sitter"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/tree-sitter-query-0.8.0-2-x86_64.pkg.tar.zst"
+sha256 = "72f607d263aa2e1ea4ebf545543d251c4731c39f8ac872dc3fc97b2a33421752"

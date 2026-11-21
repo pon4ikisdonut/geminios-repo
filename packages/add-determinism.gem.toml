@@ -1,0 +1,11 @@
+[package]
+name = "add-determinism"
+version = "0.7.3-1"
+license = "GPL-3.0-only"
+arch = "x86_64"
+description = "Build postprocessor to reset metadata fields for build reproducibility"
+depends = ["glibc", "libgcc", "zlib", "libz.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/add-determinism-0.7.3-1-x86_64.pkg.tar.zst"
+sha256 = "105c81d3b98f239ea5107b8442b18188576ba237fdc58e95a97b53f927594fcf"

@@ -1,0 +1,11 @@
+[package]
+name = "krita"
+version = "6.0.4.1-4"
+license = "GPL3"
+arch = "x86_64"
+description = "Edit and paint images"
+depends = ["exiv2", "ffmpeg", "fftw", "fontconfig", "freetype2", "fribidi", "giflib", "glibc", "gsl", "harfbuzz", "imath", "kcolorscheme", "kcompletion", "kconfig", "kcoreaddons", "kcrash", "kguiaddons", "ki18n", "kitemviews", "kwidgetsaddons", "lcms2", "libgcc", "libjpeg-turbo", "libkdcraw", "libpng", "libstdc++", "libtiff", "libunibreak", "libwebp", "libx11", "libxkbcommon", "mlt", "opencolorio", "openexr", "openjpeg2", "qt6-5compat", "qt6-base", "qt6-declarative", "qt6-svg", "quazip-qt6", "wayland", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/krita-6.0.4.1-4-x86_64.pkg.tar.zst"
+sha256 = "f612f4f1577960ad354acdaa4ea2e2075cc1e4214be342c8160227dd123be6cc"

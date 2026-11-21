@@ -1,0 +1,11 @@
+[package]
+name = "libedit"
+version = "20260512_3.1-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Command line editor library providing generic line editing, history, and tokenization functions"
+depends = ["glibc", "libncursesw.so", "ncurses"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/libedit-20260512_3.1-1-x86_64.pkg.tar.zst"
+sha256 = "70cb736e4fdee330cd0dfab45875f6ea378ae819958dd15748c300b8d7285b42"

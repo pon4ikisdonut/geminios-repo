@@ -1,0 +1,11 @@
+[package]
+name = "libxml2-docs"
+version = "2.15.4-1"
+license = "MIT"
+arch = "x86_64"
+description = "XML C parser and toolkit (documentation)"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/libxml2-docs-2.15.4-1-x86_64.pkg.tar.zst"
+sha256 = "5e0c25fb82caf932e5fd6152dcc3651eb865426cacca69b16d92353a7a29da33"

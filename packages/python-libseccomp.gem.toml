@@ -1,0 +1,11 @@
+[package]
+name = "python-libseccomp"
+version = "2.6.0-1"
+license = "LGPL-2.1-only"
+arch = "x86_64"
+description = "Enhanced seccomp library"
+depends = ["python", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/python-libseccomp-2.6.0-1-x86_64.pkg.tar.zst"
+sha256 = "6a41040649608cfbd1a88fee94d0b83fd37c5cbcfff986be8d88a94a7342bb09"

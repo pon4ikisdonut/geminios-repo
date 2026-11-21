@@ -1,0 +1,11 @@
+[package]
+name = "pipewire-pulse"
+version = "1:1.6.11-2"
+license = "MIT"
+arch = "x86_64"
+description = "Low-latency audio/video router and processor - PulseAudio replacement"
+depends = ["libpipewire", "libpipewire-0.3.so", "pipewire-audio", "pipewire", "avahi", "libavahi-client.so", "libavahi-common.so", "dbus", "libdbus-1.so", "dconf", "glib2", "libglib-2.0.so", "libgobject-2.0.so", "libgio-2.0.so", "glibc", "libgcc", "libpulse", "libpulse.so", "pipewire-session-manager"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/pipewire-pulse-1:1.6.11-2-x86_64.pkg.tar.zst"
+sha256 = "d17d12bf7963f5f9bb940fde4a64ec6c4d154b27adc63e8c351cefeb20593aee"

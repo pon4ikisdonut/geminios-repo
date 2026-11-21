@@ -1,0 +1,11 @@
+[package]
+name = "haskell-hslua-list"
+version = "1.1.4-102"
+license = "MIT"
+arch = "x86_64"
+description = "Opinionated, but extensible Lua list type."
+depends = ["ghc-libs", "haskell-hslua-core"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-hslua-list-1.1.4-102-x86_64.pkg.tar.zst"
+sha256 = "abc4da5688cdc1365c4896ef4fe2788bee44d612740dcfdb15c0badb6abc1490"

@@ -1,0 +1,11 @@
+[package]
+name = "dtc"
+version = "1:1.8.1-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Device Tree Compiler"
+depends = ["bash", "glibc", "libyaml"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/dtc-1:1.8.1-1-x86_64.pkg.tar.zst"
+sha256 = "c377d325b42c4250102615e779cdeb67816a176cd0c55c018f7c81920057eb43"

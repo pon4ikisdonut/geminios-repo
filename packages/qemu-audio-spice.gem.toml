@@ -1,0 +1,11 @@
+[package]
+name = "qemu-audio-spice"
+version = "11.1.3-1"
+license = "MIT"
+arch = "x86_64"
+description = "QEMU spice audio driver"
+depends = ["glibc", "qemu-common", "qemu-ui-spice-core", "spice", "libspice-server.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qemu-audio-spice-11.1.3-1-x86_64.pkg.tar.zst"
+sha256 = "2d449dce7fb2e3b2dab537652825147e9d7bf9109b88b0c2b782cf1bcbae5333"

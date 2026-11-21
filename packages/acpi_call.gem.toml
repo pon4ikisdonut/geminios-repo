@@ -1,0 +1,11 @@
+[package]
+name = "acpi_call"
+version = "1.2.2-401"
+license = "GPL-3.0-only"
+arch = "x86_64"
+description = "A linux kernel module that enables calls to ACPI methods through /proc/acpi/call"
+depends = ["linux"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/acpi_call-1.2.2-401-x86_64.pkg.tar.zst"
+sha256 = "c5912c1ee4b731ee983ae716d26416435281b2e5e326f401b7712084896e1ceb"

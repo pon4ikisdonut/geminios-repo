@@ -1,0 +1,11 @@
+[package]
+name = "ptex"
+version = "2.5.4-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Per-Face Texture Mapping for Production Rendering"
+depends = ["glibc", "zlib", "libgcc", "libstdc++", "libdeflate"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ptex-2.5.4-1-x86_64.pkg.tar.zst"
+sha256 = "cb50d1318cb5d9e882cf6e2f05f771b90e4290ea52a3db946d88fab7e10e70af"

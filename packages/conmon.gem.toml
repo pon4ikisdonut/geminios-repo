@@ -1,0 +1,11 @@
+[package]
+name = "conmon"
+version = "1:2.2.1-1"
+license = "APACHE"
+arch = "x86_64"
+description = "OCI container runtime monitor"
+depends = ["glibc", "glib2", "systemd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/conmon-1:2.2.1-1-x86_64.pkg.tar.zst"
+sha256 = "3cc9679725446c229735055f36d417cc0a00d38fd5c619cb7367faa54276caae"

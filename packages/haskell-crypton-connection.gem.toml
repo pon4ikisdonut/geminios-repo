@@ -1,0 +1,11 @@
+[package]
+name = "haskell-crypton-connection"
+version = "0.4.5-122"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Simple and easy network connection API"
+depends = ["ghc-libs", "haskell-crypton-socks", "haskell-crypton-x509-store", "haskell-crypton-x509-system", "haskell-data-default", "haskell-network", "haskell-tls"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-crypton-connection-0.4.5-122-x86_64.pkg.tar.zst"
+sha256 = "cfd112fc3df7819b634f666dfcd6c773c7b6b07d5228b2054b9afe7dff867469"

@@ -1,0 +1,11 @@
+[package]
+name = "gtk-vnc"
+version = "1.6.0-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "VNC viewer widget for GTK"
+depends = ["cairo", "gdk-pixbuf2", "glib2", "glibc", "gmp", "gnutls", "gtk3", "libpulse", "libsasl", "libx11", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gtk-vnc-1.6.0-1-x86_64.pkg.tar.zst"
+sha256 = "fc07626d381b674a2176d1805f08485b6bebd2a4be4266dbcb09656140a54793"

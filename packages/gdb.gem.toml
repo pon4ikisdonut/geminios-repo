@@ -1,0 +1,11 @@
+[package]
+name = "gdb"
+version = "18.1-2"
+license = "LGPL-3.0-or-later"
+arch = "x86_64"
+description = "The GNU Debugger"
+depends = ["bash", "boost-libs", "expat", "libgcc", "libstdc++", "gdb-common", "glibc", "gmp", "guile", "libelf", "liblzma.so", "libmpfr.so", "libncursesw.so", "libreadline.so", "libxxhash.so", "libzstd.so", "mpfr", "ncurses", "python", "readline", "source-highlight", "xxhash", "xz", "zstd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gdb-18.1-2-x86_64.pkg.tar.zst"
+sha256 = "407a4c7cb62c52f0eab4a02ab902d510a194307259b7bca51d2dfcf5fef4fffb"

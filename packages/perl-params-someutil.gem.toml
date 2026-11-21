@@ -1,0 +1,11 @@
+[package]
+name = "perl-params-someutil"
+version = "1.12-2"
+license = "GPL-1.0-or-later OR Artistic-1.0-Perl"
+arch = "x86_64"
+description = "Simple, compact and correct parameter-checking functions"
+depends = ["perl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/perl-params-someutil-1.12-2-x86_64.pkg.tar.zst"
+sha256 = "99e3f3b7f28a71d191262c7b0fff858b2c314b3cc5aa6d4ebee693b98d9fd629"

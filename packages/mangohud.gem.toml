@@ -1,0 +1,11 @@
+[package]
+name = "mangohud"
+version = "0.8.4-1"
+license = "MIT"
+arch = "x86_64"
+description = "A Vulkan overlay layer for monitoring FPS, temperatures, CPU/GPU load and more."
+depends = ["dbus", "fmt", "glfw", "hicolor-icon-theme", "libglvnd", "libx11", "libxkbcommon", "python", "python-matplotlib", "python-numpy", "vulkan-icd-loader", "wayland"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/mangohud-0.8.4-1-x86_64.pkg.tar.zst"
+sha256 = "9ba9cfb057d1ec49a359e818d0068e7caf3b137b384664f3dd47d2cfdd6057be"

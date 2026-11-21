@@ -1,0 +1,11 @@
+[package]
+name = "python-yarl"
+version = "1.25.1-1"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "Yet another URL library"
+depends = ["glibc", "python", "python-idna", "python-multidict", "python-propcache"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-yarl-1.25.1-1-x86_64.pkg.tar.zst"
+sha256 = "5d0395c5372b2905b0e0cc051e45689225ecd2254bcee6da1572bd06999339b8"

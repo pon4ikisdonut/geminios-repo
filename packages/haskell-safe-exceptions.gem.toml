@@ -1,0 +1,11 @@
+[package]
+name = "haskell-safe-exceptions"
+version = "0.1.7.4-332"
+license = "MIT"
+arch = "x86_64"
+description = "Safe, consistent, and easy exception handling"
+depends = ["ghc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-safe-exceptions-0.1.7.4-332-x86_64.pkg.tar.zst"
+sha256 = "3d696b58e664379785661c09dbc8266d8d26113b5b21e260179db1f167427e45"

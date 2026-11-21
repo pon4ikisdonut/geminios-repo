@@ -1,0 +1,11 @@
+[package]
+name = "vulkan-mesa-implicit-layers"
+version = "1:26.3.1-2"
+license = "MIT AND BSD-3-Clause AND SGI-B-2.0"
+arch = "x86_64"
+description = "Mesa's implicit Vulkan layers"
+depends = ["glibc", "libdrm", "libxcb", "wayland"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vulkan-mesa-implicit-layers-1:26.3.1-2-x86_64.pkg.tar.zst"
+sha256 = "a2164807c40454fc3cf8f9e4b62de6b67b24463eb5ea206c43a8a4e8db3b46c0"

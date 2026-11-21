@@ -1,0 +1,11 @@
+[package]
+name = "pango"
+version = "1:1.58.2-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "A library for layout and rendering of text"
+depends = ["cairo", "fontconfig", "freetype2", "fribidi", "glib2", "glibc", "harfbuzz", "libsysprof-capture", "libthai", "libx11", "libxft", "libxrender"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/pango-1:1.58.2-1-x86_64.pkg.tar.zst"
+sha256 = "9b74c73056ce6b2aca83bf1647f79f0a6bf53f204c5273b03530e034472db13c"

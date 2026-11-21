@@ -1,0 +1,11 @@
+[package]
+name = "xorg-xdriinfo"
+version = "1.0.8-1"
+license = "custom"
+arch = "x86_64"
+description = "Query configuration information of DRI drivers"
+depends = ["libx11", "libgl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xorg-xdriinfo-1.0.8-1-x86_64.pkg.tar.zst"
+sha256 = "7fdc138485e40b167af53b278fb6ea511ae48ece614a536b2b5a9fc59a668f3f"

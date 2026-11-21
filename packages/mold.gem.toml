@@ -1,0 +1,11 @@
+[package]
+name = "mold"
+version = "3.0.0-4"
+license = "MIT"
+arch = "x86_64"
+description = "A Modern Linker"
+depends = ["glibc", "libgcc", "zlib", "zstd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/mold-3.0.0-4-x86_64.pkg.tar.zst"
+sha256 = "14d8a509bedfec347951c220210595607089e1e4d9a214956f041c85d885172b"

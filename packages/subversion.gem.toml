@@ -1,0 +1,11 @@
+[package]
+name = "subversion"
+version = "1.14.5-6"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "A Modern Concurrent Version Control System"
+depends = ["apr", "apr-util", "bash", "dbus", "expat", "file", "libgcc", "libstdc++", "glibc", "libsasl", "libutf8proc", "lz4", "serf", "sqlite", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/subversion-1.14.5-6-x86_64.pkg.tar.zst"
+sha256 = "eeda8abb5b87a7a8427c607a8d3ff42a285564b9ec07cc97960ca92a5c4db3d4"

@@ -1,0 +1,11 @@
+[package]
+name = "dbus-docs"
+version = "1.16.4-1"
+license = "AFL-2.1 OR GPL-2.0-or-later"
+arch = "x86_64"
+description = "Freedesktop.org message bus system - Documentation"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/dbus-docs-1.16.4-1-x86_64.pkg.tar.zst"
+sha256 = "e6b6d680a92b8ffaa3c8cbe4a2fb5e5961c5f28c047ed3ff4895ed572ac29d1a"

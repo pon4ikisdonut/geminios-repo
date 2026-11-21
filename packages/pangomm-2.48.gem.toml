@@ -1,0 +1,11 @@
+[package]
+name = "pangomm-2.48"
+version = "2.58.0-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "C++ bindings for Pango"
+depends = ["cairomm-1.16", "glib2", "glibc", "glibmm-2.68", "libgcc", "libsigc++-3.0", "libstdc++", "pango", "libcairomm-1.16.so", "libglibmm-2.68.so", "libsigc-3.0.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/pangomm-2.48-2.58.0-1-x86_64.pkg.tar.zst"
+sha256 = "eb88786a273c8ddf364276c5042af7c88fe427dbb9080f8aa886937668280081"

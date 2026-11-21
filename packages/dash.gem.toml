@@ -1,0 +1,11 @@
+[package]
+name = "dash"
+version = "0.5.13.5-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "POSIX compliant shell that aims to be as small as possible"
+depends = ["glibc", "libedit", "libedit.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/dash-0.5.13.5-1-x86_64.pkg.tar.zst"
+sha256 = "13ec6ccf4c03d3ce9e2c2e5b01018e25cb2c636d421048473573bfea1c9d7ec4"

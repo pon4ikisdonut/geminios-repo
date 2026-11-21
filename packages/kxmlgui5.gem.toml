@@ -1,0 +1,11 @@
+[package]
+name = "kxmlgui5"
+version = "5.116.0-2"
+license = "LGPL"
+arch = "x86_64"
+description = "User configurable main windows"
+depends = ["kglobalaccel5", "kiconthemes5", "kitemviews5"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kxmlgui5-5.116.0-2-x86_64.pkg.tar.zst"
+sha256 = "7b9321044ffee899f310f42b4a6fb5be28eaa9b5a1e13a6cd5fdae53cd12caa8"

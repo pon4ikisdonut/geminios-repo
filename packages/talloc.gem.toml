@@ -1,0 +1,11 @@
+[package]
+name = "talloc"
+version = "2.5.0-2"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "Hierarchical pool based memory allocator with destructors"
+depends = ["glibc", "libbsd", "libxcrypt"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/talloc-2.5.0-2-x86_64.pkg.tar.zst"
+sha256 = "8209c935210ab9ce983afa271acd3504a8df2f272f11f66cbdc72b1d339f8529"

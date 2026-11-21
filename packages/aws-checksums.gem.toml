@@ -1,0 +1,11 @@
+[package]
+name = "aws-checksums"
+version = "1.0.1-1"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "Cross-Platform HW accelerated CRC32c and CRC32 with fallback to efficient SW implementations."
+depends = ["aws-c-common", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/aws-checksums-1.0.1-1-x86_64.pkg.tar.zst"
+sha256 = "46acc4295ffdbe964e43b074a483d0460ac6cdcf4d50429eef28332225a5d972"

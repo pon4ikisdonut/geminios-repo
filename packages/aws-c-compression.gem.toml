@@ -1,0 +1,11 @@
+[package]
+name = "aws-c-compression"
+version = "1.0.0-1"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "C99 implementation of huffman encoding/decoding"
+depends = ["aws-c-common", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/aws-c-compression-1.0.0-1-x86_64.pkg.tar.zst"
+sha256 = "a8fe4b2fd3aec2f0f565696edda0f0b1af7bd7826c666455ac6e00711b18ec75"

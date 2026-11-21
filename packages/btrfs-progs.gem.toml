@@ -1,0 +1,11 @@
+[package]
+name = "btrfs-progs"
+version = "7.3-1"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "Btrfs filesystem utilities"
+depends = ["glibc", "libgcrypt", "lzo", "systemd-libs", "util-linux-libs", "zlib", "zstd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/btrfs-progs-7.3-1-x86_64.pkg.tar.zst"
+sha256 = "ef157c2b4d687ca0646a193747bb0b2f5714de9717e24840e80fbc36b25e822e"

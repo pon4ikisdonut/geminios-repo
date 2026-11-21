@@ -1,0 +1,11 @@
+[package]
+name = "libxcb"
+version = "1.17.0-1"
+license = "X11"
+arch = "x86_64"
+description = "X11 client-side library"
+depends = ["xcb-proto", "libxdmcp", "libxau", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libxcb-1.17.0-1-x86_64.pkg.tar.zst"
+sha256 = "2b2e7ac64b1d56c08a227c10bcab179605f2773f31db0a8c89f49f4e5b2f1292"

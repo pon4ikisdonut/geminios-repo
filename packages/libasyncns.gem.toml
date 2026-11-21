@@ -1,0 +1,11 @@
+[package]
+name = "libasyncns"
+version = "1:0.8+r3+g68cd5af-3"
+license = "LGPL"
+arch = "x86_64"
+description = "A C library for executing name service queries asynchronously"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libasyncns-1:0.8+r3+g68cd5af-3-x86_64.pkg.tar.zst"
+sha256 = "de65e601391ace5c126e863ad67245b03cfe87f46c12b509668f3da2419bbf15"

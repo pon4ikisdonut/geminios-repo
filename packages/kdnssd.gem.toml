@@ -1,0 +1,11 @@
+[package]
+name = "kdnssd"
+version = "6.32.0-1"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "Abstraction to system DNSSD features"
+depends = ["libstdc++", "glibc", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kdnssd-6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "e847fc9d3d8d67b8c4ce536f5da2ebc063fb53075438e9a87b62ca2eb98bfaca"

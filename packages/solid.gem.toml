@@ -1,0 +1,11 @@
+[package]
+name = "solid"
+version = "6.32.0-1"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "Hardware integration and detection"
+depends = ["libstdc++", "glibc", "libimobiledevice", "libplist", "media-player-info", "qt6-base", "systemd-libs", "udisks2", "upower", "util-linux-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/solid-6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "7fbf98879271ba0917adb8c8eeeaec1ee8b951255d6759a637f23347f173b9ff"

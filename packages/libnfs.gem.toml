@@ -1,0 +1,11 @@
+[package]
+name = "libnfs"
+version = "7.0.2-2"
+license = "GPL"
+arch = "x86_64"
+description = "client library for accessing NFS shares"
+depends = ["gnutls", "krb5"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libnfs-7.0.2-2-x86_64.pkg.tar.zst"
+sha256 = "cc004b56b4e7e5cf8e8fc880cef45ff699d3ee79e9ce284e98e8fcfe183f8ad0"

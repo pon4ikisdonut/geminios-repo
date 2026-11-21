@@ -1,0 +1,11 @@
+[package]
+name = "libmakepkg-dropins"
+version = "20-2"
+license = "GPL-2.0-or-later"
+arch = "any"
+description = "Features that can be dropped into libmakepkg to extend the functionality of makepkg"
+depends = ["awk", "bash", "coreutils", "findutils", "grep", "sed", "binutils"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/libmakepkg-dropins-20-2-any.pkg.tar.zst"
+sha256 = "78c4e32d3140d11d2fd7d1bac6bcfdbdd34d3b59b56620f987fd28fd4334648e"

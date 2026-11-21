@@ -1,0 +1,11 @@
+[package]
+name = "python-jaraco.text"
+version = "4.0.0-4"
+license = "MIT"
+arch = "any"
+description = "Module for text manipulation"
+depends = ["python", "python-jaraco.functools", "python-jaraco.context", "python-autocommand", "python-more-itertools"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-jaraco.text-4.0.0-4-any.pkg.tar.zst"
+sha256 = "df57d9e62cb16d23c45f10ae4658150db3e6a4059e41f9fbc4d5e5db05388e25"

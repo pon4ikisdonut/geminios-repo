@@ -1,0 +1,11 @@
+[package]
+name = "kidentitymanagement"
+version = "26.08.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Library to assist in handling user identities"
+depends = ["glibc", "kcodecs", "kcompletion", "kconfig", "kcoreaddons", "ki18n", "kio", "kpimtextedit", "ktextaddons", "kwidgetsaddons", "kxmlgui", "libstdc++", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kidentitymanagement-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "45009d4c7cc11417d8b452795bf95a57760762c23a2132451e175cc61f5749a3"

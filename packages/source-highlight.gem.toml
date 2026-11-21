@@ -1,0 +1,11 @@
+[package]
+name = "source-highlight"
+version = "3.1.9-19"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "Convert source code to syntax highlighted document"
+depends = ["bash", "boost-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/source-highlight-3.1.9-19-x86_64.pkg.tar.zst"
+sha256 = "2f6665e8277797f557e9d69bc4f0677e1c3486c16fbcb07010bb06b27f5ff26e"

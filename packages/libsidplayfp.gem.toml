@@ -1,0 +1,11 @@
+[package]
+name = "libsidplayfp"
+version = "3.1.2-1"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "Library to play Commodore 64 music"
+depends = ["glibc", "libgcc", "libgcc_s.so", "libstdc++", "libstdc++.so", "libresidfp", "libresidfp.so", "libexsid", "libexsid.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libsidplayfp-3.1.2-1-x86_64.pkg.tar.zst"
+sha256 = "38aa8a047f7c322085851632baff1e2f5ae40d2c6df78cff0b7fbd44187cce94"

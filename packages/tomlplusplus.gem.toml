@@ -1,0 +1,11 @@
+[package]
+name = "tomlplusplus"
+version = "3.4.0-3"
+license = "MIT"
+arch = "x86_64"
+description = "TOML config file parser and serializer for C++17"
+depends = ["glibc", "libgcc", "libstdc++", "libgcc_s.so", "libstdc++.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/tomlplusplus-3.4.0-3-x86_64.pkg.tar.zst"
+sha256 = "6c89234711e7e234dda8080908432e6c5a241db3460a8ea4e79267f339ea3b66"

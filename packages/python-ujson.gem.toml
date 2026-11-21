@@ -1,0 +1,11 @@
+[package]
+name = "python-ujson"
+version = "6.1.0-1"
+license = "BSD"
+arch = "x86_64"
+description = "Ultra fast JSON encoder and decoder for Python"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-ujson-6.1.0-1-x86_64.pkg.tar.zst"
+sha256 = "b9177e8d93596d374a6c7391b33e42bbc257bfd2f317f65028d3f995d3530b4e"

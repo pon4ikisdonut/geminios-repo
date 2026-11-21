@@ -1,0 +1,11 @@
+[package]
+name = "vde2"
+version = "2.3.3-10"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Virtual Distributed Ethernet for emulators like qemu"
+depends = ["glibc", "libpcap", "libpcap.so", "wolfssl", "libwolfssl.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vde2-2.3.3-10-x86_64.pkg.tar.zst"
+sha256 = "deb9c99fc2334c9410ccf7ac8af68ffb1846df9eb6c02f523c15403052ef1f37"

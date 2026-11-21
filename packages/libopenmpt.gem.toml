@@ -1,0 +1,11 @@
+[package]
+name = "libopenmpt"
+version = "0.8.10-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "A library to render tracker music to a PCM audio stream"
+depends = ["flac", "glibc", "libgcc", "libogg", "libpulse", "libsndfile", "libstdc++", "libvorbis", "mpg123", "portaudio", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libopenmpt-0.8.10-1-x86_64.pkg.tar.zst"
+sha256 = "dd5591baaf65832647cf1ca71cac2abd1b9554ac1e22a990571505f88339ae37"

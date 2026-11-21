@@ -1,0 +1,11 @@
+[package]
+name = "vlc-plugins-video-output"
+version = "3.0.24-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Free and open source cross-platform multimedia player and framework - video output plugins"
+depends = ["glibc", "libgcc", "libglvnd", "libva", "libvlc", "libvlccore.so", "libx11", "libxcb", "wayland", "xcb-util-keysyms"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vlc-plugins-video-output-3.0.24-2-x86_64.pkg.tar.zst"
+sha256 = "fd27b3e43e1195364506abd1de344c6ec39dfdb61445b37efdbe702a21895f8d"

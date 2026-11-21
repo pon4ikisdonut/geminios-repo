@@ -1,0 +1,11 @@
+[package]
+name = "haskell-wai-extra"
+version = "3.1.18-180"
+license = "MIT"
+arch = "x86_64"
+description = "Provides some basic WAI handlers and middleware."
+depends = ["ghc-libs", "haskell-aeson", "haskell-ansi-terminal", "haskell-base64-bytestring", "haskell-case-insensitive", "haskell-cookie", "haskell-data-default", "haskell-fast-logger", "haskell-http-types", "haskell-iproute", "haskell-network", "haskell-resourcet", "haskell-streaming-commons", "haskell-vault", "haskell-wai", "haskell-wai-logger", "haskell-warp", "haskell-word8", "haskell-hunit", "haskell-call-stack"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-wai-extra-3.1.18-180-x86_64.pkg.tar.zst"
+sha256 = "61c9ebdca02520e3ae908271e63b00efe2030dc9656a02429d7abb8c3b34e430"

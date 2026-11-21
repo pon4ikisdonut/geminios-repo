@@ -1,0 +1,11 @@
+[package]
+name = "protobuf"
+version = "36.1-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Protocol Buffers - Google's data interchange format"
+depends = ["abseil-cpp", "glibc", "libgcc", "libstdc++", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/protobuf-36.1-1-x86_64.pkg.tar.zst"
+sha256 = "3d63417c8fbe2354bea29b23c338baf3f03c9438e0127c5519d6dddc4825185c"

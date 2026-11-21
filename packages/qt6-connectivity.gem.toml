@@ -1,0 +1,11 @@
+[package]
+name = "qt6-connectivity"
+version = "6.12.0-1"
+license = "Qt-GPL-exception-1.0"
+arch = "x86_64"
+description = "Provides access to Bluetooth hardware"
+depends = ["bluez-libs", "glibc", "libstdc++", "pcsclite", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qt6-connectivity-6.12.0-1-x86_64.pkg.tar.zst"
+sha256 = "d40b35c00070110dab8456eb3002a873af6eb732f2aaa6ef080fb732a62ecddb"

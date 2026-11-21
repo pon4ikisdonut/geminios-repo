@@ -1,0 +1,11 @@
+[package]
+name = "libldac"
+version = "2.0.2.6-1"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "LDAC Bluetooth encoder library"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libldac-2.0.2.6-1-x86_64.pkg.tar.zst"
+sha256 = "aa163544d10dd2e8ebfb3011894660aa9334566aad731899b274de8c0171c1ba"

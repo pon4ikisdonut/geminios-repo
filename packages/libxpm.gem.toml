@@ -1,0 +1,11 @@
+[package]
+name = "libxpm"
+version = "3.5.20-1"
+license = "X11-distribute-modifications-variant"
+arch = "x86_64"
+description = "X11 pixmap library"
+depends = ["libxt", "libxext", "libx11", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libxpm-3.5.20-1-x86_64.pkg.tar.zst"
+sha256 = "cf538c4400abd6bdba8942bfdddb0c01716528e75bd95279b4b0a842fa035052"

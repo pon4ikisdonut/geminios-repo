@@ -1,0 +1,11 @@
+[package]
+name = "pkgfile"
+version = "27-1"
+license = "MIT"
+arch = "x86_64"
+description = "A tool to search for files in official repository packages"
+depends = ["curl", "glibc", "libarchive", "libgcc", "libstdc++", "pacman", "pcre", "systemd-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/pkgfile-27-1-x86_64.pkg.tar.zst"
+sha256 = "8867333cb3a2b2c0eec89c6e771053d964290a6b56feafcb9e7b511d773f55e9"

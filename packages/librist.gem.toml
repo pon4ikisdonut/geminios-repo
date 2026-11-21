@@ -1,0 +1,11 @@
+[package]
+name = "librist"
+version = "0.2.20-1"
+license = "BSD-2-Clause"
+arch = "x86_64"
+description = "A library that can be used to add the RIST protocol to applications"
+depends = ["cjson", "glibc", "libmicrohttpd", "lz4", "mbedtls3"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/librist-0.2.20-1-x86_64.pkg.tar.zst"
+sha256 = "af84f36fe67e6075753a2ed18fffa69ce47f6b9045a753b6e4d1f41d871424ed"

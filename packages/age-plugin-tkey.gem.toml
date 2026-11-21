@@ -1,0 +1,11 @@
+[package]
+name = "age-plugin-tkey"
+version = "0.0.6-1"
+license = "GPL2"
+arch = "x86_64"
+description = "Tillitis TKey plugin for age"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/age-plugin-tkey-0.0.6-1-x86_64.pkg.tar.zst"
+sha256 = "3225984d0108a2f2f877caa2b543c229ef2040328c298464720b885e8ea53703"

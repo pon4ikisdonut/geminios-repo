@@ -1,0 +1,11 @@
+[package]
+name = "kio-extras"
+version = "26.08.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Additional components to increase the functionality of KIO"
+depends = ["glibc", "karchive", "kcmutils", "kconfig", "kcoreaddons", "kdbusaddons", "kdnssd", "kdsoap-qt6", "kdsoap-ws-discovery-client", "ki18n", "kio", "knotifications", "kservice", "kwidgetsaddons", "libgcc", "libimobiledevice", "libkexiv2", "libmtp", "libplist", "libproxy", "libssh", "libstdc++", "libtirpc", "libxcursor", "plasma-activities", "qt6-base", "qt6-svg", "ripgrep-all", "sh", "smbclient", "solid", "syntax-highlighting"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kio-extras-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "c46b061826a95a0945d219e833b8f0c842cd4a86458bd0cb6ec24da78cc3d429"

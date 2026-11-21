@@ -1,0 +1,11 @@
+[package]
+name = "libwebsockets"
+version = "4.5.8-4"
+license = "Zlib"
+arch = "x86_64"
+description = "C library for websocket clients and servers"
+depends = ["glib2", "glibc", "libcap", "libev", "libuv", "openssl", "systemd-libs", "zlib", "libcap.so", "libglib-2.0.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libwebsockets-4.5.8-4-x86_64.pkg.tar.zst"
+sha256 = "3b2027da536b32aea47af3b135e48bcafa2d73cb68be965471f7dc2bc62b137f"

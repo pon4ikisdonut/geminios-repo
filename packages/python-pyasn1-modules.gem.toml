@@ -1,0 +1,11 @@
+[package]
+name = "python-pyasn1-modules"
+version = "0.4.2-2"
+license = "BSD-2-Clause"
+arch = "any"
+description = "A collection of ASN.1-based protocols modules"
+depends = ["python-pyasn1"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-pyasn1-modules-0.4.2-2-any.pkg.tar.zst"
+sha256 = "cb139a2579cf95d6774747eb5ed7f79c9500de7ab84105966a576a29c109fcc1"

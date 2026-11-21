@@ -1,0 +1,11 @@
+[package]
+name = "torbrowser-launcher"
+version = "0.3.9-1"
+license = "MIT"
+arch = "any"
+description = "Securely and easily download, verify, install, and launch Tor Browser in Linux"
+depends = ["dbus-glib", "gnupg", "hicolor-icon-theme", "pyside6", "python", "python-gpgme", "python-packaging", "python-pysocks", "python-requests", "tor"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/torbrowser-launcher-0.3.9-1-any.pkg.tar.zst"
+sha256 = "5246362f7a4601850b022f3f9614598d9cb394b7d35a00b1ae21bf00b875f8c2"

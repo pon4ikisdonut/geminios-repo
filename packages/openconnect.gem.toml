@@ -1,0 +1,11 @@
+[package]
+name = "openconnect"
+version = "1:9.21-2"
+license = "LGPL-2.1-only"
+arch = "x86_64"
+description = "Open client for Cisco AnyConnect VPN"
+depends = ["glibc", "libxml2", "gnutls", "libproxy", "vpnc", "krb5", "lz4", "pcsclite", "stoken", "tpm2-tss", "oath-toolkit", "libproxy", "libp11-kit", "xdg-utils", "libtasn1", "libstoken.so", "libtss2-esys.so", "libtss2-mu.so", "libtss2-tctildr.so", "libxml2.so", "libproxy.so", "libhogweed.so", "libp11-kit.so", "libpskc.so", "libgssapi_krb5.so", "libpcsclite.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/openconnect-1:9.21-2-x86_64.pkg.tar.zst"
+sha256 = "b0c3d813313cc164526932eced1007398ee017178c6e1a43e6b3992e0b0746fd"

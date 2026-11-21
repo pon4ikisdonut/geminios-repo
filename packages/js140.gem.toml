@@ -1,0 +1,11 @@
+[package]
+name = "js140"
+version = "140.17.0-1"
+license = "MPL-2.0"
+arch = "x86_64"
+description = "JavaScript interpreter and libraries - Version 140"
+depends = ["glibc", "libgcc", "libstdc++", "readline", "sh", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/js140-140.17.0-1-x86_64.pkg.tar.zst"
+sha256 = "2cd66002cb1c98f398e66818c220ddac9a5cd4afcc97468e66271f97d2c15467"

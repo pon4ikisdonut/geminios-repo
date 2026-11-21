@@ -1,0 +1,11 @@
+[package]
+name = "plasma-activities-stats"
+version = "6.8.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "A library for accessing the usage data collected by the activities system"
+depends = ["glibc", "kconfig", "libstdc++", "plasma-activities", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/plasma-activities-stats-6.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "de67527b18428f2fad850567f5e079040e6a2057da1bad3dbef9e459fef2a8c8"

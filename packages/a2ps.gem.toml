@@ -1,0 +1,11 @@
+[package]
+name = "a2ps"
+version = "4.15.8-1"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "An Any to PostScript filter"
+depends = ["imagemagick", "perl", "psutils"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/a2ps-4.15.8-1-x86_64.pkg.tar.zst"
+sha256 = "5c8be3842c0966e863661df79edc2f16a9c7fd5650173f091a5e5198b9fabdef"

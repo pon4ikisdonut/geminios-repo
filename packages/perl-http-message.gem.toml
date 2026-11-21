@@ -1,0 +1,11 @@
+[package]
+name = "perl-http-message"
+version = "7.04-1"
+license = "Artistic-1.0-Perl OR GPL-1.0-or-later"
+arch = "any"
+description = "HTTP style messages"
+depends = ["perl", "perl-clone", "perl-encode-locale", "perl-http-date", "perl-io-html", "perl-lwp-mediatypes", "perl-uri"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/perl-http-message-7.04-1-any.pkg.tar.zst"
+sha256 = "d6150b9854d150df42b832a144f28fa6a9a260b2a9a2139732f86746f3f8e9d8"

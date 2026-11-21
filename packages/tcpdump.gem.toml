@@ -1,0 +1,11 @@
+[package]
+name = "tcpdump"
+version = "4.99.7-2"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Powerful command-line packet analyzer"
+depends = ["glibc", "libpcap", "libpcap.so", "libcap-ng", "libcap-ng.so", "openssl", "libcrypto.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/tcpdump-4.99.7-2-x86_64.pkg.tar.zst"
+sha256 = "d0b1ce5d89ef9c3ae6729c5084c9c2a044da87f1a12cef43545e5b3aaa2a26e7"

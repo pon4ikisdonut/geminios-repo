@@ -1,0 +1,11 @@
+[package]
+name = "unixodbc"
+version = "2.3.14-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "ODBC is an open specification for providing application developers with a predictable API with which to access Data Sources"
+depends = ["readline", "libltdl", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/unixodbc-2.3.14-1-x86_64.pkg.tar.zst"
+sha256 = "d0b371e06aec9f618668ac0a69fd48d9180c1f369d8df6ec5725b589f9e078ff"

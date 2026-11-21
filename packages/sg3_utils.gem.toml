@@ -1,0 +1,11 @@
+[package]
+name = "sg3_utils"
+version = "1.49-1"
+license = "GPL-2.0-or-later AND BSD-2-Clause"
+arch = "x86_64"
+description = "Generic SCSI utilities"
+depends = ["bash", "glibc", "libgcc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/sg3_utils-1.49-1-x86_64.pkg.tar.zst"
+sha256 = "c4f623aec36fac43966f42aec671660856c39951d2b5ecfbcd58c1db4b62ed9c"

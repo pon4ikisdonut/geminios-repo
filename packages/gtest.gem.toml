@@ -1,0 +1,11 @@
+[package]
+name = "gtest"
+version = "1.18.0-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Google Test - C++ testing utility"
+depends = ["glibc", "libgcc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gtest-1.18.0-1-x86_64.pkg.tar.zst"
+sha256 = "a056289240aebf743810c69a9dc3a8503edf9ae98b5be167fddd66598236ebe5"

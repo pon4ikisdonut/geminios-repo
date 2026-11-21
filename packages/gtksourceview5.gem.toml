@@ -1,0 +1,11 @@
+[package]
+name = "gtksourceview5"
+version = "5.22.0-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "A text widget adding syntax highlighting and more to GNOME"
+depends = ["cairo", "fontconfig", "fribidi", "gdk-pixbuf2", "glib2", "glibc", "graphene", "gtk4", "hicolor-icon-theme", "libgcc", "libxml2", "pango", "pcre2"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gtksourceview5-5.22.0-1-x86_64.pkg.tar.zst"
+sha256 = "757f385bfd457b91dd0856d3b543d2dd35e60bef84ec7f15761a4503df4e26b4"

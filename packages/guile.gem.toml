@@ -1,0 +1,11 @@
+[package]
+name = "guile"
+version = "3.0.11-1"
+license = "GPL"
+arch = "x86_64"
+description = "Portable, embeddable Scheme implementation written in C"
+depends = ["gmp", "ncurses", "libunistring", "gc", "libffi", "libxcrypt"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/guile-3.0.11-1-x86_64.pkg.tar.zst"
+sha256 = "dbc4c775e0474a5ac8784aab95a77f6fd23ebc930abea34c7a5e0f83dd00873d"

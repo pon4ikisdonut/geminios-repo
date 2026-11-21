@@ -1,0 +1,11 @@
+[package]
+name = "kdeplasma-addons"
+version = "6.8.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "All kind of addons to improve your Plasma experience"
+depends = ["glibc", "icu", "kauth", "kcmutils", "kconfig", "kcoreaddons", "kdbusaddons", "kdeclarative", "kglobalaccel", "kguiaddons", "kholidays", "ki18n", "kiconthemes", "kio", "kirigami", "kirigami-addons", "kitemmodels", "kjobwidgets", "knewstuff", "knotifications", "kpackage", "krunner", "kservice", "ksvg", "kunitconversion", "kwidgetsaddons", "kwin", "kwindowsystem", "kxmlgui", "libgcc", "libplasma", "libstdc++", "plasma-workspace", "qt6-5compat", "qt6-base", "qt6-declarative", "qt6-quick3d", "sonnet", "systemd-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kdeplasma-addons-6.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "ea793e7dca38d84ee85d2e287151c84e8e331a16af01491451be58ebd0dc01b7"

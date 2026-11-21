@@ -1,0 +1,11 @@
+[package]
+name = "sdl2_ttf"
+version = "2.24.0-2"
+license = "MIT"
+arch = "x86_64"
+description = "A library that allows you to use TrueType fonts in your SDL applications (Version 2)"
+depends = ["sdl2", "freetype2", "harfbuzz"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/sdl2_ttf-2.24.0-2-x86_64.pkg.tar.zst"
+sha256 = "5e2237d522b1f31bd97f3f01c87bac64dcb782a5bbee35ded9f91b8727d33884"

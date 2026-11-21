@@ -1,0 +1,11 @@
+[package]
+name = "python-matplotlib"
+version = "3.11.2-1"
+license = "LicenseRef-Public-Domain"
+arch = "x86_64"
+description = "A python plotting library, making publication quality plots"
+depends = ["glibc", "freetype2", "libgcc", "libstdc++", "python", "python-contourpy", "python-cycler", "python-dateutil", "python-fonttools", "python-kiwisolver", "python-numpy", "python-packaging", "python-pillow", "python-pyparsing", "qhull"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-matplotlib-3.11.2-1-x86_64.pkg.tar.zst"
+sha256 = "fb3f9986ec2a99a51b0137297f408c1d0faa2d6e932c061947a237111befaa73"

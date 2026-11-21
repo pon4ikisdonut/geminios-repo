@@ -1,0 +1,11 @@
+[package]
+name = "haskell-byteorder"
+version = "1.0.4-28"
+license = "BSD"
+arch = "x86_64"
+description = "Exposes the native endianness or byte ordering of the system."
+depends = ["ghc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-byteorder-1.0.4-28-x86_64.pkg.tar.zst"
+sha256 = "361cc0b6fe8b1dfef304ea6e4b47f784b502461eff209e508d827418232ee1a0"

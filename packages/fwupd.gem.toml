@@ -1,0 +1,11 @@
+[package]
+name = "fwupd"
+version = "2.1.10-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Simple daemon to allow session software to update firmware"
+depends = ["bash", "curl", "fwupd-efi", "glib2", "glibc", "gnutls", "hicolor-icon-theme", "libdrm", "libgcc", "libusb", "libmbim", "libmm-glib", "libmnl", "libqmi", "libxmlb", "passim", "polkit", "shared-mime-info", "sqlite", "systemd-libs", "tpm2-tss", "udisks2", "xz", "zlib", "curl", "libcurl.so", "libmm-glib", "libmm-glib.so", "passim", "libpassim.so", "libqmi", "libqmi-glib.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/fwupd-2.1.10-1-x86_64.pkg.tar.zst"
+sha256 = "2ff77854f02a12312f6f1b0da76234ee0d3d8ef49ac793c166e974ff5ccbcaf2"

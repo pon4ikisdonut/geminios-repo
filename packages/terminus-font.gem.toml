@@ -1,0 +1,11 @@
+[package]
+name = "terminus-font"
+version = "4.49.1-8"
+license = "custom:OFL"
+arch = "any"
+description = "Monospace bitmap font (for X11 and console)"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/terminus-font-4.49.1-8-any.pkg.tar.zst"
+sha256 = "131b20ba0fcdaa98b7b26ae07939d67108b80770ed6ebcb746c4885f9642ea9f"

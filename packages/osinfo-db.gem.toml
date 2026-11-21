@@ -1,0 +1,11 @@
+[package]
+name = "osinfo-db"
+version = "20260812-1"
+license = "GPL-2.0-or-later"
+arch = "any"
+description = "Osinfo database of information about operating systems for virtualization provisioning tools"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/osinfo-db-20260812-1-any.pkg.tar.zst"
+sha256 = "f39665d3b2f1e8ebe3a003bc0a9ce97827f04c2c14e155df7846c6e742a30e40"

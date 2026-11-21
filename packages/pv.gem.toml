@@ -1,0 +1,11 @@
+[package]
+name = "pv"
+version = "1.12.7-1"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "A terminal-based tool for monitoring the progress of data through a pipeline"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/pv-1.12.7-1-x86_64.pkg.tar.zst"
+sha256 = "89ca8540a98f34ba6387eb22f3773771a98aac97eff413786eb93c4812f76bad"

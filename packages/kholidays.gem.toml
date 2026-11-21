@@ -1,0 +1,11 @@
+[package]
+name = "kholidays"
+version = "1:6.32.0-1"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "KDE library for regional holiday information"
+depends = ["libstdc++", "glibc", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kholidays-1:6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "f1fad466484b577493a3caa233f6321aaf5148287cefcde3324409eb76960f58"

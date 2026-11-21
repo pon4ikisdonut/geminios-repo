@@ -1,0 +1,11 @@
+[package]
+name = "python-ruamel-yaml"
+version = "0.19.1-1"
+license = "MIT"
+arch = "any"
+description = "YAML parser/emitter that supports roundtrip preservation of comments, seq/map flow style, and map key order"
+depends = ["python-ruamel.yaml.clib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-ruamel-yaml-0.19.1-1-any.pkg.tar.zst"
+sha256 = "05a64bfe1003355284e80a5b9726f0bc7d7251c6cd2d1fac6f6860e48b5604d9"

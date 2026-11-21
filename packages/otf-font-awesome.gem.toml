@@ -1,0 +1,11 @@
+[package]
+name = "otf-font-awesome"
+version = "7.3.1-1"
+license = "LicenseRef-OFL"
+arch = "any"
+description = "Iconic font designed for Bootstrap - otf format"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/otf-font-awesome-7.3.1-1-any.pkg.tar.zst"
+sha256 = "8a3b5c088551993a8d9c6d269e77610ef8cbd5253e17474c60af86921cca6158"

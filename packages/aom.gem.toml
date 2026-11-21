@@ -1,0 +1,11 @@
+[package]
+name = "aom"
+version = "3.15.3-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Alliance for Open Media video codec"
+depends = ["glibc", "libgcc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/aom-3.15.3-1-x86_64.pkg.tar.zst"
+sha256 = "3cfa233077ea91164ccf428ef6db08b34790f809431d881bdf71387e995c2ff0"

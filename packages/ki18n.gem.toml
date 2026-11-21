@@ -1,0 +1,11 @@
+[package]
+name = "ki18n"
+version = "6.32.0-1"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "Advanced internationalization framework"
+depends = ["libstdc++", "glibc", "iso-codes", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ki18n-6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "3f63b836e19b9e2f51911564044e24263c7b07d0519267c4abd7fc4af90ac463"

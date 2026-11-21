@@ -1,0 +1,11 @@
+[package]
+name = "libgusb"
+version = "0.4.9-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "GObject wrapper for libusb1"
+depends = ["glib2", "libjson-glib-1.0.so", "libusb-1.0.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libgusb-0.4.9-2-x86_64.pkg.tar.zst"
+sha256 = "433495cbfe5d8b7b0b6f8b7ee09cc308461a2fdfd66edee0227d1a4b02d31a3b"

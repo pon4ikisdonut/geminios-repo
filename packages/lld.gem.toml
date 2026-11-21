@@ -1,0 +1,11 @@
+[package]
+name = "lld"
+version = "23.1.5-1"
+license = "Apache-2.0 WITH LLVM-exception"
+arch = "x86_64"
+description = "Linker from the LLVM project"
+depends = ["llvm-libs", "libstdc++", "glibc", "zlib", "zstd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/lld-23.1.5-1-x86_64.pkg.tar.zst"
+sha256 = "48f8e5b8c14b30bfb8a22a67303b1fa4204535f0793a386432a57227d3d2ecb2"

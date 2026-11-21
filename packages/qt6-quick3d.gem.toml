@@ -1,0 +1,11 @@
+[package]
+name = "qt6-quick3d"
+version = "6.12.0-1"
+license = "Qt-GPL-exception-1.0"
+arch = "x86_64"
+description = "Qt module and API for defining 3D content in Qt Quick"
+depends = ["glibc", "libgcc", "libglvnd", "libstdc++", "openxr", "qt6-base", "qt6-declarative", "qt6-quicktimeline", "qt6-shadertools", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qt6-quick3d-6.12.0-1-x86_64.pkg.tar.zst"
+sha256 = "a83d67942a5bb0a3d50c3188a872a2ad82d721f92bac13a7fe05866a848bba9a"

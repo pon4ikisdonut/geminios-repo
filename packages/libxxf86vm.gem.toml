@@ -1,0 +1,11 @@
+[package]
+name = "libxxf86vm"
+version = "1.1.7-1"
+license = "X11-distribute-modifications-variant"
+arch = "x86_64"
+description = "X11 XFree86 video mode extension library"
+depends = ["libxext", "libx11", "glibc", "xorgproto"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libxxf86vm-1.1.7-1-x86_64.pkg.tar.zst"
+sha256 = "b9215b44734a0149f6e9b3c9bfcbb5abef2b6f32b2767ed628bafc3f0cc38934"

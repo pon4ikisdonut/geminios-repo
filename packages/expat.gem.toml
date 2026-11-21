@@ -1,0 +1,11 @@
+[package]
+name = "expat"
+version = "2.10.0-1"
+license = "MIT"
+arch = "x86_64"
+description = "An XML parser library"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/expat-2.10.0-1-x86_64.pkg.tar.zst"
+sha256 = "d6abf3bcd65696164476cbe1757eb669e2c25b748d2ac22c4029301fcfca29f0"

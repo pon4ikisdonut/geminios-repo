@@ -1,0 +1,11 @@
+[package]
+name = "libsndfile"
+version = "1.2.2-4"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "A C library for reading and writing files containing sampled audio data"
+depends = ["glibc", "flac", "libFLAC.so", "lame", "libmp3lame.so", "libogg", "libogg.so", "libvorbis", "libvorbis.so", "libvorbisenc.so", "mpg123", "libmpg123.so", "opus", "libopus.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libsndfile-1.2.2-4-x86_64.pkg.tar.zst"
+sha256 = "9b580a25a4d38f688c3561bacdd1d8c2d3451eee657f317220a38cffe41fa512"

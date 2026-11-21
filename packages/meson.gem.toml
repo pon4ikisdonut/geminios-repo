@@ -1,0 +1,11 @@
+[package]
+name = "meson"
+version = "1.12.1-2"
+license = "Apache-2.0"
+arch = "any"
+description = "High productivity build system"
+depends = ["bash", "ninja", "python", "python-tqdm"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/meson-1.12.1-2-any.pkg.tar.zst"
+sha256 = "d7dd6a03661d12e52b739381f5290579bcc79189316513c1000a7c6cb3f2f900"

@@ -1,0 +1,11 @@
+[package]
+name = "intel-gmmlib"
+version = "22.10.2-1"
+license = "MIT"
+arch = "x86_64"
+description = "Intel Graphics Memory Management Library"
+depends = ["glibc", "libgcc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/intel-gmmlib-22.10.2-1-x86_64.pkg.tar.zst"
+sha256 = "778dcbd4f6fb2ed19353f8a048239cce542b6dc61c73fa5ee58c7518132a29c8"

@@ -1,0 +1,11 @@
+[package]
+name = "dhcpcd"
+version = "10.5.2-2"
+license = "BSD-2-Clause"
+arch = "x86_64"
+description = "DHCP/ IPv4LL/ IPv6RA/ DHCPv6 client"
+depends = ["glibc", "openssl", "sh", "systemd-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/dhcpcd-10.5.2-2-x86_64.pkg.tar.zst"
+sha256 = "a2c5992ffb5c607f17fa02b5f38c6b0a302c8eba1e30d93b0f56ae0ef73d4cdb"

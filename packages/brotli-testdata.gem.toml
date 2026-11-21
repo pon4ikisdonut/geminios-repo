@@ -1,0 +1,11 @@
+[package]
+name = "brotli-testdata"
+version = "1.2.1-1"
+license = "MIT"
+arch = "x86_64"
+description = "Generic-purpose lossless compression algorithm - test data"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/brotli-testdata-1.2.1-1-x86_64.pkg.tar.zst"
+sha256 = "1300173a3425510c8bdba0dfb962d5a80195467219ba8bb7cf339f086b0239a6"

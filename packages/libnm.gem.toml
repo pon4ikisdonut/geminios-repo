@@ -1,0 +1,11 @@
+[package]
+name = "libnm"
+version = "1.58.1-3"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "NetworkManager client library"
+depends = ["glib2", "glibc", "libgcc", "nspr", "nss", "systemd-libs", "util-linux-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libnm-1.58.1-3-x86_64.pkg.tar.zst"
+sha256 = "742a15cd381420004a8172d50d6b1706808b376108e85c751ec3e1de634927a9"

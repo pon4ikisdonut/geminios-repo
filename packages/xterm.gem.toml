@@ -1,0 +1,11 @@
+[package]
+name = "xterm"
+version = "411-1"
+license = "MIT AND X11 AND HPND AND CC-BY-4.0"
+arch = "x86_64"
+description = "X Terminal Emulator"
+depends = ["fontconfig", "freetype2", "glibc", "libice", "libutempter", "libx11", "libxaw", "libxext", "libxft", "libxmu", "libxpm", "libxt", "ncurses"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xterm-411-1-x86_64.pkg.tar.zst"
+sha256 = "f772c90968f90dd91bf80a7392fba7ba36feb3cece38a5ce114209e7e555acf4"

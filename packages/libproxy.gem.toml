@@ -1,0 +1,11 @@
+[package]
+name = "libproxy"
+version = "0.5.12-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Automatic proxy configuration management library"
+depends = ["curl", "duktape", "gcc-libs", "glib2", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libproxy-0.5.12-1-x86_64.pkg.tar.zst"
+sha256 = "d8c945f0acc851077b4dc68a653478100a6e50133dc927ec9a86796c6916abea"

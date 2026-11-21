@@ -1,0 +1,11 @@
+[package]
+name = "vdpauinfo"
+version = "1.5-3"
+license = "MIT"
+arch = "x86_64"
+description = "Command line utility for querying the capabilities of a VDPAU device"
+depends = ["glibc", "libgcc", "libstdc++", "libvdpau", "libx11"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vdpauinfo-1.5-3-x86_64.pkg.tar.zst"
+sha256 = "b9907bb34ecc74728981aa08ea474662e3535e6dad130480ac2bb3f0aae8547a"

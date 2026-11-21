@@ -1,0 +1,11 @@
+[package]
+name = "neon"
+version = "0.37.1-2"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "HTTP/1.1 and WebDAV client library"
+depends = ["ca-certificates", "expat", "glibc", "krb5", "openssl", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/neon-0.37.1-2-x86_64.pkg.tar.zst"
+sha256 = "e60144c94d695831c64cb435da1d694b469ab7445eb2bfda7c567fee0922f2ef"

@@ -1,0 +1,11 @@
+[package]
+name = "xorg-smproxy"
+version = "1.0.8-1"
+license = "MIT-open-group"
+arch = "x86_64"
+description = "Allows X applications that do not support X11R6 session management to participate in an X11R6 session"
+depends = ["libsm", "libxt", "libxmu", "libice", "libx11", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xorg-smproxy-1.0.8-1-x86_64.pkg.tar.zst"
+sha256 = "c6474cc65b554bcbd4999717fd8a8df5c386e66a558f69a6c30d788d22dfdc12"

@@ -1,0 +1,11 @@
+[package]
+name = "python-pyopenssl"
+version = "26.4.0-1"
+license = "Apache-2.0"
+arch = "any"
+description = "Python wrapper around the OpenSSL library"
+depends = ["python", "python-cryptography"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-pyopenssl-26.4.0-1-any.pkg.tar.zst"
+sha256 = "1eb7fe0b838a8ef00f7ca9d011fc3e9d6a19670dccc571a2af947a0d887f8c30"

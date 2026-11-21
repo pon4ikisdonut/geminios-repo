@@ -1,0 +1,11 @@
+[package]
+name = "libportal-gtk3"
+version = "0.11.0-1"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "GIO-style async APIs for most Flatpak portals - GTK 3 backend"
+depends = ["glib2", "glibc", "libgcc", "libportal", "gtk3", "libgdk-3.so", "libgtk-3.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libportal-gtk3-0.11.0-1-x86_64.pkg.tar.zst"
+sha256 = "7f05ae17ebccd6c156c90150f0f255f0121ea30f4dcdf8152f8f2cbc1b30b936"

@@ -1,0 +1,11 @@
+[package]
+name = "haskell-skylighting-core"
+version = "0.15-32"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Syntax highlighting library"
+depends = ["ghc-libs", "haskell-aeson", "haskell-attoparsec", "haskell-base64-bytestring", "haskell-case-insensitive", "haskell-colour", "haskell-safe", "haskell-utf8-string", "haskell-xml-conduit"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-skylighting-core-0.15-32-x86_64.pkg.tar.zst"
+sha256 = "01d13d5eed1389e8139cd856f7b2aac964dbb7664d444ab3d06b072e674958e4"

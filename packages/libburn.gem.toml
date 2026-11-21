@@ -1,0 +1,11 @@
+[package]
+name = "libburn"
+version = "1.5.8-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Library for reading, mastering and writing optical discs"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libburn-1.5.8-1-x86_64.pkg.tar.zst"
+sha256 = "ad1d122cad730d827dbcac09f554556b35d2516a9aebcef01db337dc268cdfa8"

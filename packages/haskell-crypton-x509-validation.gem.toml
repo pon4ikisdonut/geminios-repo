@@ -1,0 +1,11 @@
+[package]
+name = "haskell-crypton-x509-validation"
+version = "1.6.14-131"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "X.509 Certificate and CRL validation"
+depends = ["ghc-libs", "haskell-asn1-encoding", "haskell-asn1-types", "haskell-crypton", "haskell-crypton-x509", "haskell-crypton-x509-store", "haskell-data-default", "haskell-hourglass", "haskell-iproute", "haskell-memory", "haskell-pem"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-crypton-x509-validation-1.6.14-131-x86_64.pkg.tar.zst"
+sha256 = "54743e10bafebdb41281032933b3ff4881ff8df1154f948f432022e7070b6717"

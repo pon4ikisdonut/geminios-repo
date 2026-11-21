@@ -1,0 +1,11 @@
+[package]
+name = "syndication"
+version = "6.32.0-1"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "RSS/Atom parser library"
+depends = ["libgcc", "libstdc++", "glibc", "kcodecs", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/syndication-6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "d749472dbe4e2c00cba73deb1deef45d0ca15ed8276fab588c533b11a7f5c468"

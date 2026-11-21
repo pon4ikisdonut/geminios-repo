@@ -1,0 +1,11 @@
+[package]
+name = "sof-firmware"
+version = "2026.09.2-1"
+license = "BSD-3-Clause AND ISC"
+arch = "x86_64"
+description = "Sound Open Firmware"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/sof-firmware-2026.09.2-1-x86_64.pkg.tar.zst"
+sha256 = "8e8f6658a983a657f483cf354988e19ed55609aa7a4ba0b2794c9c223b2cd3d1"

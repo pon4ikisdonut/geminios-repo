@@ -1,0 +1,11 @@
+[package]
+name = "hwloc"
+version = "2.15.0-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Portable Hardware Locality is a portable abstraction of hierarchical architectures"
+depends = ["glibc", "libpciaccess", "ncurses", "systemd-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/hwloc-2.15.0-1-x86_64.pkg.tar.zst"
+sha256 = "70557154447db225e7be8b16a6b5797bac7c3ff0cd290dd58ad1e0b011c1d730"

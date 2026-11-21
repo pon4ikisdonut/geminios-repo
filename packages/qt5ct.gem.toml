@@ -1,0 +1,11 @@
+[package]
+name = "qt5ct"
+version = "1.9-2"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Qt5 Configuration Utility"
+depends = ["glibc", "libgcc", "libstdc++", "qt5-base", "qt5-svg"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qt5ct-1.9-2-x86_64.pkg.tar.zst"
+sha256 = "70e864e9a93ef635bfa1dc228d58860ca95ef8da0181b742da0ff53364c689ac"

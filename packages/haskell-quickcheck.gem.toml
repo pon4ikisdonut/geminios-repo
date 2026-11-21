@@ -1,0 +1,11 @@
+[package]
+name = "haskell-quickcheck"
+version = "2.15.0.1-287"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Automatic testing of Haskell programs"
+depends = ["ghc-libs", "haskell-erf", "haskell-random", "haskell-splitmix"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-quickcheck-2.15.0.1-287-x86_64.pkg.tar.zst"
+sha256 = "47ee32cf2ab27d8d05cf9ae815c031f613f0ffcb8df20b7d676647e4471b3b4b"

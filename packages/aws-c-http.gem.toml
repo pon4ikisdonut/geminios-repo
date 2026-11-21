@@ -1,0 +1,11 @@
+[package]
+name = "aws-c-http"
+version = "1.0.0-1"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "C99 implementation of the HTTP/1.1 and HTTP/2 specifications"
+depends = ["aws-c-cal", "aws-c-common", "aws-c-compression", "aws-c-io", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/aws-c-http-1.0.0-1-x86_64.pkg.tar.zst"
+sha256 = "152f63147761260f137bc62c9019e340dc13c8cbafc0f3909ccca27e5d4b0867"

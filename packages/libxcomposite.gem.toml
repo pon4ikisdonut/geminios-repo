@@ -1,0 +1,11 @@
+[package]
+name = "libxcomposite"
+version = "0.4.7-1"
+license = "HPND-sell-variant"
+arch = "x86_64"
+description = "X11 Composite extension library"
+depends = ["libxfixes", "xorgproto", "libx11", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libxcomposite-0.4.7-1-x86_64.pkg.tar.zst"
+sha256 = "5d11e648ccccbd7cf19884a677441528d8546eb89a4fda57febb08446e619917"

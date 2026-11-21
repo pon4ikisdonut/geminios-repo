@@ -1,0 +1,11 @@
+[package]
+name = "dbus-daemon-units"
+version = "1.16.4-1"
+license = "AFL-2.1 OR GPL-2.0-or-later"
+arch = "x86_64"
+description = "Freedesktop.org message bus system - Service units"
+depends = ["dbus"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/dbus-daemon-units-1.16.4-1-x86_64.pkg.tar.zst"
+sha256 = "ade89686c0986a49d8a4fe7c4c59161a925afd228da5fc1e972fdbdea4951b9b"

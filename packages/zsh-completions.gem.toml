@@ -1,0 +1,11 @@
+[package]
+name = "zsh-completions"
+version = "0.36.0-1"
+license = "BSD-3-Clause"
+arch = "any"
+description = "Additional completion definitions for Zsh"
+depends = ["zsh"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/zsh-completions-0.36.0-1-any.pkg.tar.zst"
+sha256 = "e10b9a920c80178ad68f485fbd8d257bea539d518dea59c62f9e5da3c29e22c0"

@@ -1,0 +1,11 @@
+[package]
+name = "gumbo-parser"
+version = "0.14.1-1"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "HTML5 parsing library in pure C99"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gumbo-parser-0.14.1-1-x86_64.pkg.tar.zst"
+sha256 = "c2b88b4027f4c7fd42d0c0fb096117ce01ee6d2210876f388552fc9ae3c7b9cc"

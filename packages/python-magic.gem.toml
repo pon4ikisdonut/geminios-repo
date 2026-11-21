@@ -1,0 +1,11 @@
+[package]
+name = "python-magic"
+version = "1:0.4.27-6"
+license = "MIT"
+arch = "any"
+description = "A python wrapper for libmagic"
+depends = ["file", "python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-magic-1:0.4.27-6-any.pkg.tar.zst"
+sha256 = "5bb9daa2a42023f9b7469697c300d0d4ab16d2d99eaffcb2236ebeb0c7f55151"

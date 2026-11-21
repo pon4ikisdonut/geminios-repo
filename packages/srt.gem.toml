@@ -1,0 +1,11 @@
+[package]
+name = "srt"
+version = "1.5.7-3"
+license = "MPL-2.0"
+arch = "x86_64"
+description = "Secure Reliable Transport library"
+depends = ["bash", "glibc", "libgcc", "libstdc++", "openssl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/srt-1.5.7-3-x86_64.pkg.tar.zst"
+sha256 = "e0ff7f0d6ccad0e3e5be8a23e65a95b5da30eda45a5b85be73c16ab92f5af7d3"

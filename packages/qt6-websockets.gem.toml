@@ -1,0 +1,11 @@
+[package]
+name = "qt6-websockets"
+version = "6.12.0-1"
+license = "Qt-GPL-exception-1.0"
+arch = "x86_64"
+description = "Provides WebSocket communication compliant with RFC 6455"
+depends = ["glibc", "libstdc++", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qt6-websockets-6.12.0-1-x86_64.pkg.tar.zst"
+sha256 = "24cf7b0b2b09596985275ffa2e9296e2439887d33371ffc91d05e5b8df77e2ae"

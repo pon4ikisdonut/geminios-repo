@@ -1,0 +1,11 @@
+[package]
+name = "haskell-glob"
+version = "0.10.2-342"
+license = "BSD"
+arch = "x86_64"
+description = "Globbing library"
+depends = ["ghc-libs", "haskell-dlist", "haskell-transformers-compat"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-glob-0.10.2-342-x86_64.pkg.tar.zst"
+sha256 = "67dc8b192f08984861413e3d702f59eb6c03c2ae06fa34094b24e4668033c89f"

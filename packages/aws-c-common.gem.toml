@@ -1,0 +1,11 @@
+[package]
+name = "aws-c-common"
+version = "1.0.2-1"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "Core c99 package for AWS SDK for C. Includes cross-platform primitives, configuration, data structures, and error handling"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/aws-c-common-1.0.2-1-x86_64.pkg.tar.zst"
+sha256 = "7649bf983a9b612016812985b8c727a8550447f2b751a94c7f1e9899d86400e2"

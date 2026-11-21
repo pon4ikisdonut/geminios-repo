@@ -1,0 +1,11 @@
+[package]
+name = "iniparser"
+version = "4.3.2-1"
+license = "MIT"
+arch = "x86_64"
+description = "A free stand-alone ini file parsing library written in portable ANSI C"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/iniparser-4.3.2-1-x86_64.pkg.tar.zst"
+sha256 = "acf01506dd701104121c3aef82f326184428654a8fd43e8f115675fa1023ba5b"

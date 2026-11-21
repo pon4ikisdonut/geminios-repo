@@ -1,0 +1,11 @@
+[package]
+name = "libdovi"
+version = "3.4.0-1"
+license = "MIT"
+arch = "x86_64"
+description = "Library to read and write Dolby Vision metadata"
+depends = ["glibc", "libgcc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libdovi-3.4.0-1-x86_64.pkg.tar.zst"
+sha256 = "5832cbddc94e3eb134fc14420d8b4503cb9683041b724a64fdedd080155fa106"

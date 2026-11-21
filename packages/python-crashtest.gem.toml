@@ -1,0 +1,11 @@
+[package]
+name = "python-crashtest"
+version = "0.4.1-5"
+license = "MIT"
+arch = "any"
+description = "supposedly makes exceptions handling and inspection easier"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-crashtest-0.4.1-5-any.pkg.tar.zst"
+sha256 = "5b5963c282bfff6e96ed8f64e18bf45578fd7808c51e1cd9a3f16b68dd7cbc89"

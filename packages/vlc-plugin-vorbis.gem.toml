@@ -1,0 +1,11 @@
+[package]
+name = "vlc-plugin-vorbis"
+version = "3.0.24-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Free and open source cross-platform multimedia player and framework - Vorbis plugin"
+depends = ["glibc", "libvlc", "libvlccore.so", "libvorbis"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vlc-plugin-vorbis-3.0.24-2-x86_64.pkg.tar.zst"
+sha256 = "41a0176b6dd3551e67fb8d64d52ea7958fb4ec1b60867edf8aa1662ab05c8266"

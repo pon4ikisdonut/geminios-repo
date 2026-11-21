@@ -1,0 +1,11 @@
+[package]
+name = "cava"
+version = "1.0.0-2"
+license = "MIT"
+arch = "x86_64"
+description = "Console-based Audio Visualizer with support for multiple backends"
+depends = ["fftw", "glibc", "iniparser", "alsa-lib", "jack", "libpipewire", "libpulse", "portaudio", "sndio", "libglvnd", "ncurses", "sdl2"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/cava-1.0.0-2-x86_64.pkg.tar.zst"
+sha256 = "0bd5dfd9b337e0f7b6474952293f137dd989122a8e4f32b5a28e57cce3182563"

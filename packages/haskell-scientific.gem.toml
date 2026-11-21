@@ -1,0 +1,11 @@
+[package]
+name = "haskell-scientific"
+version = "0.3.10.0-15"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Numbers represented using scientific notation"
+depends = ["ghc-libs", "haskell-hashable", "haskell-integer-logarithms", "haskell-primitive"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-scientific-0.3.10.0-15-x86_64.pkg.tar.zst"
+sha256 = "5ea61e187a5e8b4ac24b9331664ea24920774884e0814c1f6756195c9b3fdc8e"

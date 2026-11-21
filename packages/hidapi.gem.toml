@@ -1,0 +1,11 @@
+[package]
+name = "hidapi"
+version = "0.15.0-1"
+license = "custom"
+arch = "x86_64"
+description = "Simple library for communicating with USB and Bluetooth HID devices"
+depends = ["systemd-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/hidapi-0.15.0-1-x86_64.pkg.tar.zst"
+sha256 = "58eee8119ef8ca47a6f10c073ee3a89d9d3958b77b94aa7d05c331e73f50f5b8"

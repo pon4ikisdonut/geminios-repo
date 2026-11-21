@@ -1,0 +1,11 @@
+[package]
+name = "simdjson"
+version = "2:5.2.0-1"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "A C++ library to see how fast we can parse JSON with complete validation."
+depends = ["libgcc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/simdjson-2:5.2.0-1-x86_64.pkg.tar.zst"
+sha256 = "213ab1f58d6fafa8357dc220c598deef8b075dbc3e82c41d728662f06f1ce370"

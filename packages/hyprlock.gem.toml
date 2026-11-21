@@ -1,0 +1,11 @@
+[package]
+name = "hyprlock"
+version = "0.9.7-2"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "hyprland’s GPU-accelerated screen locking utility"
+depends = ["cairo", "libgcc", "libstdc++", "glibc", "hyprgraphics", "libhyprgraphics.so", "hyprlang", "libhyprlang.so", "hyprutils", "libhyprutils.so", "libdrm", "libglvnd", "libEGL.so", "libxkbcommon", "libxkbcommon.so", "mesa", "pam", "libpam.so", "sdbus-cpp", "libsdbus-c++.so", "wayland", "libwayland-client.so", "libwayland-egl.so", "wayland-protocols"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/hyprlock-0.9.7-2-x86_64.pkg.tar.zst"
+sha256 = "44ec33c69624ca7912c75dc0b0fff944bb7ff073711d579feb150044b26b4aa0"

@@ -1,0 +1,11 @@
+[package]
+name = "haskell-time-manager"
+version = "0.1.2-1"
+license = "MIT"
+arch = "x86_64"
+description = "Scalable timer"
+depends = ["ghc-libs", "haskell-auto-update"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-time-manager-0.1.2-1-x86_64.pkg.tar.zst"
+sha256 = "01a7f6cc0e01b7f1478880d12abfed9289dd559ef9374ad7f2ff6f860b2a45ef"

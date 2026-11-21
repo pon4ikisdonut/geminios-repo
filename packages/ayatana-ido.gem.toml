@@ -1,0 +1,11 @@
+[package]
+name = "ayatana-ido"
+version = "0.10.4-1"
+license = "LGPL-3.0-or-later"
+arch = "x86_64"
+description = "Ayatana Indicator Display Objects"
+depends = ["cairo", "gdk-pixbuf2", "glib2", "glibc", "gtk3", "pango"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ayatana-ido-0.10.4-1-x86_64.pkg.tar.zst"
+sha256 = "394bf0a6c90cfaaa8e1ea5b4545637a1c70765b8a0036f69224242206832b6c7"

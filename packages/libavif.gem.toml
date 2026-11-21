@@ -1,0 +1,11 @@
+[package]
+name = "libavif"
+version = "1.4.2-1"
+license = "LicenseRef-libavif"
+arch = "x86_64"
+description = "Library for encoding and decoding .avif files"
+depends = ["aom", "dav1d", "glibc", "libgcc", "libjpeg-turbo", "libpng", "libstdc++", "libwebp", "libxml2", "libyuv", "rav1e", "svt-av1"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libavif-1.4.2-1-x86_64.pkg.tar.zst"
+sha256 = "296986d8795009e86279608a311c580154d84b82d53365495d76cf28ef375441"

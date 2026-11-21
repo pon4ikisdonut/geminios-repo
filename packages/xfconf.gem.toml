@@ -1,0 +1,11 @@
+[package]
+name = "xfconf"
+version = "4.20.0-2"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "D-Bus-based configuration storage system"
+depends = ["libxfce4util"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xfconf-4.20.0-2-x86_64.pkg.tar.zst"
+sha256 = "fe333b94ee1af48b4a0ad0869d484a914611daed41ddc465074109f43824896c"

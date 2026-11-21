@@ -1,0 +1,11 @@
+[package]
+name = "haskell-citeproc"
+version = "0.14.2-3"
+license = "BSD-2-Clause"
+arch = "x86_64"
+description = "Generates citations and bibliography from CSL styles."
+depends = ["ghc-libs", "haskell-aeson", "haskell-attoparsec", "haskell-case-insensitive", "haskell-data-default", "haskell-file-embed", "haskell-pandoc-types", "haskell-safe", "haskell-scientific", "haskell-unicode-collation", "haskell-uniplate", "haskell-vector", "haskell-xml-conduit", "haskell-aeson-pretty", "haskell-text-icu"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-citeproc-0.14.2-3-x86_64.pkg.tar.zst"
+sha256 = "a2476b356ed3b90ce30c086bf374414daf1776758aa1ae1c34896cb95e55e845"

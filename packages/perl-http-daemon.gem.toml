@@ -1,0 +1,11 @@
+[package]
+name = "perl-http-daemon"
+version = "6.17-1"
+license = "GPL-1.0-or-later OR Artistic-1.0-Perl"
+arch = "any"
+description = "Simple HTTP server class"
+depends = ["perl", "perl-http-date", "perl-http-message", "perl-lwp-mediatypes"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/perl-http-daemon-6.17-1-any.pkg.tar.zst"
+sha256 = "3cf809615708ff4e636dd7af89d06eb4247aeefefdc1d3c7f25fe019fac60f60"

@@ -1,0 +1,11 @@
+[package]
+name = "wireshark-cli"
+version = "4.7.4-2"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "Network traffic and protocol analyzer/sniffer - CLI tools and data files"
+depends = ["bcg729", "brotli", "c-ares", "glib2", "glibc", "gnutls", "krb5", "libbrotlidec.so", "libcap", "libcap.so", "libcares.so", "libgcc", "libgcrypt", "libk5crypto.so", "libkrb5.so", "libmaxminddb", "libnghttp2", "libnghttp3", "libnl", "libpcap", "libpcap.so", "libssh", "libxml2", "lua54", "lz4", "opencore-amr", "opus", "pcre2", "sbc", "snappy", "spandsp", "speexdsp", "systemd-libs", "xxhash", "zlib-ng", "zstd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/wireshark-cli-4.7.4-2-x86_64.pkg.tar.zst"
+sha256 = "3d5b26f9f3d3e9b3e20c9cf1741400565b20ee5b6e56456c62e04d3793affcbf"

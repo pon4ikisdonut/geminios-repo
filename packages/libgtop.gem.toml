@@ -1,0 +1,11 @@
+[package]
+name = "libgtop"
+version = "2.41.4-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Library for collecting system monitoring data"
+depends = ["glib2", "glibc", "libxau"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libgtop-2.41.4-1-x86_64.pkg.tar.zst"
+sha256 = "7c7e5ec74c036627bdae953920bb18c17c276cac61c79379329de62fa18fb9e2"

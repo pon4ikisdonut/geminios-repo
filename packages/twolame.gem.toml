@@ -1,0 +1,11 @@
+[package]
+name = "twolame"
+version = "0.4.0-4"
+license = "LGPL2.1"
+arch = "x86_64"
+description = "An optimized MPEG Audio Layer 2 (MP2) encoder"
+depends = ["glibc", "libsndfile"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/twolame-0.4.0-4-x86_64.pkg.tar.zst"
+sha256 = "16cd8a6134a928ab9453b11518258aca74559bf6782d93a5c484f693ad8384e0"

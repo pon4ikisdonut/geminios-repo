@@ -1,0 +1,11 @@
+[package]
+name = "man-pages"
+version = "6.20-1"
+license = "Spencer-94"
+arch = "any"
+description = "Linux man pages"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/man-pages-6.20-1-any.pkg.tar.zst"
+sha256 = "43684c07f52ffa385e097216c3b1cdf8a89e17a50a7e0a9249678fd6d6ab507c"

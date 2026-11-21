@@ -1,0 +1,11 @@
+[package]
+name = "act"
+version = "0.2.98-1"
+license = "MIT"
+arch = "x86_64"
+description = "Run your GitHub Actions locally"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/act-0.2.98-1-x86_64.pkg.tar.zst"
+sha256 = "b6a02fc4c8479f29c80daf921a554e340e561b1ad428c7c30440b8d24d63fa35"

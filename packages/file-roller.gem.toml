@@ -1,0 +1,11 @@
+[package]
+name = "file-roller"
+version = "44.8-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Create and modify archives"
+depends = ["dconf", "glib2", "glibc", "gtk4", "hicolor-icon-theme", "json-glib", "libadwaita", "libarchive", "libgcc", "libnautilus-extension", "pango"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/file-roller-44.8-1-x86_64.pkg.tar.zst"
+sha256 = "2095200a797ef27d97262f4959676e8ac4439c555b1a3dc81cbe1d24ffe21444"

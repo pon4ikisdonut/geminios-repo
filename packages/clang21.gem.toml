@@ -1,0 +1,11 @@
+[package]
+name = "clang21"
+version = "21.1.8-1"
+license = "Apache-2.0 WITH LLVM-exception"
+arch = "x86_64"
+description = "C language family frontend for LLVM 21"
+depends = ["llvm21-libs", "gcc", "compiler-rt21"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/clang21-21.1.8-1-x86_64.pkg.tar.zst"
+sha256 = "8e7a7e156486e8a5a1198351a00088223423296ac0016aa0b86a14c965f5a5b9"

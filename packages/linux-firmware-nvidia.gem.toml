@@ -1,0 +1,11 @@
+[package]
+name = "linux-firmware-nvidia"
+version = "20261019-1"
+license = "LicenseRef-nvidia"
+arch = "any"
+description = "Firmware files for Linux - Firmware for NVIDIA GPUs and SoCs"
+depends = ["linux-firmware-whence"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/linux-firmware-nvidia-20261019-1-any.pkg.tar.zst"
+sha256 = "330b68ac3adbf9e7a33709a642db15238e2bd2baffe31580eaa8ce7f8e475520"

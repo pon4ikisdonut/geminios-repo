@@ -1,0 +1,11 @@
+[package]
+name = "haskell-th-lift"
+version = "0.8.7-5"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Derive Template Haskell's Lift class for datatypes."
+depends = ["ghc-libs", "haskell-th-abstraction"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-th-lift-0.8.7-5-x86_64.pkg.tar.zst"
+sha256 = "88c243ca98192a4879530be329cc5c9bddf5a5c93436eaead2661983dfb7a83a"

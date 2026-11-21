@@ -1,0 +1,11 @@
+[package]
+name = "gdbm"
+version = "1.26-2"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "GNU database library"
+depends = ["glibc", "sh", "readline", "libreadline.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/gdbm-1.26-2-x86_64.pkg.tar.zst"
+sha256 = "7bb8768fc7f617c580ae4c7902aed5413984a8374915da42beeecbb085c2a29e"

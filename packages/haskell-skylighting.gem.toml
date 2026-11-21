@@ -1,0 +1,11 @@
+[package]
+name = "haskell-skylighting"
+version = "0.15-32"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "Syntax highlighting library"
+depends = ["ghc-libs", "haskell-skylighting-core", "haskell-skylighting-format-ansi", "haskell-skylighting-format-blaze-html", "haskell-skylighting-format-context", "haskell-skylighting-format-latex", "haskell-skylighting-format-typst"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-skylighting-0.15-32-x86_64.pkg.tar.zst"
+sha256 = "970e61d217bbd6adc5072ec28e180d852f3fc058f6c263381fc10e6de70fbb70"

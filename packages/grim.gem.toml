@@ -1,0 +1,11 @@
+[package]
+name = "grim"
+version = "1.5.0-2"
+license = "MIT"
+arch = "x86_64"
+description = "Screenshot utility for Wayland"
+depends = ["cairo", "libjpeg-turbo", "wayland"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/grim-1.5.0-2-x86_64.pkg.tar.zst"
+sha256 = "2cbddb88d4a3316c61e8984203bbdca81cbf089c323e5db09c4e1648c483c8a6"

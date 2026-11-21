@@ -1,0 +1,11 @@
+[package]
+name = "kuserfeedback"
+version = "6.32.0-1"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "Framework for collecting user feedback for applications via telemetry and surveys"
+depends = ["glibc", "libstdc++", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kuserfeedback-6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "bc8573eede8ebae721959d5e6f90eb555990584c404a02587333fe20f76e9319"

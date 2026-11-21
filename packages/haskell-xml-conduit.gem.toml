@@ -1,0 +1,11 @@
+[package]
+name = "haskell-xml-conduit"
+version = "1.9.1.4-245"
+license = "MIT"
+arch = "x86_64"
+description = "Pure-Haskell utilities for dealing with XML with the conduit package."
+depends = ["ghc-libs", "haskell-attoparsec", "haskell-blaze-markup", "haskell-conduit", "haskell-conduit-extra", "haskell-data-default", "haskell-resourcet", "haskell-blaze-html", "haskell-xml-types"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-xml-conduit-1.9.1.4-245-x86_64.pkg.tar.zst"
+sha256 = "bd7db321de6493dd26708eac7fe732e1e159179f5e4474f83cf5b7c0be4fda05"

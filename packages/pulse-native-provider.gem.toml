@@ -1,0 +1,11 @@
+[package]
+name = "pulse-native-provider"
+version = "1:1.6.11-2"
+license = "CC0-1.0"
+arch = "x86_64"
+description = "PulseAudio sound server (default provider)"
+depends = ["pipewire-pulse"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/pulse-native-provider-1:1.6.11-2-x86_64.pkg.tar.zst"
+sha256 = "1725eeb907b01a7b5181209f5e43481f0ff302e83cabc95834c6c5b14edd7173"

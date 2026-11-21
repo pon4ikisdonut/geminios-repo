@@ -1,0 +1,11 @@
+[package]
+name = "libblockdev-fs"
+version = "3.6.0-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "A library for manipulating block devices - filesystem support"
+depends = ["e2fsprogs", "libext2fs.so", "libe2p.so", "glib2", "libglib-2.0.so", "glibc", "libblockdev", "libbd_utils.so", "libbytesize", "libgcc", "parted", "util-linux-libs", "libblkid.so", "libmount.so", "libuuid.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libblockdev-fs-3.6.0-1-x86_64.pkg.tar.zst"
+sha256 = "c2b23c3973754faf2c8c25bb6fd917f76fab400962d6610840809534d64fce3f"

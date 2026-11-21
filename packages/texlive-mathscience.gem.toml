@@ -1,0 +1,11 @@
+[package]
+name = "texlive-mathscience"
+version = "2026.1-1"
+license = "GPL"
+arch = "any"
+description = "TeX Live - Mathematics, natural sciences, computer science packages"
+depends = ["texlive-bin", "texlive-fontsrecommended", "texlive-latex"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/texlive-mathscience-2026.1-1-any.pkg.tar.zst"
+sha256 = "a4863e9477faac12366dafad771fcc177a7a87c7fed903604f9397855b54a18b"

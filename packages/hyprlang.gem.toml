@@ -1,0 +1,11 @@
+[package]
+name = "hyprlang"
+version = "0.6.8-5"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "implementation library for the hypr config language"
+depends = ["libgcc", "libstdc++", "glibc", "hyprutils", "libhyprutils.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/hyprlang-0.6.8-5-x86_64.pkg.tar.zst"
+sha256 = "212eb288e5a695650cdc4b91b59039ad80423ae5fb938de997e915d979948553"

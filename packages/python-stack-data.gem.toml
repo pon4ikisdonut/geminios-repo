@@ -1,0 +1,11 @@
+[package]
+name = "python-stack-data"
+version = "0.6.3-5"
+license = "MIT"
+arch = "any"
+description = "Extract data from python stack frames and tracebacks for informative displays"
+depends = ["python-asttokens", "python-executing", "python-pure-eval"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-stack-data-0.6.3-5-any.pkg.tar.zst"
+sha256 = "b9fb3eb12e40e37a59677109b0d4cc2676df6e93b46e0ea465c5200a61764680"

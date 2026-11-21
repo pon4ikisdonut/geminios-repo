@@ -1,0 +1,11 @@
+[package]
+name = "sdl12-compat"
+version = "1.2.68-2"
+license = "MIT"
+arch = "x86_64"
+description = "SDL 1.2 runtime compatibility library using SDL 2.0"
+depends = ["sdl2", "glu"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/sdl12-compat-1.2.68-2-x86_64.pkg.tar.zst"
+sha256 = "c9d69326f469ee070fea7d05df7d8a6d8303fe99ac5811a3b1e167dfb4f8d7f9"

@@ -1,0 +1,11 @@
+[package]
+name = "haskell-pandoc-server"
+version = "0.1.4.3-3"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Pandoc document conversion as an HTTP servant-server"
+depends = ["ghc-libs", "haskell-aeson", "haskell-base64-bytestring", "haskell-data-default", "haskell-doctemplates", "haskell-pandoc", "haskell-pandoc-types", "haskell-servant-server", "haskell-skylighting", "haskell-unicode-collation", "haskell-wai", "haskell-wai-cors"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-pandoc-server-0.1.4.3-3-x86_64.pkg.tar.zst"
+sha256 = "2b2e3b3232f5c2fe38528ba65e7771c1098c0cd7885f45b80ffc623661ef038d"

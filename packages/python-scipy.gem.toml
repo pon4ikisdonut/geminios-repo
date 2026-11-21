@@ -1,0 +1,11 @@
+[package]
+name = "python-scipy"
+version = "1.18.1-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Open-source software for mathematics, science, and engineering"
+depends = ["blas", "glibc", "lapack", "libgcc", "libgfortran", "libstdc++", "python", "python-numpy", "python-platformdirs", "python-pooch"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-scipy-1.18.1-1-x86_64.pkg.tar.zst"
+sha256 = "22f9ad7bc35fe4294ae7428fa2a455694b8841b928f917abd053688730100ff6"

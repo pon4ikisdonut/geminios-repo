@@ -1,0 +1,11 @@
+[package]
+name = "i2c-tools"
+version = "4.4-4"
+license = "GPL"
+arch = "x86_64"
+description = "Heterogeneous set of I2C tools for Linux that used to be part of lm-sensors"
+depends = ["perl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/i2c-tools-4.4-4-x86_64.pkg.tar.zst"
+sha256 = "0bf5b396a1fe87b7b10c82887f2dde427b8f4bf33f04b4f3d10d81c803540d7f"

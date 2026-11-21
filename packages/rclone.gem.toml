@@ -1,0 +1,11 @@
+[package]
+name = "rclone"
+version = "1.76.0-1"
+license = "MIT"
+arch = "x86_64"
+description = "rsync for cloud storage"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/rclone-1.76.0-1-x86_64.pkg.tar.zst"
+sha256 = "b2ccdb73ec467b7e734bbdabfd44339197baa7b87af5010362c0fa24cc031f93"

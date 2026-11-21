@@ -1,0 +1,11 @@
+[package]
+name = "libnfnetlink"
+version = "1.0.2-2"
+license = "GPL"
+arch = "x86_64"
+description = "Low-level library for netfilter related kernel/userspace communication"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/libnfnetlink-1.0.2-2-x86_64.pkg.tar.zst"
+sha256 = "b06f0d8f2723ac33155bf4f584d88906c5be68d3c3c8b4f3f0694a5874672727"

@@ -1,0 +1,11 @@
+[package]
+name = "akonadi-mime"
+version = "26.08.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Libraries and daemons to implement basic email handling"
+depends = ["akonadi", "glibc", "kconfig", "kcoreaddons", "ki18n", "kio", "kmime", "kwidgetsaddons", "kxmlgui", "libgcc", "libstdc++", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/akonadi-mime-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "633823be8735f6d79ae63dcd21c7e21638aa6240df42372bc30e2f4b29822bc3"

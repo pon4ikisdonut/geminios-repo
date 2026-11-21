@@ -1,0 +1,11 @@
+[package]
+name = "criu"
+version = "4.3.1-2"
+license = "LGPL-2.1-only"
+arch = "x86_64"
+description = "Utilities to checkpoint and restore processes in userspace"
+depends = ["glibc", "gnutls", "libbpf", "libbsd", "libdrm", "libgcc", "libnet", "libnl", "nftables", "protobuf-c", "python", "python-protobuf", "util-linux-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/criu-4.3.1-2-x86_64.pkg.tar.zst"
+sha256 = "b3af13510c9bc24035a8e80f6e4c524d57f8c2c231935431e67b704735cb714a"

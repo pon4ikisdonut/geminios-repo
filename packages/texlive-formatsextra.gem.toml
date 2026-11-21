@@ -1,0 +1,11 @@
+[package]
+name = "texlive-formatsextra"
+version = "2026.1-1"
+license = "GPL"
+arch = "any"
+description = "TeX Live - Additional formats"
+depends = ["texlive-bin", "texlive-basic", "texlive-latex", "texlive-plaingeneric", "texlive-fontsrecommended", "texlive-latexrecommended"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/texlive-formatsextra-2026.1-1-any.pkg.tar.zst"
+sha256 = "8ba3549a1c200eec56f47079d10a132f53a014f0a2e6a9e5af53bf165181b1c0"

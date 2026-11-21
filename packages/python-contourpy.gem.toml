@@ -1,0 +1,11 @@
+[package]
+name = "python-contourpy"
+version = "1.4.0-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Python library for calculating contours in 2D quadrilateral grids"
+depends = ["glibc", "libgcc", "libstdc++", "python", "python-numpy"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-contourpy-1.4.0-1-x86_64.pkg.tar.zst"
+sha256 = "4ddd41443dabf7e038582986cdc64c72281e25e6173749a3aab2fff7d2231d39"

@@ -1,0 +1,11 @@
+[package]
+name = "perl-io-html"
+version = "1.004-8"
+license = "GPL"
+arch = "any"
+description = "Open an HTML file with automatic charset detection"
+depends = ["perl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/perl-io-html-1.004-8-any.pkg.tar.zst"
+sha256 = "e25aa8733318b5556770654951854b3b3fc61b151228351d98811fb5ee1f7b2a"

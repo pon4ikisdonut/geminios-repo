@@ -1,0 +1,11 @@
+[package]
+name = "haskell-juicypixels"
+version = "3.3.10-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Picture loading/serialization (in png, jpeg, bitmap, gif, tga, tiff and radiance)"
+depends = ["ghc-libs", "haskell-primitive", "haskell-vector", "haskell-zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-juicypixels-3.3.10-1-x86_64.pkg.tar.zst"
+sha256 = "b5c7fe37ef8c32ea006da02c0e336609ca247eb6c1c55f9d664747adbe9edeee"

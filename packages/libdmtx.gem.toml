@@ -1,0 +1,11 @@
+[package]
+name = "libdmtx"
+version = "0.7.8-1"
+license = "LicenseRef-libdmtx"
+arch = "x86_64"
+description = "A software for reading and writing Data Matrix 2D barcodes"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libdmtx-0.7.8-1-x86_64.pkg.tar.zst"
+sha256 = "e54afff867ea06c282883f84c6a4de7f1774a97e2992e1fa17a008ae9c0379dc"

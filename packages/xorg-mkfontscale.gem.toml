@@ -1,0 +1,11 @@
+[package]
+name = "xorg-mkfontscale"
+version = "1.2.4-2"
+license = "HPND-sell-variant"
+arch = "x86_64"
+description = "Create an index of scalable font files for X"
+depends = ["freetype2", "libfontenc", "zlib", "glibc", "sh"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xorg-mkfontscale-1.2.4-2-x86_64.pkg.tar.zst"
+sha256 = "ecf9222433db4b368eada7e2d57ad2e2272c05a94b59a91f921192645d860900"

@@ -1,0 +1,11 @@
+[package]
+name = "jdk-openjdk"
+version = "27.0.1.1.u4-1"
+license = "LicenseRef-Java"
+arch = "x86_64"
+description = "OpenJDK Java 27 development kit"
+depends = ["java-runtime-common", "ca-certificates-utils", "freetype2", "glibc", "harfbuzz", "lcms2", "libfreetype.so", "libgcc", "libharfbuzz.so", "libjpeg.so", "libjpeg-turbo", "liblcms2.so", "libnet", "libstdc++", "nss", "java-environment-common", "ca-certificates-utils", "freetype2", "harfbuzz", "hicolor-icon-theme", "lcms2", "libelf", "libfreetype.so", "libgif.so", "libharfbuzz.so", "libjpeg.so", "libjpeg-turbo", "liblcms2.so", "libnet", "libpng", "nss"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/jdk-openjdk-27.0.1.1.u4-1-x86_64.pkg.tar.zst"
+sha256 = "c32f57ca6639d39c6112fbafc2db9a3256b7f68d40ed8869a8b2eb44daa447cd"

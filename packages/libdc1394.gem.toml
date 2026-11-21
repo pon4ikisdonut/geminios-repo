@@ -1,0 +1,11 @@
+[package]
+name = "libdc1394"
+version = "2.2.7-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Library to control IEEE 1394 based cameras"
+depends = ["glibc", "libraw1394", "libusb"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libdc1394-2.2.7-2-x86_64.pkg.tar.zst"
+sha256 = "d9629fc1050d9368eec0c5ab2d1a9ba88da461cfd23d2b3d18ed509f82c3ae83"

@@ -1,0 +1,11 @@
+[package]
+name = "python-packaging"
+version = "26.3-1"
+license = "Apache-2.0 OR BSD-2-Clause"
+arch = "any"
+description = "Core utilities for Python packages"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-packaging-26.3-1-any.pkg.tar.zst"
+sha256 = "b6020d9f99a21fe3b209c7e4253c33ba36e644e8d75a9cac6af5ca0fe4fb1e6c"

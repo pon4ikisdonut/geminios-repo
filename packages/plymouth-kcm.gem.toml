@@ -1,0 +1,11 @@
+[package]
+name = "plymouth-kcm"
+version = "6.8.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "KCM to manage the Plymouth (Boot) theme"
+depends = ["glibc", "karchive", "kauth", "kcmutils", "kconfig", "kcoreaddons", "ki18n", "kio", "kirigami", "knewstuff", "libstdc++", "plymouth", "qt6-base", "qt6-declarative"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/plymouth-kcm-6.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "0256d2a69c5cf7b399f0d40503815d9886cc4d49f31c5e351d266929d44145a7"

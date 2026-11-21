@@ -1,0 +1,11 @@
+[package]
+name = "powerdevil"
+version = "6.8.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Manages the power consumption settings of a Plasma Shell"
+depends = ["ddcutil", "glibc", "plasma-activities", "kauth", "kcmutils", "kconfig", "kcoreaddons", "kcrash", "kdbusaddons", "kglobalaccel", "ki18n", "kidletime", "kirigami", "kitemmodels", "knotifications", "kpackage", "kservice", "kxmlgui", "libkscreen", "libplasma", "libstdc++", "plasma-workspace", "qcoro", "qt6-base", "qt6-declarative", "solid", "systemd-libs", "wayland"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/powerdevil-6.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "34153fe1f8ddbbd7befdc6e6c6b04acc9c5ce237b8f519d228bd643347374089"

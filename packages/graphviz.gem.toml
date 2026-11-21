@@ -1,0 +1,11 @@
+[package]
+name = "graphviz"
+version = "16.1.1-1"
+license = "EPL"
+arch = "x86_64"
+description = "Graph visualization software"
+depends = ["libltdl", "gd", "librsvg", "ghostscript", "pango", "gts", "gsfonts"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/graphviz-16.1.1-1-x86_64.pkg.tar.zst"
+sha256 = "dc42e262243556d21057107fdaf2bb276deb6933432258f02747e83c7f656274"

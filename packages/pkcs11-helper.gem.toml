@@ -1,0 +1,11 @@
+[package]
+name = "pkcs11-helper"
+version = "1.31.0-2"
+license = "BSD"
+arch = "x86_64"
+description = "A library that simplifies the interaction with PKCS11 providers for end-user applications using a simple API and optional OpenSSL engine"
+depends = ["gnutls", "nss", "openssl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/pkcs11-helper-1.31.0-2-x86_64.pkg.tar.zst"
+sha256 = "9a77ed46d7c2f8f26733d21dbde3ece3f47a1df6d12d5d785b4c1371e3740891"

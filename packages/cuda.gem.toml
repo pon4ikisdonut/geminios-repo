@@ -1,0 +1,11 @@
+[package]
+name = "cuda"
+version = "13.5.0-1"
+license = "LicenseRef-NVIDIA-CUDA"
+arch = "x86_64"
+description = "NVIDIA's GPU programming toolkit"
+depends = ["cccl", "opencl-nvidia", "python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/cuda-13.5.0-1-x86_64.pkg.tar.zst"
+sha256 = "7edbd1088d856019f5a2d4d75721a6045ed50ea96ecec3216d91c2b38258688c"

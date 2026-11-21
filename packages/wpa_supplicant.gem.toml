@@ -1,0 +1,11 @@
+[package]
+name = "wpa_supplicant"
+version = "2:2.12-2"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "A utility providing key negotiation for WPA wireless networks"
+depends = ["glibc", "libdbus", "libnl", "openssl", "pcsclite", "readline"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/wpa_supplicant-2:2.12-2-x86_64.pkg.tar.zst"
+sha256 = "4d9a85de0a109612d2d0adc8ffb07cf6a61631654d8e9f9fd8b73d8e0d6ab57b"

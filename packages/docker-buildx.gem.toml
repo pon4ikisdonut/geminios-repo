@@ -1,0 +1,11 @@
+[package]
+name = "docker-buildx"
+version = "0.39.1-1"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "Docker CLI plugin for extended build capabilities with BuildKit"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/docker-buildx-0.39.1-1-x86_64.pkg.tar.zst"
+sha256 = "e3e55ee4d80b712e7c201e78c7bed59d3397e57e229eeaa4aca251007cba6388"

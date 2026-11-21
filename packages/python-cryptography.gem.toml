@@ -1,0 +1,11 @@
+[package]
+name = "python-cryptography"
+version = "50.0.2-2"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "A package designed to expose cryptographic recipes and primitives to Python developers"
+depends = ["glibc", "libgcc", "openssl", "python", "python-cffi"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-cryptography-50.0.2-2-x86_64.pkg.tar.zst"
+sha256 = "25a18e627e217def76b5d8967c69725483a3a9cd83ff3c7012770d44b166a5b0"

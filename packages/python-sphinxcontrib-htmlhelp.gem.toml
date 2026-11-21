@@ -1,0 +1,11 @@
+[package]
+name = "python-sphinxcontrib-htmlhelp"
+version = "2.1.0-5"
+license = "BSD-2-Clause"
+arch = "any"
+description = "Sphinx extension which renders HTML help files"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-sphinxcontrib-htmlhelp-2.1.0-5-any.pkg.tar.zst"
+sha256 = "bb6a1ad053e18dd9388a3dd801aba1d387e917be87e0fb008cbd8e4624d77948"

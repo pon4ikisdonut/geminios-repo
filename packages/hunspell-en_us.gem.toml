@@ -1,0 +1,11 @@
+[package]
+name = "hunspell-en_us"
+version = "2026.02.25-1"
+license = "BSD-3-Clause-Modification"
+arch = "any"
+description = "US English hunspell dictionaries"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/hunspell-en_us-2026.02.25-1-any.pkg.tar.zst"
+sha256 = "915fd7531f5477d697ccaa3844ad17e60580624d93c8e0f5c86da876f24a5d51"

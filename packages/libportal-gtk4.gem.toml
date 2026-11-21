@@ -1,0 +1,11 @@
+[package]
+name = "libportal-gtk4"
+version = "0.11.0-1"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "GIO-style async APIs for most Flatpak portals - GTK 4 backend"
+depends = ["glib2", "glibc", "libgcc", "libportal", "gtk4", "libgtk-4.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libportal-gtk4-0.11.0-1-x86_64.pkg.tar.zst"
+sha256 = "d4f4af259afc5a1f155f95be06cd36a708c275f1dd5d7adcecaceec9fa913d9b"

@@ -1,0 +1,11 @@
+[package]
+name = "python-xxhash"
+version = "4.1.0-1"
+license = "BSD-2-Clause"
+arch = "x86_64"
+description = "Python binding for xxHash"
+depends = ["glibc", "python", "xxhash"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-xxhash-4.1.0-1-x86_64.pkg.tar.zst"
+sha256 = "bfce66ae809916ee4a534ae6570b2ee30c006ac0efbcecb72b1e17d3b8287a45"

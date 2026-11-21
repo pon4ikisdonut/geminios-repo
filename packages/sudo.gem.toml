@@ -1,0 +1,11 @@
+[package]
+name = "sudo"
+version = "1.9.17.p2-7"
+license = "custom"
+arch = "x86_64"
+description = "Give certain users the ability to run some commands as root"
+depends = ["glibc", "openssl", "pam", "libldap", "zlib", "libcrypto.so", "libssl.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/sudo-1.9.17.p2-7-x86_64.pkg.tar.zst"
+sha256 = "62ab2b3292fa45bc2b7ab2ffacb9971c7f42ca384226e9bb49a87a5fcaf7625c"

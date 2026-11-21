@@ -1,0 +1,11 @@
+[package]
+name = "noto-fonts-emoji"
+version = "1:20260924-1"
+license = "OFL-1.1-no-RFN"
+arch = "any"
+description = "Google Noto Color Emoji font"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/noto-fonts-emoji-1:20260924-1-any.pkg.tar.zst"
+sha256 = "c7078ec9bff74012d79a667905b0c14f0ce1387c03414de365060b325ff2ed42"

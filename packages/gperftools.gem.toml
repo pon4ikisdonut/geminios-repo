@@ -1,0 +1,11 @@
+[package]
+name = "gperftools"
+version = "2.19.3-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Fast, multi-threaded malloc and nifty performance analysis tools"
+depends = ["glibc", "libgcc", "libstdc++", "libunwind"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gperftools-2.19.3-1-x86_64.pkg.tar.zst"
+sha256 = "672bff5903ceaca5a62bbc4484c803201ead0030557211b78d14eb7eb890c5a3"

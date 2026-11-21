@@ -1,0 +1,11 @@
+[package]
+name = "breeze-cursors"
+version = "6.8.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Breeze cursors"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/breeze-cursors-6.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "eb604f00aa1fb06e8f06142f521f0d5c3660b055b00ad994b620ea0b39a935fe"

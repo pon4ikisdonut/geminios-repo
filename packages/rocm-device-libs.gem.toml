@@ -1,0 +1,11 @@
+[package]
+name = "rocm-device-libs"
+version = "2:10.1-6"
+license = "NCSA"
+arch = "x86_64"
+description = "AMD specific device-side language runtime libraries"
+depends = ["rocm-core"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/rocm-device-libs-2:10.1-6-x86_64.pkg.tar.zst"
+sha256 = "82eaaafde2e4dcdbefcffef41710e576d82bf9f0c332ff826ae401410713a9f6"

@@ -1,0 +1,11 @@
+[package]
+name = "python-yaml"
+version = "6.0.3-2"
+license = "MIT"
+arch = "x86_64"
+description = "Python bindings for YAML, using fast libYAML library"
+depends = ["glibc", "libyaml", "python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-yaml-6.0.3-2-x86_64.pkg.tar.zst"
+sha256 = "2d7a34423bff947fb00c37d8d38c9595440d370cb07710be60c0d373709a25b2"

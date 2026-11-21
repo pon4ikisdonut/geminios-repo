@@ -1,0 +1,11 @@
+[package]
+name = "qemu-hw-display-qxl"
+version = "11.1.3-1"
+license = "MIT"
+arch = "x86_64"
+description = "QEMU QXL display device"
+depends = ["glibc", "pixman", "libgcc", "libpixman-1.so", "qemu-common", "qemu-ui-spice-core", "spice", "libspice-server.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qemu-hw-display-qxl-11.1.3-1-x86_64.pkg.tar.zst"
+sha256 = "af354f61be754b5c99c99a700169e33e7c43364c329f75bcc4eb4ab94858b977"

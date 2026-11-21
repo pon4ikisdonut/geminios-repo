@@ -1,0 +1,11 @@
+[package]
+name = "haskell-bifunctors"
+version = "5.6.3-68"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Bifunctors"
+depends = ["ghc-libs", "haskell-assoc", "haskell-comonad", "haskell-tagged", "haskell-th-abstraction"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-bifunctors-5.6.3-68-x86_64.pkg.tar.zst"
+sha256 = "4c01814554d8ac878bb25b8fd9bf192951ae0745f14a71255f86890aa99574c2"

@@ -1,0 +1,11 @@
+[package]
+name = "editorconfig-core-c"
+version = "0.12.11-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "EditorConfig core code written in C (for use by plugins supporting EditorConfig parsing)"
+depends = ["glibc", "pcre2"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/editorconfig-core-c-0.12.11-1-x86_64.pkg.tar.zst"
+sha256 = "1009686965d587e2168ced4be31796e0d367556fad607e6c13f3e02e72468768"

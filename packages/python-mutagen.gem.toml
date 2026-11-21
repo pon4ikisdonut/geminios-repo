@@ -1,0 +1,11 @@
+[package]
+name = "python-mutagen"
+version = "1.48.1-1"
+license = "GPL-2.0-or-later"
+arch = "any"
+description = "An audio metadata tag reader and writer (python library)"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-mutagen-1.48.1-1-any.pkg.tar.zst"
+sha256 = "9f36508c25e868a0a86a7851caa031c98b335c784d2e99e406bc41f4eb6e61df"

@@ -1,0 +1,11 @@
+[package]
+name = "qqc2-desktop-style"
+version = "6.32.0-1"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "A style for Qt Quick Controls 2 to make it follow your desktop theme"
+depends = ["libstdc++", "glibc", "kcolorscheme", "kconfig", "kiconthemes", "kirigami", "qt6-base", "qt6-declarative", "sonnet"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qqc2-desktop-style-6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "556d026454f3ca4c254ddc3eef2a3ae60dfd4651205bdda757594dd8de576a3c"

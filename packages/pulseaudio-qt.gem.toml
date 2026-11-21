@@ -1,0 +1,11 @@
+[package]
+name = "pulseaudio-qt"
+version = "1.9.0-1"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "Qt bindings for libpulse"
+depends = ["glibc", "libpulse", "libstdc++", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/pulseaudio-qt-1.9.0-1-x86_64.pkg.tar.zst"
+sha256 = "6e7176b9c54b51e5057b68b417a8fb641f8ef88310fc0e3b4088a6764dc18cda"

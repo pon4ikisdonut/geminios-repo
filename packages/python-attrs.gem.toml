@@ -1,0 +1,11 @@
+[package]
+name = "python-attrs"
+version = "26.1.0-1"
+license = "MIT"
+arch = "any"
+description = "Attributes without boilerplate."
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-attrs-26.1.0-1-any.pkg.tar.zst"
+sha256 = "197dc210fd563c3a721a7b4d0f19cb8bef6db7b3ca868d85571a2ecf6a3eaf50"

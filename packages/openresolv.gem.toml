@@ -1,0 +1,11 @@
+[package]
+name = "openresolv"
+version = "3.17.4-1"
+license = "BSD-2-Clause"
+arch = "any"
+description = "resolv.conf management framework (resolvconf)"
+depends = ["bash"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/openresolv-3.17.4-1-any.pkg.tar.zst"
+sha256 = "c8cf66012e66de042a475ad6ecbbcf9fd2e8b46ed73bf2e4ac4d447394cdeac1"

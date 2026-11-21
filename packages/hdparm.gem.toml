@@ -1,0 +1,11 @@
+[package]
+name = "hdparm"
+version = "9.65-3"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "A shell utility for manipulating Linux IDE drive/driver parameters"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/hdparm-9.65-3-x86_64.pkg.tar.zst"
+sha256 = "45c4f3161401339cd5e2adf2d14f90bdfb672fd9512705923234a971675cbc94"

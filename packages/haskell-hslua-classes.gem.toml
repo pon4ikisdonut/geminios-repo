@@ -1,0 +1,11 @@
+[package]
+name = "haskell-hslua-classes"
+version = "2.3.2-32"
+license = "MIT"
+arch = "x86_64"
+description = "Type classes for HsLua"
+depends = ["ghc-libs", "haskell-hslua-core", "haskell-hslua-marshalling"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-hslua-classes-2.3.2-32-x86_64.pkg.tar.zst"
+sha256 = "6e39836da02151c0c0277986a36f3fe97b8f10254b37f418cb652aa5115d529c"

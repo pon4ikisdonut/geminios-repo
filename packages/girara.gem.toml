@@ -1,0 +1,11 @@
+[package]
+name = "girara"
+version = "2026.07.18-1"
+license = "Zlib"
+arch = "x86_64"
+description = "User interface library focused on simplicity and minimalism"
+depends = ["glib2", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/girara-2026.07.18-1-x86_64.pkg.tar.zst"
+sha256 = "fbdb2bc476e501feedc2dcfa0999bf6029a5c9b758b966a138110b5ce5004cd1"

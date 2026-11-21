@@ -1,0 +1,11 @@
+[package]
+name = "draco"
+version = "1.5.9-1"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "A library for compressing and decompressing 3D geometric meshes and point clouds"
+depends = ["glibc", "libgcc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/draco-1.5.9-1-x86_64.pkg.tar.zst"
+sha256 = "3b7302937cd94a3d5afdc7c23b8bacb79eeb9fa682b28ea52b568cbaa87597ac"

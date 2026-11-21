@@ -1,0 +1,11 @@
+[package]
+name = "acl"
+version = "2.4.0-1"
+license = "LGPL-2.1-or-later AND GPL-2.0-or-later"
+arch = "x86_64"
+description = "Access control list utilities, libraries and headers"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/acl-2.4.0-1-x86_64.pkg.tar.zst"
+sha256 = "dca9ec50cf51243b86a67367a55e78b1851d31240b1edaf9c011f8511765d999"

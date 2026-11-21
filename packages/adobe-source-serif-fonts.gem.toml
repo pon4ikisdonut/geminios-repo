@@ -1,0 +1,11 @@
+[package]
+name = "adobe-source-serif-fonts"
+version = "4.005-2"
+license = "OFL-1.1"
+arch = "any"
+description = "Serif typeface designed to complement Source Sans"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/adobe-source-serif-fonts-4.005-2-any.pkg.tar.zst"
+sha256 = "08adfb0ebb3ae509f45c94846153c2eee74a49cb7f9b865b9bcb78d90d7492da"

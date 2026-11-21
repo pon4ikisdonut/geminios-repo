@@ -1,0 +1,11 @@
+[package]
+name = "vlc-plugins-extra"
+version = "3.0.24-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Free and open source cross-platform multimedia player and framework - extra plugins"
+depends = ["glibc", "libvlc", "libvlccore.so", "libxcb", "vlc-plugin-aalib", "vlc-plugin-aom", "vlc-plugin-aribb24", "vlc-plugin-aribb25", "vlc-plugin-ass", "vlc-plugin-avahi", "vlc-plugin-bluray", "vlc-plugin-caca", "vlc-plugin-cddb", "vlc-plugin-chromecast", "vlc-plugin-dca", "vlc-plugin-dvb", "vlc-plugin-dvd", "vlc-plugin-ffmpeg", "vlc-plugin-freetype", "vlc-plugin-gme", "vlc-plugin-kate", "vlc-plugin-lirc", "vlc-plugin-live555", "vlc-plugin-mad", "vlc-plugin-mdns", "vlc-plugin-modplug", "vlc-plugin-mpeg2", "vlc-plugin-mtp", "vlc-plugin-musepack", "vlc-plugin-nfs", "vlc-plugin-samplerate", "vlc-plugin-sdl", "vlc-plugin-sftp", "vlc-plugin-soxr", "vlc-plugin-srt", "vlc-plugin-udev", "vlc-plugin-upnp", "vlc-plugin-zvbi", "vlc-plugins-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vlc-plugins-extra-3.0.24-2-x86_64.pkg.tar.zst"
+sha256 = "539fee9753b12dd21c82a3660087c2f7e46a4eec5b3a785531b185a0b8452d7a"

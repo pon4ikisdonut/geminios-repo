@@ -1,0 +1,11 @@
+[package]
+name = "xdg-desktop-portal-gtk"
+version = "1.15.3-2"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "A backend implementation for xdg-desktop-portal using GTK"
+depends = ["fontconfig", "gdk-pixbuf2", "glib2", "glibc", "gsettings-desktop-schemas", "gtk3", "libgcc", "xdg-desktop-portal"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xdg-desktop-portal-gtk-1.15.3-2-x86_64.pkg.tar.zst"
+sha256 = "9d42f58def4b36629f18268627f23eaf561facd2dbc114379c782d6a9f96ab49"

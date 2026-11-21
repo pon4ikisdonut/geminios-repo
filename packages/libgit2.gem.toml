@@ -1,0 +1,11 @@
+[package]
+name = "libgit2"
+version = "1:1.9.7-2"
+license = "LicenseRef-GPL-2.0-only-with-linking-exception"
+arch = "x86_64"
+description = "A linkable library for Git"
+depends = ["libgcc", "glibc", "llhttp", "zlib", "libssh2", "libssh2.so", "openssl", "libcrypto.so", "libssl.so", "pcre2", "libpcre2-8.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libgit2-1:1.9.7-2-x86_64.pkg.tar.zst"
+sha256 = "24f4792756a139075750df9395c0d0486f4755fc8b434fcf8f4b99bb79b13634"

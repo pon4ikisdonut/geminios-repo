@@ -1,0 +1,11 @@
+[package]
+name = "efivar"
+version = "39-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Tools and libraries to work with EFI variables"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/efivar-39-2-x86_64.pkg.tar.zst"
+sha256 = "9bfa2152203237d61f0e41819572e2fe19e9cf5613442b24f5f02573ab030e74"

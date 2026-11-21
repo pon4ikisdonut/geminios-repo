@@ -1,0 +1,11 @@
+[package]
+name = "kwayland5"
+version = "5.116.0-2"
+license = "LGPL"
+arch = "x86_64"
+description = "Qt-style Client and Server library wrapper for the Wayland libraries"
+depends = ["qt5-wayland"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kwayland5-5.116.0-2-x86_64.pkg.tar.zst"
+sha256 = "df6f84f9511b78eb0b40f03404f47d2648bcbb302128963dac1da211c36d97bc"

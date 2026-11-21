@@ -1,0 +1,11 @@
+[package]
+name = "zeromq"
+version = "4.3.5-3"
+license = "MPL-2.0"
+arch = "x86_64"
+description = "Fast messaging system built on sockets. C and C++ bindings. aka 0MQ, ZMQ."
+depends = ["glibc", "gnutls", "util-linux", "libsodium", "libpgm", "libgcc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/zeromq-4.3.5-3-x86_64.pkg.tar.zst"
+sha256 = "e3ec5be13978db5ba53c86a2416fac800bc14da8d6c6c3325afd928ebf79d27b"

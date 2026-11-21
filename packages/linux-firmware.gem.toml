@@ -1,0 +1,11 @@
+[package]
+name = "linux-firmware"
+version = "20261019-1"
+license = "CC0-1.0"
+arch = "any"
+description = "Firmware files for Linux - Default set"
+depends = ["linux-firmware-amd", "linux-firmware-amdgpu", "linux-firmware-atheros", "linux-firmware-broadcom", "linux-firmware-cirrus", "linux-firmware-intel", "linux-firmware-mediatek", "linux-firmware-nvidia", "linux-firmware-other", "linux-firmware-radeon", "linux-firmware-realtek", "linux-firmware-ti"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/linux-firmware-20261019-1-any.pkg.tar.zst"
+sha256 = "1812b4ee41f0e331f4b6e89057e963483d441865ff6198f975f59dffc2fb2c0b"

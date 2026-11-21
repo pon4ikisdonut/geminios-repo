@@ -1,0 +1,11 @@
+[package]
+name = "jq"
+version = "1.8.2-1"
+license = "MIT"
+arch = "x86_64"
+description = "Command-line JSON processor"
+depends = ["glibc", "oniguruma"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/jq-1.8.2-1-x86_64.pkg.tar.zst"
+sha256 = "35f197700d1e8a1692fd67c644c1e57a72f4969707772ac1f477b02351248e1b"

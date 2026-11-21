@@ -1,0 +1,11 @@
+[package]
+name = "psmisc"
+version = "23.7-2"
+license = "GPL"
+arch = "x86_64"
+description = "Miscellaneous procfs tools"
+depends = ["ncurses"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/psmisc-23.7-2-x86_64.pkg.tar.zst"
+sha256 = "b6722605ae0f2912d7498e87839c702275bfd9280b076e92e80474a847561bd4"

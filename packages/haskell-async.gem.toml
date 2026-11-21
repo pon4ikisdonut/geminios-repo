@@ -1,0 +1,11 @@
+[package]
+name = "haskell-async"
+version = "2.2.6-161"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Run IO operations asynchronously and wait for their results"
+depends = ["ghc-libs", "haskell-hashable", "haskell-unordered-containers"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-async-2.2.6-161-x86_64.pkg.tar.zst"
+sha256 = "b97a8b003f83c3dd74e1d11ca40b2599a730fefdb6b869d2453202d5f290c5bf"

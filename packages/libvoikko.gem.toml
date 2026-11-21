@@ -1,0 +1,11 @@
+[package]
+name = "libvoikko"
+version = "4.3.3-3"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "A spelling and grammar checker, hyphenator and collection of related linguistic data for Finnish language"
+depends = ["glibc", "libgcc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libvoikko-4.3.3-3-x86_64.pkg.tar.zst"
+sha256 = "83f68ad96efe8437650fcb30b7a4e54e7d05dbf7e51ae9dd30d397a3a6adff14"

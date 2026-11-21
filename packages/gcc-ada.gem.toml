@@ -1,0 +1,11 @@
+[package]
+name = "gcc-ada"
+version = "16.2.1+r23+gd564253eb6c8-1"
+license = "GFDL-1.3-or-later"
+arch = "x86_64"
+description = "Ada front-end for GCC (GNAT)"
+depends = ["gcc", "glibc", "gmp", "libgcc", "libisl.so", "libmpc", "mpfr", "zlib", "zstd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/gcc-ada-16.2.1+r23+gd564253eb6c8-1-x86_64.pkg.tar.zst"
+sha256 = "8ccd8dcd0c6bc77b1092b3f0ad506f6b9cb86c103cbd3d997b1a6b539c117e9e"

@@ -1,0 +1,11 @@
+[package]
+name = "thunderbird"
+version = "160.0-1"
+license = "LGPL-2.1-only"
+arch = "x86_64"
+description = "Standalone mail and news reader from mozilla.org"
+depends = ["glibc", "gtk3", "libgdk-3.so", "libgtk-3.so", "mime-types", "dbus", "libdbus-1.so", "dbus-glib", "alsa-lib", "nss", "hunspell", "sqlite", "ttf-font", "libvpx", "libvpx.so", "zlib", "bzip2", "libbz2.so", "botan", "libwebp", "libwebp.so", "libwebpdemux.so", "libevent", "libjpeg-turbo", "libffi", "libffi.so", "nspr", "libgcc", "libstdc++", "libx11", "libxrender", "libxfixes", "libxext", "libxcomposite", "libxdamage", "pango", "libpango-1.0.so", "cairo", "gdk-pixbuf2", "freetype2", "libfreetype.so", "fontconfig", "libfontconfig.so", "glib2", "libglib-2.0.so", "pixman", "libpixman-1.so", "gnupg", "json-c", "libcanberra", "ffmpeg"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/thunderbird-160.0-1-x86_64.pkg.tar.zst"
+sha256 = "ee6aa4da90da6a7cf218d85556ab9a97d07b07b18f3d5c2d7c027af6cb8d48a2"

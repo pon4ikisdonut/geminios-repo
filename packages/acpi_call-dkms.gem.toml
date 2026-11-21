@@ -1,0 +1,11 @@
+[package]
+name = "acpi_call-dkms"
+version = "1.2.2-3"
+license = "GPL-3.0-or-later"
+arch = "any"
+description = "A linux kernel module that enables calls to ACPI methods through /proc/acpi/call - module sources"
+depends = ["dkms"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/acpi_call-dkms-1.2.2-3-any.pkg.tar.zst"
+sha256 = "cbc85b4621bc03a099778ea788772f5f8b6787b3a8674624287bbe0364bffa3f"

@@ -1,0 +1,11 @@
+[package]
+name = "default-cursors"
+version = "3-1"
+license = "CC0-1.0"
+arch = "any"
+description = "Default cursor set"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/default-cursors-3-1-any.pkg.tar.zst"
+sha256 = "ae52028372c3b2f66547baab41f1614b25472489d927b1a50b596bb8df7c056e"

@@ -1,0 +1,11 @@
+[package]
+name = "screen"
+version = "5.0.2-2"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "Full-screen window manager that multiplexes a physical terminal"
+depends = ["libncursesw.so", "libpam.so", "libutempter"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/screen-5.0.2-2-x86_64.pkg.tar.zst"
+sha256 = "29549ef3b8e3ad472a526f6ebd112ea1c4e7289642902cd182c3bdcb83c278c1"

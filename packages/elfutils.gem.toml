@@ -1,0 +1,11 @@
+[package]
+name = "elfutils"
+version = "0.197-1"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "Handle ELF object files and DWARF debugging information (utilities)"
+depends = ["glibc", "json-c", "libjson-c.so", "libarchive", "libarchive.so", "libelf", "libgcc", "libstdc++", "sh"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/elfutils-0.197-1-x86_64.pkg.tar.zst"
+sha256 = "157a4cb9139add5178c347543f3cc48edac0bcae5056d4e84c0d9d387b08caee"

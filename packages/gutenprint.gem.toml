@@ -1,0 +1,11 @@
+[package]
+name = "gutenprint"
+version = "5.3.5-1"
+license = "Bison-exception-2.2"
+arch = "x86_64"
+description = "Top quality printer drivers for POSIX systems"
+depends = ["cups", "cups-filters", "glib2", "zlib", "glibc", "readline"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gutenprint-5.3.5-1-x86_64.pkg.tar.zst"
+sha256 = "269dacef97366aa285e0e5de6f99b6998e7b16fe0dd0878bbf3de51f807c8007"

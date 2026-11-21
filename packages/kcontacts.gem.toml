@@ -1,0 +1,11 @@
+[package]
+name = "kcontacts"
+version = "1:6.32.0-1"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "Address book API for KDE"
+depends = ["libstdc++", "glibc", "kcodecs", "kconfig", "ki18n", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kcontacts-1:6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "4fe48630f6af47238a912c3b2882f05eeed4e9140031c8b5d5b8d00ca2fa31bd"

@@ -1,0 +1,11 @@
+[package]
+name = "poppler-glib"
+version = "26.11.0-1"
+license = "HPND-sell-variant"
+arch = "x86_64"
+description = "Poppler glib bindings"
+depends = ["poppler", "glib2", "libgcc", "libstdc++", "freetype2", "cairo", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/poppler-glib-26.11.0-1-x86_64.pkg.tar.zst"
+sha256 = "4fa99d5b4f77da2035439314915723abcd61db3f8a120fbf729c9091d9ecabfe"

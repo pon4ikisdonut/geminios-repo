@@ -1,0 +1,11 @@
+[package]
+name = "python-firewall"
+version = "2.5.2-1"
+license = "GPL-2.0-or-later"
+arch = "any"
+description = "Python bindings for firewallD"
+depends = ["python", "python-dbus", "python-gobject", "nftables"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-firewall-2.5.2-1-any.pkg.tar.zst"
+sha256 = "2be20efdfe9cdd7f81011f81ddc85ba1d1db9b498304c0c7aebed58826fb80ac"

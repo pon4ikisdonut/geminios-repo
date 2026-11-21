@@ -1,0 +1,11 @@
+[package]
+name = "gvfs-nfs"
+version = "1.62.0-3"
+license = "LGPL-2.0-only"
+arch = "x86_64"
+description = "Virtual filesystem implementation for GIO - NFS backend"
+depends = ["gvfs", "glib2", "glibc", "libgcc", "libnfs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gvfs-nfs-1.62.0-3-x86_64.pkg.tar.zst"
+sha256 = "ad7558b259a553148359dcf6a2d654e9b821432d94c09a683592ab0bb241ce8b"

@@ -1,0 +1,11 @@
+[package]
+name = "qemu-system-rx"
+version = "11.1.3-1"
+license = "MIT"
+arch = "x86_64"
+description = "QEMU system emulator for RX"
+depends = ["capstone", "fuse3", "libgcc", "glibc", "glib2", "libgio-2.0.so", "libglib-2.0.so", "libgmodule-2.0.so", "gnutls", "keyutils", "libaio", "libelf", "libbpf", "libbpf.so", "libjpeg-turbo", "libjpeg.so", "libpng", "libsasl", "libseccomp", "libseccomp.so", "libslirp", "libslirp.so", "liburing", "liburing.so", "libxdp", "libxdp.so", "lzo", "ndctl", "numactl", "libnuma.so", "pam", "libpam.so", "pixman", "libpixman-1.so", "qemu-common", "rdma-core", "snappy", "vde2", "zlib", "zstd", "libzstd.so", "dtc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qemu-system-rx-11.1.3-1-x86_64.pkg.tar.zst"
+sha256 = "00dc3bc66c89e4daf99073dd62344b933e9f62f10c04094d4b4e9be54a1e894c"

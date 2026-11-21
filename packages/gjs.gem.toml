@@ -1,0 +1,11 @@
+[package]
+name = "gjs"
+version = "2:1.90.1-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Javascript Bindings for GNOME"
+depends = ["cairo", "dconf", "glib2", "glibc", "gobject-introspection-runtime", "js140", "libffi", "libgcc", "libstdc++", "libsysprof-capture", "libx11", "readline", "libreadline.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gjs-2:1.90.1-1-x86_64.pkg.tar.zst"
+sha256 = "2b73150035a46ab337904b2486d66fe5ba18a8c6bcb1ce06a5f1192ee26d1854"

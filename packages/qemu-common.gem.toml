@@ -1,0 +1,11 @@
+[package]
+name = "qemu-common"
+version = "11.1.3-1"
+license = "MIT"
+arch = "x86_64"
+description = "A generic and open source machine emulator and virtualizer"
+depends = ["glibc", "glib2", "libgcc", "libglib-2.0.so", "libgmodule-2.0.so", "hicolor-icon-theme", "libcap-ng", "libcap-ng.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qemu-common-11.1.3-1-x86_64.pkg.tar.zst"
+sha256 = "719ea022c1db83636af1cf836107bac0d25e4558f1eb35c98d8169ca3dde7678"

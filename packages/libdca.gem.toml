@@ -1,0 +1,11 @@
+[package]
+name = "libdca"
+version = "0.0.7-3"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Library for decoding DTS Coherent Acoustics streams"
+depends = ["bash", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libdca-0.0.7-3-x86_64.pkg.tar.zst"
+sha256 = "e3620d06ec5b3d5ff7316b4f57c7151c8595bb2cfc8e413ffb160eb6dbd52734"

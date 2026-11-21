@@ -1,0 +1,11 @@
+[package]
+name = "qemu-desktop"
+version = "11.1.3-1"
+license = "MIT"
+arch = "x86_64"
+description = "A QEMU setup for desktop environments"
+depends = ["qemu-base", "qemu-audio-alsa", "qemu-audio-dbus", "qemu-audio-jack", "qemu-audio-oss", "qemu-audio-pa", "qemu-audio-pipewire", "qemu-audio-sdl", "qemu-audio-spice", "qemu-block-curl", "qemu-block-dmg", "qemu-block-nfs", "qemu-block-ssh", "qemu-chardev-spice", "qemu-hw-display-qxl", "qemu-hw-display-virtio-gpu", "qemu-hw-display-virtio-gpu-gl", "qemu-hw-display-virtio-gpu-rutabaga", "qemu-hw-display-virtio-gpu-pci", "qemu-hw-display-virtio-gpu-pci-gl", "qemu-hw-display-virtio-gpu-pci-rutabaga", "qemu-hw-display-virtio-vga", "qemu-hw-display-virtio-vga-gl", "qemu-hw-display-virtio-vga-rutabaga", "qemu-hw-uefi-vars", "qemu-hw-usb-host", "qemu-hw-usb-redirect", "qemu-hw-usb-smartcard", "qemu-ui-curses", "qemu-ui-dbus", "qemu-ui-egl-headless", "qemu-ui-gtk", "qemu-ui-opengl", "qemu-ui-sdl", "qemu-ui-spice-app", "qemu-ui-spice-core", "qemu-vhost-user-gpu"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qemu-desktop-11.1.3-1-x86_64.pkg.tar.zst"
+sha256 = "dcedf6a2658e989bd0ac542930834b98c73820eb4d1e7aef37a3fea8664a0777"

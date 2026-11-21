@@ -1,0 +1,11 @@
+[package]
+name = "util-linux"
+version = "2.42.4-1"
+license = "LicenseRef-PublicDomain"
+arch = "x86_64"
+description = "Miscellaneous system utilities for Linux"
+depends = ["util-linux-libs", "coreutils", "file", "libmagic.so", "glibc", "libcap-ng", "libgcc", "libgcc_s.so", "libxcrypt", "libcrypt.so", "ncurses", "libncursesw.so", "pam", "readline", "shadow", "systemd-libs", "libsystemd.so", "libudev.so", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/util-linux-2.42.4-1-x86_64.pkg.tar.zst"
+sha256 = "95b7096bf4b45274645f6bb96f5b5508af6ea80e5fccba29244abaa53a341962"

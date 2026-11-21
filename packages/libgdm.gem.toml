@@ -1,0 +1,11 @@
+[package]
+name = "libgdm"
+version = "51.1.1-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Display manager and login screen - support library"
+depends = ["dconf", "glib2", "glibc", "libgcc", "libglib-2.0.so", "libgobject-2.0.so", "libgio-2.0.so", "libsystemd.so", "systemd-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libgdm-51.1.1-1-x86_64.pkg.tar.zst"
+sha256 = "8178c50e7c67ec67a435b75318872c50ac7ef3eec8bc49355bddc83534dea73e"

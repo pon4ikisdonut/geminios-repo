@@ -1,0 +1,11 @@
+[package]
+name = "haskell-asn1-parse"
+version = "0.9.5-403"
+license = "BSD"
+arch = "x86_64"
+description = "Simple monadic parser for ASN1 stream types."
+depends = ["ghc-libs", "haskell-asn1-encoding", "haskell-asn1-types"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-asn1-parse-0.9.5-403-x86_64.pkg.tar.zst"
+sha256 = "84a6e9bf9ceeb7b84dca1020a6c621a7fd71fc9089e601ccd2618e598ad241f3"

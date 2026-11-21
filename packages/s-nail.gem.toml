@@ -1,0 +1,11 @@
+[package]
+name = "s-nail"
+version = "14.9.25-2"
+license = "custom:BSD"
+arch = "x86_64"
+description = "Environment for sending and receiving mail"
+depends = ["openssl", "krb5", "libidn2"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/s-nail-14.9.25-2-x86_64.pkg.tar.zst"
+sha256 = "fd0f9fa9e95c2c2ed45fc7351a388d328ee71dfc652b73f3d7bb06240687ff83"

@@ -1,0 +1,11 @@
+[package]
+name = "ttf-roboto"
+version = "3.016-1"
+license = "OFL-1.1"
+arch = "any"
+description = "Google's signature family of fonts"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ttf-roboto-3.016-1-any.pkg.tar.zst"
+sha256 = "e474e27dd1ff47996435da1cc0753af692d32b5c50d0efa7e5d795d35f65f523"

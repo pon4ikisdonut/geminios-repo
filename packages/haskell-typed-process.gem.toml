@@ -1,0 +1,11 @@
+[package]
+name = "haskell-typed-process"
+version = "0.2.13.0-340"
+license = "MIT"
+arch = "x86_64"
+description = "Run external processes, with strong typing of streams"
+depends = ["ghc-libs", "haskell-async", "haskell-unliftio-core"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-typed-process-0.2.13.0-340-x86_64.pkg.tar.zst"
+sha256 = "bbacda0326539a24a6457f274d36d62e8c93cebe84e2b3934cb3bb2f9327aaa1"

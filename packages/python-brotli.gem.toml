@@ -1,0 +1,11 @@
+[package]
+name = "python-brotli"
+version = "1.2.1-1"
+license = "MIT"
+arch = "x86_64"
+description = "Generic-purpose lossless compression algorithm - python library"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/python-brotli-1.2.1-1-x86_64.pkg.tar.zst"
+sha256 = "9df3b7248c0c0c1ba1c7bfc5f4335246c33bed9df5d980d4430a94e36839b1a5"

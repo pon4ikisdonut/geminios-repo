@@ -1,0 +1,11 @@
+[package]
+name = "libngtcp2"
+version = "1.26.0-2"
+license = "MIT"
+arch = "x86_64"
+description = "Implementation of IETF QUIC protocol"
+depends = ["glibc", "openssl", "libssl.so", "gnutls"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/libngtcp2-1.26.0-2-x86_64.pkg.tar.zst"
+sha256 = "6edf5055a2b8cd8229c5a9179e222986e5f515a56a029d9660ac4ceff062e4c5"

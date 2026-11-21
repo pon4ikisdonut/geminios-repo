@@ -1,0 +1,11 @@
+[package]
+name = "gcr"
+version = "3.41.2-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "A library for bits of crypto UI and parsing"
+depends = ["cairo", "dconf", "gdk-pixbuf2", "glib2", "glibc", "gtk3", "hicolor-icon-theme", "libgcrypt", "libp11-kit", "libsecret", "openssh", "pango"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gcr-3.41.2-2-x86_64.pkg.tar.zst"
+sha256 = "790e5564c8560118f05452609ec1db90b928e25ca21a692ad23a954fd98eb37d"

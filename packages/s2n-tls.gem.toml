@@ -1,0 +1,11 @@
+[package]
+name = "s2n-tls"
+version = "1.7.11-2"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "A C99 implementation of the TLS/SSL protocols that is designed to be simple, small, fast, and with security as a priority"
+depends = ["glibc", "libgcc", "openssl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/s2n-tls-1.7.11-2-x86_64.pkg.tar.zst"
+sha256 = "5c1efdd44d87e316a0c3fb57fab3b75e5231087f0a318ce3759bfe7d5fa8065b"

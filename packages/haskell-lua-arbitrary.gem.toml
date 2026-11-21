@@ -1,0 +1,11 @@
+[package]
+name = "haskell-lua-arbitrary"
+version = "1.0.1.2-67"
+license = "MIT"
+arch = "x86_64"
+description = "Arbitrary instances for Lua types."
+depends = ["ghc-libs", "haskell-quickcheck", "haskell-lua"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-lua-arbitrary-1.0.1.2-67-x86_64.pkg.tar.zst"
+sha256 = "d34c5500d86a2dbdd359de5c4c801fafa802f7915098c49c9731be05fafe6521"

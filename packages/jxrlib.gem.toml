@@ -1,0 +1,11 @@
+[package]
+name = "jxrlib"
+version = "1.4.7-1"
+license = "BSD-2-Clause"
+arch = "x86_64"
+description = "Open source implementation of jpegxr"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/jxrlib-1.4.7-1-x86_64.pkg.tar.zst"
+sha256 = "70f514cc49d5abc74e2633057bc65ee1fa42d85e855339100215d1712bf74d0b"

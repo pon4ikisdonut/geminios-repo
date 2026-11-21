@@ -1,0 +1,11 @@
+[package]
+name = "python-pycryptodome"
+version = "4.5.0-1"
+license = "MIT"
+arch = "x86_64"
+description = "Collection of cryptographic algorithms and protocols, implemented for use from Python 3."
+depends = ["python", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-pycryptodome-4.5.0-1-x86_64.pkg.tar.zst"
+sha256 = "44d7dc2b3cb2cbe94931133f4fa6beb856f5e5350f168f7621679803342f2ae1"

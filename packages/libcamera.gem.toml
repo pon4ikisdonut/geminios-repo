@@ -1,0 +1,11 @@
+[package]
+name = "libcamera"
+version = "0.7.2-4"
+license = "GPL-2.0-or-later WITH Linux-syscall-note OR MIT"
+arch = "x86_64"
+description = "A complex camera support library for Linux, Android, and ChromeOS"
+depends = ["glibc", "gnutls", "libcamera-ipa", "libelf", "libgcc", "libglvnd", "libstdc++", "libunwind", "libyaml", "libyuv", "sh", "systemd-libs", "libudev.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libcamera-0.7.2-4-x86_64.pkg.tar.zst"
+sha256 = "00e8d6224b23c61d50b309245e615b691b4ed9de0818c7708cc6438b579a1d93"

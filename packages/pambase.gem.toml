@@ -1,0 +1,11 @@
+[package]
+name = "pambase"
+version = "20260616-1"
+license = "GPL-3.0-or-later"
+arch = "any"
+description = "Base PAM configuration for services"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/pambase-20260616-1-any.pkg.tar.zst"
+sha256 = "306265b486e3f7d2854d583202409cdd90f131368c92aa56f845822a5d2bbf65"

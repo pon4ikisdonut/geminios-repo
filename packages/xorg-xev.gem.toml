@@ -1,0 +1,11 @@
+[package]
+name = "xorg-xev"
+version = "1.2.7-1"
+license = "MIT"
+arch = "x86_64"
+description = "Print contents of X events"
+depends = ["libx11", "libxrandr", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xorg-xev-1.2.7-1-x86_64.pkg.tar.zst"
+sha256 = "86bdaf2205ceffecf6e325e8f4e0678f1e6409f8189dc483b5836ac17015f5ac"

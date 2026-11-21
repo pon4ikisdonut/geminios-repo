@@ -1,0 +1,11 @@
+[package]
+name = "exiv2"
+version = "0.28.9-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Exif, Iptc and XMP metadata manipulation library and tools"
+depends = ["brotli", "libbrotlidec.so", "curl", "expat", "libexpat.so", "gettext", "glibc", "libcurl.so", "libgcc", "libinih", "libINIReader.so", "libstdc++", "zlib", "libz.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/exiv2-0.28.9-1-x86_64.pkg.tar.zst"
+sha256 = "1c6886993b68be782d472d0a5859a9a77a645f59ad932c8f9ba79579d17049d1"

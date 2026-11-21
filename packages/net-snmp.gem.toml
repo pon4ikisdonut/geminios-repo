@@ -1,0 +1,11 @@
+[package]
+name = "net-snmp"
+version = "5.9.5.2-3"
+license = "BSD"
+arch = "x86_64"
+description = "A suite of applications used to implement SNMP v1, SNMP v2c and SNMP v3 using both IPv4 and IPv6"
+depends = ["libnsl", "libpcap", "lm_sensors", "openssl", "pciutils", "pcre2", "perl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/net-snmp-5.9.5.2-3-x86_64.pkg.tar.zst"
+sha256 = "e74c7a97e661bdaa1e637a995567bddf8919587699e88ee952336efcc8a87f25"

@@ -1,0 +1,11 @@
+[package]
+name = "gdm"
+version = "51.1.1-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Display manager and login screen"
+depends = ["accountsservice", "audit", "bash", "gdk-pixbuf2", "glib2", "glibc", "gnome-session", "gnome-shell", "json-glib", "keyutils", "libcanberra", "libgcc", "libgudev", "libxau", "libxcb", "pam", "polkit", "systemd", "systemd-libs", "upower", "libgdm"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gdm-51.1.1-1-x86_64.pkg.tar.zst"
+sha256 = "f5f2ede0a5eb159b55688b63e0801820815233361419398cf60054d252e23a45"

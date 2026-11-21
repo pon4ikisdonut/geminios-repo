@@ -1,0 +1,11 @@
+[package]
+name = "xorg-server-xnest"
+version = "21.1.26-1"
+license = "X11-distribute-modifications-variant"
+arch = "x86_64"
+description = "A nested X server that runs as an X application"
+depends = ["libxfont2", "libunwind", "libxext", "pixman", "xorg-server-common", "nettle", "libtirpc", "systemd-libs", "libxdmcp", "glibc", "libx11", "libxau"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xorg-server-xnest-21.1.26-1-x86_64.pkg.tar.zst"
+sha256 = "736148f003a0565852760dbec76699ecba39a4f5ab40c0fdae7f3e546b912e01"

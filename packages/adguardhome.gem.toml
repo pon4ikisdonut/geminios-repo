@@ -1,0 +1,11 @@
+[package]
+name = "adguardhome"
+version = "1:0.107.80-2"
+license = "GPL-3.0-only"
+arch = "x86_64"
+description = "Network-wide ads and trackers blocking DNS server"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/adguardhome-1:0.107.80-2-x86_64.pkg.tar.zst"
+sha256 = "a5dedf7c4753712ae76ad01eb91210fe864657a61b132bfe473e7295c4c89550"

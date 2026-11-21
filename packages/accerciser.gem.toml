@@ -1,0 +1,11 @@
+[package]
+name = "accerciser"
+version = "3.48.0-3"
+license = "BSD-3-Clause"
+arch = "any"
+description = "Interactive Python accessibility explorer for the GNOME desktop"
+depends = ["at-spi2-core", "dconf", "gdk-pixbuf2", "glib2", "gtk3", "hicolor-icon-theme", "ipython", "librsvg", "libwnck3", "pango", "python", "python-atspi", "python-cairo", "python-dbus", "python-gobject", "python-packaging", "python-traitlets", "python-xdg"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/accerciser-3.48.0-3-any.pkg.tar.zst"
+sha256 = "17f25b38bb1a5af6bdb45ec509c0db712bf50a6675a4cc8e4fa38afbc3752b23"

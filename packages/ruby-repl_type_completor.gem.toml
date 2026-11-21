@@ -1,0 +1,11 @@
+[package]
+name = "ruby-repl_type_completor"
+version = "0.1.17-1"
+license = "MIT"
+arch = "any"
+description = "Type based completion for REPL"
+depends = ["ruby", "ruby-rbs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ruby-repl_type_completor-0.1.17-1-any.pkg.tar.zst"
+sha256 = "7db01e71d59de946f64bfc0b4ef0cf305039402374c76394beca8742a2fe9207"

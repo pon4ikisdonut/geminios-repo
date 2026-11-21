@@ -1,0 +1,11 @@
+[package]
+name = "vlc-plugin-dvd"
+version = "3.0.24-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Free and open source cross-platform multimedia player and framework - DVD plugins"
+depends = ["glibc", "libdvdnav", "libdvdread", "libvlc", "libvlccore.so", "vlc-plugins-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vlc-plugin-dvd-3.0.24-2-x86_64.pkg.tar.zst"
+sha256 = "53f36a843b2b7d11eb8a9655bed22ce2bab28fa46e29c5139c1e091abcf63557"

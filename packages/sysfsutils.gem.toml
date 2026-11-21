@@ -1,0 +1,11 @@
+[package]
+name = "sysfsutils"
+version = "2.1.1-2"
+license = "LGPL-2.0-only"
+arch = "x86_64"
+description = "System Utilities Based on Sysfs"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/sysfsutils-2.1.1-2-x86_64.pkg.tar.zst"
+sha256 = "f5a8f077128cc71c02fbfe8c555b479fed17dcc1e612378dba0fcef9464743c0"

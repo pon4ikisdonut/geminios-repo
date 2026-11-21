@@ -1,0 +1,11 @@
+[package]
+name = "python-pygdbmi"
+version = "0.11.0.0-6"
+license = "MIT"
+arch = "any"
+description = "Parse gdb machine interface output with Python"
+depends = ["gdb", "python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-pygdbmi-0.11.0.0-6-any.pkg.tar.zst"
+sha256 = "4392d182b27a9bfbc624091f45a9611e1a4b64858161846015b3d0fa71b544c1"

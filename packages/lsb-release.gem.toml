@@ -1,0 +1,11 @@
+[package]
+name = "lsb-release"
+version = "2.0.r55.a25a4fc-1"
+license = "GPL-2.0-or-later"
+arch = "any"
+description = "LSB version query program"
+depends = ["sh"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/lsb-release-2.0.r55.a25a4fc-1-any.pkg.tar.zst"
+sha256 = "df9b41fbacaec44b86278dd87a104cb8105aa2ae016cb209e2cf1bac3a8ae00c"

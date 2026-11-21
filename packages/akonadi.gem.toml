@@ -1,0 +1,11 @@
+[package]
+name = "akonadi"
+version = "26.08.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "PIM layer, which provides an asynchronous API to access all kind of PIM data"
+depends = ["glibc", "kcolorscheme", "kconfig", "kconfigwidgets", "kcoreaddons", "kcrash", "ki18n", "kiconthemes", "kitemmodels", "kwidgetsaddons", "kxmlgui", "libgcc", "libstdc++", "libxml2", "qt6-base", "xz"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/akonadi-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "ba6f710c566663fda7b3c6be6ec2f96d2af00769783fe0a84ea9647200057440"

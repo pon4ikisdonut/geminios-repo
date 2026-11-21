@@ -1,0 +1,11 @@
+[package]
+name = "libtool"
+version = "2.6.2-5"
+license = "LGPL-2.0-or-later WITH Libtool-exception"
+arch = "x86_64"
+description = "A generic library support script"
+depends = ["sh", "tar", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/libtool-2.6.2-5-x86_64.pkg.tar.zst"
+sha256 = "75da3b1ff54182ba18061714996943cb04d59b5206adfc76241ebb33934984cc"

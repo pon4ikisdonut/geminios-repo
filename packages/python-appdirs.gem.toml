@@ -1,0 +1,11 @@
+[package]
+name = "python-appdirs"
+version = "1.4.4-12"
+license = "MIT"
+arch = "any"
+description = "A small Python module for determining appropriate platform-specific dirs, e.g. a \"user data dir\"."
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-appdirs-1.4.4-12-any.pkg.tar.zst"
+sha256 = "3904441e08a56b67241d79f24b03d6087fc59e5a97c22c3a2bef16f46305677e"

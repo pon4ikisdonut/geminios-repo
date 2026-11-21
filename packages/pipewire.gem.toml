@@ -1,0 +1,11 @@
+[package]
+name = "pipewire"
+version = "1:1.6.11-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Low-latency audio/video router and processor"
+depends = ["libpipewire", "libpipewire-0.3.so", "dbus", "libdbus-1.so", "glibc", "libgcc", "ncurses", "libncursesw.so", "readline", "libreadline.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/pipewire-1:1.6.11-2-x86_64.pkg.tar.zst"
+sha256 = "9894412232943b2b397fdff4ab63384d472f21655c347b7c8f674b6e48c61511"

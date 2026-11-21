@@ -1,0 +1,11 @@
+[package]
+name = "perl-sub-exporter-progressive"
+version = "0.001013-13"
+license = "GPL"
+arch = "any"
+description = "Only use Sub::Exporter if you need it"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/perl-sub-exporter-progressive-0.001013-13-any.pkg.tar.zst"
+sha256 = "aaa60f6423037a1bfa5a96db14c2eb7c802a77b8d8df69a50762df08ab40a948"

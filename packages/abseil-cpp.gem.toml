@@ -1,0 +1,11 @@
+[package]
+name = "abseil-cpp"
+version = "20260817.0-2"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "Collection of C++ library code designed to augment the C++ standard library"
+depends = ["glibc", "gtest", "libgcc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/abseil-cpp-20260817.0-2-x86_64.pkg.tar.zst"
+sha256 = "4ecd2e4e2cf7096edfad8522df68d0d9adbe41ce7a6689c1915905342ae6a016"

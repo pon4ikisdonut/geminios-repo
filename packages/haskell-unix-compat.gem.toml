@@ -1,0 +1,11 @@
+[package]
+name = "haskell-unix-compat"
+version = "0.7.4.1-119"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Portable POSIX-compatibility layer."
+depends = ["ghc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-unix-compat-0.7.4.1-119-x86_64.pkg.tar.zst"
+sha256 = "092026dd51c2e2b47de95386bb277f3c858242fda45c242c2d59f062dc9ea9eb"

@@ -1,0 +1,11 @@
+[package]
+name = "python-h11"
+version = "0.16.0-2"
+license = "MIT"
+arch = "any"
+description = "A pure-Python, bring-your-own-I/O implementation of HTTP/1.1"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-h11-0.16.0-2-any.pkg.tar.zst"
+sha256 = "bc2ce795604603bcfff7363aeaab1eac1347584e5b263822c5da3b5fa51fb58f"

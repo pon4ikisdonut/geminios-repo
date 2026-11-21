@@ -1,0 +1,11 @@
+[package]
+name = "qemu-system-alpha"
+version = "11.1.3-1"
+license = "MIT"
+arch = "x86_64"
+description = "QEMU system emulator for Alpha"
+depends = ["capstone", "fuse3", "libgcc", "glibc", "glib2", "libgio-2.0.so", "libglib-2.0.so", "libgmodule-2.0.so", "gnutls", "keyutils", "libaio", "libelf", "libbpf", "libbpf.so", "libjpeg-turbo", "libjpeg.so", "libpng", "libsasl", "libseccomp", "libseccomp.so", "libslirp", "libslirp.so", "liburing", "liburing.so", "libxdp", "libxdp.so", "lzo", "ndctl", "numactl", "libnuma.so", "pam", "libpam.so", "pixman", "libpixman-1.so", "qemu-common", "rdma-core", "snappy", "vde2", "zlib", "zstd", "libzstd.so", "qemu-system-alpha-firmware", "systemd-libs", "libudev.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qemu-system-alpha-11.1.3-1-x86_64.pkg.tar.zst"
+sha256 = "ea0f83787537d5defc27d0c3e3a804eb0f4eb74e402bbf36f941bd7d90ff83cb"

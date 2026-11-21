@@ -1,0 +1,11 @@
+[package]
+name = "haskell-commonmark"
+version = "0.3.2-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Pure Haskell commonmark parser"
+depends = ["ghc-libs", "haskell-unicode-data", "haskell-unicode-transforms"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-commonmark-0.3.2-1-x86_64.pkg.tar.zst"
+sha256 = "2928acac1218b67be53d023cb18c333d8f7a412d98ee24b99775386c698177f2"

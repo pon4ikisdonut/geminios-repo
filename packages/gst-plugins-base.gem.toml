@@ -1,0 +1,11 @@
+[package]
+name = "gst-plugins-base"
+version = "1.28.9-3"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Multimedia graph framework - base plugins"
+depends = ["gst-plugins-base-libs", "gstreamer", "alsa-lib", "cairo", "cdparanoia", "glib2", "glibc", "libgcc", "libogg", "libtheora", "libvorbis", "opus", "pango"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gst-plugins-base-1.28.9-3-x86_64.pkg.tar.zst"
+sha256 = "7a9b2ef89b9ece4fb48077f41eee04ec8e0413f82d71692dd771618fe09773da"

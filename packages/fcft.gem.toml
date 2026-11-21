@@ -1,0 +1,11 @@
+[package]
+name = "fcft"
+version = "3.3.3-1"
+license = "MIT"
+arch = "x86_64"
+description = "Simple library for font loading and glyph rasterization"
+depends = ["fontconfig", "freetype2", "harfbuzz", "libutf8proc", "pixman"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/fcft-3.3.3-1-x86_64.pkg.tar.zst"
+sha256 = "f23defaa07fe84d717e9187b0a04b05075c17d767928abb1b21413db19f9b3c2"

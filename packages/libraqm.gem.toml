@@ -1,0 +1,11 @@
+[package]
+name = "libraqm"
+version = "0.11.0-1"
+license = "MIT"
+arch = "x86_64"
+description = "A library that encapsulates the logic for complex text layout"
+depends = ["freetype2", "fribidi", "glibc", "harfbuzz"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libraqm-0.11.0-1-x86_64.pkg.tar.zst"
+sha256 = "205027d2395411e46fa442673ff24b2bd21ae464ce3ee6bc72b71f9efda60082"

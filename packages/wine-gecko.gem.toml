@@ -1,0 +1,11 @@
+[package]
+name = "wine-gecko"
+version = "2.47.4-2"
+license = "MPL-2.0"
+arch = "x86_64"
+description = "Wine's built-in replacement for Microsoft's Internet Explorer"
+depends = ["wine"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/wine-gecko-2.47.4-2-x86_64.pkg.tar.zst"
+sha256 = "f0555b584bbecb07cd8a258c56eec6e710c5f8a15352b8f987934a6fe7d9122e"

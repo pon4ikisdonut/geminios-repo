@@ -1,0 +1,11 @@
+[package]
+name = "kitemviews5"
+version = "5.116.0-2"
+license = "LGPL"
+arch = "x86_64"
+description = "Widget addons for Qt Model/View"
+depends = ["qt5-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kitemviews5-5.116.0-2-x86_64.pkg.tar.zst"
+sha256 = "472c55c9b3fcfbf703e362a121e4cf064ab8a6956d0f64301b0254a17694ba57"

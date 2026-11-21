@@ -1,0 +1,11 @@
+[package]
+name = "389-ds-base"
+version = "3.3.1-2"
+license = "GPL-3.0-only"
+arch = "x86_64"
+description = "389 Directory Server (base)"
+depends = ["cracklib", "libevent", "nspr", "nss", "net-snmp", "pam", "openldap", "icu", "db5.3", "python-cryptography", "python-argcomplete", "python-dateutil", "python-ldap", "python-packaging", "lmdb"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/389-ds-base-3.3.1-2-x86_64.pkg.tar.zst"
+sha256 = "d4f8e3840696a16310bbd713689f48bfd9c24ec72a0833d4d17964681c00f195"

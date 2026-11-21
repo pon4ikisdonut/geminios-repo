@@ -1,0 +1,11 @@
+[package]
+name = "vapoursynth"
+version = "81-1"
+license = "OFL-1.1"
+arch = "x86_64"
+description = "A video processing framework with the future in mind"
+depends = ["glibc", "libgcc", "libstdc++", "libzimg.so", "python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vapoursynth-81-1-x86_64.pkg.tar.zst"
+sha256 = "148deb4215b006a13abf81e1c445c5e85aeba1e92e6e935083cc3193306744ef"

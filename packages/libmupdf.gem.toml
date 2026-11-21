@@ -1,0 +1,11 @@
+[package]
+name = "libmupdf"
+version = "1.28.6-1"
+license = "AGPL-3.0-or-later"
+arch = "x86_64"
+description = "Library for Lightweight PDF and XPS viewer"
+depends = ["brotli", "cmark-gfm", "freetype2", "glibc", "gumbo-parser", "harfbuzz", "jbig2dec", "leptonica", "libgcc", "libstdc++", "libjpeg-turbo", "openjpeg2", "tesseract", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libmupdf-1.28.6-1-x86_64.pkg.tar.zst"
+sha256 = "46e4d880d4880153a5690261e857a82b74c57285ea15fc5ca6e70f7c07f0fa90"

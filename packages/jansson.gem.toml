@@ -1,0 +1,11 @@
+[package]
+name = "jansson"
+version = "2.15.1-1"
+license = "MIT"
+arch = "x86_64"
+description = "C library for encoding, decoding and manipulating JSON data"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/jansson-2.15.1-1-x86_64.pkg.tar.zst"
+sha256 = "ff1ff9da9ec0520b30cc4add6160ba5a171d9a478408863a2d99b61f5bb9866b"

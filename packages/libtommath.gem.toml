@@ -1,0 +1,11 @@
+[package]
+name = "libtommath"
+version = "1.3.0-2"
+license = "Unlicense"
+arch = "x86_64"
+description = "Highly optimized and portable routines for integer based number theoretic applications"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libtommath-1.3.0-2-x86_64.pkg.tar.zst"
+sha256 = "e66d577798bb066d1e80fa573699bebb5ee923d9427796389514a592b1276924"

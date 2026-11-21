@@ -1,0 +1,11 @@
+[package]
+name = "haskell-skylighting-format-latex"
+version = "0.1-390"
+license = "BSD"
+arch = "x86_64"
+description = "LaTeX formatter for skylighting syntax highlighting library"
+depends = ["ghc-libs", "haskell-skylighting-core"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-skylighting-format-latex-0.1-390-x86_64.pkg.tar.zst"
+sha256 = "74ce7d436e67f3c5d4702cb546b4d9ca6666bd55bc50b4b477dec5ba485f2d2a"

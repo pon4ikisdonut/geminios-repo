@@ -1,0 +1,11 @@
+[package]
+name = "botan"
+version = "3.14.1-1"
+license = "BSD-2-Clause"
+arch = "x86_64"
+description = "Crypto library written in C++"
+depends = ["bzip2", "glibc", "libgcc", "libstdc++", "sqlite", "xz", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/botan-3.14.1-1-x86_64.pkg.tar.zst"
+sha256 = "19179da5643452139f8942916f9ccad696d5740d3963dd5e10e707ea41936b46"

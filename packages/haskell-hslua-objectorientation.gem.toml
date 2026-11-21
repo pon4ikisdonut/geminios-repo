@@ -1,0 +1,11 @@
+[package]
+name = "haskell-hslua-objectorientation"
+version = "2.5.0-28"
+license = "MIT"
+arch = "x86_64"
+description = "Object orientation tools for HsLua"
+depends = ["ghc-libs", "haskell-hslua-core", "haskell-hslua-marshalling", "haskell-hslua-typing"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-hslua-objectorientation-2.5.0-28-x86_64.pkg.tar.zst"
+sha256 = "78a80685708f4b8800860d3f5bc629bbbe77a85264a2f1706e98d8e18b930860"

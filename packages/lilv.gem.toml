@@ -1,0 +1,11 @@
+[package]
+name = "lilv"
+version = "0.28.0-1"
+license = "ISC"
+arch = "x86_64"
+description = "A C library interface to the LV2 plug-in standard"
+depends = ["glibc", "serd", "libserd-0.so", "sord", "libsord-0.so", "sratom", "libsratom-0.so", "lv2", "zix"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/lilv-0.28.0-1-x86_64.pkg.tar.zst"
+sha256 = "d8b6e7aea382261114d383eb0ea93249a1172e28a1bc25613c5cd2a737511c7c"

@@ -1,0 +1,11 @@
+[package]
+name = "tevent"
+version = "1:0.17.2-2"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "Event system based on the talloc memory management library"
+depends = ["talloc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/tevent-1:0.17.2-2-x86_64.pkg.tar.zst"
+sha256 = "aa30a016ec4d8b8aba0d2930392e3fc841afd8b59fc6955aedd343876dcee5f5"

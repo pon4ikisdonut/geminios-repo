@@ -1,0 +1,11 @@
+[package]
+name = "haskell-comonad"
+version = "5.0.10-57"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Comonads"
+depends = ["ghc-libs", "haskell-distributive", "haskell-indexed-traversable", "haskell-tagged"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-comonad-5.0.10-57-x86_64.pkg.tar.zst"
+sha256 = "c9543504ba6657a3c2847878ef6b91aee0ecb4f1ffc6e909fe76a202a28b9232"

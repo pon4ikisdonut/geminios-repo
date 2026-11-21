@@ -1,0 +1,11 @@
+[package]
+name = "libmalcontent"
+version = "0.14.0-4"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Parental control library"
+depends = ["accountsservice", "glibc", "libgcc", "libglib-2.0.so", "libgobject-2.0.so", "libgio-2.0.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libmalcontent-0.14.0-4-x86_64.pkg.tar.zst"
+sha256 = "9c35fcdcade68ff32a0af35f5e80b3c72eb69926069ae0450a2006241109f23c"

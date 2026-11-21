@@ -1,0 +1,11 @@
+[package]
+name = "perl-libwww"
+version = "6.83-1"
+license = "GPL-1.0-or-later OR Artistic-1.0-Perl"
+arch = "any"
+description = "The World-Wide Web library for Perl"
+depends = ["perl", "perl-encode-locale", "perl-file-listing", "perl-html-parser", "perl-http-cookies", "perl-http-daemon", "perl-http-cookiejar", "perl-http-date", "perl-http-negotiate", "perl-lwp-mediatypes", "perl-net-http", "perl-try-tiny", "perl-uri", "perl-www-robotrules"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/perl-libwww-6.83-1-any.pkg.tar.zst"
+sha256 = "c680606057cd32f3e07771f3d6394d120928becc1a3834ae3928e429f808d661"

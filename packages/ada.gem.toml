@@ -1,0 +1,11 @@
+[package]
+name = "ada"
+version = "4.0.0-1"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "WHATWG-compliant and fast URL parser written in modern C++"
+depends = ["glibc", "libgcc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ada-4.0.0-1-x86_64.pkg.tar.zst"
+sha256 = "149cedbef0674ca5819067835f144cd3eec233928c89926120aa2b85ab5bfb08"

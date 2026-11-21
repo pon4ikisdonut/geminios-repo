@@ -1,0 +1,11 @@
+[package]
+name = "haskell-xml-types"
+version = "0.3.8-12"
+license = "MIT"
+arch = "x86_64"
+description = "Basic types for representing XML"
+depends = ["ghc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-xml-types-0.3.8-12-x86_64.pkg.tar.zst"
+sha256 = "f3404f4b449f5af5caebc6814140d7133b2d2fcbd01cce3c2bd7aebfd5417363"

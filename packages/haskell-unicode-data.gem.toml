@@ -1,0 +1,11 @@
+[package]
+name = "haskell-unicode-data"
+version = "0.8.0-18"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "Access Unicode Character Database (UCD)"
+depends = ["ghc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-unicode-data-0.8.0-18-x86_64.pkg.tar.zst"
+sha256 = "0751b89be5e676d34bacb913e6d0f1b9beb9d690995106b9fb111a3449d115e8"

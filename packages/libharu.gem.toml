@@ -1,0 +1,11 @@
+[package]
+name = "libharu"
+version = "2.4.6-1"
+license = "custom:ZLIB"
+arch = "x86_64"
+description = "C library for generating PDF documents"
+depends = ["libpng", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libharu-2.4.6-1-x86_64.pkg.tar.zst"
+sha256 = "c0e0c4bed8e2f64a25b940b39b3471a6406d6e83ef204fa1ccde8e05d8fb9fe5"

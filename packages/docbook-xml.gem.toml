@@ -1,0 +1,11 @@
+[package]
+name = "docbook-xml"
+version = "4.5-11"
+license = "MIT"
+arch = "any"
+description = "A widely used XML scheme for writing documentation and help"
+depends = ["libxml2"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/docbook-xml-4.5-11-any.pkg.tar.zst"
+sha256 = "22a209bf18d25c5a9d1700b3372f2d82ed9d9e6d920a5c36c6acaa7db73af1b0"

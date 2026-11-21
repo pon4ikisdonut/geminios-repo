@@ -1,0 +1,11 @@
+[package]
+name = "vlc-plugin-ogg"
+version = "3.0.24-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Free and open source cross-platform multimedia player and framework - OGG plugins"
+depends = ["glibc", "libogg", "libvlc", "libvlccore.so", "libvorbis"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vlc-plugin-ogg-3.0.24-2-x86_64.pkg.tar.zst"
+sha256 = "e612ace375c4b9267e39d7797779e7bc081cb6106afd25e10a6603b2257e2432"

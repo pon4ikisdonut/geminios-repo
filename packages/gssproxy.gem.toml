@@ -1,0 +1,11 @@
+[package]
+name = "gssproxy"
+version = "0.9.3-1"
+license = "MIT"
+arch = "x86_64"
+description = "GSSAPI Proxy"
+depends = ["libverto-module-base", "popt", "ding-libs", "systemd-libs", "krb5", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/gssproxy-0.9.3-1-x86_64.pkg.tar.zst"
+sha256 = "7ed1504d4e33e147e08559dee55f271c526db5704559c1cafe1b1467f3362f33"

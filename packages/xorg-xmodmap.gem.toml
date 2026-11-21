@@ -1,0 +1,11 @@
+[package]
+name = "xorg-xmodmap"
+version = "1.0.12-1"
+license = "MIT AND MIT-open-group"
+arch = "x86_64"
+description = "Utility for modifying keymaps and button mappings"
+depends = ["libx11", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xorg-xmodmap-1.0.12-1-x86_64.pkg.tar.zst"
+sha256 = "b040927d0d96084c46d591a16c67e5f456e6d93d7eb6e560191d714a4fe9f577"

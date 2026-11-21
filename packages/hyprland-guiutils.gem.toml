@@ -1,0 +1,11 @@
+[package]
+name = "hyprland-guiutils"
+version = "0.2.2-6"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Hyprland GUI utilities"
+depends = ["libgcc", "libstdc++", "glibc", "hyprlang", "hyprtoolkit", "libhyprtoolkit.so", "hyprutils", "libhyprutils.so", "libdrm", "pixman"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/hyprland-guiutils-0.2.2-6-x86_64.pkg.tar.zst"
+sha256 = "e09ef1b8d758af7ca72eba65a375349b28120f1a6c18c625a6f5a4c8ca52ebd0"

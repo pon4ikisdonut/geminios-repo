@@ -1,0 +1,11 @@
+[package]
+name = "perl-file-which"
+version = "1.27-8"
+license = "Artistic-1.0-Perl OR GPL-1.0-or-later"
+arch = "any"
+description = "Portable implementation of which"
+depends = ["perl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/perl-file-which-1.27-8-any.pkg.tar.zst"
+sha256 = "5d61a13c5e50324513e9dfccd3147f1a2ecae62ad357af3501feb7e61781b408"

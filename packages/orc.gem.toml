@@ -1,0 +1,11 @@
+[package]
+name = "orc"
+version = "0.4.44-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Optimized Inner Loop Runtime Compiler"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/orc-0.4.44-1-x86_64.pkg.tar.zst"
+sha256 = "87bf68a92af1281feacdccd04f9e3a8494e1da19adc76f2fd3b7080c316f8db5"

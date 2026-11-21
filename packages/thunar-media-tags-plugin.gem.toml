@@ -1,0 +1,11 @@
+[package]
+name = "thunar-media-tags-plugin"
+version = "0.6.0-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Adds special features for media files to the Thunar File Manager"
+depends = ["taglib", "thunar"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/thunar-media-tags-plugin-0.6.0-1-x86_64.pkg.tar.zst"
+sha256 = "af612fd15604b70d54e268ce37f9101f62ce64159e146fcc44438e52a621c0a9"

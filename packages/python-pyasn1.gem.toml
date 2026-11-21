@@ -1,0 +1,11 @@
+[package]
+name = "python-pyasn1"
+version = "0.6.5-1"
+license = "BSD-2-Clause"
+arch = "any"
+description = "ASN.1 library for Python 3"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-pyasn1-0.6.5-1-any.pkg.tar.zst"
+sha256 = "50fac8c1cb88ff0c23f6bbd436a749d277ecbfcc01297d45157e26ece8bbc2bb"

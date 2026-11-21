@@ -1,0 +1,11 @@
+[package]
+name = "python-referencing"
+version = "0.37.0-4"
+license = "MIT"
+arch = "any"
+description = "An implementation-agnostic implementation of JSON reference resolution"
+depends = ["python", "python-attrs", "python-rpds-py"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-referencing-0.37.0-4-any.pkg.tar.zst"
+sha256 = "a0a7a2e36fba6dc88340428a2096fe60853fc0c32e4dcad5ec6316fa17025206"

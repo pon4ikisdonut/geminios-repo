@@ -1,0 +1,11 @@
+[package]
+name = "qt5-quickcontrols"
+version = "5.15.19-1"
+license = "custom"
+arch = "x86_64"
+description = "Reusable Qt Quick based UI controls to create classic desktop-style user interfaces"
+depends = ["qt5-declarative"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qt5-quickcontrols-5.15.19-1-x86_64.pkg.tar.zst"
+sha256 = "fe7fffefc7b3d2a5e80fefa74b05cfe8a86d40d69c106c631a14853709c3029b"

@@ -1,0 +1,11 @@
+[package]
+name = "man-db"
+version = "2.13.3-1"
+license = "GPL-2.0-or-later AND GPL-3.0-or-later"
+arch = "x86_64"
+description = "A utility for reading man pages"
+depends = ["bash", "gdbm", "zlib", "groff", "libpipeline", "less", "libseccomp", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/man-db-2.13.3-1-x86_64.pkg.tar.zst"
+sha256 = "bcf2f80c1a8487d89e649f8a06ade0be24bad24480f0c454c23baf22b59a1e98"

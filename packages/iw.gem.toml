@@ -1,0 +1,11 @@
+[package]
+name = "iw"
+version = "6.17-1"
+license = "GPL"
+arch = "x86_64"
+description = "nl80211 based CLI configuration utility for wireless devices"
+depends = ["libnl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/iw-6.17-1-x86_64.pkg.tar.zst"
+sha256 = "8e1e2220b93c0bded37652e6332a64a7b3987e12022f300fae37eb5cd4eb9a27"

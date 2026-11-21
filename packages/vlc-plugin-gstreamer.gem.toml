@@ -1,0 +1,11 @@
+[package]
+name = "vlc-plugin-gstreamer"
+version = "3.0.24-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Free and open source cross-platform multimedia player and framework - GStreamer plugin"
+depends = ["glib2", "glibc", "gst-plugins-base-libs", "gstreamer", "libvlc", "libvlccore.so", "vlc-plugins-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vlc-plugin-gstreamer-3.0.24-2-x86_64.pkg.tar.zst"
+sha256 = "bfeef4759eb199b2406ad7c1fb96702d7ba2c9158dc33045f32369b720c33b8c"

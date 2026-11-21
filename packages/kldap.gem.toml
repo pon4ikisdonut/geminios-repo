@@ -1,0 +1,11 @@
+[package]
+name = "kldap"
+version = "26.08.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "LDAP access API for KDE"
+depends = ["glibc", "kconfig", "kcoreaddons", "ki18n", "kio", "kwidgetsaddons", "libldap", "libsasl", "libstdc++", "qt6-base", "qtkeychain-qt6"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kldap-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "e56fdc9eec4c2ae51ca1fce7195791529d8710f8544cd8d48909710b44e0615e"

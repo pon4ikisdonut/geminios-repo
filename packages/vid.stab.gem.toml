@@ -1,0 +1,11 @@
+[package]
+name = "vid.stab"
+version = "1.1.2-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Video stabilization library"
+depends = ["glibc", "libgcc", "libgomp"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vid.stab-1.1.2-1-x86_64.pkg.tar.zst"
+sha256 = "e50577203f408e76dad3e7325c98577180fd32c4a0e0440cd85874d03b907676"

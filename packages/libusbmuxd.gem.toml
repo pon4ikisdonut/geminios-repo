@@ -1,0 +1,11 @@
+[package]
+name = "libusbmuxd"
+version = "2.1.1-2"
+license = "GPL-2.0-or-later AND LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Client library to multiplex connections from and to iOS devices"
+depends = ["glibc", "libgcc", "libimobiledevice-glue", "libplist"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libusbmuxd-2.1.1-2-x86_64.pkg.tar.zst"
+sha256 = "dcb2b0842a3f924142550704f4b968311c427dfe75b46da9c77b5906049a5a3f"

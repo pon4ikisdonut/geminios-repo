@@ -1,0 +1,11 @@
+[package]
+name = "haskell-hslua-module-zip"
+version = "1.2.1-28"
+license = "MIT"
+arch = "x86_64"
+description = "Lua module to work with file zips."
+depends = ["ghc-libs", "haskell-hslua-core", "haskell-hslua-list", "haskell-hslua-marshalling", "haskell-hslua-packaging", "haskell-zip-archive"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-hslua-module-zip-1.2.1-28-x86_64.pkg.tar.zst"
+sha256 = "ddbc0cd1591e98f2203fcac8ce79c170dbde6628e1705405bf7218d04e826e58"

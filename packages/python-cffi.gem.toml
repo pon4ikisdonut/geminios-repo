@@ -1,0 +1,11 @@
+[package]
+name = "python-cffi"
+version = "2.1.1-1"
+license = "MIT-0"
+arch = "x86_64"
+description = "Foreign Function Interface for Python calling C code"
+depends = ["python-pycparser"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-cffi-2.1.1-1-x86_64.pkg.tar.zst"
+sha256 = "0d17d222658ddcfec97c86dcf6f0e948dd611f81ee8752a44030f77b5ed0e1d1"

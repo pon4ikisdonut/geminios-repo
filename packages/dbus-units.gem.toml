@@ -1,0 +1,11 @@
+[package]
+name = "dbus-units"
+version = "37-3"
+license = "CC0-1.0"
+arch = "x86_64"
+description = "D-Bus service units (default provider)"
+depends = ["dbus-broker-units"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/dbus-units-37-3-x86_64.pkg.tar.zst"
+sha256 = "b3c4dee19391724893993ed993522846368bb38257daae4182de980255a995cc"

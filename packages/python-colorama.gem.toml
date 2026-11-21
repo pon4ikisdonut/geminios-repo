@@ -1,0 +1,11 @@
+[package]
+name = "python-colorama"
+version = "0.4.6-6"
+license = "BSD"
+arch = "any"
+description = "Python API for cross-platform colored terminal text."
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-colorama-0.4.6-6-any.pkg.tar.zst"
+sha256 = "36ef3376c9095115249874848f06834a1668cde76a12d5a039196037e7322ca3"

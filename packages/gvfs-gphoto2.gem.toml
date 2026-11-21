@@ -1,0 +1,11 @@
+[package]
+name = "gvfs-gphoto2"
+version = "1.62.0-3"
+license = "LGPL-2.0-only"
+arch = "x86_64"
+description = "Virtual filesystem implementation for GIO - gphoto2 backend (PTP camera, MTP media player)"
+depends = ["gvfs", "glib2", "glibc", "libgcc", "libgphoto2", "libgudev"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gvfs-gphoto2-1.62.0-3-x86_64.pkg.tar.zst"
+sha256 = "3df11673428264a423b6182f927d04521ecb04e2d4ddbe94bb7c54a9499b24b4"

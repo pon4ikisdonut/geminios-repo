@@ -1,0 +1,11 @@
+[package]
+name = "libdbusmenu-gtk3"
+version = "18.10.20180917-2"
+license = "LGPL-2.1-only OR LGPL-3.0-only"
+arch = "x86_64"
+description = "Library for passing menus over DBus (GTK+ 3 library)"
+depends = ["libdbusmenu-glib", "at-spi2-core", "gdk-pixbuf2", "glib2", "glibc", "gtk3", "pango"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libdbusmenu-gtk3-18.10.20180917-2-x86_64.pkg.tar.zst"
+sha256 = "4b5ce5d42a2357ddc6924259df2579f4f231813fdf6fe42f00059bfe75d8b10d"

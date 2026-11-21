@@ -1,0 +1,11 @@
+[package]
+name = "haskell-primitive"
+version = "0.9.1.0-255"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Wrappers for primitive operations"
+depends = ["ghc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-primitive-0.9.1.0-255-x86_64.pkg.tar.zst"
+sha256 = "63122ae326d88c5fe9536232f97db9aa75dce3b581914d78949e5c5ce322031d"

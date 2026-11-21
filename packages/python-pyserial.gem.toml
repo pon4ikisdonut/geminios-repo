@@ -1,0 +1,11 @@
+[package]
+name = "python-pyserial"
+version = "3.5-9"
+license = "BSD-3-Clause"
+arch = "any"
+description = "Multiplatform Serial Port Module for Python"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-pyserial-3.5-9-any.pkg.tar.zst"
+sha256 = "e3ca57b42d218b33d1a4cfa43fdfa0f8e4a73b32dc8095117c856fce13728700"

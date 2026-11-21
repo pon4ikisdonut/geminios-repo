@@ -1,0 +1,11 @@
+[package]
+name = "brotli"
+version = "1.2.1-1"
+license = "MIT"
+arch = "x86_64"
+description = "Generic-purpose lossless compression algorithm"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/brotli-1.2.1-1-x86_64.pkg.tar.zst"
+sha256 = "dff80818057da76e93c90045f7d9eef0469c35caa03b153cae02ba47bd3c4db2"

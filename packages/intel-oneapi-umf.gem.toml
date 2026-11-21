@@ -1,0 +1,11 @@
+[package]
+name = "intel-oneapi-umf"
+version = "1.2.0_116-1"
+license = "LicenseRef-Intel-Simplified"
+arch = "x86_64"
+description = "Unified Memory Framework"
+depends = ["intel-oneapi-common", "intel-oneapi-tcm", "glibc", "hwloc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/intel-oneapi-umf-1.2.0_116-1-x86_64.pkg.tar.zst"
+sha256 = "38595621e24778616e263949aa054e53c049ec8c094e704f9f0ef14f9947e6df"

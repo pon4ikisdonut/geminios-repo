@@ -1,0 +1,11 @@
+[package]
+name = "libftdi"
+version = "1.5-10"
+license = "LGPL-2.1-only"
+arch = "x86_64"
+description = "A library to talk to FTDI chips"
+depends = ["glibc", "libgcc", "libstdc++", "sh", "libusb", "confuse"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libftdi-1.5-10-x86_64.pkg.tar.zst"
+sha256 = "f00237d77002525021da0c61d5fe84db732f6a59cb45ccbf5c2215f129f43de0"

@@ -1,0 +1,11 @@
+[package]
+name = "python-defusedxml"
+version = "0.7.1-8"
+license = "PSF-2.0"
+arch = "any"
+description = "XML bomb protection for Python stdlib modules"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-defusedxml-0.7.1-8-any.pkg.tar.zst"
+sha256 = "85d438e1905526c822746bb1b4b616b1fb8f6a965a6cccb34cb35fad348ffe1a"

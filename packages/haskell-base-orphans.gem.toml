@@ -1,0 +1,11 @@
+[package]
+name = "haskell-base-orphans"
+version = "0.9.4-84"
+license = "MIT"
+arch = "x86_64"
+description = "Backwards-compatible orphan instances for base"
+depends = ["ghc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-base-orphans-0.9.4-84-x86_64.pkg.tar.zst"
+sha256 = "9adc37eaa75820706e1d1523e2fc841c27b4a1a7af18332ab71b57869a44ef25"

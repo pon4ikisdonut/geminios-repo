@@ -1,0 +1,11 @@
+[package]
+name = "7zip"
+version = "26.06-1"
+license = "LGPL-2.1-or-later AND LicenseRef-UnRAR AND BSD-3-Clause AND BSD-2-Clause"
+arch = "x86_64"
+description = "File archiver for extremely high compression"
+depends = ["sh", "libgcc", "libstdc++", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/7zip-26.06-1-x86_64.pkg.tar.zst"
+sha256 = "8f96a9d1c57ae8004a084ddc639e4cc6d7d8d41071fb818299ffff5eb18515dd"

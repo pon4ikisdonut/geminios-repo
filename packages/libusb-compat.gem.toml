@@ -1,0 +1,11 @@
+[package]
+name = "libusb-compat"
+version = "0.1.9-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Library to enable user space application programs to communicate with USB devices"
+depends = ["libusb", "sh"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libusb-compat-0.1.9-1-x86_64.pkg.tar.zst"
+sha256 = "465a87c1915b5cc2adec903b40596f23dc0b730b1287e6376626deaf8c664538"

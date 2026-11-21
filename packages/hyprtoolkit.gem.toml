@@ -1,0 +1,11 @@
+[package]
+name = "hyprtoolkit"
+version = "0.6.0-3"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "A modern C++ Wayland-native GUI toolkit"
+depends = ["libgcc", "libstdc++", "abseil-cpp", "aquamarine", "libaquamarine.so", "cairo", "libcairo.so", "glib2", "libglib-2.0.so", "glibc", "hyprgraphics", "libhyprgraphics.so", "hyprlang", "libhyprlang.so", "hyprutils", "libhyprutils.so", "iniparser", "libiniparser.so", "libdrm", "libglvnd", "libEGL.so", "libOpenGL.so", "libxkbcommon", "libxkbcommon.so", "mesa", "pango", "libpango-1.0.so", "pixman", "libpixman-1.so", "wayland", "libwayland-client.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/hyprtoolkit-0.6.0-3-x86_64.pkg.tar.zst"
+sha256 = "76a70eb83c6eefabdbedd1ab4724a2732eb282b9c44ad1a3b4d0454e293a002a"

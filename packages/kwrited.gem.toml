@@ -1,0 +1,11 @@
+[package]
+name = "kwrited"
+version = "6.8.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "KDE daemon listening for wall and write messages"
+depends = ["glibc", "kcoreaddons", "kdbusaddons", "knotifications", "kpty", "libstdc++", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kwrited-6.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "c2aa1d09f194608fe5921e574895bd2d29d3cfdc77b173a7e83e41a08bfd7c1f"

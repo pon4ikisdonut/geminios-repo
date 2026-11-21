@@ -1,0 +1,11 @@
+[package]
+name = "minizip"
+version = "1:1.4-1"
+license = "Zlib"
+arch = "x86_64"
+description = "Mini zip and unzip based on zlib"
+depends = ["glibc", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/minizip-1:1.4-1-x86_64.pkg.tar.zst"
+sha256 = "3554d5234b053186f72205a9829ceaff6aa014d39db2e5eca4530087d71836e9"

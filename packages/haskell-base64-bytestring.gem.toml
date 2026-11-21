@@ -1,0 +1,11 @@
+[package]
+name = "haskell-base64-bytestring"
+version = "1.2.1.0-414"
+license = "BSD"
+arch = "x86_64"
+description = "Fast base64 encoding and decoding for ByteStrings"
+depends = ["ghc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-base64-bytestring-1.2.1.0-414-x86_64.pkg.tar.zst"
+sha256 = "998852513ffd893bf1478df4f0659a34076b207143e8b4cfe02030c5d7f69cdc"

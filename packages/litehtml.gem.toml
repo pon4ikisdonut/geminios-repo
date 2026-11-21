@@ -1,0 +1,11 @@
+[package]
+name = "litehtml"
+version = "0.10-2"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Fast and lightweight HTML/CSS rendering engine"
+depends = ["glibc", "gumbo-parser", "libgcc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/litehtml-0.10-2-x86_64.pkg.tar.zst"
+sha256 = "7c08afe384af6459e00faaf6cd92535149f3a083d96862dfe9e8650d471001b2"

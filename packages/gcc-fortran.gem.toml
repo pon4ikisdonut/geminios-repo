@@ -1,0 +1,11 @@
+[package]
+name = "gcc-fortran"
+version = "16.2.1+r23+gd564253eb6c8-1"
+license = "GFDL-1.3-or-later"
+arch = "x86_64"
+description = "Fortran front-end for GCC"
+depends = ["gcc", "glibc", "gmp", "libgfortran", "libisl.so", "libmpc", "mpfr", "zlib", "zstd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/gcc-fortran-16.2.1+r23+gd564253eb6c8-1-x86_64.pkg.tar.zst"
+sha256 = "008443629461abc92ff3ea6d363a5d951e2b314998a4165b4d6f0f7dc5a97007"

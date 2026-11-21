@@ -1,0 +1,11 @@
+[package]
+name = "projectm"
+version = "3.1.12-5"
+license = "LGPL"
+arch = "x86_64"
+description = "Music visualizer which uses 3D accelerated iterative image based rendering"
+depends = ["libgl", "glm", "ftgl", "glew"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/projectm-3.1.12-5-x86_64.pkg.tar.zst"
+sha256 = "d0323072068a6d4b07b492ac65597c1e483d7bcceb0cbb40d654faf635269c6d"

@@ -1,0 +1,11 @@
+[package]
+name = "keditbookmarks"
+version = "26.08.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Bookmark Organizer and Editor"
+depends = ["glibc", "kbookmarks", "kcodecs", "kcompletion", "kconfig", "kconfigwidgets", "kcoreaddons", "kcrash", "ki18n", "kiconthemes", "kio", "kparts", "kwidgetsaddons", "kwindowsystem", "kxmlgui", "libstdc++", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/keditbookmarks-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "bbf3802b3acadbe00c755b534ee422f569605b443ca1e5045d68391d2bebfdba"

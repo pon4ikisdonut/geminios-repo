@@ -1,0 +1,11 @@
+[package]
+name = "karchive5"
+version = "5.116.0-3"
+license = "LGPL"
+arch = "x86_64"
+description = "Qt 5 addon providing access to numerous types of archives"
+depends = ["bzip2", "glibc", "libstdc++", "qt5-base", "xz", "zlib", "zstd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/karchive5-5.116.0-3-x86_64.pkg.tar.zst"
+sha256 = "2e737b992c54332e8d69e957e0d8981583cf31f860f9bfedd9df0cf931996a16"

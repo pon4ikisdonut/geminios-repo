@@ -1,0 +1,11 @@
+[package]
+name = "kconfig"
+version = "6.32.0-1"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "Configuration system"
+depends = ["libstdc++", "glibc", "qt6-base", "qt6-declarative"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kconfig-6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "702e56a008ee7ce94d5adbcf8a33c581bea3c2837abb0391c1ce1973e71ea4bb"

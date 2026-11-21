@@ -1,0 +1,11 @@
+[package]
+name = "libcap-ng"
+version = "0.9.6-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "A library for Linux that makes using posix capabilities easy"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/libcap-ng-0.9.6-1-x86_64.pkg.tar.zst"
+sha256 = "05b0a8356f898e251845b2e5ffa5966be21ca85f3eaaf5aeb8a9e8df4148ba5c"

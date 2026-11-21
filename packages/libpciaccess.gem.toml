@@ -1,0 +1,11 @@
+[package]
+name = "libpciaccess"
+version = "0.19-1"
+license = "LicenseRef-libpciaccess"
+arch = "x86_64"
+description = "X11 PCI access library"
+depends = ["glibc", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libpciaccess-0.19-1-x86_64.pkg.tar.zst"
+sha256 = "ef533895e7688da61749bee185103435dbe635d9773d092fb0516e132817e39f"

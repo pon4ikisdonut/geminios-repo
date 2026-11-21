@@ -1,0 +1,11 @@
+[package]
+name = "libraw"
+version = "0.22.3-1"
+license = "LGPL-2.1-only"
+arch = "x86_64"
+description = "A library for reading RAW files obtained from digital photo cameras (CRW/CR2, NEF, RAF, DNG, and others)"
+depends = ["glibc", "lcms2", "libgcc", "libgomp", "libjpeg-turbo", "libstdc++", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libraw-0.22.3-1-x86_64.pkg.tar.zst"
+sha256 = "4bcb6fba76dae5a9eb20af1d92ad8023078469ce82213e1627ef5c8f2baaafda"

@@ -1,0 +1,11 @@
+[package]
+name = "python-fluidity"
+version = "0.2.1-8"
+license = "MIT"
+arch = "any"
+description = "Fluidity: state machine implementation for Python objects"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-fluidity-0.2.1-8-any.pkg.tar.zst"
+sha256 = "6a5d40b10b614c249ac8dbe068fc0ea5ff176562e340742d89802d093491baaa"

@@ -1,0 +1,11 @@
+[package]
+name = "perl-xml-libxml"
+version = "2.0213-2"
+license = "GPL-1.0-or-later"
+arch = "x86_64"
+description = "Interface to the libxml library"
+depends = ["perl-alien-libxml2", "perl-xml-sax", "perl-xml-namespacesupport"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/perl-xml-libxml-2.0213-2-x86_64.pkg.tar.zst"
+sha256 = "2d1026060b63061108ae5bb53b4cab407935b4e4aebda6296161d21333b021cb"

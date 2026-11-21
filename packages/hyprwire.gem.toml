@@ -1,0 +1,11 @@
+[package]
+name = "hyprwire"
+version = "0.3.1-3"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "A fast and consistent wire protocol for IPC"
+depends = ["libgcc", "libstdc++", "glibc", "hyprutils", "libhyprutils.so", "libffi", "libffi.so", "pugixml"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/hyprwire-0.3.1-3-x86_64.pkg.tar.zst"
+sha256 = "21c889597fc33cf1c2a4c45d13c709f73606a48dfa63c676d4bd4db120de3914"

@@ -1,0 +1,11 @@
+[package]
+name = "mariadb-clients"
+version = "13.0.2-3"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "MariaDB client tools"
+depends = ["mariadb-libs", "ncurses", "libncursesw.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/mariadb-clients-13.0.2-3-x86_64.pkg.tar.zst"
+sha256 = "10628f3cfa9ad1ac70792683000cc6fa08bd7a247073ca0cd19a32ce18369a45"

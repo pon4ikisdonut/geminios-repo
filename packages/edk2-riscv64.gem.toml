@@ -1,0 +1,11 @@
+[package]
+name = "edk2-riscv64"
+version = "202608-1"
+license = "MIT"
+arch = "any"
+description = "Firmware for Virtual Machines (riscv64)"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/edk2-riscv64-202608-1-any.pkg.tar.zst"
+sha256 = "333c3404edaabd26a95c4cc7dc3f38eb361be75fb34d71da73319ac51418a4c1"

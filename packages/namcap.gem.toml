@@ -1,0 +1,11 @@
+[package]
+name = "namcap"
+version = "3.6.0-3"
+license = "GPL-2.0-or-later"
+arch = "any"
+description = "A Pacman package analyzer"
+depends = ["binutils", "elfutils", "licenses", "pkgconf", "pyalpm", "python", "python-license-expression", "python-pyelftools"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/namcap-3.6.0-3-any.pkg.tar.zst"
+sha256 = "d7b94309c8b5352fb89ab4c27499db9d1df60516d70beb8588b06f80ab32c894"

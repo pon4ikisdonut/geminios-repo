@@ -1,0 +1,11 @@
+[package]
+name = "haskell-hunit"
+version = "1.6.2.0-567"
+license = "BSD"
+arch = "x86_64"
+description = "A unit testing framework for Haskell"
+depends = ["ghc-libs", "haskell-call-stack"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-hunit-1.6.2.0-567-x86_64.pkg.tar.zst"
+sha256 = "af02c035e5665006026db560a7c98312ab16bd8c930c104313fa8d6f347b09d5"

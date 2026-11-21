@@ -1,0 +1,11 @@
+[package]
+name = "perl-file-listing"
+version = "6.16-6"
+license = "GPL"
+arch = "any"
+description = "parse directory listing"
+depends = ["perl", "perl-http-date"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/perl-file-listing-6.16-6-any.pkg.tar.zst"
+sha256 = "f63fcbdd2418b9b77a0f7e66f8a3126a7266924cef531e433240b320e0a707ce"

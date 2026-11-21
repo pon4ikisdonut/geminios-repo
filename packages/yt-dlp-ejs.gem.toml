@@ -1,0 +1,11 @@
+[package]
+name = "yt-dlp-ejs"
+version = "0.8.0-1"
+license = "Unlicense"
+arch = "any"
+description = "External JavaScript for yt-dlp supporting many runtimes"
+depends = ["deno", "python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/yt-dlp-ejs-0.8.0-1-any.pkg.tar.zst"
+sha256 = "67c8864b1240a952de648caf06d6031b51d7695b8d4e141bb5ee9a6a3c34a44d"

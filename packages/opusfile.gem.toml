@@ -1,0 +1,11 @@
+[package]
+name = "opusfile"
+version = "0.12-5"
+license = "BSD"
+arch = "x86_64"
+description = "Library for opening, seeking, and decoding .opus files"
+depends = ["libogg", "openssl", "opus"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/opusfile-0.12-5-x86_64.pkg.tar.zst"
+sha256 = "2a7b00ea136cceae8e649fb9e856a466c1c6501fb8e0d9d5d4e5df1fdf0d10ff"

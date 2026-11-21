@@ -1,0 +1,11 @@
+[package]
+name = "vlc-plugin-ass"
+version = "3.0.24-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Free and open source cross-platform multimedia player and framework - SSA/ASS subtitle plugin"
+depends = ["glibc", "libass", "libvlc", "libvlccore.so", "vlc-plugins-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vlc-plugin-ass-3.0.24-2-x86_64.pkg.tar.zst"
+sha256 = "49ce48646e647a95dad4b23c71b143eec881ff71034aa827417238f1725e497e"

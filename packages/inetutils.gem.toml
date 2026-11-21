@@ -1,0 +1,11 @@
+[package]
+name = "inetutils"
+version = "2.8-1"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "A collection of common network programs"
+depends = ["glibc", "pam", "libcap", "readline", "ncurses", "libxcrypt", "libpam.so", "libcrypt.so", "libreadline.so", "libncursesw.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/inetutils-2.8-1-x86_64.pkg.tar.zst"
+sha256 = "e758c204b7dcabbaf7ae55d51fb82d2e5f6b304ab460da4b6d81deddbb7c538b"

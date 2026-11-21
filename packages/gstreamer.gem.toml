@@ -1,0 +1,11 @@
+[package]
+name = "gstreamer"
+version = "1.28.9-3"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Multimedia graph framework - core"
+depends = ["glib2", "glibc", "libcap", "libelf", "libgcc", "libunwind"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gstreamer-1.28.9-3-x86_64.pkg.tar.zst"
+sha256 = "db9790860a4cd4b334ddbbf1348be5e36cb08101ce05f08db09c7f8a75c4deae"

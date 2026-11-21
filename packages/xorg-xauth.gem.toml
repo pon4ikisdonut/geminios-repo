@@ -1,0 +1,11 @@
+[package]
+name = "xorg-xauth"
+version = "1.1.5-1"
+license = "MIT-open-group"
+arch = "x86_64"
+description = "X.Org authorization settings program"
+depends = ["libxmu", "libxau", "libxext", "libx11", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xorg-xauth-1.1.5-1-x86_64.pkg.tar.zst"
+sha256 = "df9e0d1f29ae0135a49b17157841a4cc7c97869f9f27fd7480fff64f9afb94b7"

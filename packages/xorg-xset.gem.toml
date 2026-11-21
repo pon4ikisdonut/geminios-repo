@@ -1,0 +1,11 @@
+[package]
+name = "xorg-xset"
+version = "1.2.6-1"
+license = "MIT-open-group"
+arch = "x86_64"
+description = "User preference utility for X"
+depends = ["libxmu", "libx11", "libxext", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xorg-xset-1.2.6-1-x86_64.pkg.tar.zst"
+sha256 = "7acf9f5288256310872441b5f3105b8bed7c30e0d046e7851f346db485c0c954"

@@ -1,0 +1,11 @@
+[package]
+name = "slurp"
+version = "1.5.0-2"
+license = "MIT"
+arch = "x86_64"
+description = "Select a region in a Wayland compositor"
+depends = ["cairo", "wayland", "libxkbcommon"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/slurp-1.5.0-2-x86_64.pkg.tar.zst"
+sha256 = "30baea19919394fea752026f3388a4eacfdaecda85ee92bee14e0021403b477a"

@@ -1,0 +1,11 @@
+[package]
+name = "localsearch"
+version = "3.12.0-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Filesystem indexer and metadata extractor"
+depends = ["dconf", "exempi", "ffmpeg", "gexiv2", "giflib", "glib2", "glibc", "gst-plugins-base-libs", "gstreamer", "gupnp-dlna", "icu", "libcue", "libexif", "libgcc", "libgsf", "libgudev", "libgxps", "libiptcdata", "libjpeg-turbo", "libmediainfo", "libosinfo", "libpng", "libseccomp", "libstdc++", "libtiff", "libwebp", "libxml2", "libzip", "poppler-glib", "tinysparql", "totem-plparser", "upower", "libtinysparql-3.0.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/localsearch-3.12.0-1-x86_64.pkg.tar.zst"
+sha256 = "a0ca07c76e43143f128d1318935f5bd46817970a2b0f29278475d7809a8c87c9"

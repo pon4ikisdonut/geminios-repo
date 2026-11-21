@@ -1,0 +1,11 @@
+[package]
+name = "python-lxml"
+version = "6.1.3_1-1"
+license = "LicenseRef-XSD2Schtrn"
+arch = "x86_64"
+description = "Python binding for the libxml2 and libxslt libraries"
+depends = ["glibc", "python", "libxslt", "libxml2"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-lxml-6.1.3_1-1-x86_64.pkg.tar.zst"
+sha256 = "f3aa12ff48ea4ad42c38d67696ddacc5b0682091b6f2f232edb2dba709165d73"

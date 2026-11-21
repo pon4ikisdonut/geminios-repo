@@ -1,0 +1,11 @@
+[package]
+name = "clang"
+version = "23.1.5-1"
+license = "Apache-2.0 WITH LLVM-exception"
+arch = "x86_64"
+description = "C language family frontend for LLVM"
+depends = ["clang-libs", "llvm-libs", "llvm", "gcc", "compiler-rt", "libgcc", "libxml2"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/clang-23.1.5-1-x86_64.pkg.tar.zst"
+sha256 = "8edbba1b9661bf57e38a8e947c684f4599a7f9e53d6f911d66bd30e2b22a0813"

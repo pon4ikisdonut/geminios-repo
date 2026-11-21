@@ -1,0 +1,11 @@
+[package]
+name = "qt6-webengine"
+version = "6.140.0-1"
+license = "Qt-GPL-exception-1.0"
+arch = "x86_64"
+description = "Provides support for web applications using the Chromium browser project"
+depends = ["alsa-lib", "dbus", "expat", "ffmpeg", "fontconfig", "freetype2", "glib2", "glibc", "harfbuzz", "icu", "lcms2", "libgcc", "libglvnd", "libjpeg-turbo", "libpng", "libstdc++", "libtiff", "libwebp", "libx11", "libxcb", "libxcomposite", "libxfixes", "libxkbcommon", "libxkbfile", "libxdamage", "libxext", "libxml2", "libxrandr", "libxslt", "libxtst", "mesa", "minizip", "nspr", "nss", "openh264", "openjpeg2", "opus", "qt6-base", "qt6-declarative", "qt6-positioning", "qt6-webchannel", "re2", "snappy", "systemd-libs", "ttf-font", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qt6-webengine-6.140.0-1-x86_64.pkg.tar.zst"
+sha256 = "adb4b161b3ac14d9c94101bd567187af2ddbb5a9da0d39edf058774b9d246dcc"

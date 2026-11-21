@@ -1,0 +1,11 @@
+[package]
+name = "lutris"
+version = "0.5.22-3"
+license = "GPL-3.0-only"
+arch = "any"
+description = "Open Gaming Platform"
+depends = ["cabextract", "curl", "gdk-pixbuf2", "glib2", "gobject-introspection-runtime", "gtk3", "hicolor-icon-theme", "mesa-utils", "p7zip", "pango", "psmisc", "python", "python-cairo", "python-certifi", "python-dbus", "python-distro", "python-evdev", "python-gobject", "python-lxml", "python-moddb", "python-pillow", "python-requests", "python-urllib3", "python-yaml", "unzip", "webkit2gtk-4.1", "xdg-desktop-portal-impl", "xorg-xrandr"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/lutris-0.5.22-3-any.pkg.tar.zst"
+sha256 = "354aba489e5161e5cd6fbca88853ff11a9960c47c3dcf33f6538f89a064bd9c0"

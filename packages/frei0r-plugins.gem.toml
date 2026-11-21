@@ -1,0 +1,11 @@
+[package]
+name = "frei0r-plugins"
+version = "3.7.1-2"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Collection of video effect plugins"
+depends = ["cairo", "gavl", "glibc", "libgcc", "libglvnd", "libstdc++", "opencv"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/frei0r-plugins-3.7.1-2-x86_64.pkg.tar.zst"
+sha256 = "9c817affc304232f006584aa3092c46b16d851fd526bc3621dc8d454c2969605"

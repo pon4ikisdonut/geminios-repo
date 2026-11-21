@@ -1,0 +1,11 @@
+[package]
+name = "python-prettytable"
+version = "3.19.0-1"
+license = "BSD-3-Clause"
+arch = "any"
+description = "A simple Python library for easily displaying tabular data"
+depends = ["python-wcwidth"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-prettytable-3.19.0-1-any.pkg.tar.zst"
+sha256 = "99204292adb62a823bdebaa8c46cbe4a6665a57cb578ead60e7c502b7027ffe0"

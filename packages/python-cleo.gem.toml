@@ -1,0 +1,11 @@
+[package]
+name = "python-cleo"
+version = "1:2.1.0-2"
+license = "MIT"
+arch = "any"
+description = "create beautiful and testable command-line interfaces"
+depends = ["python-crashtest", "python-rapidfuzz", "python-typing_extensions"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-cleo-1:2.1.0-2-any.pkg.tar.zst"
+sha256 = "0150b8d77d8c8d26160647290738905905507b352f2e38e77048a8060321a1f2"

@@ -1,0 +1,11 @@
+[package]
+name = "python-vcs-versioning"
+version = "2.6.0-1"
+license = "MIT"
+arch = "any"
+description = "the blessed package to manage your versions by vcs metadata"
+depends = ["python", "python-packaging", "python-setuptools"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-vcs-versioning-2.6.0-1-any.pkg.tar.zst"
+sha256 = "1c1d39aad06a9b82ef13e84250d4abd246c45516a5ab59d9fdc6b777e0e8aed8"

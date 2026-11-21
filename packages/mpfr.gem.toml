@@ -1,0 +1,11 @@
+[package]
+name = "mpfr"
+version = "4.2.2-1"
+license = "LGPL-3.0-or-later"
+arch = "x86_64"
+description = "Multiple-precision floating-point library"
+depends = ["glibc", "gmp"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/mpfr-4.2.2-1-x86_64.pkg.tar.zst"
+sha256 = "e765082b2c3260550887ccf34f6f0d24289fc5ca8c0949eb5c2e9937272ea80f"

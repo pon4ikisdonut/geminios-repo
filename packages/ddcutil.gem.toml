@@ -1,0 +1,11 @@
+[package]
+name = "ddcutil"
+version = "3.0.2-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Query and change Linux monitor settings using DDC/CI and USB."
+depends = ["glibc", "glib2", "i2c-tools", "libusb", "libdrm", "jansson", "libx11", "libxext", "libxrandr", "systemd-libs", "acl", "dbus"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ddcutil-3.0.2-1-x86_64.pkg.tar.zst"
+sha256 = "409eb5cc5d15d9b15d4ac2abeb6a0ed1f41cdece08ccc1b9334051e076ed9ce0"

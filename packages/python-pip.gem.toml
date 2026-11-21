@@ -1,0 +1,11 @@
+[package]
+name = "python-pip"
+version = "26.2.2-1"
+license = "MIT"
+arch = "any"
+description = "The PyPA recommended tool for installing Python packages"
+depends = ["python", "python-attrs", "python-cryptography", "python-filelock", "python-wheel"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-pip-26.2.2-1-any.pkg.tar.zst"
+sha256 = "079a462a2fad76f087d1d07159b543fb49393a323cac502203e967bd91e372c4"

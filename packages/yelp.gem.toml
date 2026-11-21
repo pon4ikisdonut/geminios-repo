@@ -1,0 +1,11 @@
+[package]
+name = "yelp"
+version = "49.2-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Get help with GNOME"
+depends = ["bzip2", "dconf", "glib2", "glibc", "gtk4", "hicolor-icon-theme", "libadwaita", "libxml2", "libxslt", "sqlite", "webkitgtk-6.0", "xz", "yelp-xsl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/yelp-49.2-1-x86_64.pkg.tar.zst"
+sha256 = "0a401aa54c01cf766def5e737eb089f2b6e4cc24d0082b3a044c302b87321f82"

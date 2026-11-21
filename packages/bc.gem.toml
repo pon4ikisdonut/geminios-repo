@@ -1,0 +1,11 @@
+[package]
+name = "bc"
+version = "1.08.2-1"
+license = "GPL-3.0-only"
+arch = "x86_64"
+description = "An arbitrary precision calculator language"
+depends = ["readline"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/bc-1.08.2-1-x86_64.pkg.tar.zst"
+sha256 = "b9e5f0d61a674c9be1a0608f3fcab766d989d9a002c37e55a74ccfc8e87027ab"

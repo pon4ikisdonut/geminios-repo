@@ -1,0 +1,11 @@
+[package]
+name = "kmailtransport"
+version = "26.08.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Mail Transport Service"
+depends = ["glibc", "kcompletion", "kconfig", "kconfigwidgets", "kcoreaddons", "ki18n", "kio", "ksmtp", "kwidgetsaddons", "libkgapi", "libstdc++", "qt6-base", "qtkeychain-qt6"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kmailtransport-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "59423a23acca1e60672ed695d6ffb7045387c0d456708201a803696f80675b9d"

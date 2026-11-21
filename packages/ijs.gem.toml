@@ -1,0 +1,11 @@
+[package]
+name = "ijs"
+version = "0.35-7"
+license = "AGPL-3.0-or-later"
+arch = "x86_64"
+description = "a library which implements a protocol for transmission of raster page images"
+depends = ["glibc", "sh"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ijs-0.35-7-x86_64.pkg.tar.zst"
+sha256 = "0d8071046760a0047ac436ecb94c99a8920ed4e7b7b3cfd02fcc71e9ec43d7c6"

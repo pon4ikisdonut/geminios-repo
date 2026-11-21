@@ -1,0 +1,11 @@
+[package]
+name = "pugixml"
+version = "1.16-1"
+license = "MIT"
+arch = "x86_64"
+description = "Light-weight, simple and fast XML parser for C++ with XPath support"
+depends = ["glibc", "libgcc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/pugixml-1.16-1-x86_64.pkg.tar.zst"
+sha256 = "3e74de55bf751afcba7d9bc90a912165dea704cbc2e8f6cb24fa5f8bfa009c67"

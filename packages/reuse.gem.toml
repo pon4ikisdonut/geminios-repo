@@ -1,0 +1,11 @@
+[package]
+name = "reuse"
+version = "6.3.0-1"
+license = "GPL-3.0-or-later"
+arch = "any"
+description = "Helper tool for providing and confirming copyright and licensing information"
+depends = ["python", "python-debian", "python-license-expression", "python-boolean.py", "python-jinja", "python-binaryornot", "python-attrs", "python-tomlkit", "python-click"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/reuse-6.3.0-1-any.pkg.tar.zst"
+sha256 = "c98089a2045d827c0de0b4a10d243fba6fb4d4c341f3d9d1f8b82c906d63f1a3"

@@ -1,0 +1,11 @@
+[package]
+name = "gcc-go"
+version = "16.2.1+r23+gd564253eb6c8-1"
+license = "GFDL-1.3-or-later"
+arch = "x86_64"
+description = "Go front-end for GCC"
+depends = ["gcc", "glibc", "gmp", "libgo", "libisl.so", "libmpc", "mpfr", "zlib", "zstd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/gcc-go-16.2.1+r23+gd564253eb6c8-1-x86_64.pkg.tar.zst"
+sha256 = "8216959147b2c3054c0c820f9d59100566b188678cc7e59def94892197e36da2"

@@ -1,0 +1,11 @@
+[package]
+name = "gnome-keybindings"
+version = "51.1-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Keybindings configuration for GNOME applications"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gnome-keybindings-51.1-1-x86_64.pkg.tar.zst"
+sha256 = "ab0770b8c7f8d256b4ef84419b41ca609bbddfeae08e826e2c257436935bae68"

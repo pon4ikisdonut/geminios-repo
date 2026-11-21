@@ -1,0 +1,11 @@
+[package]
+name = "haskell-ipynb"
+version = "0.2-373"
+license = "BSD"
+arch = "x86_64"
+description = "Data structure for working with Jupyter notebooks (ipynb)"
+depends = ["ghc-libs", "haskell-aeson", "haskell-base64-bytestring", "haskell-unordered-containers"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-ipynb-0.2-373-x86_64.pkg.tar.zst"
+sha256 = "28fd07a0a769b44ccee8fbf38d22053d6c20eff805b78b0bb4a08ca447edc4b1"

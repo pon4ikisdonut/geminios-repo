@@ -1,0 +1,11 @@
+[package]
+name = "kcompletion5"
+version = "5.116.0-2"
+license = "LGPL"
+arch = "x86_64"
+description = "Text completion helpers and widgets"
+depends = ["kwidgetsaddons5", "kconfig5"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kcompletion5-5.116.0-2-x86_64.pkg.tar.zst"
+sha256 = "393d6852096c4ffc5a1d8afa425dc9e19735b1261e38e838ebbd4db705d06bd7"

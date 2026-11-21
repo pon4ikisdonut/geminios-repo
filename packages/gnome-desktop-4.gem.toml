@@ -1,0 +1,11 @@
+[package]
+name = "gnome-desktop-4"
+version = "1:51.0-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Provides API shared by several apps on the GNOME desktop using GTK 4"
+depends = ["bubblewrap", "cairo", "gdk-pixbuf2", "glib2", "glibc", "gsettings-desktop-schemas", "iso-codes", "libgcc", "libseccomp", "libxkbcommon", "systemd-libs", "xkeyboard-config", "gnome-desktop-common", "gtk4"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gnome-desktop-4-1:51.0-1-x86_64.pkg.tar.zst"
+sha256 = "43feb36157d574f94a71a77d4909a9d4d4dbc5d5f2281ddde2916259f9461db4"

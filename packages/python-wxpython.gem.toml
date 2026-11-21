@@ -1,0 +1,11 @@
+[package]
+name = "python-wxpython"
+version = "1:4.2.5-1"
+license = "custom:wxWindows"
+arch = "x86_64"
+description = "Cross-platform GUI toolkit"
+depends = ["wxwidgets-gtk3", "python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-wxpython-1:4.2.5-1-x86_64.pkg.tar.zst"
+sha256 = "b13a0ca84ac0e46f5872e2a0d4446ad9129ad9e06cacd9c4d53dfcf097fb5013"

@@ -1,0 +1,11 @@
+[package]
+name = "haskell-time-compat"
+version = "1.9.9-175"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Compatibility package for time"
+depends = ["ghc-libs", "haskell-base-orphans", "haskell-hashable"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-time-compat-1.9.9-175-x86_64.pkg.tar.zst"
+sha256 = "624dd362e8e12ce7b5e90e3d33e454f90ae892a27f35d85dd40d498281569045"

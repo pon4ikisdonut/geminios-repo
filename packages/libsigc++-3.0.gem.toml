@@ -1,0 +1,11 @@
+[package]
+name = "libsigc++-3.0"
+version = "3.8.1-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Callback Framework for C++"
+depends = ["glibc", "libgcc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libsigc++-3.0-3.8.1-1-x86_64.pkg.tar.zst"
+sha256 = "f08326a1beaaca60ef629c1a9e0eac42948a374b3584e6cc34e33523e2b3b371"

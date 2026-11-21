@@ -1,0 +1,11 @@
+[package]
+name = "libavtp"
+version = "0.2.0-3"
+license = "BSD"
+arch = "x86_64"
+description = "Open source implementation of Audio Video Transport Protocol"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libavtp-0.2.0-3-x86_64.pkg.tar.zst"
+sha256 = "7906723d50c63855c1528d3b84fb9e723b1a45077f2c24134addd0909724eab0"

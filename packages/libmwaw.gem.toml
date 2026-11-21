@@ -1,0 +1,11 @@
+[package]
+name = "libmwaw"
+version = "0.3.23-1"
+license = "LGPL-2.1-or-later OR MPL-2.0"
+arch = "x86_64"
+description = "Import library for some old mac text documents."
+depends = ["librevenge", "zlib", "glibc", "libstdc++", "libgcc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libmwaw-0.3.23-1-x86_64.pkg.tar.zst"
+sha256 = "4e43b656df473ceaf2cd746e17013c33d55e259a8b5cfc6c8a07d4af51cfc0ea"

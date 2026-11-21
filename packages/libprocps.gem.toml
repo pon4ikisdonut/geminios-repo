@@ -1,0 +1,11 @@
+[package]
+name = "libprocps"
+version = "3.3.17-5"
+license = "LGPL"
+arch = "x86_64"
+description = "procps 3.x libraries for monitoring your system and its processes"
+depends = ["glibc", "systemd-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libprocps-3.3.17-5-x86_64.pkg.tar.zst"
+sha256 = "810ec0ef5d32f6814ace06256b41487dddb50b2efffd206b16fa15d493a8a25d"

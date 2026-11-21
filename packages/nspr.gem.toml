@@ -1,0 +1,11 @@
+[package]
+name = "nspr"
+version = "4.41-1"
+license = "MPL-2.0"
+arch = "x86_64"
+description = "Netscape Portable Runtime"
+depends = ["glibc", "sh"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/nspr-4.41-1-x86_64.pkg.tar.zst"
+sha256 = "a2cf3a8440795e83a13f26dfc83ce9a68318285d3a477ded184253b998fa128f"

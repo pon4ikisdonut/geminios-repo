@@ -1,0 +1,11 @@
+[package]
+name = "nfsidmap"
+version = "3.2.1-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Library to help mapping IDs, mainly for NFSv4"
+depends = ["libldap", "krb5", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/nfsidmap-3.2.1-1-x86_64.pkg.tar.zst"
+sha256 = "1b851d27e735c451abb6cf575f08b1d8e7da007210d65b140d774d4c9bf58fe6"

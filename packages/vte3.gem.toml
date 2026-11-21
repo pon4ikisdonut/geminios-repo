@@ -1,0 +1,11 @@
+[package]
+name = "vte3"
+version = "0.84.1-1"
+license = "LGPL-3.0-or-later"
+arch = "x86_64"
+description = "Virtual Terminal Emulator widget (GTK3)"
+depends = ["cairo", "fribidi", "glib2", "glibc", "gnutls", "icu", "libgcc", "libstdc++", "lz4", "pango", "pcre2", "systemd", "systemd-libs", "at-spi2-core", "gtk3", "vte-common"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vte3-0.84.1-1-x86_64.pkg.tar.zst"
+sha256 = "9c86d48de0ec384709dc897aeb710717b2d53c6ad3d6eb3ad75ea729e63ce0de"

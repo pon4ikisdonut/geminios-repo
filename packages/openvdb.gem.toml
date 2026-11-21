@@ -1,0 +1,11 @@
+[package]
+name = "openvdb"
+version = "13.0.0-3"
+license = "MPL-2.0"
+arch = "x86_64"
+description = "A large suite of tools for the efficient storage and manipulation of sparse volumetric data discretized on three-dimensional grids"
+depends = ["boost-libs", "intel-tbb", "zlib", "jemalloc", "blosc", "log4cplus", "imath", "robin-map", "libgcc", "libstdc++", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/openvdb-13.0.0-3-x86_64.pkg.tar.zst"
+sha256 = "8f224075efc1e5abb2e5e1b0edbcfe74a75d31645bd44556090d1a3ca8852f37"

@@ -1,0 +1,11 @@
+[package]
+name = "multipath-tools"
+version = "0.15.1-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Multipath tools for Linux (including kpartx)"
+depends = ["glibc", "device-mapper", "libdevmapper.so", "json-c", "libjson-c.so", "libaio", "libaio.so", "libgcc", "libgcc_s.so", "liburcu", "systemd-libs", "libsystemd.so", "libudev.so", "util-linux-libs", "libmount.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/multipath-tools-0.15.1-1-x86_64.pkg.tar.zst"
+sha256 = "842ed39596284e8cbdf5ba876a885a5dc941ac9a1e347e6abaad140cea15f078"

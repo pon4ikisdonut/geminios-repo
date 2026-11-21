@@ -1,0 +1,11 @@
+[package]
+name = "archlinux-keyring"
+version = "20260909-1"
+license = "GPL-3.0-or-later"
+arch = "any"
+description = "Arch Linux PGP keyring"
+depends = ["pacman"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/archlinux-keyring-20260909-1-any.pkg.tar.zst"
+sha256 = "6a8ea16f51d3b305c18322d5884ca959f12c32a3f186873090fdc18465605293"

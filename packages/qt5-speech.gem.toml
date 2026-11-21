@@ -1,0 +1,11 @@
+[package]
+name = "qt5-speech"
+version = "5.15.19+kde+r1-1"
+license = "custom"
+arch = "x86_64"
+description = "Qt module to make text to speech and speech recognition easy"
+depends = ["qt5-multimedia"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qt5-speech-5.15.19+kde+r1-1-x86_64.pkg.tar.zst"
+sha256 = "ea6990a6713c9838822dae2c1b5dea47741e6d801c2fbbcd78b7bc0cfc7eb98a"

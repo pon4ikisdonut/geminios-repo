@@ -1,0 +1,11 @@
+[package]
+name = "usd"
+version = "26.11.1-3"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "3D VFX pipeline interchange file format"
+depends = ["alembic", "draco", "embree", "glew", "libgcc", "libstdc++", "glibc", "imath", "jemalloc", "libjemalloc.so", "libglvnd", "libGL.so", "libx11", "libxt", "materialx", "ninja", "onetbb", "opencolorio", "openexr", "openimageio", "openshadinglanguage", "opensubdiv", "openvdb", "pyside6", "python", "python-jinja", "python-numpy", "python-opengl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/usd-26.11.1-3-x86_64.pkg.tar.zst"
+sha256 = "ed744f59641ac1547432d3cd4dffd83e75d32865aa411e417a60b0506ba5cb90"

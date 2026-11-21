@@ -1,0 +1,11 @@
+[package]
+name = "vlc-plugin-pulse"
+version = "3.0.24-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Free and open source cross-platform multimedia player and framework - PulseAudio plugins"
+depends = ["glibc", "libpulse", "libvlc", "libvlccore.so", "vlc-plugins-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vlc-plugin-pulse-3.0.24-2-x86_64.pkg.tar.zst"
+sha256 = "a858b747f137301fed2f1bb56cc09f2d9bcce7b38f0c04ded3345284e61f1c8b"

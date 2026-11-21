@@ -1,0 +1,11 @@
+[package]
+name = "libstemmer"
+version = "3.2.0-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Stemming library supporting several languages"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libstemmer-3.2.0-1-x86_64.pkg.tar.zst"
+sha256 = "fa2b765b3aaa8a89cd13d35b208cc4d7a9241d9989b2b9c070b8cb2cdf864f42"

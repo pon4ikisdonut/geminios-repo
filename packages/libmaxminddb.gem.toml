@@ -1,0 +1,11 @@
+[package]
+name = "libmaxminddb"
+version = "1.14.1-1"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "MaxMindDB GeoIP2 database library"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libmaxminddb-1.14.1-1-x86_64.pkg.tar.zst"
+sha256 = "f6c482f697967b9541539a8d25805b8df37c072e4bee211d1dd742695f649e0e"

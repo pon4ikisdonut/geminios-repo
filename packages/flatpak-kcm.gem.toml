@@ -1,0 +1,11 @@
+[package]
+name = "flatpak-kcm"
+version = "6.8.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Flatpak Permissions Management KCM"
+depends = ["flatpak", "glib2", "glibc", "kcmutils", "kconfig", "kcoreaddons", "ki18n", "kirigami", "kitemmodels", "kservice", "libstdc++", "qt6-base", "qt6-declarative"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/flatpak-kcm-6.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "d4cc4671353fc1614fc1f138dde254d0fc5e03955d205a03d91172c953515133"

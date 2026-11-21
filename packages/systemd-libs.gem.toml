@@ -1,0 +1,11 @@
+[package]
+name = "systemd-libs"
+version = "262.2-1"
+license = "GPL-2.0-or-later WITH Linux-syscall-note"
+arch = "x86_64"
+description = "systemd client libraries"
+depends = ["glibc", "libgcc", "libgcc_s.so", "libgcrypt", "lz4", "xz", "zstd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/systemd-libs-262.2-1-x86_64.pkg.tar.zst"
+sha256 = "82c6dd9412435fd1df971419554fd1c156cf0dca541cf1d34a7b0017cbf264d3"

@@ -1,0 +1,11 @@
+[package]
+name = "kfind"
+version = "26.08.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Find Files/Folders"
+depends = ["glibc", "karchive", "kcompletion", "kconfig", "kconfigwidgets", "kcoreaddons", "kcrash", "kfilemetadata", "ki18n", "kio", "kwidgetsaddons", "kxmlgui", "libstdc++", "qt6-5compat", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kfind-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "7f72fe2a3b89cf0ba3438cba65a4e8e8d7e56a161a5141cf3f9a9671f02933f6"

@@ -1,0 +1,11 @@
+[package]
+name = "qt6-location"
+version = "6.12.0-1"
+license = "Qt-GPL-exception-1.0"
+arch = "x86_64"
+description = "Helps you create viable mapping solutions using the data available from some of the popular location services"
+depends = ["glibc", "libstdc++", "qt6-base", "qt6-declarative", "qt6-positioning"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qt6-location-6.12.0-1-x86_64.pkg.tar.zst"
+sha256 = "411b314cdc249d92fa7b95287163a99c1ce8aaaeb1cd9a64aeee67cd31c4cb28"

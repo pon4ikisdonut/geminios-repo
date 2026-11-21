@@ -1,0 +1,11 @@
+[package]
+name = "trash-cli"
+version = "0.24.5.26-3"
+license = "GPL-2.0-only"
+arch = "any"
+description = "Command line trashcan (recycle bin) interface"
+depends = ["python", "python-psutil", "python-six"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/trash-cli-0.24.5.26-3-any.pkg.tar.zst"
+sha256 = "c91f33e68857d0def68edae260f5eed0d0c2faa6b367421ae15a4e2f3f062fae"

@@ -1,0 +1,11 @@
+[package]
+name = "glusterfs"
+version = "1:11.2-3"
+license = "LGPL3"
+arch = "x86_64"
+description = "a cluster file-system capable of scaling to several peta-bytes."
+depends = ["fuse3", "python", "libxml2", "libaio", "liburcu", "attr", "rpcbind", "liburing", "gperftools"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/glusterfs-1:11.2-3-x86_64.pkg.tar.zst"
+sha256 = "1034c5d5804c03f493c93795ba3c28f687baa40dbd0efbdf4cb58af061b60b04"

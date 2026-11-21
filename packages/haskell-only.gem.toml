@@ -1,0 +1,11 @@
+[package]
+name = "haskell-only"
+version = "0.1-26"
+license = "BSD"
+arch = "x86_64"
+description = "The 1-tuple type or single-value \"collection\""
+depends = ["ghc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-only-0.1-26-x86_64.pkg.tar.zst"
+sha256 = "1f4f7651638f625c8b5504e0c6d8636337c063a490fe9d6c1757359c9a084526"

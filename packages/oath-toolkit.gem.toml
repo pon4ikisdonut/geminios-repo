@@ -1,0 +1,11 @@
+[package]
+name = "oath-toolkit"
+version = "2.6.15-2"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "OATH one-time password toolkit"
+depends = ["glibc", "pam", "xmlsec"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/oath-toolkit-2.6.15-2-x86_64.pkg.tar.zst"
+sha256 = "d5ad0e8623982cd9d490c00a55208cd5de56fa8cea0cb16e8546b5e1771b7af4"

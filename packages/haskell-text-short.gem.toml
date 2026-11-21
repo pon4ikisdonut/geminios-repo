@@ -1,0 +1,11 @@
+[package]
+name = "haskell-text-short"
+version = "0.1.6.1-137"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Memory-efficient representation of Unicode text strings"
+depends = ["ghc-libs", "haskell-hashable"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-text-short-0.1.6.1-137-x86_64.pkg.tar.zst"
+sha256 = "cc708946ec9a6c4073b01a868a13baf53b9f39cfdd5bd8ac356e477214e104d3"

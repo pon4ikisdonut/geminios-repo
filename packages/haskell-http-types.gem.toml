@@ -1,0 +1,11 @@
+[package]
+name = "haskell-http-types"
+version = "0.12.4-206"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Generic HTTP types for Haskell (for both client and server code)."
+depends = ["ghc-libs", "haskell-case-insensitive"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-http-types-0.12.4-206-x86_64.pkg.tar.zst"
+sha256 = "18249264c129d90ec2c908536a610a9c37140de451bd9102e6ce3c55d63e91b0"

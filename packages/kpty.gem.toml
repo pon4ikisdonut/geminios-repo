@@ -1,0 +1,11 @@
+[package]
+name = "kpty"
+version = "6.32.0-1"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "Pty abstraction"
+depends = ["libstdc++", "glibc", "kcoreaddons", "ki18n", "libutempter", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kpty-6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "29daf7f5093cbf7d3ec99f7575945b4dd54f565ca568bee389b9c1c92e7c8ed5"

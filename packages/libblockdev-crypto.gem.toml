@@ -1,0 +1,11 @@
+[package]
+name = "libblockdev-crypto"
+version = "3.6.0-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "A library for manipulating block devices - crypto support"
+depends = ["cryptsetup", "libcryptsetup.so", "device-mapper", "libdevmapper.so", "glib2", "libglib-2.0.so", "glibc", "keyutils", "libkeyutils.so", "libblockdev", "libbd_utils.so", "libgcc", "nss", "util-linux-libs", "libblkid.so", "volume_key"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libblockdev-crypto-3.6.0-1-x86_64.pkg.tar.zst"
+sha256 = "3949a3286aef43764eb450d68b787060d0dbfc5087833c2f10ce9e122cbbdb76"

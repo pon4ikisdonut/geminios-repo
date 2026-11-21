@@ -1,0 +1,11 @@
+[package]
+name = "libx11"
+version = "1.8.14-1"
+license = "MIT AND X11"
+arch = "x86_64"
+description = "X11 client-side library"
+depends = ["libxcb", "glibc", "xorgproto"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libx11-1.8.14-1-x86_64.pkg.tar.zst"
+sha256 = "47fff5bbeadabe30b5fb1ad3f3609c20e6064ef002ba0377dfd8564ec813da7b"

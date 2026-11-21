@@ -1,0 +1,11 @@
+[package]
+name = "ksmtp"
+version = "26.08.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Job-based library to send email through an SMTP server"
+depends = ["glibc", "kcoreaddons", "ki18n", "kio", "libsasl", "libstdc++", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ksmtp-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "6e279c0566e78663e0047d13c57a54c32d8ce068bdbf1055ad04ec08e87e58ae"

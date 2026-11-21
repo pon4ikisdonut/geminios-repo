@@ -1,0 +1,11 @@
+[package]
+name = "perl-locale-gettext"
+version = "1.07-17"
+license = "PerlArtistic"
+arch = "x86_64"
+description = "Permits access from Perl to the gettext() family of functions"
+depends = ["gettext", "perl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/perl-locale-gettext-1.07-17-x86_64.pkg.tar.zst"
+sha256 = "e26dd84a12861c311485e3535ee936174bb4e446a2d4e475e9fbc9d485db06c8"

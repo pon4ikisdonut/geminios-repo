@@ -1,0 +1,11 @@
+[package]
+name = "portmidi"
+version = "1:2.0.8-1"
+license = "MIT"
+arch = "x86_64"
+description = "Cross platform library for interfacing with OS MIDI I/O APIs"
+depends = ["glibc", "alsa-lib", "libasound.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/portmidi-1:2.0.8-1-x86_64.pkg.tar.zst"
+sha256 = "b8be87a48fc54a760db2d5c5f509cc712b85abbb24f9c427ea2c1722fcab3245"

@@ -1,0 +1,11 @@
+[package]
+name = "libcanberra"
+version = "1:0.30+r2+gc0620e4-6"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "A small and lightweight implementation of the XDG Sound Theme Specification"
+depends = ["libvorbis", "libltdl", "alsa-lib", "libpulse", "tdb", "sound-theme-freedesktop"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libcanberra-1:0.30+r2+gc0620e4-6-x86_64.pkg.tar.zst"
+sha256 = "1aca6220b76c4009dbfcad432fcef529fa8fcb2cb187b03a506a2270d50110b1"

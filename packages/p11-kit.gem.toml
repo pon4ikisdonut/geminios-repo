@@ -1,0 +1,11 @@
+[package]
+name = "p11-kit"
+version = "0.26.6-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Loads and enumerates PKCS#11 modules"
+depends = ["coreutils", "glibc", "libtasn1", "libp11-kit", "libp11-kit.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/p11-kit-0.26.6-1-x86_64.pkg.tar.zst"
+sha256 = "64c16ca1b6eba940050eb774f9a69baaa739bb034d31b083bf1472e299b3081e"

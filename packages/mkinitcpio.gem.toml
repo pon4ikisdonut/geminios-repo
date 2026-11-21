@@ -1,0 +1,11 @@
+[package]
+name = "mkinitcpio"
+version = "42.2-1"
+license = "GPL-2.0-only"
+arch = "any"
+description = "Modular initramfs image creation utility"
+depends = ["awk", "mkinitcpio-busybox", "kmod", "util-linux", "libarchive", "coreutils", "bash", "binutils", "diffutils", "findutils", "grep", "gzip", "filesystem", "zstd", "systemd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/mkinitcpio-42.2-1-any.pkg.tar.zst"
+sha256 = "7c412bc5f45a145e11794d85d0c7945f038452a29655af4d4d433db1ae9db972"

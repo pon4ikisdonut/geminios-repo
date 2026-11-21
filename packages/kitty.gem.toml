@@ -1,0 +1,11 @@
+[package]
+name = "kitty"
+version = "0.51.0-1"
+license = "GPL-3.0-only"
+arch = "x86_64"
+description = "A modern, hackable, featureful, OpenGL-based terminal emulator"
+depends = ["cairo", "dbus", "freetype2", "fontconfig", "harfbuzz", "hicolor-icon-theme", "lcms2", "libgl", "libpng", "librsync", "libx11", "libxcursor", "libxkbcommon", "libxkbcommon-x11", "libxi", "openssl", "python3", "wayland", "xxhash", "zlib", "kitty-terminfo", "kitty-shell-integration"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kitty-0.51.0-1-x86_64.pkg.tar.zst"
+sha256 = "6136a5dfd75303600e66963ade81076dad8e3df2404769584cf0ce76df905635"

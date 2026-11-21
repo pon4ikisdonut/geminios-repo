@@ -1,0 +1,11 @@
+[package]
+name = "gnome-settings-daemon"
+version = "51.1-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "GNOME Settings Daemon"
+depends = ["alsa-lib", "bash", "dconf", "fontconfig", "gcr-4", "geoclue", "geocode-glib-2", "glib2", "glibc", "gnome-desktop-4", "gsettings-desktop-schemas", "gtk4", "libcanberra-pulse", "libcolord", "libcups", "libgcc", "libgudev", "libgweather-4", "libmm-glib", "libnm", "libnotify", "libp11-kit", "libpulse", "libx11", "libxfixes", "polkit", "pulse-native-provider", "systemd-libs", "upower"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gnome-settings-daemon-51.1-1-x86_64.pkg.tar.zst"
+sha256 = "de17308f06588b45270dc6dbd03238f915de80e80ec9d749939c5bb97d45433c"

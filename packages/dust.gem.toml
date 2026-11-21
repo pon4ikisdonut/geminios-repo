@@ -1,0 +1,11 @@
+[package]
+name = "dust"
+version = "1.2.7-1"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "A more intuitive version of du in rust"
+depends = ["glibc", "libgcc", "libgcc_s.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/dust-1.2.7-1-x86_64.pkg.tar.zst"
+sha256 = "c009fe6ae4ed052372ff136bc68842db107c4972567abc850265e74da9d17581"

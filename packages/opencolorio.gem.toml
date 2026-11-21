@@ -1,0 +1,11 @@
+[package]
+name = "opencolorio"
+version = "2.6.0-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "A color management framework for visual effects and animation"
+depends = ["freeglut", "glew", "lcms2", "expat", "yaml-cpp", "imath", "pystring", "minizip-ng", "openexr", "glibc", "libgcc", "libstdc++", "glu"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/opencolorio-2.6.0-1-x86_64.pkg.tar.zst"
+sha256 = "921e202ba8dcf3ed314c9876d826fb92b23fd902ba5cc3d4e31db3c881ad3791"

@@ -1,0 +1,11 @@
+[package]
+name = "tar-scripts"
+version = "1.35-5"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "Utility used to store, backup, and transport files (scripts)"
+depends = ["sh", "tar"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/tar-scripts-1.35-5-x86_64.pkg.tar.zst"
+sha256 = "f987448a9dff57b7d984d05548b3231417c6be830ae83e61b725fac30c1d3d09"

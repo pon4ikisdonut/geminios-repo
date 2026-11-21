@@ -1,0 +1,11 @@
+[package]
+name = "ladspa"
+version = "1.17-7"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Linux Audio Developer's Simple Plugin API (LADSPA)"
+depends = ["glibc", "libsndfile", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ladspa-1.17-7-x86_64.pkg.tar.zst"
+sha256 = "0eec0f853dbf3eea143c400b7005abb6c85d4f3cb5e161d22d4c19e3932acb4f"

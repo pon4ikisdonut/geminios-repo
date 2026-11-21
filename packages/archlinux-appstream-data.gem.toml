@@ -1,0 +1,11 @@
+[package]
+name = "archlinux-appstream-data"
+version = "20261017-1"
+license = "GPL"
+arch = "any"
+description = "Arch Linux application database for AppStream-based software centers"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/archlinux-appstream-data-20261017-1-any.pkg.tar.zst"
+sha256 = "449c55a8f6c8bee299e444b0a937e86a64471c7b5187e944cc8c096b7bef946b"

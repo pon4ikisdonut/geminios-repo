@@ -1,0 +1,11 @@
+[package]
+name = "adriconf"
+version = "2.7.5-1"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "GUI tool to configure Mesa drivers by setting options and writing them to the standard drirc file"
+depends = ["glib2", "glibc", "glibmm-2.68", "gtkmm-4.0", "hicolor-icon-theme", "mesa", "libdrm", "libgcc", "libgl", "libstdc++", "libsigc++-3.0", "pciutils", "pugixml"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/adriconf-2.7.5-1-x86_64.pkg.tar.zst"
+sha256 = "f029358e53fd907ada0478bf64fa4c528d0d25c1265aae8ed037b74265070baa"

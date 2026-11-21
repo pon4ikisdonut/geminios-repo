@@ -1,0 +1,11 @@
+[package]
+name = "xorg-xcmsdb"
+version = "1.0.7-1"
+license = "MIT-open-group"
+arch = "x86_64"
+description = "Device Color Characterization utility for X Color Management System"
+depends = ["libx11", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xorg-xcmsdb-1.0.7-1-x86_64.pkg.tar.zst"
+sha256 = "9d34b1f20f8d98f992db87be83997c1da31182033fb63b52909ac6a4a9daddec"

@@ -1,0 +1,11 @@
+[package]
+name = "kio5"
+version = "5.116.0-6"
+license = "LGPL"
+arch = "x86_64"
+description = "Resource and network access abstraction"
+depends = ["solid5", "kjobwidgets5", "kbookmarks5", "kwallet5", "ktextwidgets5", "kded5", "knotifications5"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kio5-5.116.0-6-x86_64.pkg.tar.zst"
+sha256 = "433db7e5f220e4ccd80efa82a615212728ed99dcad7e657202eabf1e919602cf"

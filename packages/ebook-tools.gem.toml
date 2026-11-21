@@ -1,0 +1,11 @@
+[package]
+name = "ebook-tools"
+version = "0.2.2-9"
+license = "MIT"
+arch = "x86_64"
+description = "Tools for accessing and converting various ebook file formats"
+depends = ["convertlit", "glibc", "libxml2", "libzip", "sh"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ebook-tools-0.2.2-9-x86_64.pkg.tar.zst"
+sha256 = "0822c646005b5bf15dd1eaf246ba89f1c241657d5601bc68d2e5483f77c79018"

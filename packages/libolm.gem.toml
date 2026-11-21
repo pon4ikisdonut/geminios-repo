@@ -1,0 +1,11 @@
+[package]
+name = "libolm"
+version = "3.2.16-7"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "Implementation of the Olm and Megolm cryptographic ratchets"
+depends = ["glibc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libolm-3.2.16-7-x86_64.pkg.tar.zst"
+sha256 = "401f4bf2b2287a750a589715fc5e2879222033d2b54bf194a7c494bfddaf2547"

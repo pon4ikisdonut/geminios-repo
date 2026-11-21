@@ -1,0 +1,11 @@
+[package]
+name = "haskell-mono-traversable"
+version = "1.0.21.0-228"
+license = "MIT"
+arch = "x86_64"
+description = "Type classes for mapping, folding, and traversing monomorphic containers"
+depends = ["ghc-libs", "haskell-hashable", "haskell-split", "haskell-unordered-containers", "haskell-vector", "haskell-vector-algorithms"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-mono-traversable-1.0.21.0-228-x86_64.pkg.tar.zst"
+sha256 = "8213bac736242444fecdac3ad018c9ec7e83367407fe63816ef18b2522b0cb51"

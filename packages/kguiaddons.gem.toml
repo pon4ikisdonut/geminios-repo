@@ -1,0 +1,11 @@
+[package]
+name = "kguiaddons"
+version = "6.32.0-1"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "Addons to QtGui"
+depends = ["glibc", "libstdc++", "libx11", "qt6-base", "wayland"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kguiaddons-6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "885da5cfdc914746870e804d6f0dfa2e866ecf91656cbe1547e6a0a72f8ffdd3"

@@ -1,0 +1,11 @@
+[package]
+name = "vlc-plugins-visualization"
+version = "3.0.24-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Free and open source cross-platform multimedia player and framework - visualization plugins"
+depends = ["glibc", "libgcc", "libglvnd", "libgoom2", "libstdc++", "libvlc", "libvlccore.so", "projectm", "ttf-dejavu"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vlc-plugins-visualization-3.0.24-2-x86_64.pkg.tar.zst"
+sha256 = "91b71d301c93aa1e53cbc1fc0bdf61c22af900d04a7ab7c096e84ea9838a7179"

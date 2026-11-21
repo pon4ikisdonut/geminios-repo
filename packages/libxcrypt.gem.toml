@@ -1,0 +1,11 @@
+[package]
+name = "libxcrypt"
+version = "4.5.2-1"
+license = "LGPL"
+arch = "x86_64"
+description = "Modern library for one-way hashing of passwords"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/libxcrypt-4.5.2-1-x86_64.pkg.tar.zst"
+sha256 = "7d324b88963786491391468203701efd2c812798a9c3fbcc4ff8a4ddb2d9f276"

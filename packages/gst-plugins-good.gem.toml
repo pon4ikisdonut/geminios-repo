@@ -1,0 +1,11 @@
+[package]
+name = "gst-plugins-good"
+version = "1.28.9-3"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Multimedia graph framework - good plugins"
+depends = ["gst-plugins-base-libs", "gstreamer", "aalib", "bzip2", "cairo", "flac", "gdk-pixbuf2", "glib2", "glibc", "lame", "libavc1394", "libcaca", "libdv", "libgcc", "libgudev", "libiec61883", "libjpeg-turbo", "libpng", "libpulse", "libraw1394", "libshout", "libsoup3", "libstdc++", "libvpx", "libx11", "libxdamage", "libxext", "libxfixes", "libxml2", "libxtst", "mpg123", "nettle", "opencore-amr", "orc", "speex", "taglib", "twolame", "v4l-utils", "wavpack", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gst-plugins-good-1.28.9-3-x86_64.pkg.tar.zst"
+sha256 = "2366bdb6c6af67b4770263b97055e0e0ed5588158d2f7857b95bf9b10c2330fb"

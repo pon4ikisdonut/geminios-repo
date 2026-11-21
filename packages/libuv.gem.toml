@@ -1,0 +1,11 @@
+[package]
+name = "libuv"
+version = "1.53.0-1"
+license = "CC-BY-4.0"
+arch = "x86_64"
+description = "Multi-platform support library with a focus on asynchronous I/O"
+depends = ["glibc", "libnsl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libuv-1.53.0-1-x86_64.pkg.tar.zst"
+sha256 = "f72536a8283b7a4b7d6126e2920496e95defa2b3708b1289ab0330d4ff3b9122"

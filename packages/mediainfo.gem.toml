@@ -1,0 +1,11 @@
+[package]
+name = "mediainfo"
+version = "26.10-1"
+license = "BSD-2-Clause"
+arch = "x86_64"
+description = "Supplies technical and tag information about media files (CLI interface)"
+depends = ["libmediainfo", "libzen", "libstdc++", "libgcc", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/mediainfo-26.10-1-x86_64.pkg.tar.zst"
+sha256 = "ec60f06821227cc16628e5f3b720b7a794ce005f6a10a9e3c19fe1f53e358f59"

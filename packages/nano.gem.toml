@@ -1,0 +1,11 @@
+[package]
+name = "nano"
+version = "9.3-1"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "Pico editor clone with enhancements"
+depends = ["ncurses", "file", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/nano-9.3-1-x86_64.pkg.tar.zst"
+sha256 = "462cf37da1cac2b45f66d89ea8ef39ae01d81895d4e707645786e61209fcee0a"

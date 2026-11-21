@@ -1,0 +1,11 @@
+[package]
+name = "python-invoke"
+version = "3.0.3-1"
+license = "BSD-2-Clause"
+arch = "any"
+description = "Pythonic task execution"
+depends = ["python", "python-fluidity", "python-lexicon", "python-yaml"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-invoke-3.0.3-1-any.pkg.tar.zst"
+sha256 = "884672292d65be2439c02c72515ed957086ad99cfe79e0af2e9af2aa6d926d21"

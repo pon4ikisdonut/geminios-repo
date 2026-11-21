@@ -1,0 +1,11 @@
+[package]
+name = "ruby-resolv-replace"
+version = "0.2.0-1"
+license = "BSD-2-Clause"
+arch = "any"
+description = "Replace Socket DNS with Resolv"
+depends = ["ruby", "ruby-resolv"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ruby-resolv-replace-0.2.0-1-any.pkg.tar.zst"
+sha256 = "dd6178f16c1c2243a343fb61299ab6538f589b3fe77b359c5960cba84f400b39"

@@ -1,0 +1,11 @@
+[package]
+name = "handbrake"
+version = "1.11.2-1"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "Multithreaded video transcoder"
+depends = ["desktop-file-utils", "hicolor-icon-theme", "libxml2", "libass", "libvorbis", "opus", "speex", "libtheora", "lame", "x264", "jansson", "libvpx", "libva", "numactl", "bzip2", "gcc-libs", "zlib", "xz", "libjpeg-turbo", "gst-plugins-base", "gtk4", "librsvg"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/handbrake-1.11.2-1-x86_64.pkg.tar.zst"
+sha256 = "5f5be4af30e3ed573a405004d17ad710ff12b64818f9fb84d75a7d809c3a90ca"

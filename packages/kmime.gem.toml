@@ -1,0 +1,11 @@
+[package]
+name = "kmime"
+version = "1:6.32.0-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Library for handling mail messages and newsgroup articles"
+depends = ["glibc", "kcodecs", "libgcc", "libstdc++", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kmime-1:6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "499f09982096ffd017c87dd08b2897c34e14ad28ef585599caa036099b43b77d"

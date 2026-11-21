@@ -1,0 +1,11 @@
+[package]
+name = "python-pandas"
+version = "2.3.3-7"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "High-performance, easy-to-use data structures and data analysis tools for Python"
+depends = ["python-numpy", "python-dateutil", "python-pytz"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-pandas-2.3.3-7-x86_64.pkg.tar.zst"
+sha256 = "e025ad56daaf4159b53ad76bd73662679dbe8695e1b2411116b0fff1ee6dc5b4"

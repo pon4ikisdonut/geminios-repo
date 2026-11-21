@@ -1,0 +1,11 @@
+[package]
+name = "media-player-info"
+version = "26-1"
+license = "BSD-3-Clause"
+arch = "any"
+description = "Data files describing media player capabilities, mostly of mass-storage devices"
+depends = ["systemd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/media-player-info-26-1-any.pkg.tar.zst"
+sha256 = "6493bd3752fa01a9a360f0e213b4414c20d6f38c4e9039e047961bf677477549"

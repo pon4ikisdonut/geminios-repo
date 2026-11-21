@@ -1,0 +1,11 @@
+[package]
+name = "python-constantly"
+version = "23.10.4-3"
+license = "MIT"
+arch = "any"
+description = "Symbolic constants in Python"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-constantly-23.10.4-3-any.pkg.tar.zst"
+sha256 = "423afc6129a1399db2bb285d100bcb78e5b1e0549b0f74e4a42a755a09a3cbf3"

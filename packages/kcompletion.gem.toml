@@ -1,0 +1,11 @@
+[package]
+name = "kcompletion"
+version = "6.32.0-1"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "Text completion helpers and widgets"
+depends = ["libstdc++", "glibc", "kcodecs", "kconfig", "kwidgetsaddons", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kcompletion-6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "f0dd9d8e16c6c05926a21102f909a0021ec3de42305f2370c6428f55e5af4564"

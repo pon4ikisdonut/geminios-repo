@@ -1,0 +1,11 @@
+[package]
+name = "vamp-plugin-sdk"
+version = "1:2.10-2"
+license = "MIT"
+arch = "x86_64"
+description = "The Vamp audio analysis plug-in system"
+depends = ["glibc", "libgcc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vamp-plugin-sdk-1:2.10-2-x86_64.pkg.tar.zst"
+sha256 = "f0d36f94954d9292bc56881908caf5cbbdaa6d734b213ec475fa1efb876c9456"

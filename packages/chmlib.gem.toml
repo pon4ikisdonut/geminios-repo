@@ -1,0 +1,11 @@
+[package]
+name = "chmlib"
+version = "0.40-10"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Library for dealing with Microsoft ITSS/CHM format files"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/chmlib-0.40-10-x86_64.pkg.tar.zst"
+sha256 = "39245e09c84c822d01d2acaf7dc0c3303f15a8afbbf8480cf445a6f085277d51"

@@ -1,0 +1,11 @@
+[package]
+name = "qhull"
+version = "2020.2-6"
+license = "LicenseRef-qhull"
+arch = "x86_64"
+description = "A general dimension code for computing convex hulls and related structures"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qhull-2020.2-6-x86_64.pkg.tar.zst"
+sha256 = "7739907fdaa0efcb84b503df35c3a4d22eea7490fa97fe5abd0bd9f399f64c76"

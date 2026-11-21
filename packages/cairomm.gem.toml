@@ -1,0 +1,11 @@
+[package]
+name = "cairomm"
+version = "1.14.6-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "C++ bindings for Cairo"
+depends = ["cairo", "glibc", "libgcc", "libsigc++", "libstdc++", "libsigc-2.0.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/cairomm-1.14.6-1-x86_64.pkg.tar.zst"
+sha256 = "5ddb0880e0e912aa736729ac3b7246c3b11532786b007ba1a7f736d23076c623"

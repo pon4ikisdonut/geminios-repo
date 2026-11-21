@@ -1,0 +1,11 @@
+[package]
+name = "compiler-rt21"
+version = "21.1.8-1"
+license = "Apache-2.0 WITH LLVM-exception"
+arch = "x86_64"
+description = "Compiler runtime libraries for clang 21"
+depends = ["gcc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/compiler-rt21-21.1.8-1-x86_64.pkg.tar.zst"
+sha256 = "6c995f2dcbaca53a6743dc0dd5cbba9f40a9552995a3aea62511c44e7731a5f3"

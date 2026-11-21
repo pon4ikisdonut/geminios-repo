@@ -1,0 +1,11 @@
+[package]
+name = "egl-x11"
+version = "1.0.6-1"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "NVIDIA XLib and XCB EGL Platform Library"
+depends = ["eglexternalplatform", "glibc", "libdrm", "libx11", "libxcb", "mesa"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/egl-x11-1.0.6-1-x86_64.pkg.tar.zst"
+sha256 = "6baee009ba368501f52cdc48fbf9c45f9c8239d967cd41c2b225f2a7243f4efd"

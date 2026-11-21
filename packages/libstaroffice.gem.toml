@@ -1,0 +1,11 @@
+[package]
+name = "libstaroffice"
+version = "0.0.8-1"
+license = "LGPL-2.1-or-later OR MPL-2.0"
+arch = "x86_64"
+description = "filter for old StarOffice documents(.sdc, .sdw, ...) based on librevenge"
+depends = ["librevenge", "zlib", "glibc", "libstdc++", "libgcc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libstaroffice-0.0.8-1-x86_64.pkg.tar.zst"
+sha256 = "82444fe8c8806d8563ba9470946c61db73ea9eef3ecdcf02640ccbb9c4d612bd"

@@ -1,0 +1,11 @@
+[package]
+name = "messagelib"
+version = "26.08.3-2"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "KDE PIM messaging library"
+depends = ["akonadi", "akonadi-contacts", "akonadi-mime", "akonadi-search", "glibc", "gpgmepp", "grantleetheme", "karchive", "kcalendarcore", "kcodecs", "kcolorscheme", "kcompletion", "kconfig", "kconfigwidgets", "kcontacts", "kcoreaddons", "kguiaddons", "ki18n", "kiconthemes", "kitemviews", "kmailtransport", "kmime", "kidentitymanagement", "kio", "kitemmodels", "kjobwidgets", "kmbox", "kpimtextedit", "kservice", "ktextaddons", "ktexttemplate", "ktextwidgets", "kwidgetsaddons", "kxmlgui", "libgcc", "libgravatar", "libkdepim", "libkleo", "libstdc++", "openssl", "pimcommon", "qgpgme", "qt6-base", "qt6-webengine", "sonnet", "syntax-highlighting"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/messagelib-26.08.3-2-x86_64.pkg.tar.zst"
+sha256 = "d9356d9e6b5b4c473d837f95a7adfa71be9c00da5315f44899484dc016b8196f"

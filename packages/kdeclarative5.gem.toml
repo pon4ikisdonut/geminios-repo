@@ -1,0 +1,11 @@
+[package]
+name = "kdeclarative5"
+version = "5.116.0-2"
+license = "LGPL"
+arch = "x86_64"
+description = "Provides integration of QML and KDE Frameworks"
+depends = ["kio5", "kpackage5", "libepoxy"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kdeclarative5-5.116.0-2-x86_64.pkg.tar.zst"
+sha256 = "b4c4608005761b141b42b6f43ec9b153135f397ca1cd17e0281d27c0197a0468"

@@ -1,0 +1,11 @@
+[package]
+name = "device-mapper"
+version = "2.03.44-1"
+license = "LGPL-2.1-only"
+arch = "x86_64"
+description = "Device mapper userspace library and tools"
+depends = ["bash", "glibc", "libgcc", "libgcc_s.so", "systemd-libs", "libudev.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/device-mapper-2.03.44-1-x86_64.pkg.tar.zst"
+sha256 = "8cdc3e90c1ad75ea0c3e563645ac519b5517ee5dd0f817fb39e54f16d79678b1"

@@ -1,0 +1,11 @@
+[package]
+name = "systemd-resolvconf"
+version = "262.2-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "systemd resolvconf replacement (for use with systemd-resolved)"
+depends = ["systemd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/systemd-resolvconf-262.2-1-x86_64.pkg.tar.zst"
+sha256 = "c538532b86b2e4135ac167280e33b35d3f0226c098623d5fdbf2064010bc5fe1"

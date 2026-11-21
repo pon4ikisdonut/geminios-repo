@@ -1,0 +1,11 @@
+[package]
+name = "haskell-transformers-base"
+version = "0.4.6.1-140"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Lift computations from the bottom of a transformer stack"
+depends = ["ghc-libs", "haskell-base-orphans", "haskell-transformers-compat"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-transformers-base-0.4.6.1-140-x86_64.pkg.tar.zst"
+sha256 = "1d931a22798d89e87b51b0032e7120df189b5ed535e528d2c6a470b762b5468e"

@@ -1,0 +1,11 @@
+[package]
+name = "akonadi-contacts"
+version = "26.08.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Libraries and daemons to implement Contact Management in Akonadi"
+depends = ["akonadi", "glibc", "grantleetheme", "ki18n", "kcodecs", "kcolorscheme", "kcompletion", "kconfig", "kcontacts", "kcoreaddons", "kguiaddons", "kiconthemes", "kio", "kmime", "ktextaddons", "ktexttemplate", "ktextwidgets", "kwidgetsaddons", "kxmlgui", "libgcc", "libstdc++", "prison", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/akonadi-contacts-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "7035ef18114ec795ec2542ed11c3768cd97264d13d66b70dc5e92223624de452"

@@ -1,0 +1,11 @@
+[package]
+name = "leptonica"
+version = "1.87.0-2"
+license = "custom"
+arch = "x86_64"
+description = "Software that is broadly useful for image processing and image analysis applications"
+depends = ["giflib", "libgif.so", "libjpeg-turbo", "libjpeg.so", "libpng", "libpng16.so", "libtiff", "libtiff.so", "libtiff", "libtiff.so", "libwebp", "libwebp.so", "libwebpmux.so", "openjpeg2", "zlib", "libz.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/leptonica-1.87.0-2-x86_64.pkg.tar.zst"
+sha256 = "f7a239ee5f8492edfd6b2e61b3c7d4371ab27990db8f10de5bbbdadc50fafb71"

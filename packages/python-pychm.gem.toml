@@ -1,0 +1,11 @@
+[package]
+name = "python-pychm"
+version = "0.8.6-11"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "Python bindings for chmlib"
+depends = ["glibc", "python", "chmlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-pychm-0.8.6-11-x86_64.pkg.tar.zst"
+sha256 = "0d2589a163507f210ab5cb02258a916361c84012cb65ab185ac8177b6c0fa089"

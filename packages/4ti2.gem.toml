@@ -1,0 +1,11 @@
+[package]
+name = "4ti2"
+version = "1.6.16-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "A software package for algebraic, geometric and combinatorial problems on linear spaces"
+depends = ["glibc", "glpk", "gmp", "libgcc", "libstdc++", "sh"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/4ti2-1.6.16-1-x86_64.pkg.tar.zst"
+sha256 = "292d01590d04196fa585110ef08346fd541ddb65bd327a989b77bb1a194c858e"

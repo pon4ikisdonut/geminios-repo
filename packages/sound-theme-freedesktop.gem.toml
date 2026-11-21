@@ -1,0 +1,11 @@
+[package]
+name = "sound-theme-freedesktop"
+version = "0.8-6"
+license = "CC-BY-4.0"
+arch = "any"
+description = "Freedesktop sound theme"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/sound-theme-freedesktop-0.8-6-any.pkg.tar.zst"
+sha256 = "266d5198ed35ed265f7e64cb014b48bd1e5a9eda1defcce817cce200ffaa6c19"

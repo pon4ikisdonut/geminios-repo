@@ -1,0 +1,11 @@
+[package]
+name = "gvfs-mtp"
+version = "1.62.0-3"
+license = "LGPL-2.0-only"
+arch = "x86_64"
+description = "Virtual filesystem implementation for GIO - MTP backend (Android, media player)"
+depends = ["gvfs", "glib2", "glibc", "libgcc", "libgudev", "libmtp", "libusb"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gvfs-mtp-1.62.0-3-x86_64.pkg.tar.zst"
+sha256 = "9650bf95ae81d71a9167841a9562e223846bb66e585c034eddfd5296819ae743"

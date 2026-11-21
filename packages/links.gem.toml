@@ -1,0 +1,11 @@
+[package]
+name = "links"
+version = "2.30-3"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "A text WWW browser, similar to Lynx"
+depends = ["brotli", "libbrotlidec.so", "bzip2", "libbz2.so", "glibc", "gpm", "libgpm.so", "libevent", "libevent-2.1.so", "openssl", "libcrypto.so", "libssl.so", "xz", "liblzma.so", "zstd", "libzstd.so", "zlib", "libz.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/links-2.30-3-x86_64.pkg.tar.zst"
+sha256 = "5247453e00a8cd283299fa712d91f0a4a5672381876dd1f5c35760f5d4a8a2bc"

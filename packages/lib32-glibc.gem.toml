@@ -1,0 +1,11 @@
+[package]
+name = "lib32-glibc"
+version = "2.44+r78+gfcfb867c58ab-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "GNU C Library (32-bit)"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/lib32-glibc-2.44+r78+gfcfb867c58ab-1-x86_64.pkg.tar.zst"
+sha256 = "a58a36181362579f3d2cedeb7d923821f8a5e119c2e0e562ffd4c86f539f0fb3"

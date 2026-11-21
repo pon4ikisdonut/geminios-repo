@@ -1,0 +1,11 @@
+[package]
+name = "haskell-recv"
+version = "0.1.1-145"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Efficient network recv"
+depends = ["ghc-libs", "haskell-network"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-recv-0.1.1-145-x86_64.pkg.tar.zst"
+sha256 = "2bb5ddd27ef9e1466e4474e68b5797c0dde82aa89cb9587f1bd7ed656e476ee1"

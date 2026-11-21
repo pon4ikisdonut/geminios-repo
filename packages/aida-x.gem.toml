@@ -1,0 +1,11 @@
+[package]
+name = "aida-x"
+version = "1.1.0-2"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "An Amp Model Player leveraging AI"
+depends = ["aida-x-clap", "aida-x-lv2", "aida-x-standalone", "aida-x-vst", "aida-x-vst3"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/aida-x-1.1.0-2-x86_64.pkg.tar.zst"
+sha256 = "079c0b49b24a0c6ea1535145c2c13b0adabe2025f0b20a79f382f1daf0db26c3"

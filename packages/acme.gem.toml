@@ -1,0 +1,11 @@
+[package]
+name = "acme"
+version = "2025.07.11-2"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Assembler for the 6502, 6510, 65c02 and 65816 processors"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/acme-2025.07.11-2-x86_64.pkg.tar.zst"
+sha256 = "5a3d775af28d2cd7e3e62403e2383dfdb70fc4518f901e70940380c929bde4fb"

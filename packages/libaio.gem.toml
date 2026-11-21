@@ -1,0 +1,11 @@
+[package]
+name = "libaio"
+version = "0.3.113-5"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "The Linux-native asynchronous I/O facility (aio) library"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/libaio-0.3.113-5-x86_64.pkg.tar.zst"
+sha256 = "e746fdedefa9987ad06e918af78976917aba780be8ac51d22dcb9ded324a84ab"

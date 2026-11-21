@@ -1,0 +1,11 @@
+[package]
+name = "python-anyio"
+version = "4.16.0-1"
+license = "MIT"
+arch = "any"
+description = "High level compatibility layer for multiple asynchronous event loop implementations"
+depends = ["python", "python-idna", "python-typing_extensions"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-anyio-4.16.0-1-any.pkg.tar.zst"
+sha256 = "cfa321b24b763ba6e561bf92e284d9aa25001108cdfa8c606ca72f5bb2ad44c6"

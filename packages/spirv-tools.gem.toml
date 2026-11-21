@@ -1,0 +1,11 @@
+[package]
+name = "spirv-tools"
+version = "1:1.4.363.0-1"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "API and commands for processing SPIR-V modules"
+depends = ["libstdc++", "glibc", "sh"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/spirv-tools-1:1.4.363.0-1-x86_64.pkg.tar.zst"
+sha256 = "04b83f2e9fbf38cd349031b105a49d6baf451f7116e84428fc0bfe55a3968010"

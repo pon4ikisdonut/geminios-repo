@@ -1,0 +1,11 @@
+[package]
+name = "ruby-net-ftp"
+version = "0.3.9-1"
+license = "BSD-2-CLAUSE"
+arch = "any"
+description = "Support for the File Transfer Protocol"
+depends = ["ruby"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ruby-net-ftp-0.3.9-1-any.pkg.tar.zst"
+sha256 = "6d58cdc1bdb5f5e668feb265677ff4060370e0180a9b5bd24e78316a2f65927a"

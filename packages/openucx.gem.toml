@@ -1,0 +1,11 @@
+[package]
+name = "openucx"
+version = "1.20.1-4"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Communication framework for data-centric and high-performance applications"
+depends = ["binutils", "glibc", "libgcc", "libgomp", "libstdc++", "zlib", "zstd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/openucx-1.20.1-4-x86_64.pkg.tar.zst"
+sha256 = "8dd47e3b2962b5575c3417236edf1437d02c24cfcf4766825e7591199523e13f"

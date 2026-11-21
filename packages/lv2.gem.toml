@@ -1,0 +1,11 @@
+[package]
+name = "lv2"
+version = "1.18.10-2"
+license = "ISC"
+arch = "x86_64"
+description = "Plugin standard for audio systems"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/lv2-1.18.10-2-x86_64.pkg.tar.zst"
+sha256 = "82ad14877273ea4b06289e9bdb9a8241646c511eb9b1747e79413b6b24a9a3c5"

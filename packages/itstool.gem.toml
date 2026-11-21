@@ -1,0 +1,11 @@
+[package]
+name = "itstool"
+version = "1:2.0.7-3"
+license = "GPL-3.0-only"
+arch = "any"
+description = "Translate XML with PO files using W3C Internationalization Tag Set rules"
+depends = ["docbook-xml", "libxml2", "python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/itstool-1:2.0.7-3-any.pkg.tar.zst"
+sha256 = "4cab46eefcf2f1bcf3871baa3ebb9e197ad5bf7a46329e3a92f0076d7af97126"

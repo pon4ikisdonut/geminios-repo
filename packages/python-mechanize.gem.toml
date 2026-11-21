@@ -1,0 +1,11 @@
+[package]
+name = "python-mechanize"
+version = "1:0.4.10-3"
+license = "BSD"
+arch = "any"
+description = "Stateful programmatic web browsing in Python"
+depends = ["python-html5lib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-mechanize-1:0.4.10-3-any.pkg.tar.zst"
+sha256 = "8a71b88a20041c728100511dfeee0c017ba436df19c1d443c5ad92db33865a98"

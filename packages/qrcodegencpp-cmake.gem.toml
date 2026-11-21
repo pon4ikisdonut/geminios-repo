@@ -1,0 +1,11 @@
+[package]
+name = "qrcodegencpp-cmake"
+version = "1.8.0-5"
+license = "MIT"
+arch = "x86_64"
+description = "High-quality C++ QR Code generator library with CMake and pkgconfig"
+depends = ["glibc", "libstdc++", "libgcc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qrcodegencpp-cmake-1.8.0-5-x86_64.pkg.tar.zst"
+sha256 = "f157875fa479f0504ee01b5b242a86eecd333dbf6581f23b7a7df0f68eb3889a"

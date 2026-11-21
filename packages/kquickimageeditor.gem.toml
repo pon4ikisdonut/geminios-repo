@@ -1,0 +1,11 @@
+[package]
+name = "kquickimageeditor"
+version = "0.7.0.1-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "QML image editing components"
+depends = ["glibc", "highway", "kconfig", "kirigami", "libgcc", "libstdc++", "qt6-base", "qt6-declarative"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kquickimageeditor-0.7.0.1-1-x86_64.pkg.tar.zst"
+sha256 = "5e4e476206ee1f113a5ae1ac9121eb7cc0fca8e41202eb2eaceedc15f1e42a63"

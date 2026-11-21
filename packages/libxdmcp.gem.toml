@@ -1,0 +1,11 @@
+[package]
+name = "libxdmcp"
+version = "1.1.5-2"
+license = "MIT-open-group"
+arch = "x86_64"
+description = "X11 Display Manager Control Protocol library"
+depends = ["glibc", "xorgproto"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libxdmcp-1.1.5-2-x86_64.pkg.tar.zst"
+sha256 = "623c957c2fd4b427a0f5a531da44931f9f66521391ee0bd0e635479947036b65"

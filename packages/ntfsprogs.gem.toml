@@ -1,0 +1,11 @@
+[package]
+name = "ntfsprogs"
+version = "2026.9.28-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "NTFS userspace utilities"
+depends = ["glibc", "gnutls", "libgcrypt", "libntfs-3g", "util-linux-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ntfsprogs-2026.9.28-1-x86_64.pkg.tar.zst"
+sha256 = "f4b81b6022c0a0221e1a852a73c52dccc0c6a75915b853f6513c99973ea3f79c"

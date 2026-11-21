@@ -1,0 +1,11 @@
+[package]
+name = "libzip"
+version = "1.11.4-2"
+license = "BSD"
+arch = "x86_64"
+description = "C library for reading, creating, and modifying zip archives"
+depends = ["bzip2", "glibc", "gnutls", "openssl", "xz", "zlib", "zstd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libzip-1.11.4-2-x86_64.pkg.tar.zst"
+sha256 = "8db94a7be026b1f33673514216764885d70c65a72cbd120471f482e948f8979a"

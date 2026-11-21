@@ -1,0 +1,11 @@
+[package]
+name = "tdb"
+version = "1.4.15-2"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "Trivial Database similar to GDBM but allows simultaneous commits"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/tdb-1.4.15-2-x86_64.pkg.tar.zst"
+sha256 = "f8edbb862dc0eebbe8f5ff448c1530db65874599cfaaea4c34e6247fe732e239"

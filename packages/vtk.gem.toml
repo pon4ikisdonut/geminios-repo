@@ -1,0 +1,11 @@
+[package]
+name = "vtk"
+version = "9.7.2-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Software system for 3D computer graphics, image processing, and visualization"
+depends = ["glibc", "libstdc++", "libgcc", "fmt", "libgomp", "onetbb", "verdict", "libarchive", "lz4", "pugixml", "xz", "zlib", "libjpeg-turbo", "libpng", "libtiff", "expat", "jsoncpp", "libxml2"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vtk-9.7.2-1-x86_64.pkg.tar.zst"
+sha256 = "406e1393d91a07e352578a3553e9e93b812f6a3f45b2ae15bf28ace2ecd28dc8"

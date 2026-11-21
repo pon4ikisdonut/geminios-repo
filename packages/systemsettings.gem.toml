@@ -1,0 +1,11 @@
+[package]
+name = "systemsettings"
+version = "6.8.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "KDE system manager for hardware, software, and workspaces"
+depends = ["glibc", "plasma-activities", "kauth", "kcmutils", "kcolorscheme", "kconfig", "kconfigwidgets", "kcoreaddons", "kcrash", "kdbusaddons", "ki18n", "kio", "kirigami", "kitemmodels", "kitemviews", "kjobwidgets", "krunner", "kservice", "kwidgetsaddons", "kwindowsystem", "kxmlgui", "libstdc++", "qt6-base", "qt6-declarative"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/systemsettings-6.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "3963ca820a7f75b7cd3ef49e745b8dadab75407cce8ea8fb9ed4f0fccd857f8e"

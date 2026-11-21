@@ -1,0 +1,11 @@
+[package]
+name = "python-merge3"
+version = "1.0.0-1"
+license = "GPL-2.0-only"
+arch = "any"
+description = "Python implementation of 3-way merge"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-merge3-1.0.0-1-any.pkg.tar.zst"
+sha256 = "63e119e03f2ef6813907927d758d0f41859ac086f673e3836ec0bd0e96238d1f"

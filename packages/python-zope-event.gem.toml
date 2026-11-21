@@ -1,0 +1,11 @@
+[package]
+name = "python-zope-event"
+version = "6.2-1"
+license = "ZPL-2.1"
+arch = "any"
+description = "Provides a simple event system"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-zope-event-6.2-1-any.pkg.tar.zst"
+sha256 = "3e01d3151cdb45907f13d7d99b14ca965c31f4c6c720866334b3c7ea759f31d4"

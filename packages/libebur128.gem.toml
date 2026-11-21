@@ -1,0 +1,11 @@
+[package]
+name = "libebur128"
+version = "1.2.6-2"
+license = "MIT"
+arch = "x86_64"
+description = "A library that implements the EBU R 128 standard for loudness normalisation"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libebur128-1.2.6-2-x86_64.pkg.tar.zst"
+sha256 = "95ea3382b10f3891f8d4527035eca3c3bca95c602bb3d2a7e26ce260e40cf7ee"

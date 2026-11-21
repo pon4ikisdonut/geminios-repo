@@ -1,0 +1,11 @@
+[package]
+name = "haskell-call-stack"
+version = "0.4.0-525"
+license = "MIT"
+arch = "x86_64"
+description = "Use GHC call-stacks in a backward compatible way"
+depends = ["ghc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-call-stack-0.4.0-525-x86_64.pkg.tar.zst"
+sha256 = "6d3461f5ac6e71dc6c099d7962cf576a8150c6c087190f60d4d5c123908f1e17"

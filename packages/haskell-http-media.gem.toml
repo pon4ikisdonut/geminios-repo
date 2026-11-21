@@ -1,0 +1,11 @@
+[package]
+name = "haskell-http-media"
+version = "0.8.1.1-185"
+license = "MIT"
+arch = "x86_64"
+description = "Processing HTTP Content-Type and Accept headers"
+depends = ["ghc-libs", "haskell-case-insensitive", "haskell-utf8-string"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-http-media-0.8.1.1-185-x86_64.pkg.tar.zst"
+sha256 = "c9021e075ae60f099e3a1524cf492f1414fb11e564336920e104593a21c5cfed"

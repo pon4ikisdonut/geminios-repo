@@ -1,0 +1,11 @@
+[package]
+name = "qemu-hw-display-virtio-gpu-gl"
+version = "11.1.3-1"
+license = "MIT"
+arch = "x86_64"
+description = "QEMU virtio-gpu-gl display device"
+depends = ["glibc", "libgcc", "qemu-common", "virglrenderer"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qemu-hw-display-virtio-gpu-gl-11.1.3-1-x86_64.pkg.tar.zst"
+sha256 = "73910f7d0c4c41eb13ad2fde1a4a5f6493b06a0bcccd3c45ed7dd8d5d44504c7"

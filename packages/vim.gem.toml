@@ -1,0 +1,11 @@
+[package]
+name = "vim"
+version = "9.2.1178-1"
+license = "custom:vim"
+arch = "x86_64"
+description = "Vi Improved, a highly configurable, improved version of the vi text editor"
+depends = ["vim-runtime", "gpm", "acl", "glibc", "libgcrypt", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vim-9.2.1178-1-x86_64.pkg.tar.zst"
+sha256 = "a85f55744bd392ce2e664e92a89d2a6d6e01039827b339aa956cfe344f73c181"

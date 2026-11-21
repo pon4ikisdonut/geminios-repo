@@ -1,0 +1,11 @@
+[package]
+name = "vulkan-radeon"
+version = "1:26.3.1-2"
+license = "MIT AND BSD-3-Clause AND SGI-B-2.0"
+arch = "x86_64"
+description = "Open-source Vulkan driver for AMD GPUs"
+depends = ["expat", "glibc", "libdisplay-info", "libdrm", "libelf", "libgcc", "libstdc++", "libx11", "libxcb", "libxshmfence", "llvm-libs", "spirv-tools", "systemd-libs", "vulkan-icd-loader", "vulkan-mesa-implicit-layers", "wayland", "xcb-util-keysyms", "zlib", "zstd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vulkan-radeon-1:26.3.1-2-x86_64.pkg.tar.zst"
+sha256 = "b7b18d8e0d322e445abf3a0cc9aaca417a0335e3c02065c14ae01e31292190ff"

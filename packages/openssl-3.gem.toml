@@ -1,0 +1,11 @@
+[package]
+name = "openssl-3"
+version = "3.5.9-2"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "The Open Source toolkit for cryptography and Transport Layer Security; Version 3.5 LTS"
+depends = ["brotli", "glibc", "zlib", "zstd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/openssl-3-3.5.9-2-x86_64.pkg.tar.zst"
+sha256 = "55dd3d5f196e0f43c723cdcab77d9398303b0cb753d2e42826c93f8941a330f0"

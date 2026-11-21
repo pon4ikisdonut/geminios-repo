@@ -1,0 +1,11 @@
+[package]
+name = "gnome-backgrounds"
+version = "51.0.1-1"
+license = "CC-BY-SA-3.0"
+arch = "any"
+description = "Background images and data for GNOME"
+depends = ["libjxl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gnome-backgrounds-51.0.1-1-any.pkg.tar.zst"
+sha256 = "c121a9dd05ae6c98d838ad3e278aaa8e89cc1a7f148f9abc7d5a8a886eba6f1b"

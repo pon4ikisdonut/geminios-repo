@@ -1,0 +1,11 @@
+[package]
+name = "foot"
+version = "1.28.0-2"
+license = "MIT"
+arch = "x86_64"
+description = "Fast, lightweight, and minimalistic Wayland terminal emulator"
+depends = ["fcft", "fontconfig", "libfcft.so", "libutf8proc", "libxkbcommon", "ncurses", "pixman", "wayland"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/foot-1.28.0-2-x86_64.pkg.tar.zst"
+sha256 = "49f91c8dceeb1d3fe7eb31b44a4f26aeadd9cf4ab52f4f5655372dec6a004c6c"

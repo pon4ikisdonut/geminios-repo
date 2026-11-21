@@ -1,0 +1,11 @@
+[package]
+name = "qt6-shadertools"
+version = "6.12.0-1"
+license = "Qt-GPL-exception-1.0"
+arch = "x86_64"
+description = "Provides functionality for the shader pipeline that allows Qt Quick to operate on Vulkan, Metal, and Direct3D, in addition to OpenGL"
+depends = ["glibc", "libgcc", "libstdc++", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qt6-shadertools-6.12.0-1-x86_64.pkg.tar.zst"
+sha256 = "6e7863301b3111a6a9acd8b042b9e5a874c0c289287b3ecdd6209d6d67f6554a"

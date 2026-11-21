@@ -1,0 +1,11 @@
+[package]
+name = "okular"
+version = "26.08.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Document Viewer"
+depends = ["discount", "djvulibre", "freetype2", "glibc", "karchive", "kbookmarks", "kcolorscheme", "kcompletion", "kconfig", "kconfigwidgets", "kcoreaddons", "kcrash", "ki18n", "kiconthemes", "kio", "kparts", "ktextwidgets", "kwallet", "kwidgetsaddons", "kwindowsystem", "kxmlgui", "libkexiv2", "libspectre", "libstdc++", "libtiff", "phonon-qt6", "poppler-qt6", "purpose", "qt6-base", "qt6-declarative", "qt6-speech", "qt6-svg", "threadweaver", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/okular-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "4946df8e37526784a516e5a2dab95229b0bde8950fb3003b7d33a37cc5621e10"

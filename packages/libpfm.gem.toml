@@ -1,0 +1,11 @@
+[package]
+name = "libpfm"
+version = "4.14.1-1"
+license = "MIT"
+arch = "x86_64"
+description = "Library to encode performance events for use by perf tool"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libpfm-4.14.1-1-x86_64.pkg.tar.zst"
+sha256 = "430a596f6d2c5cd2af725922f3c21dd0d74b053e4e6d319b6be9b25494223372"

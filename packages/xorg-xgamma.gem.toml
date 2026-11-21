@@ -1,0 +1,11 @@
+[package]
+name = "xorg-xgamma"
+version = "1.0.8-1"
+license = "custom"
+arch = "x86_64"
+description = "Alter a monitor's gamma correction"
+depends = ["libx11", "libxxf86vm"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xorg-xgamma-1.0.8-1-x86_64.pkg.tar.zst"
+sha256 = "06987b86f12ffb474d8b35b07b1ecd3995c2e293ecfc359bc1e7c745dfb21ddc"

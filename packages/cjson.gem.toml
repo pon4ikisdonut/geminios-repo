@@ -1,0 +1,11 @@
+[package]
+name = "cjson"
+version = "1.7.19-1"
+license = "MIT"
+arch = "x86_64"
+description = "Ultralightweight JSON parser in ANSI C"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/cjson-1.7.19-1-x86_64.pkg.tar.zst"
+sha256 = "a6f4cff724d7dfc0661c313680945c17c8416ef1d42c0ecd9c8be5feb7e1e90d"

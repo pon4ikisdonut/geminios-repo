@@ -1,0 +1,11 @@
+[package]
+name = "libpathrs"
+version = "0.2.6-1"
+license = "MPL-2.0 OR LGPL-3.0-or-later"
+arch = "x86_64"
+description = "C-friendly API to make path resolution safer on Linux"
+depends = ["glibc", "libgcc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libpathrs-0.2.6-1-x86_64.pkg.tar.zst"
+sha256 = "0ca6cc730792f2117502900e7b67ac532b0f57f371f673a1a4b378cdf3566fc4"

@@ -1,0 +1,11 @@
+[package]
+name = "python-argon2-cffi-bindings"
+version = "26.1.0-1"
+license = "MIT"
+arch = "x86_64"
+description = "Low-level CFFI bindings for Argon2"
+depends = ["argon2", "glibc", "python", "python-cffi"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-argon2-cffi-bindings-26.1.0-1-x86_64.pkg.tar.zst"
+sha256 = "cc996f39ccef4a5b14fbee7dd75572e30e1164160a948db8227239a73d7b8a7b"

@@ -1,0 +1,11 @@
+[package]
+name = "vlc-plugin-jpeg"
+version = "3.0.24-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Free and open source cross-platform multimedia player and framework - JPEG plugin"
+depends = ["glibc", "libjpeg-turbo", "libvlc", "libvlccore.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vlc-plugin-jpeg-3.0.24-2-x86_64.pkg.tar.zst"
+sha256 = "8bc3bc5c9075e406ddee4b3a9e29b92e9e460e1cb174ce853a2961d460f4437a"

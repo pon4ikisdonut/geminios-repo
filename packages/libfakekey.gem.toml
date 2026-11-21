@@ -1,0 +1,11 @@
+[package]
+name = "libfakekey"
+version = "0.3-4"
+license = "GPL"
+arch = "x86_64"
+description = "X virtual keyboard library."
+depends = ["libxtst"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libfakekey-0.3-4-x86_64.pkg.tar.zst"
+sha256 = "6b231e3df499bc8a14749fa2feaedb3019f404d39695701427ad793ab6ace54d"

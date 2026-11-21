@@ -1,0 +1,11 @@
+[package]
+name = "freeglut"
+version = "3.8.0-1"
+license = "X11"
+arch = "x86_64"
+description = "Free OpenGL Utility Toolkit"
+depends = ["glibc", "glu", "libgl", "libx11", "libxi", "libxrandr", "libxxf86vm"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/freeglut-3.8.0-1-x86_64.pkg.tar.zst"
+sha256 = "654537d5b3652fb115b018fcb971074929cf9e5101279c3e16bfd296052334ee"

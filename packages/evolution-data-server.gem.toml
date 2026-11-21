@@ -1,0 +1,11 @@
+[package]
+name = "evolution-data-server"
+version = "3.62.1-1"
+license = "LGPL-2.0-only AND LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Unified contacts, tasks and calendar backend"
+depends = ["cairo", "dconf", "glib2", "glibc", "gtk3", "hicolor-icon-theme", "icu", "json-glib", "krb5", "libcanberra", "libgcc", "libgoa", "libgweather-4", "libical", "libldap", "libphonenumber", "libsecret", "libsoup3", "libstdc++", "libxml2", "nspr", "nss", "pango", "perl", "sqlite", "util-linux-libs", "webkit2gtk-4.1", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/evolution-data-server-3.62.1-1-x86_64.pkg.tar.zst"
+sha256 = "d0fa84fd5d358a30c543e34e503fd4c145050d5c60138f512f2cc3ae7e43e919"

@@ -1,0 +1,11 @@
+[package]
+name = "oxygen-icons"
+version = "1:6.32.0-2"
+license = "LGPL-2.1-or-later"
+arch = "any"
+description = "The Oxygen Icon Theme"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/oxygen-icons-1:6.32.0-2-any.pkg.tar.zst"
+sha256 = "f657bb92b9505a49416e10e211b5429d4976d28835484e71c423683451e44460"

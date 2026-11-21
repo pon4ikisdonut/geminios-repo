@@ -1,0 +1,11 @@
+[package]
+name = "haskell-hashable"
+version = "1.4.7.0-173"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "A class for types that can be converted to a hash value"
+depends = ["ghc-libs", "haskell-os-string"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-hashable-1.4.7.0-173-x86_64.pkg.tar.zst"
+sha256 = "a9ea48f345228c1ec58d0a2015f43e65ea780f2227ae868f0095b28f7633ec3d"

@@ -1,0 +1,11 @@
+[package]
+name = "python-requests-toolbelt"
+version = "1.0.0-6"
+license = "Apache-2.0"
+arch = "any"
+description = "A toolbelt of useful classes and functions to be used with python-requests"
+depends = ["python", "python-requests"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-requests-toolbelt-1.0.0-6-any.pkg.tar.zst"
+sha256 = "fd2277d36dfd1716ab48884691fab1e2cb16b353e9c37e947e9e4c95ea91510e"

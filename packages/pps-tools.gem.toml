@@ -1,0 +1,11 @@
+[package]
+name = "pps-tools"
+version = "1.0.3-2"
+license = "GPL2"
+arch = "x86_64"
+description = "LinuxPPS user-space tools"
+depends = ["bash"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/pps-tools-1.0.3-2-x86_64.pkg.tar.zst"
+sha256 = "bd35c02d5f356f984d90bc386fa45fdd89ce0e812dd96721a2a2f1510f540139"

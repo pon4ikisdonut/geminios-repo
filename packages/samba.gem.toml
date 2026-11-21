@@ -1,0 +1,11 @@
+[package]
+name = "samba"
+version = "2:4.25.1-1"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "SMB Fileserver and AD Domain server"
+depends = ["gnutls", "gpgme", "ldb", "libbsd", "libcups", "libcap", "libldb.so", "libtdb.so", "libtevent.so", "liburing", "libwbclient", "popt", "python", "smbclient", "talloc", "tdb"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/samba-2:4.25.1-1-x86_64.pkg.tar.zst"
+sha256 = "53076a2a6e394ae002d99bc5ec55b3e5ace046e8ffb05ee1c9bd1ddce68afc8f"

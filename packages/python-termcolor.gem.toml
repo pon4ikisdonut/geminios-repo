@@ -1,0 +1,11 @@
+[package]
+name = "python-termcolor"
+version = "3.3.0-1"
+license = "MIT"
+arch = "any"
+description = "ANSI Color formatting for output in terminal"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-termcolor-3.3.0-1-any.pkg.tar.zst"
+sha256 = "4e296434f30736a14952225def8dc5fec8bc8b1b2f389b24d9d54f156e8de91b"

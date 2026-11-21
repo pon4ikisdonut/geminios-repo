@@ -1,0 +1,11 @@
+[package]
+name = "python-pygments"
+version = "2.21.0-1"
+license = "BSD-2-Clause"
+arch = "any"
+description = "Python syntax highlighter"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-pygments-2.21.0-1-any.pkg.tar.zst"
+sha256 = "a9b41640ce170eb5113412f8399e3ab18fcf65bd1c5bef77607ff5a593e607a8"

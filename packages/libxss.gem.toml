@@ -1,0 +1,11 @@
+[package]
+name = "libxss"
+version = "1.2.5-1"
+license = "X11"
+arch = "x86_64"
+description = "X11 Screen Saver extension library"
+depends = ["libxext", "libx11", "glibc", "xorgproto"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libxss-1.2.5-1-x86_64.pkg.tar.zst"
+sha256 = "79fd8fc47e77f479e6e4229a6957f26a6dd549bac7e047bafecdcaf5fde58889"

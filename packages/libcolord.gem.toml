@@ -1,0 +1,11 @@
+[package]
+name = "libcolord"
+version = "1.4.8-2"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "System daemon for managing color devices (client library)"
+depends = ["glib2", "glibc", "lcms2", "libgcc", "systemd-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libcolord-1.4.8-2-x86_64.pkg.tar.zst"
+sha256 = "6e703e71970d735779a4dbecff603abf75b4289ed34bdbf5645146dba28ae6ad"

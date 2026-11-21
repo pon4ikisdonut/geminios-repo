@@ -1,0 +1,11 @@
+[package]
+name = "adobe-source-han-serif-jp-fonts"
+version = "2.003-2"
+license = "OFL-1.1-RFN"
+arch = "any"
+description = "Adobe Source Han Serif Subset OTF - Japanese OpenType/CFF fonts"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/adobe-source-han-serif-jp-fonts-2.003-2-any.pkg.tar.zst"
+sha256 = "13906191c6a92419ee92c4772343dc575693a0124b8a2c65e4a008002d1225e5"

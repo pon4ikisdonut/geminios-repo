@@ -1,0 +1,11 @@
+[package]
+name = "ca-certificates-mozilla"
+version = "3.134-1"
+license = "MPL-2.0"
+arch = "x86_64"
+description = "Mozilla's set of trusted CA certificates"
+depends = ["ca-certificates-utils"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/ca-certificates-mozilla-3.134-1-x86_64.pkg.tar.zst"
+sha256 = "21665aaa2a4d08b7d0cab6aaf014748c05bde1871dd6caa0686995a81264623b"

@@ -1,0 +1,11 @@
+[package]
+name = "parallel"
+version = "20261022-1"
+license = "GPL-3.0-only"
+arch = "any"
+description = "A shell tool for executing jobs in parallel"
+depends = ["perl", "procps"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/parallel-20261022-1-any.pkg.tar.zst"
+sha256 = "9330db086b6d52e1a1d84923dfe7499456638cf31c3c1c5ca1d5a7173af42388"

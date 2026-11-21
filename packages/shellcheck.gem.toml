@@ -1,0 +1,11 @@
+[package]
+name = "shellcheck"
+version = "0.11.0-168"
+license = "GPL"
+arch = "x86_64"
+description = "Shell script analysis tool"
+depends = ["ghc-libs", "haskell-aeson", "haskell-diff", "haskell-fgl", "haskell-quickcheck", "haskell-regex-tdfa"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/shellcheck-0.11.0-168-x86_64.pkg.tar.zst"
+sha256 = "83ed65233b1c3f15577a47ec36f544999b1abcb15561eacd304797df342cee02"

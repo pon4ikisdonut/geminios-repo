@@ -1,0 +1,11 @@
+[package]
+name = "qemu-audio-pipewire"
+version = "11.1.3-1"
+license = "MIT"
+arch = "x86_64"
+description = "QEMU PipeWire audio driver"
+depends = ["glibc", "libpipewire", "libpipewire-0.3.so", "qemu-common"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qemu-audio-pipewire-11.1.3-1-x86_64.pkg.tar.zst"
+sha256 = "3d80c0867a6c986730b5e41a9b60da22c50d670cebf47069a84647d400cd1498"

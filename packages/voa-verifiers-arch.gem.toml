@@ -1,0 +1,11 @@
+[package]
+name = "voa-verifiers-arch"
+version = "20260909-1"
+license = "GPL-3.0-or-later"
+arch = "any"
+description = "Arch Linux verifiers for the Hierarchy for the Verification of OS Artifacts (VOA)"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/voa-verifiers-arch-20260909-1-any.pkg.tar.zst"
+sha256 = "77fe37caa83c13300d2ddea5e06ee3430ca190b48ac443699faf26b9fcc9312a"

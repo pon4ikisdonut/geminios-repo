@@ -1,0 +1,11 @@
+[package]
+name = "telegram-desktop"
+version = "7.4.4-2"
+license = "GPL-3.0-or-later WITH OpenSSL-exception"
+arch = "x86_64"
+description = "Official Telegram Desktop client"
+depends = ["abseil-cpp", "ada", "cairo", "ffmpeg", "fontconfig", "glib2", "glibc", "hicolor-icon-theme", "hunspell", "kcoreaddons", "libavif", "libfido2", "libgcc", "libheif", "libjpeg-turbo", "libjxl", "libpipewire", "libsrtp", "libstdc++", "libvpx", "libx11", "libxcb", "libxcomposite", "libxdamage", "libxext", "libxfixes", "libxkbcommon", "libxrandr", "libxtst", "lz4", "minizip", "openal", "openh264", "openssl", "opus", "pango", "pipewire", "qt6-base", "qt6-declarative", "qt6-imageformats", "qt6-svg", "qt6-wayland", "rnnoise", "tlottie", "xxhash", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/telegram-desktop-7.4.4-2-x86_64.pkg.tar.zst"
+sha256 = "58a0af29b9648a5236f155f0a51386d631a89249f24b8e912f93009747ae53d7"

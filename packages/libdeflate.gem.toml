@@ -1,0 +1,11 @@
+[package]
+name = "libdeflate"
+version = "1.26-1"
+license = "MIT"
+arch = "x86_64"
+description = "Heavily optimized library for DEFLATE/zlib/gzip compression and decompression"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libdeflate-1.26-1-x86_64.pkg.tar.zst"
+sha256 = "3bd3b1ca9a333ab97ebb55f760963f64817b6c4c0d54747b37187f36ab60deab"

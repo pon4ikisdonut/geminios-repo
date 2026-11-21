@@ -1,0 +1,11 @@
+[package]
+name = "ttf-ubuntu-font-family"
+version = "1:0.83-2"
+license = "custom:Ubuntu Font Licence 1.0"
+arch = "any"
+description = "Ubuntu font family"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ttf-ubuntu-font-family-1:0.83-2-any.pkg.tar.zst"
+sha256 = "8d84962b5372e5a331fd9afa3aab0569b558bb4e78e8c1dfcc5e0c16b6527e86"

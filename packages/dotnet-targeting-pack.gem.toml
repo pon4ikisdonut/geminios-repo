@@ -1,0 +1,11 @@
+[package]
+name = "dotnet-targeting-pack"
+version = "10.0.14.sdk114-2"
+license = "MIT"
+arch = "x86_64"
+description = "The .NET Core targeting pack"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/dotnet-targeting-pack-10.0.14.sdk114-2-x86_64.pkg.tar.zst"
+sha256 = "519b9c7b0677c4b0dd375721ee75379ee9febcf0d109f4dfe8c1ef0bd1891331"

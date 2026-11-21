@@ -1,0 +1,11 @@
+[package]
+name = "gpm"
+version = "1.20.7.r38.ge82d1a6-7"
+license = "GPL"
+arch = "x86_64"
+description = "A mouse server for the console and xterm"
+depends = ["bash", "procps-ng"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/gpm-1.20.7.r38.ge82d1a6-7-x86_64.pkg.tar.zst"
+sha256 = "c13146ba90f58ad4b561ffb15ae7d667718acca7865eb752b83d1530f3e67689"

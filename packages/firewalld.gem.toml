@@ -1,0 +1,11 @@
+[package]
+name = "firewalld"
+version = "2.5.2-1"
+license = "GPL-2.0-or-later"
+arch = "any"
+description = "Firewall daemon with D-Bus interface"
+depends = ["glib2", "python-firewall", "python-capng"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/firewalld-2.5.2-1-any.pkg.tar.zst"
+sha256 = "e7aa5e4e63f3842bb0d59572ed390c30506ab4b5d3ccf7b274ac22055ffec146"

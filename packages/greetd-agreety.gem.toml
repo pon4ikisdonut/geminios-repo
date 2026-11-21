@@ -1,0 +1,11 @@
+[package]
+name = "greetd-agreety"
+version = "0.10.3-2"
+license = "GPL-3.0-only"
+arch = "x86_64"
+description = "Generic greeter daemon"
+depends = ["glibc", "libgcc", "greetd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/greetd-agreety-0.10.3-2-x86_64.pkg.tar.zst"
+sha256 = "5fca40eab8a4c272bd3ee4794873c2c73401c5398840d7da8f50a5a5af347f0c"

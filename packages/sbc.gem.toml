@@ -1,0 +1,11 @@
+[package]
+name = "sbc"
+version = "2.2-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Bluetooth Subband Codec (SBC) library"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/sbc-2.2-1-x86_64.pkg.tar.zst"
+sha256 = "a6545bbb75db51b4bc3e3022dabeb3cf5637c503a7efb45f739e758d6d88f6b2"

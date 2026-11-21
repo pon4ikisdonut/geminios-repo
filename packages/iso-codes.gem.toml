@@ -1,0 +1,11 @@
+[package]
+name = "iso-codes"
+version = "4.20.1-1"
+license = "LGPL-2.1-only"
+arch = "any"
+description = "Lists of the country, language, and currency names"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/iso-codes-4.20.1-1-any.pkg.tar.zst"
+sha256 = "c2dbcb21176ff2a15cea0072ea13f2998bcd435fd494c99d0a8f06e9eb029192"

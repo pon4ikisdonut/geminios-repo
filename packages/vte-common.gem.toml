@@ -1,0 +1,11 @@
+[package]
+name = "vte-common"
+version = "0.84.1-1"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "Virtual Terminal Emulator widget (common files)"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vte-common-0.84.1-1-x86_64.pkg.tar.zst"
+sha256 = "006cda5b69d887ddca9e347355b2a25ff3a59cb804cec6442c1dbc9c1a681daf"

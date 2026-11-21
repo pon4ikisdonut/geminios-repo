@@ -1,0 +1,11 @@
+[package]
+name = "iputils"
+version = "20250605-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Network monitoring tools, including ping"
+depends = ["libcap", "libidn2"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/iputils-20250605-1-x86_64.pkg.tar.zst"
+sha256 = "7b7ef18785a9fb7767ecf793a9c87b474eec64440a55258f5c127861100d3933"

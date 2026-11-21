@@ -1,0 +1,11 @@
+[package]
+name = "seahorse"
+version = "1:47.0.1-7"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "GNOME application for managing PGP keys"
+depends = ["dconf", "gcr", "gdk-pixbuf2", "glib2", "glibc", "gpgme", "gtk3", "hicolor-icon-theme", "libgcc", "libhandy", "libldap", "libpwquality", "libsecret", "libsoup3", "org.freedesktop.secrets"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/seahorse-1:47.0.1-7-x86_64.pkg.tar.zst"
+sha256 = "a4144abfd94e3a66f250272304145ca9c3fd93c65a07324445d1b968d7b43d08"

@@ -1,0 +1,11 @@
+[package]
+name = "libcloudproviders"
+version = "0.4.2-1"
+license = "LGPL-3.0-or-later"
+arch = "x86_64"
+description = "DBus API that allows cloud storage sync clients to expose their services"
+depends = ["libgcc", "glib2", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libcloudproviders-0.4.2-1-x86_64.pkg.tar.zst"
+sha256 = "0deab0e90833a1f7600a8c13cef3c4fcc0a998d446e5f4e497200a734ac27195"

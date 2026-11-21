@@ -1,0 +1,11 @@
+[package]
+name = "fakeroot"
+version = "2:1.37.2-1"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "Tool for simulating superuser privileges"
+depends = ["glibc", "filesystem", "sed", "util-linux", "sh"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/fakeroot-2:1.37.2-1-x86_64.pkg.tar.zst"
+sha256 = "32f9007ed57ee5286895c812238d08354d3b6831039f74be057f72d07c3fe067"

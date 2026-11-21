@@ -1,0 +1,11 @@
+[package]
+name = "libvisio"
+version = "0.1.12-1"
+license = "MPL-2.0"
+arch = "x86_64"
+description = "Library providing ability to interpret and import visio diagrams"
+depends = ["libxml2", "icu", "librevenge", "glibc", "libstdc++", "libgcc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libvisio-0.1.12-1-x86_64.pkg.tar.zst"
+sha256 = "f055adf42398d55f9762fd1e8cd1fe150ef2a0ee6a295a35430aef2160ad0665"

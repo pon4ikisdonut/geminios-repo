@@ -1,0 +1,11 @@
+[package]
+name = "libvirt"
+version = "1:12.9.0-1"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "API for controlling virtualization engines (openvz,kvm,qemu,virtualbox,xen,etc)"
+depends = ["acl", "audit", "bash", "curl", "device-mapper", "fuse3", "libgcc", "glib2", "glibc", "gnutls", "json-c", "libcap-ng", "libnbd", "libnl", "libpcap", "libpciaccess", "libsasl", "libssh", "libssh2", "libtirpc", "libxml2", "numactl", "parted", "polkit", "readline", "systemd-libs", "util-linux-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libvirt-1:12.9.0-1-x86_64.pkg.tar.zst"
+sha256 = "2fe6b2b39f3550e59b9b558a7451ce1ffb55d622b7faeb0ee049f31b403a80cc"

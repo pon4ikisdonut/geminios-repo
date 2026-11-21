@@ -1,0 +1,11 @@
+[package]
+name = "abi-compliance-checker"
+version = "2.3+r24+g7c175c4-1"
+license = "LGPL-2.1-or-later"
+arch = "any"
+description = "Check ABI compatibility between library versions"
+depends = ["abi-dumper", "binutils", "ctags", "gcc", "perl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/abi-compliance-checker-2.3+r24+g7c175c4-1-any.pkg.tar.zst"
+sha256 = "b71d3e488ca3a0a1e2378e2ee40ed2fccac86498f244aa7184ea60fefb079984"

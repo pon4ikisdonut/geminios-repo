@@ -1,0 +1,11 @@
+[package]
+name = "python-protobuf"
+version = "36.1-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Python 3 bindings for Google Protocol Buffers"
+depends = ["protobuf", "python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-protobuf-36.1-1-x86_64.pkg.tar.zst"
+sha256 = "890870683c10c494b26d2fae44f752631150768313caf21b0286f5532410c6c9"

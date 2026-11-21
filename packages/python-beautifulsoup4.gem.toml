@@ -1,0 +1,11 @@
+[package]
+name = "python-beautifulsoup4"
+version = "4.15.0-1"
+license = "MIT"
+arch = "any"
+description = "A Python HTML/XML parser designed for quick turnaround projects like screen-scraping"
+depends = ["python", "python-soupsieve", "python-typing_extensions"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-beautifulsoup4-4.15.0-1-any.pkg.tar.zst"
+sha256 = "780bb0e9cb7bee7bedd6df8896fe17d21d68bf2f1e7f3205195d81e0414f3646"

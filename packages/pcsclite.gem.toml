@@ -1,0 +1,11 @@
+[package]
+name = "pcsclite"
+version = "2.5.4-1"
+license = "0BSD"
+arch = "x86_64"
+description = "PC/SC Architecture smartcard middleware library"
+depends = ["libsystemd.so", "libudev.so", "libpolkit-gobject-1.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/pcsclite-2.5.4-1-x86_64.pkg.tar.zst"
+sha256 = "2b5cd59fd70ed6da3f805cb9b224908eafe25af43b4802da998df23fcde5d9aa"

@@ -1,0 +1,11 @@
+[package]
+name = "vlc-plugin-x265"
+version = "3.0.24-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Free and open source cross-platform multimedia player and framework - H265/HEVC encoding"
+depends = ["glibc", "libvlc", "libvlccore.so", "vlc-plugins-base", "x265"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vlc-plugin-x265-3.0.24-2-x86_64.pkg.tar.zst"
+sha256 = "ee563c382fd8171f09d2906f4fd3282832f61b50c437d86b59587fbace7f13d7"

@@ -1,0 +1,11 @@
+[package]
+name = "gcc-rust"
+version = "16.2.1+r23+gd564253eb6c8-1"
+license = "GFDL-1.3-or-later"
+arch = "x86_64"
+description = "Rust frontend for GCC"
+depends = ["gcc", "glibc", "gmp", "libisl.so", "libmpc", "mpfr", "zlib", "zstd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/gcc-rust-16.2.1+r23+gd564253eb6c8-1-x86_64.pkg.tar.zst"
+sha256 = "475c8a7147b0ff0d55ec696f11cf1fed6eb7b359359f7129fb227d863ac62414"

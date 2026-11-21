@@ -1,0 +1,11 @@
+[package]
+name = "level-zero-loader"
+version = "1.34.0-1"
+license = "MIT"
+arch = "x86_64"
+description = "API for accessing low level interfaces in oneAPI platform devices (loader)"
+depends = ["glibc", "libgcc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/level-zero-loader-1.34.0-1-x86_64.pkg.tar.zst"
+sha256 = "0cfa729a0612450aae9b690ed2e25b0d5cdf40a15e87cc0d395dc39987075674"

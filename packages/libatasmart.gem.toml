@@ -1,0 +1,11 @@
+[package]
+name = "libatasmart"
+version = "0.19-8"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "ATA S.M.A.R.T. reader and parser library"
+depends = ["glibc", "systemd-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libatasmart-0.19-8-x86_64.pkg.tar.zst"
+sha256 = "31e8b419d2ffe2ebb306533af3923b8f1bf75dfd6afa0df2dc861371ec9c50d6"

@@ -1,0 +1,11 @@
+[package]
+name = "python-iniconfig"
+version = "2.3.0-1"
+license = "MIT"
+arch = "any"
+description = "brain-dead simple config-ini parsing"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-iniconfig-2.3.0-1-any.pkg.tar.zst"
+sha256 = "923a04a567ae8ed730bab1e14ec605fc175e46c0d595fff8663e1fe51415390f"

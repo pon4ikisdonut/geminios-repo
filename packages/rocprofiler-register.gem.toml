@@ -1,0 +1,11 @@
+[package]
+name = "rocprofiler-register"
+version = "10.1-1"
+license = "MIT"
+arch = "x86_64"
+description = "Helper library for the ROCprofiler (v2) library"
+depends = ["rocm-core", "glibc", "libgcc", "fmt", "google-glog"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/rocprofiler-register-10.1-1-x86_64.pkg.tar.zst"
+sha256 = "da584a13e401543f0a462ee43ebdbb91f3c081da052eda0df0d22863848b9bfc"

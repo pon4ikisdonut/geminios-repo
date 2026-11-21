@@ -1,0 +1,11 @@
+[package]
+name = "unibilium"
+version = "2.1.4-1"
+license = "LGPL3"
+arch = "x86_64"
+description = "A terminfo parsing library"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/unibilium-2.1.4-1-x86_64.pkg.tar.zst"
+sha256 = "fca42bd13197e05c5e7f9675d1145a643be3dee7e4fe8a8b59e877b545420751"

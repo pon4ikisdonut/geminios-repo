@@ -1,0 +1,11 @@
+[package]
+name = "jack2"
+version = "1.9.22-2"
+license = "LGPL2.1"
+arch = "x86_64"
+description = "The JACK low-latency audio server"
+depends = ["alsa-lib", "libasound.so", "db5.3", "dbus", "libdbus-1.so", "glibc", "libgcc", "libsamplerate", "libsamplerate.so", "libstdc++", "opus", "libopus.so", "systemd-libs", "libsystemd.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/jack2-1.9.22-2-x86_64.pkg.tar.zst"
+sha256 = "e400bbd5f48b5f657d7835ef607822d14be1fc66c1807718b13086c53b95c8a7"

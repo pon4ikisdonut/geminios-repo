@@ -1,0 +1,11 @@
+[package]
+name = "e2fsprogs"
+version = "1.47.4-1"
+license = "MIT"
+arch = "x86_64"
+description = "Ext2/3/4 filesystem utilities"
+depends = ["sh", "util-linux-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/e2fsprogs-1.47.4-1-x86_64.pkg.tar.zst"
+sha256 = "a78971bbbe0ae89d15a0cbbc952e64462edc5a6f991c1bb9cefd0539ca548bd4"

@@ -1,0 +1,11 @@
+[package]
+name = "openjpeg2"
+version = "2.5.4-1"
+license = "MIT"
+arch = "x86_64"
+description = "An open source JPEG 2000 codec, version 2.5.4"
+depends = ["libpng", "libtiff", "lcms2", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/openjpeg2-2.5.4-1-x86_64.pkg.tar.zst"
+sha256 = "f09d64baeda07bc9bc0bb6a08b5f316db372bedd100b9a56f44ffaeace26c1e6"

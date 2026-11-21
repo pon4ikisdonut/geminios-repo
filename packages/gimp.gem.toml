@@ -1,0 +1,11 @@
+[package]
+name = "gimp"
+version = "3.2.8-2"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "GNU Image Manipulation Program"
+depends = ["appstream", "babl", "libbabl-0.1.so", "cairo", "libcairo.so", "fontconfig", "libfontconfig.so", "freetype2", "libfreetype.so", "gdk-pixbuf2", "libgdk_pixbuf-2.0.so", "gegl", "libgegl-0.4.so", "libgegl-npd-0.4.so", "glib2", "libgio-2.0.so", "libglib-2.0.so", "libgmodule-2.0.so", "libgobject-2.0.so", "glibc", "gtk3", "libgdk-3.so", "libgtk-3.so", "harfbuzz", "libharfbuzz.so", "hicolor-icon-theme", "iso-codes", "json-glib", "libjson-glib-1.0.so", "lcms2", "liblcms2.so", "libgcc", "libgcc_s.so", "libgexiv2", "libgexiv2.so", "libgirepository", "libgirepository-1.0.so", "libgomp", "libgomp.so", "libmypaint", "libstdc++", "libstdc++.so", "libunwind", "libunwind.so", "mypaint-brushes", "pango", "libpango-1.0.so", "libpangocairo-1.0.so", "libpangoft2-1.0.so", "python-gobject", "python-cairo", "zlib", "libz.so", "aalib", "bzip2", "libbz2.so", "libarchive", "libarchive.so", "libgudev", "libgudev-1.0.so", "libheif", "libheif.so", "libjpeg-turbo", "libjpeg.so", "libjxl", "libjxl.so", "libjxl_threads.so", "libmng", "libpng", "libpng16.so", "librsvg", "librsvg-2.so", "libtiff", "libtiff.so", "libwebp", "libwebpdemux.so", "libwebpmux.so", "libwebp.so", "libwmf", "libx11", "libxcursor", "libxext", "libxfixes", "libxmu", "libxpm", "openexr", "openjpeg2", "poppler-data", "poppler-glib", "libpoppler-glib.so", "xz", "liblcms2.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gimp-3.2.8-2-x86_64.pkg.tar.zst"
+sha256 = "d3045b1a3cdf53ef91d7d278a89f5306a5f1156ea3a1343fb0c874dda99e23a9"

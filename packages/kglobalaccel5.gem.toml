@@ -1,0 +1,11 @@
+[package]
+name = "kglobalaccel5"
+version = "5.116.0-2"
+license = "LGPL"
+arch = "x86_64"
+description = "Add support for global workspace shortcuts"
+depends = ["kconfig5", "kcoreaddons5", "kwindowsystem5"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kglobalaccel5-5.116.0-2-x86_64.pkg.tar.zst"
+sha256 = "9ea71a5bcade0fb9e29df540006c8aeba546bfc0abb6c2c6863ed2fb8857eda2"

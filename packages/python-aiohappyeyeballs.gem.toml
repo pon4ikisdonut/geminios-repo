@@ -1,0 +1,11 @@
+[package]
+name = "python-aiohappyeyeballs"
+version = "2.7.1-1"
+license = "PSF-2.0"
+arch = "any"
+description = "Happy Eyeballs for asyncio"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-aiohappyeyeballs-2.7.1-1-any.pkg.tar.zst"
+sha256 = "5f8bea1f4cebb5fa885033a0f857885957025f91d41ff3cadba64cbc3312321c"

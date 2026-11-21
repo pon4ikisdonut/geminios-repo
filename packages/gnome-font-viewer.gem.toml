@@ -1,0 +1,11 @@
+[package]
+name = "gnome-font-viewer"
+version = "50.0-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "A font viewer utility for GNOME"
+depends = ["cairo", "fontconfig", "freetype2", "fribidi", "glib2", "glibc", "gtk4", "harfbuzz", "hicolor-icon-theme", "libadwaita", "libgcc", "pango"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gnome-font-viewer-50.0-1-x86_64.pkg.tar.zst"
+sha256 = "32c98b552748328d55d18d13b1678155aa873538ca151f58dcf684badad2df4d"

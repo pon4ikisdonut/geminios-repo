@@ -1,0 +1,11 @@
+[package]
+name = "nodejs"
+version = "26.13.1-2"
+license = "MIT"
+arch = "x86_64"
+description = "Evented I/O for V8 javascript (\"Current\" release)"
+depends = ["abseil-cpp", "ada", "brotli", "c-ares", "icu", "libffi", "libnghttp2", "libnghttp3", "libngtcp2", "libuv", "openssl", "simdjson", "zlib", "zstd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/nodejs-26.13.1-2-x86_64.pkg.tar.zst"
+sha256 = "1dcc2fe5ec4c1da1b0ee2118463148ee02ee55a09014c006a001464d3dedfad3"

@@ -1,0 +1,11 @@
+[package]
+name = "kolourpaint"
+version = "26.08.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Paint Program"
+depends = ["glibc", "kconfig", "kconfigwidgets", "kcoreaddons", "kcrash", "kguiaddons", "ki18n", "kio", "kwidgetsaddons", "kxmlgui", "libksane", "libstdc++", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kolourpaint-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "3b1b0139cfdf9ff92954406cc16c1fc02de7ff258f0516aaf92e012b9cc38be2"

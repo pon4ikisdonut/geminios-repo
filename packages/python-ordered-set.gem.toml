@@ -1,0 +1,11 @@
+[package]
+name = "python-ordered-set"
+version = "4.1.0-8"
+license = "MIT"
+arch = "any"
+description = "A MutableSet that remembers its order, so that every entry has an index"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-ordered-set-4.1.0-8-any.pkg.tar.zst"
+sha256 = "6e71fdc03a999a18b8350aea479787f2413a5d93008f3636f46c0460187691fe"

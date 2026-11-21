@@ -1,0 +1,11 @@
+[package]
+name = "opensubdiv"
+version = "3.8.0-2"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "An Open-Source subdivision surface library"
+depends = ["ptex", "intel-tbb", "libxcursor", "xorg-xrandr", "libxinerama", "libxi"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/opensubdiv-3.8.0-2-x86_64.pkg.tar.zst"
+sha256 = "8fb3a442ed1703ca9c9373eb10592d4813885ff06275e30c1793bdcd10434dd1"

@@ -1,0 +1,11 @@
+[package]
+name = "perl-class-inspector"
+version = "1.36-10"
+license = "GPL"
+arch = "any"
+description = "Get information about a class and its structure"
+depends = ["perl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/perl-class-inspector-1.36-10-any.pkg.tar.zst"
+sha256 = "ece8922c40f8f4c6e742c3405b9ffca4665aa40a140e4a41fc730b2f54de6e22"

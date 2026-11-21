@@ -1,0 +1,11 @@
+[package]
+name = "docker"
+version = "1:29.10.0-1"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "Pack, ship and run any application as a lightweight container"
+depends = ["glibc", "iproute2", "device-mapper", "sqlite", "systemd-libs", "libseccomp", "libtool", "nftables", "runc", "containerd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/docker-1:29.10.0-1-x86_64.pkg.tar.zst"
+sha256 = "5a65c7d30d479e02f6979017fcc3efe33ce26b30e7009798d8f26d258ea0f044"

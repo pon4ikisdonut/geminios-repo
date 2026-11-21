@@ -1,0 +1,11 @@
+[package]
+name = "python-distlib"
+version = "0.4.4-1"
+license = "PSF-2.0"
+arch = "any"
+description = "Low-level functions that relate to packaging and distribution of Python software"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-distlib-0.4.4-1-any.pkg.tar.zst"
+sha256 = "5f426dd128bc79e2c1a5203462179ef6365593b3295dbfc889861feed79e42c4"

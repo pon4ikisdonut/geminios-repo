@@ -1,0 +1,11 @@
+[package]
+name = "karchive"
+version = "6.32.0-1"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "Qt addon providing access to numerous types of archives"
+depends = ["bzip2", "glibc", "libstdc++", "openssl", "qt6-base", "xz", "zlib", "zstd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/karchive-6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "884abac9de8c10bc42b4d250bd724edb9570a341e605d809af8357b41b945ab4"

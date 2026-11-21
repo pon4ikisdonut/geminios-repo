@@ -1,0 +1,11 @@
+[package]
+name = "perl-capture-tiny"
+version = "0.50-4"
+license = "Apache-2.0"
+arch = "any"
+description = "Capture STDOUT and STDERR from Perl, XS or external programs"
+depends = ["perl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/perl-capture-tiny-0.50-4-any.pkg.tar.zst"
+sha256 = "047b29d8bf2f06d1669b64ad772c7bbee5d344d913cf4b87af17fe8853c41bb2"

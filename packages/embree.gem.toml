@@ -1,0 +1,11 @@
+[package]
+name = "embree"
+version = "4.4.1-1"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "Collection of high-performance ray tracing kernels"
+depends = ["glibc", "libgcc", "libstdc++", "intel-tbb"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/embree-4.4.1-1-x86_64.pkg.tar.zst"
+sha256 = "c091a7968f5fffbe444b4bfc262db8e73e8e388dc6257a8518620e7c22552967"

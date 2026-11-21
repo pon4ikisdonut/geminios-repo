@@ -1,0 +1,11 @@
+[package]
+name = "wildmidi"
+version = "0.5.0-1"
+license = "GPL-3.0-or-later AND LGPL-3.0-or-later"
+arch = "x86_64"
+description = "Simple software MIDI player which has a core softsynth library"
+depends = ["alsa-lib", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/wildmidi-0.5.0-1-x86_64.pkg.tar.zst"
+sha256 = "a8848de09e116ce942b6d9e8a0b1ab214e9fb63f5b7a9dd75d396b695b1a2eb0"

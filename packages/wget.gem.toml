@@ -1,0 +1,11 @@
+[package]
+name = "wget"
+version = "1.25.0-6"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "Network utility to retrieve files from the web"
+depends = ["glibc", "zlib", "gnutls", "libidn2", "libidn2.so", "util-linux-libs", "libuuid.so", "libpsl", "libpsl.so", "pcre2", "nettle", "libnettle.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/wget-1.25.0-6-x86_64.pkg.tar.zst"
+sha256 = "b13fda4c67cf71c8a913e0109dc6bd42cca0ac5562e165db2a63885e42c42217"

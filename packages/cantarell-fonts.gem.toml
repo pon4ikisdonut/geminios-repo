@@ -1,0 +1,11 @@
+[package]
+name = "cantarell-fonts"
+version = "1:0.311-1"
+license = "OFL-1.1"
+arch = "any"
+description = "Humanist sans serif font"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/cantarell-fonts-1:0.311-1-any.pkg.tar.zst"
+sha256 = "3493bd665e89c2b78c522dca61f0a8512bd7fd8d7091f89b3a7d742eb8995c28"

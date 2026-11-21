@@ -1,0 +1,11 @@
+[package]
+name = "stoken"
+version = "0.92-6"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "RSA SecurID-compatible software token for Linux/UNIX systems"
+depends = ["nettle", "libxml2"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/stoken-0.92-6-x86_64.pkg.tar.zst"
+sha256 = "b3e7511cde1dd0f9795b3bfded131c0fad608cc012f27dee56fcb079a338c952"

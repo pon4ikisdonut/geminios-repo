@@ -1,0 +1,11 @@
+[package]
+name = "cups"
+version = "2:2.4.20-1"
+license = "Apache-2.0 WITH LLVM-exception AND BSD-3-Clause AND Zlib AND BSD-2-Clause"
+arch = "x86_64"
+description = "OpenPrinting CUPS - daemon package"
+depends = ["acl", "pam", "libcups", "cups-filters", "dbus", "systemd", "systemd-libs", "libpaper", "hicolor-icon-theme", "glibc", "libstdc++", "libgcc", "avahi", "gnutls"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/cups-2:2.4.20-1-x86_64.pkg.tar.zst"
+sha256 = "4a9ff0c218eadce87a1c4392fd4f90b2aec345193996634dbe63c338aabf16fa"

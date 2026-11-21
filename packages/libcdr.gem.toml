@@ -1,0 +1,11 @@
+[package]
+name = "libcdr"
+version = "0.1.9-1"
+license = "LicenseRef-libcdr-Public-Domain"
+arch = "x86_64"
+description = "CorelDraw file format importer library for LibreOffice"
+depends = ["lcms2", "icu", "librevenge", "zlib", "glibc", "libstdc++", "libgcc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libcdr-0.1.9-1-x86_64.pkg.tar.zst"
+sha256 = "9842af3ab154129eef77e44e1490a5bc6c70cc99bef0c484a44c17d1e8f2d3ea"

@@ -1,0 +1,11 @@
+[package]
+name = "libxtst"
+version = "1.2.6-1"
+license = "HPND-doc-sell"
+arch = "x86_64"
+description = "library for XTEST & RECORD extensions"
+depends = ["libxext", "libxi", "libx11", "glibc", "xorgproto"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libxtst-1.2.6-1-x86_64.pkg.tar.zst"
+sha256 = "c2a5db58aa5b4af3de2f985644b6573b4c34692a74478f0bdf913a5865966265"

@@ -1,0 +1,11 @@
+[package]
+name = "oniguruma"
+version = "6.9.10-3"
+license = "BSD-2-Clause"
+arch = "x86_64"
+description = "A regular expressions library"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/oniguruma-6.9.10-3-x86_64.pkg.tar.zst"
+sha256 = "ddbd116d1f55dc36cab4ce538367c0557de308eb2017304636b4e15f365825fb"

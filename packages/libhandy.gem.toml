@@ -1,0 +1,11 @@
+[package]
+name = "libhandy"
+version = "1.8.3-3"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "GTK 3 UI elements for mobile devices"
+depends = ["at-spi2-core", "cairo", "fribidi", "gdk-pixbuf2", "glib2", "glibc", "gtk3", "libgcc", "pango"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libhandy-1.8.3-3-x86_64.pkg.tar.zst"
+sha256 = "bfcc82754fe4077b22f7493668120f67fd1ce300f4967087a486e59fc4ed9afa"

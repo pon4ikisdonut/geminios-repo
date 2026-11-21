@@ -1,0 +1,11 @@
+[package]
+name = "adios2"
+version = "2.12.1-8"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "The Adaptable Input/Output System version 2"
+depends = ["blosc2", "bzip2", "libbz2.so", "conduit-llnl", "curl", "libcurl.so", "glibc", "hdf5", "libfabric", "libgcc", "libgfortran", "libgomp", "libpng", "libpng16.so", "libsodium", "libsodium.so", "libstdc++", "mgard", "openmpi", "libmpi.so", "openssl", "libssl.so", "openucx", "libucp.so", "libucs.so", "paraview-catalyst", "pugixml", "python", "sqlite", "libsqlite3.so", "yaml-cpp", "libyaml-cpp.so", "zeromq", "libzmq.so", "zfp", "zlib", "libz.so", "zstd", "libzstd.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/adios2-2.12.1-8-x86_64.pkg.tar.zst"
+sha256 = "93b13e71a2965dae85d5d636f94f0d30c83fa3c25951d7a0c51fb6d544bd1770"

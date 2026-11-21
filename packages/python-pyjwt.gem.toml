@@ -1,0 +1,11 @@
+[package]
+name = "python-pyjwt"
+version = "2.15.1-1"
+license = "MIT"
+arch = "any"
+description = "JSON Web Token implementation in Python"
+depends = ["python", "python-cryptography", "python-typing_extensions"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-pyjwt-2.15.1-1-any.pkg.tar.zst"
+sha256 = "0d5e5c5638c389ca86fe6915a23498a7ec8d5b1b0a1e39fe489f19703b28848d"

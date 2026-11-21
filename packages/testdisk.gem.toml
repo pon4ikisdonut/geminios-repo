@@ -1,0 +1,11 @@
+[package]
+name = "testdisk"
+version = "7.2-5"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "Checks and undeletes partitions + PhotoRec, signature based recovery tool"
+depends = ["libjpeg-turbo", "libntfs-3g", "openssl", "ntfsprogs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/testdisk-7.2-5-x86_64.pkg.tar.zst"
+sha256 = "dd28b908f39cbd1010bc09cf42cbb11083603a96d65e72a2dc8367a3bcb6e6fa"

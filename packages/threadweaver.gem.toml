@@ -1,0 +1,11 @@
+[package]
+name = "threadweaver"
+version = "6.32.0-1"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "High-level multithreading framework"
+depends = ["libgcc", "libstdc++", "glibc", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/threadweaver-6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "b6a44f9ea97d91c42a4253cd1a7be9a988fa5e5cb3d3ceb9a4f2eadd015be9c4"

@@ -1,0 +1,11 @@
+[package]
+name = "python-dateutil"
+version = "2.9.0-8"
+license = "Apache-2.0"
+arch = "any"
+description = "Provides powerful extensions to the standard datetime module"
+depends = ["python-six"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-dateutil-2.9.0-8-any.pkg.tar.zst"
+sha256 = "f865f238538deda62c2ec39ffa50384c7ff30f670032560635891245b082d4b8"

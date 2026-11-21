@@ -1,0 +1,11 @@
+[package]
+name = "dbus-broker-units"
+version = "37-3"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "Linux D-Bus Message Broker - Service units"
+depends = ["dbus", "dbus-broker"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/dbus-broker-units-37-3-x86_64.pkg.tar.zst"
+sha256 = "f3f73e7c8169f54e3e5447d266917ae7454bd984fc0ede0f85e2ca60e21d97df"

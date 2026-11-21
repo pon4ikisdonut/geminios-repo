@@ -1,0 +1,11 @@
+[package]
+name = "eigen"
+version = "5.0.1-2"
+license = "LGPL-2.1-only OR LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Lightweight C++ template library for vector and matrix math, a.k.a. linear algebra"
+depends = ["glibc", "libgcc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/eigen-5.0.1-2-x86_64.pkg.tar.zst"
+sha256 = "d2aa0db929ba7a72cebd2675d74526a31302fc921fe6b846f173d6392e89cfd4"

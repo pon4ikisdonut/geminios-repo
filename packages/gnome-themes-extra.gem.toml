@@ -1,0 +1,11 @@
+[package]
+name = "gnome-themes-extra"
+version = "1:3.28-1"
+license = "LGPL-2.1-or-later"
+arch = "any"
+description = "Extra GNOME themes (legacy HighContrast icon theme and index files for Adwaita)"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gnome-themes-extra-1:3.28-1-any.pkg.tar.zst"
+sha256 = "795215054656c20248217f537d25fe4942c9f65058d6cf1cd6ed5e3d4e6b309e"

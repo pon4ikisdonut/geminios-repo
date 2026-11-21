@@ -1,0 +1,11 @@
+[package]
+name = "libfbclient"
+version = "5.0.4-1"
+license = "Interbase-1.0"
+arch = "x86_64"
+description = "Client library for Firebird"
+depends = ["sh", "glibc", "libgcc", "libtommath"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libfbclient-5.0.4-1-x86_64.pkg.tar.zst"
+sha256 = "9f819cc250ec5c0f220fec28ef66dad4eec703be2c6b0ba307a9fd718025fa67"

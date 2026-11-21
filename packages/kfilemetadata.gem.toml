@@ -1,0 +1,11 @@
+[package]
+name = "kfilemetadata"
+version = "6.32.0-1"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "A library for extracting file metadata"
+depends = ["libgcc", "libstdc++", "glibc", "ebook-tools", "exiv2", "ffmpeg", "karchive", "kcodecs", "kconfig", "kcoreaddons", "ki18n", "poppler-qt6", "qt6-base", "taglib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kfilemetadata-6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "5f4e48f48eefe19cde5507d9fde3c5aac7fb73f0f987b0191dbf2a5d3cf74769"

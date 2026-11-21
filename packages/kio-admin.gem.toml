@@ -1,0 +1,11 @@
+[package]
+name = "kio-admin"
+version = "26.08.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Manage files as administrator using the admin:// KIO protocol"
+depends = ["glibc", "kcoreaddons", "ki18n", "kio", "libatomic", "libstdc++", "polkit-qt6", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kio-admin-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "f0af83463e590c5802072f8e0887790c6fd79ea6b4bbfe2dcbfac18b9351e3e2"

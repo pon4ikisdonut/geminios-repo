@@ -1,0 +1,11 @@
+[package]
+name = "bluez"
+version = "5.88-1"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "Daemons for the bluetooth protocol stack"
+depends = ["systemd-libs", "dbus", "glib2", "alsa-lib", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/bluez-5.88-1-x86_64.pkg.tar.zst"
+sha256 = "fc23a9531664f56768ab0b48e544e09a02304b31133e7fc3cfabb75b684aad6c"

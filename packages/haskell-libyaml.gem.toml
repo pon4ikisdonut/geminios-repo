@@ -1,0 +1,11 @@
+[package]
+name = "haskell-libyaml"
+version = "0.1.4-251"
+license = "BSD"
+arch = "x86_64"
+description = "Low-level, streaming YAML interface."
+depends = ["ghc-libs", "libyaml", "haskell-conduit", "haskell-resourcet"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-libyaml-0.1.4-251-x86_64.pkg.tar.zst"
+sha256 = "7be28d2d43f9a88799a68200622b27b18be50e84b79ab6bb4bf055392dfee586"

@@ -1,0 +1,11 @@
+[package]
+name = "haskell-fast-logger"
+version = "3.2.6-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "A fast logging system"
+depends = ["ghc-libs", "haskell-auto-update", "haskell-easy-file", "haskell-unix-compat", "haskell-unix-time"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-fast-logger-3.2.6-1-x86_64.pkg.tar.zst"
+sha256 = "2f2ab7ae3c0ffd35e990ea5aae5a470fb912723926f28a066199b6cbfd7a5e17"

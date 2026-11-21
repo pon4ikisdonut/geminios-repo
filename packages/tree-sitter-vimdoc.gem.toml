@@ -1,0 +1,11 @@
+[package]
+name = "tree-sitter-vimdoc"
+version = "4.1.0-2"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "Vim help file grammar for tree-sitter"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/tree-sitter-vimdoc-4.1.0-2-x86_64.pkg.tar.zst"
+sha256 = "ef7e3c8cf9c29a373d0411de04842165177c3c91377a6c9bf613675fdf68d231"

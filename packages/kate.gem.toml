@@ -1,0 +1,11 @@
+[package]
+name = "kate"
+version = "26.08.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Advanced text editor"
+depends = ["glibc", "gpgmepp", "karchive", "kbookmarks", "kcolorscheme", "kcompletion", "kconfig", "kconfigwidgets", "kcoreaddons", "kcrash", "kdbusaddons", "kguiaddons", "ki18n", "kiconthemes", "kio", "knewstuff", "kparts", "kservice", "ktexteditor", "kuserfeedback", "kwidgetsaddons", "kwindowsystem", "kxmlgui", "libstdc++", "qt6-base", "sh", "syntax-highlighting"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kate-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "827067e9f1b1efe77825b924d774352d2172cc4f7b44a99d1b99e29911945574"

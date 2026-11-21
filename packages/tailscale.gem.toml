@@ -1,0 +1,11 @@
+[package]
+name = "tailscale"
+version = "1.104.7-1"
+license = "MIT"
+arch = "x86_64"
+description = "A mesh VPN that makes it easy to connect your devices, wherever they are."
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/tailscale-1.104.7-1-x86_64.pkg.tar.zst"
+sha256 = "53a0c9ff42c6ea78ecbb53c17beba4ed1f9c5ea0ff9c6967873eb2b98ac2b585"

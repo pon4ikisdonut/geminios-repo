@@ -1,0 +1,11 @@
+[package]
+name = "gnome-desktop-common"
+version = "1:51.0-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Provides API shared by several apps on the GNOME desktop (common files)"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gnome-desktop-common-1:51.0-1-x86_64.pkg.tar.zst"
+sha256 = "414c07bd65ae19d86094f34e04f7e7b499e645d3938863c524ed77e9b915902b"

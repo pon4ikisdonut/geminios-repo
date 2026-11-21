@@ -1,0 +1,11 @@
+[package]
+name = "kdeconnect"
+version = "26.08.3-2"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Adds communication between KDE and your smartphone"
+depends = ["dbus", "glib2", "glibc", "kconfig", "kcoreaddons", "kcrash", "kdbusaddons", "kdeclarative", "kguiaddons", "ki18n", "kio", "kirigami", "kirigami-addons", "kitemmodels", "kjobwidgets", "knotifications", "kpeople", "kservice", "kstatusnotifieritem", "kwindowsystem", "libei", "libevdev", "libfakekey", "libstdc++", "libx11", "libxkbcommon", "libxtst", "modemmanager-qt", "openssl", "pulseaudio-qt", "qqc2-desktop-style", "qt6-base", "qt6-connectivity", "qt6-declarative", "qt6-multimedia", "solid", "wayland"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kdeconnect-26.08.3-2-x86_64.pkg.tar.zst"
+sha256 = "300199a0f61dca2a67657c7a0e8d63f2d4cb9d2a2de2760c00363a53559bb581"

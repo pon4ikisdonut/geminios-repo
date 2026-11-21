@@ -1,0 +1,11 @@
+[package]
+name = "haskell-ansi-terminal-types"
+version = "1.1-144"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Types and functions used to represent SGR aspects"
+depends = ["ghc-libs", "haskell-colour"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-ansi-terminal-types-1.1-144-x86_64.pkg.tar.zst"
+sha256 = "4f13f031c78980771a342318ae405aa3964073eda20362ea54ff89b7dce8f87e"

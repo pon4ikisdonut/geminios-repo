@@ -1,0 +1,11 @@
+[package]
+name = "traceroute"
+version = "2.1.6-1"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "Tracks the route taken by packets over an IP network"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/traceroute-2.1.6-1-x86_64.pkg.tar.zst"
+sha256 = "71b1d1c032fffa8dd6f21d53279ea19dffafdf85b069b44ce90c9eafec038449"

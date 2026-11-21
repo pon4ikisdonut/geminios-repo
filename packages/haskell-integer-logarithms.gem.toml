@@ -1,0 +1,11 @@
+[package]
+name = "haskell-integer-logarithms"
+version = "1.0.4-286"
+license = "MIT"
+arch = "x86_64"
+description = "Integer logarithms"
+depends = ["ghc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-integer-logarithms-1.0.4-286-x86_64.pkg.tar.zst"
+sha256 = "3431f4a2710476a2046c7a5a64423f26503adb453da788cb54135fb91f2d457d"

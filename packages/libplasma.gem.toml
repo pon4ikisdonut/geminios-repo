@@ -1,0 +1,11 @@
+[package]
+name = "libplasma"
+version = "6.8.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Plasma library and runtime components"
+depends = ["glibc", "plasma-activities", "kcolorscheme", "kconfig", "kcoreaddons", "kglobalaccel", "kguiaddons", "ki18n", "kiconthemes", "kio", "kirigami", "knotifications", "kpackage", "ksvg", "kwidgetsaddons", "kwindowsystem", "libstdc++", "qt6-5compat", "qt6-base", "qt6-declarative", "wayland"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libplasma-6.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "1a764d15df593d0e8b423c271a7f92c72df1ba146e6474d292662f068ea19ee8"

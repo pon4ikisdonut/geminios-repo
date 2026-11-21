@@ -1,0 +1,11 @@
+[package]
+name = "gnome-calculator"
+version = "51.1-1"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "GNOME Scientific calculator"
+depends = ["dconf", "glib2", "glibc", "gmp", "gtk4", "gtksourceview5", "hicolor-icon-theme", "libadwaita", "libgee", "libmpc", "libsoup3", "libxml2", "mpfr"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gnome-calculator-51.1-1-x86_64.pkg.tar.zst"
+sha256 = "eaf65cbdf99479395dfe4d56817c6cb1fae64c261912a6de730dfc8fc2c0f57a"

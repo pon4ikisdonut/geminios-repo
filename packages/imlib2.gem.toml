@@ -1,0 +1,11 @@
+[package]
+name = "imlib2"
+version = "1.13.0-2"
+license = "BSD"
+arch = "x86_64"
+description = "Library that does image file loading and saving as well as rendering, manipulation, arbitrary polygon support"
+depends = ["bzip2", "freetype2", "giflib", "libjpeg-turbo", "libpng", "libtiff", "libxext", "xz"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/imlib2-1.13.0-2-x86_64.pkg.tar.zst"
+sha256 = "fdb4534818ee35398691ae57461e3c5bb178335341f8a450d9378afb9f51d1f1"

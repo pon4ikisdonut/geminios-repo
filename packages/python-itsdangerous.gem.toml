@@ -1,0 +1,11 @@
+[package]
+name = "python-itsdangerous"
+version = "2.2.0-2"
+license = "BSD-3-Clause"
+arch = "any"
+description = "Various helpers to pass trusted data to untrusted environments"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-itsdangerous-2.2.0-2-any.pkg.tar.zst"
+sha256 = "8c3984c2d60cdad7887d7e7b444f1a42a3dc36584699500d261c488c5630f975"

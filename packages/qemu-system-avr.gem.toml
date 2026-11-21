@@ -1,0 +1,11 @@
+[package]
+name = "qemu-system-avr"
+version = "11.1.3-1"
+license = "MIT"
+arch = "x86_64"
+description = "QEMU system emulator for AVR"
+depends = ["capstone", "fuse3", "libgcc", "glibc", "glib2", "libgio-2.0.so", "libglib-2.0.so", "libgmodule-2.0.so", "gnutls", "keyutils", "libaio", "libelf", "libbpf", "libbpf.so", "libjpeg-turbo", "libjpeg.so", "libpng", "libsasl", "libseccomp", "libseccomp.so", "libslirp", "libslirp.so", "liburing", "liburing.so", "libxdp", "libxdp.so", "lzo", "ndctl", "numactl", "libnuma.so", "pam", "libpam.so", "pixman", "libpixman-1.so", "qemu-common", "rdma-core", "snappy", "vde2", "zlib", "zstd", "libzstd.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qemu-system-avr-11.1.3-1-x86_64.pkg.tar.zst"
+sha256 = "718752401ef668878b0a43c8a2f4c868da769127b68b4ef85671501aaa5579bc"

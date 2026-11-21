@@ -1,0 +1,11 @@
+[package]
+name = "qt6-networkauth"
+version = "6.12.0-1"
+license = "Qt-GPL-exception-1.0"
+arch = "x86_64"
+description = "Network authentication module"
+depends = ["glibc", "libstdc++", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qt6-networkauth-6.12.0-1-x86_64.pkg.tar.zst"
+sha256 = "cdd289169b2a687d7e91ba696b5bf9238671aabf964a1c1c08a80b8d2db97c38"

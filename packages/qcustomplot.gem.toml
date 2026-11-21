@@ -1,0 +1,11 @@
+[package]
+name = "qcustomplot"
+version = "2.1.1-2"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "Qt C++ widget for plotting and data visualization"
+depends = ["glibc", "libgcc", "libstdc++", "qt5-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qcustomplot-2.1.1-2-x86_64.pkg.tar.zst"
+sha256 = "54d7a453e4226c7d9976dc96e46a18a06fb33196b3e1847624b6844fe3bd46bf"

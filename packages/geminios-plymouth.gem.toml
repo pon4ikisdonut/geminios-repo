@@ -1,13 +1,13 @@
 [package]
 name = "geminios-plymouth"
-version = "1.0.0"
+version = "1.0.1"
 license = "MIT"
 arch = "x86_64"
 description = "GeminiOS OLED Dark Plymouth boot splash (GeminiOS, powered by Linux / With Love, With Gemini)"
 depends = []
 
 [source]
-url = "https://github.com/pon4ikisdonut/geminios-repo/releases/download/v1.0.0/geminios-plymouth-1.0.0.tar.gz"
+url = "https://github.com/pon4ikisdonut/geminios-repo/releases/download/v1.0.1/geminios-plymouth-1.0.1.tar.gz"
 sha256 = "b2158e39d2b8a4bfbdd26e212324bcbae7e34364d52eefa61c4f6ba04c193f53"
 
 [hooks]

@@ -1,0 +1,11 @@
+[package]
+name = "jre8-openjdk"
+version = "8.514.u01-1"
+license = "LicenseRef-Java"
+arch = "x86_64"
+description = "OpenJDK Java 8 full runtime environment"
+depends = ["jre8-openjdk-headless", "giflib", "hicolor-icon-theme", "xdg-utils"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/jre8-openjdk-8.514.u01-1-x86_64.pkg.tar.zst"
+sha256 = "327ccd0e46d0ae5feb0ad6a9cd82148a481f855488bae027fd49492b9ac5e29a"

@@ -1,0 +1,11 @@
+[package]
+name = "qt5-xmlpatterns"
+version = "5.15.19-1"
+license = "custom"
+arch = "x86_64"
+description = "Support for XPath, XQuery, XSLT and XML schema validation"
+depends = ["qt5-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qt5-xmlpatterns-5.15.19-1-x86_64.pkg.tar.zst"
+sha256 = "a65ff6bece194236f53824fc910429fdefe6a9441dcb20abe7db5ec42e58e580"

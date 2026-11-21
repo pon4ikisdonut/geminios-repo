@@ -1,0 +1,11 @@
+[package]
+name = "libxfixes"
+version = "6.0.2-1"
+license = "HPND-sell-variant"
+arch = "x86_64"
+description = "X11 miscellaneous 'fixes' extension library"
+depends = ["libx11", "xorgproto", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libxfixes-6.0.2-1-x86_64.pkg.tar.zst"
+sha256 = "d58ab2dbf326e36cf84792fe0dc12c34239ea04ac34159006a566103203db272"

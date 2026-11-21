@@ -1,0 +1,11 @@
+[package]
+name = "openpgl"
+version = "0.7.1-1"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "Intel Open Path Guiding Library"
+depends = ["onetbb"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/openpgl-0.7.1-1-x86_64.pkg.tar.zst"
+sha256 = "8456a9f67cd70be7e224997f8f7202f8bf61280f06839c77466dcecc0ce623f7"

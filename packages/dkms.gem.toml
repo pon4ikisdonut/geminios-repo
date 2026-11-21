@@ -1,0 +1,11 @@
+[package]
+name = "dkms"
+version = "3.4.5-1"
+license = "GPL-2.0-or-later"
+arch = "any"
+description = "Dynamic Kernel Modules System"
+depends = ["bash", "coreutils", "gawk", "gcc", "kmod", "make", "patch", "sed"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/dkms-3.4.5-1-any.pkg.tar.zst"
+sha256 = "ae3107ff24d9bf6e006224bc746ab6f32a63fa1d09f2980be26882bdf78b77db"

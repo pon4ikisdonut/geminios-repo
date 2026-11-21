@@ -1,0 +1,11 @@
+[package]
+name = "polkit-kde-agent"
+version = "6.8.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Daemon providing a polkit authentication UI for KDE"
+depends = ["glibc", "kcoreaddons", "kcrash", "kdbusaddons", "ki18n", "kirigami", "knotifications", "kwindowsystem", "libstdc++", "polkit-qt6", "qt6-base", "qt6-declarative"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/polkit-kde-agent-6.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "83c086113004de1571b64a9f347bca171ae02e8c4fa70868897b716e9af0e462"

@@ -1,0 +1,11 @@
+[package]
+name = "haskell-crypton-x509"
+version = "1.7.7-142"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "X509 reader and writer"
+depends = ["ghc-libs", "haskell-asn1-encoding", "haskell-asn1-parse", "haskell-asn1-types", "haskell-crypton", "haskell-hourglass", "haskell-memory", "haskell-pem"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-crypton-x509-1.7.7-142-x86_64.pkg.tar.zst"
+sha256 = "56f3f6a7aab084dffe968151150e959baa6e55f53d09d17908310b633fa5f436"

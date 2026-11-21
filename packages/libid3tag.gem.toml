@@ -1,0 +1,11 @@
+[package]
+name = "libid3tag"
+version = "0.16.4-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "ID3 tag manipulation library"
+depends = ["glibc", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libid3tag-0.16.4-1-x86_64.pkg.tar.zst"
+sha256 = "ef4e95b6a9765664401e5bae3f5ee8c14a3bb5f9e36126b8c7fb94385f62c1cc"

@@ -1,0 +1,11 @@
+[package]
+name = "libvpx"
+version = "1.17.0-1"
+license = "custom:BSD"
+arch = "x86_64"
+description = "VP8 and VP9 codec"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libvpx-1.17.0-1-x86_64.pkg.tar.zst"
+sha256 = "023fa4af099e82ba9b2c3cb0c92bcac1b65975f3648e56f2131ede121d340115"

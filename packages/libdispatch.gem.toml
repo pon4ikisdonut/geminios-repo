@@ -1,0 +1,11 @@
+[package]
+name = "libdispatch"
+version = "6.2.2-1"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "Comprehensive support for concurrent code execution on multicore hardware"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libdispatch-6.2.2-1-x86_64.pkg.tar.zst"
+sha256 = "d1a43670ac1ae4e8044f0619adbc8582f860637eec797889f7cc454a3b002bfc"

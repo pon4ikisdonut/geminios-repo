@@ -1,0 +1,11 @@
+[package]
+name = "libblake3"
+version = "1.8.7-1"
+license = "CC0-1.0 OR Apache-2.0 OR Apache-2.0 WITH LLVM-exception"
+arch = "x86_64"
+description = "The official C implementation of BLAKE3"
+depends = ["glibc", "libgcc", "onetbb"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libblake3-1.8.7-1-x86_64.pkg.tar.zst"
+sha256 = "1092d411d22cdd2f2c6b611f73086e29732cb441abbe1a0235ebff422ab37a3b"

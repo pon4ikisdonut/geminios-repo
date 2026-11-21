@@ -1,0 +1,11 @@
+[package]
+name = "python-tabulate"
+version = "0.10.0-1"
+license = "MIT"
+arch = "any"
+description = "Pretty-print tabular data in Python, a library and a command-line utility."
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-tabulate-0.10.0-1-any.pkg.tar.zst"
+sha256 = "b8b071d5b00ab29af701675df727f88f8d066178fa823e59b4ebdfaa3ecc89c2"

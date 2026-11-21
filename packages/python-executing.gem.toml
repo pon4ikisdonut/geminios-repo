@@ -1,0 +1,11 @@
+[package]
+name = "python-executing"
+version = "2.2.1-3"
+license = "MIT"
+arch = "any"
+description = "Get the currently executing AST node of a frame, and other information"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-executing-2.2.1-3-any.pkg.tar.zst"
+sha256 = "f879909b5d3b9fab32d9e60ea18dba5229fc936e4773395f0c92baf7ef007f62"

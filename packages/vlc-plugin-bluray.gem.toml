@@ -1,0 +1,11 @@
+[package]
+name = "vlc-plugin-bluray"
+version = "3.0.24-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Free and open source cross-platform multimedia player and framework - Blu-ray plugin"
+depends = ["glibc", "libbluray", "libvlc", "libvlccore.so", "vlc-plugins-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vlc-plugin-bluray-3.0.24-2-x86_64.pkg.tar.zst"
+sha256 = "10e1cb3fde5ccd45ea589814eaa73c40bd3565f1e32fbf5c3873748894243410"

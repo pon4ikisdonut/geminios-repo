@@ -1,0 +1,11 @@
+[package]
+name = "glib-networking"
+version = "1:2.90.1-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Network extensions for GLib"
+depends = ["glib2", "glibc", "gnutls", "gsettings-system-schemas", "libproxy"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/glib-networking-1:2.90.1-1-x86_64.pkg.tar.zst"
+sha256 = "6b9452217bb4bdff19929b3fc9deb7aea3383cfe74cddd6d0a77becc2803caab"

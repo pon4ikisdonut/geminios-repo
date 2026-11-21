@@ -1,0 +1,11 @@
+[package]
+name = "libteam"
+version = "1.32-3"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Library for controlling team network device"
+depends = ["bash", "glibc", "jansson", "libdaemon", "libdbus", "libnl", "zeromq"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libteam-1.32-3-x86_64.pkg.tar.zst"
+sha256 = "179c1120809f0a9ff4515ff75a700c1b57f57ac7327f6dab0570ce5504789018"

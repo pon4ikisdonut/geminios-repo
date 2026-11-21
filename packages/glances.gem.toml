@@ -1,0 +1,11 @@
+[package]
+name = "glances"
+version = "4.5.9-1"
+license = "LGPL-3.0-or-later"
+arch = "any"
+description = "CLI curses-based monitoring tool"
+depends = ["python", "python-psutil", "python-defusedxml", "python-orjson", "python-pydantic", "python-packaging", "python-jinja", "python-shtab"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/glances-4.5.9-1-any.pkg.tar.zst"
+sha256 = "79ab84c680d2b1a4722ea09ba262ff06e0f401170789011eaf6758ee902cea6b"

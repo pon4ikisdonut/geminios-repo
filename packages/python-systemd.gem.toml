@@ -1,0 +1,11 @@
+[package]
+name = "python-systemd"
+version = "236-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Python bindings for systemd"
+depends = ["glibc", "libgcc", "python", "systemd", "systemd-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-systemd-236-1-x86_64.pkg.tar.zst"
+sha256 = "123ca9dc3aa3d499ab31a14e9890522cb58d5f964408879b1645ccf08a529209"

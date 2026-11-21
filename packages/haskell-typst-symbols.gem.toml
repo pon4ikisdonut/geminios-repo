@@ -1,0 +1,11 @@
+[package]
+name = "haskell-typst-symbols"
+version = "0.3-2"
+license = "MIT"
+arch = "x86_64"
+description = "Symbol and emoji lookup for typst language"
+depends = ["ghc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-typst-symbols-0.3-2-x86_64.pkg.tar.zst"
+sha256 = "9a211bfa1bd3a1fc454559affe7902b0bfe7bc1d0f450360a7ebf5bcf9d831d4"

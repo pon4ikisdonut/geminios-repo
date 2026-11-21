@@ -1,0 +1,11 @@
+[package]
+name = "accountsservice"
+version = "26.27.3-1"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "D-Bus interface for user account query and manipulation"
+depends = ["glib2", "glibc", "json-c", "libgcc", "libxcrypt", "polkit", "shadow", "systemd", "libcrypt.so", "libglib-2.0.so", "libgobject-2.0.so", "libgio-2.0.so", "libsystemd.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/accountsservice-26.27.3-1-x86_64.pkg.tar.zst"
+sha256 = "d3af0478419f59cf771f516cd6265e1e9f7a4e8d3e9cede1d0e6f7173835dab1"

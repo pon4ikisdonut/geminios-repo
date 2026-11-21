@@ -1,0 +1,11 @@
+[package]
+name = "libgravatar"
+version = "26.08.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "KDE PIM library providing Gravatar support"
+depends = ["glibc", "kconfig", "kconfigwidgets", "ki18n", "kwidgetsaddons", "libstdc++", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libgravatar-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "480f9a61e0ce0f4cad9f7488ca568f4dfc2f04f613e9a7edaed6a67c81597024"

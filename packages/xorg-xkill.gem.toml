@@ -1,0 +1,11 @@
+[package]
+name = "xorg-xkill"
+version = "1.0.7-1"
+license = "MIT-open-group"
+arch = "x86_64"
+description = "Kill a client by its X resource"
+depends = ["libx11", "libxmu", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xorg-xkill-1.0.7-1-x86_64.pkg.tar.zst"
+sha256 = "96778fe122ed0448a5e0d2ee08ceb6e17ed182617b14957baca08c2422468336"

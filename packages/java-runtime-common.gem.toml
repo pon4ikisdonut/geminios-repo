@@ -1,0 +1,11 @@
+[package]
+name = "java-runtime-common"
+version = "3-6"
+license = "GPL"
+arch = "any"
+description = "Common files for Java Runtime Environments"
+depends = ["bash", "findutils", "coreutils"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/java-runtime-common-3-6-any.pkg.tar.zst"
+sha256 = "84f5aa54da3047fa4a76189fa2969f2a5911843757d4976edc4b6af1c19bd580"

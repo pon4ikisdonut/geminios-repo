@@ -1,0 +1,11 @@
+[package]
+name = "libspelling"
+version = "0.4.11-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Spellcheck library for GTK 4"
+depends = ["enchant", "glib2", "glibc", "gtk4", "gtksourceview5", "icu", "libgcc", "pango"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libspelling-0.4.11-1-x86_64.pkg.tar.zst"
+sha256 = "06ad8545e6ffd0212c998dbe6001b357bc9f891b6df1404ae4172a81f2a6f8cb"

@@ -1,0 +1,11 @@
+[package]
+name = "babl"
+version = "0.1.128-1"
+license = "LGPL-3.0-or-later"
+arch = "x86_64"
+description = "Dynamic, any to any, pixel format conversion library"
+depends = ["glibc", "lcms2"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/babl-0.1.128-1-x86_64.pkg.tar.zst"
+sha256 = "9c28a272bf9703f6fa76963e167ef6f0d7892ffa868f06262657b208465d8fde"

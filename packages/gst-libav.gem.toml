@@ -1,0 +1,11 @@
+[package]
+name = "gst-libav"
+version = "1.28.9-3"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Multimedia graph framework - libav plugin"
+depends = ["gst-plugins-base-libs", "gstreamer", "ffmpeg", "glib2", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gst-libav-1.28.9-3-x86_64.pkg.tar.zst"
+sha256 = "77c151517348044da4c3c784e1454ec1ecc33400c22d78dc32841f575dc6237a"

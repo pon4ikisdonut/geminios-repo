@@ -1,0 +1,11 @@
+[package]
+name = "ffmpegthumbnailer"
+version = "2.3.1-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Lightweight video thumbnailer that can be used by file managers"
+depends = ["ffmpeg", "libjpeg-turbo", "libpng"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ffmpegthumbnailer-2.3.1-1-x86_64.pkg.tar.zst"
+sha256 = "a13d2db81e48e288ac8fc46677cb5fb49e9f08e0dbef064493e33869b79a1e09"

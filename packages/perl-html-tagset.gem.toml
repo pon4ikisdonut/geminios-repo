@@ -1,0 +1,11 @@
+[package]
+name = "perl-html-tagset"
+version = "3.24-4"
+license = "PerlArtistic"
+arch = "any"
+description = "Data tables useful in parsing HTML"
+depends = ["perl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/perl-html-tagset-3.24-4-any.pkg.tar.zst"
+sha256 = "9aa2a489f95ecc6309dff4aa490c151bc4565f912f3eec130838dcc57ea6b9ca"

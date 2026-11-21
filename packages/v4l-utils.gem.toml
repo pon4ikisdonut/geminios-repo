@@ -1,0 +1,11 @@
+[package]
+name = "v4l-utils"
+version = "1.32.0-2"
+license = "LGPL"
+arch = "x86_64"
+description = "Userspace tools and conversion library for Video 4 Linux"
+depends = ["hicolor-icon-theme", "libgcc", "libbpf", "libjpeg-turbo", "systemd-libs", "json-c"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/v4l-utils-1.32.0-2-x86_64.pkg.tar.zst"
+sha256 = "0a316d96bb8c73f0f047458d2d652971137d27de826e10f386ea933860ae885d"

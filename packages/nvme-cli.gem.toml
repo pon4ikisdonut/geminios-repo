@@ -1,0 +1,11 @@
+[package]
+name = "nvme-cli"
+version = "3.2-2"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "NVM-Express user space tooling for Linux"
+depends = ["libgcc", "glibc", "json-c", "libsystemd", "util-linux"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/nvme-cli-3.2-2-x86_64.pkg.tar.zst"
+sha256 = "2263d8c483d774ede616f5969b2364b72ea70dc3d5c15976626c15ad5841efc9"

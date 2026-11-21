@@ -1,0 +1,11 @@
+[package]
+name = "skanlite"
+version = "26.08.3-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Image Scanning Application"
+depends = ["glibc", "kconfig", "kconfigwidgets", "kcoreaddons", "kcrash", "ki18n", "kio", "kxmlgui", "kwidgetsaddons", "libksane", "libstdc++", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/skanlite-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "61a9dcac4e13b94d460fac22c118adc09e8c3b73b58570042febf388f51ea559"

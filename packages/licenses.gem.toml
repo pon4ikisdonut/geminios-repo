@@ -1,0 +1,11 @@
+[package]
+name = "licenses"
+version = "20240728-1"
+license = "LicenseRef-None"
+arch = "any"
+description = "A set of common license files"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/licenses-20240728-1-any.pkg.tar.zst"
+sha256 = "47e9f4ad914da21f6326cc4eb84a788043523191f80d8e661b936b25d7fa1879"

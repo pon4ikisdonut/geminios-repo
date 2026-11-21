@@ -1,0 +1,11 @@
+[package]
+name = "pciutils"
+version = "3.15.0-1"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "PCI bus configuration space access library and tools"
+depends = ["glibc", "hwdata", "kmod", "systemd-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/pciutils-3.15.0-1-x86_64.pkg.tar.zst"
+sha256 = "994429cef5db515b020bc5125faab04a441677837ebc16f03da53aecca213915"

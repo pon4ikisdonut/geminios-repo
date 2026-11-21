@@ -1,0 +1,11 @@
+[package]
+name = "haskell-attoparsec-aeson"
+version = "2.2.2.0-43"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Parsing of aeson's Value with attoparsec"
+depends = ["ghc-libs", "haskell-aeson", "haskell-attoparsec", "haskell-character-ps", "haskell-integer-conversion", "haskell-primitive", "haskell-scientific", "haskell-vector"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-attoparsec-aeson-2.2.2.0-43-x86_64.pkg.tar.zst"
+sha256 = "18d8707a79c2e701c32d516f1a0eb6f077b6a14cf04024c1e6f0bd54cc57cf74"

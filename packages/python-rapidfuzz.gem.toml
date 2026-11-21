@@ -1,0 +1,11 @@
+[package]
+name = "python-rapidfuzz"
+version = "3.14.6.p1-1"
+license = "MIT"
+arch = "x86_64"
+description = "Rapid fuzzy string matching in Python using various string metrics"
+depends = ["glibc", "libgcc", "libstdc++", "python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-rapidfuzz-3.14.6.p1-1-x86_64.pkg.tar.zst"
+sha256 = "47bafaa2880ea72c33c152346fb2fd2f927dbe1ac86596432beed5b008678b2d"

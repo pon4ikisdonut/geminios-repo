@@ -1,0 +1,11 @@
+[package]
+name = "libassuan"
+version = "3.0.0-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "IPC library used by some GnuPG related software"
+depends = ["glibc", "libgpg-error", "sh"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/libassuan-3.0.0-1-x86_64.pkg.tar.zst"
+sha256 = "1843d675b324c9d549f3413dcbe653ec86876ac2898fc94423926ed30eab25a1"

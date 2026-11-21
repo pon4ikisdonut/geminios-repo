@@ -1,0 +1,11 @@
+[package]
+name = "ksshaskpass"
+version = "6.8.3-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "ssh-add helper that uses kwallet and kpassworddialog"
+depends = ["glibc", "kconfig", "kcoreaddons", "ki18n", "kwidgetsaddons", "libstdc++", "qt6-base", "qtkeychain-qt6"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ksshaskpass-6.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "3bd63182c3d6de2a069289b0425d6f4c564dc6ca9db79a5fbc22e0077d34c4dc"

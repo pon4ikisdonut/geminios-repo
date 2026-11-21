@@ -1,0 +1,11 @@
+[package]
+name = "python-binaryornot"
+version = "0.6.0-1"
+license = "BSD-3-Clause"
+arch = "any"
+description = "Ultra-lightweight pure Python package to check if a file is binary or text"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-binaryornot-0.6.0-1-any.pkg.tar.zst"
+sha256 = "e90ad78fa4452bb54781ce4c11cac8dc59e2e1236c96febeb2b5250f9afb00ef"

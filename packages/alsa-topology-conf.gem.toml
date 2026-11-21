@@ -1,0 +1,11 @@
+[package]
+name = "alsa-topology-conf"
+version = "1.2.5.1-4"
+license = "BSD"
+arch = "any"
+description = "ALSA topology configuration files"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/alsa-topology-conf-1.2.5.1-4-any.pkg.tar.zst"
+sha256 = "a76b237e24973099b3cee9d3c89f4f8b46d9133411f0992bd46a5131e4427a0c"

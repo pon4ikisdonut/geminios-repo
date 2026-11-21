@@ -1,0 +1,11 @@
+[package]
+name = "libdiscid"
+version = "0.7.0-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "A Library for creating MusicBrainz DiscIDs"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libdiscid-0.7.0-1-x86_64.pkg.tar.zst"
+sha256 = "36526e00c1501d9bab95bf353df5bc2221fec5d0f5d882c09724f6a2de64c17e"

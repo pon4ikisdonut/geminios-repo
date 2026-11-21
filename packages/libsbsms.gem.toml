@@ -1,0 +1,11 @@
+[package]
+name = "libsbsms"
+version = "2.3.0-6"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "A library for high quality time and pitch scale modification"
+depends = ["glibc", "libgcc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libsbsms-2.3.0-6-x86_64.pkg.tar.zst"
+sha256 = "8967d2bd3ce56587b3fb8d67a55c8d109fa0f671e0cb6647a260fd41e85f213f"

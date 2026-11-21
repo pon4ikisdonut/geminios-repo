@@ -1,0 +1,11 @@
+[package]
+name = "ruby-csv"
+version = "3.3.7-1"
+license = "RUBY"
+arch = "any"
+description = "CSV Reading and Writing"
+depends = ["ruby"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ruby-csv-3.3.7-1-any.pkg.tar.zst"
+sha256 = "33f5e260fa9cf8a5f0cd29b76f3222c8672d4e38fac42bec3a882bb50a60fa45"

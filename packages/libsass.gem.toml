@@ -1,0 +1,11 @@
+[package]
+name = "libsass"
+version = "3.6.6-2"
+license = "MIT"
+arch = "x86_64"
+description = "C implementation of Sass CSS preprocessor (library)"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libsass-3.6.6-2-x86_64.pkg.tar.zst"
+sha256 = "bf54ece7ffa74e4a18e1bd2f9e7c492d7091f1038c7a0dcf3722b8723efb7787"

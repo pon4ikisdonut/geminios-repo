@@ -1,0 +1,11 @@
+[package]
+name = "llvm21-libs"
+version = "21.1.8-1"
+license = "Apache-2.0 WITH LLVM-exception"
+arch = "x86_64"
+description = "LLVM 21 runtime libraries"
+depends = ["gcc-libs", "zlib", "zstd", "libffi", "libedit", "libxml2"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/llvm21-libs-21.1.8-1-x86_64.pkg.tar.zst"
+sha256 = "aa14ec64730e98ad762959197fdcebe56dcb90d74aadf30169e9003f2bc6ec17"

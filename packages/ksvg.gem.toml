@@ -1,0 +1,11 @@
+[package]
+name = "ksvg"
+version = "6.32.0-1"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "Components for handling SVGs"
+depends = ["glibc", "karchive", "kcolorscheme", "kconfig", "kcoreaddons", "kguiaddons", "libstdc++", "qt6-base", "qt6-svg"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ksvg-6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "95ecc2e19f81694e8ce246c7819d289a8da69bf05692258343b86f726c04942f"

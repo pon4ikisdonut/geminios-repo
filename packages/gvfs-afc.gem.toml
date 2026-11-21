@@ -1,0 +1,11 @@
+[package]
+name = "gvfs-afc"
+version = "1.62.0-3"
+license = "LGPL-2.0-only"
+arch = "x86_64"
+description = "Virtual filesystem implementation for GIO - AFC backend (Apple mobile devices)"
+depends = ["gvfs", "glib2", "glibc", "libimobiledevice", "libplist", "usbmuxd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gvfs-afc-1.62.0-3-x86_64.pkg.tar.zst"
+sha256 = "ef0fbd4150ff1db93ee2c3f4821d9dad4478da56f9818cc774fcededd2eaefdc"

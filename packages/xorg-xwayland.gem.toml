@@ -1,0 +1,11 @@
+[package]
+name = "xorg-xwayland"
+version = "24.1.15-1"
+license = "X11-distribute-modifications-variant"
+arch = "x86_64"
+description = "run X clients under wayland"
+depends = ["nettle", "libepoxy", "libxfont2", "pixman", "xorg-server-common", "libxcvt", "mesa", "libglvnd", "libxau", "wayland", "libdrm", "libtirpc", "libei", "libxshmfence", "libdecor", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xorg-xwayland-24.1.15-1-x86_64.pkg.tar.zst"
+sha256 = "0a8be13f25f64f22ed110f4890e907cfceb34009aeab5b0fd316b6a92ab15a7f"

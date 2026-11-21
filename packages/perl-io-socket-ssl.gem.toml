@@ -1,0 +1,11 @@
+[package]
+name = "perl-io-socket-ssl"
+version = "2.099-1"
+license = "Artistic-1.0-Perl"
+arch = "any"
+description = "Nearly transparent SSL encapsulation for IO::Socket::INET"
+depends = ["perl-net-ssleay", "perl", "perl-uri"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/perl-io-socket-ssl-2.099-1-any.pkg.tar.zst"
+sha256 = "95fe1baff122b9f82004e3ec27f25b87d1e6979bc02e1c02eb920914906bdd96"

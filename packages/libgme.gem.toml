@@ -1,0 +1,11 @@
+[package]
+name = "libgme"
+version = "0.6.5-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Video game music file emulation/playback library"
+depends = ["glibc", "libstdc++", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libgme-0.6.5-1-x86_64.pkg.tar.zst"
+sha256 = "bab9e96118eb4df415897823d243917afef708a9d2724d2f4319ed96f70960fc"

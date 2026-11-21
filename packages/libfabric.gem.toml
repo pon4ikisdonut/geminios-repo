@@ -1,0 +1,11 @@
+[package]
+name = "libfabric"
+version = "2.7.0-1"
+license = "BSD-2-Clause OR GPL-2.0-or-later"
+arch = "x86_64"
+description = "User-space API for OpenFabrics Interfaces (OFI)"
+depends = ["glibc", "numactl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libfabric-2.7.0-1-x86_64.pkg.tar.zst"
+sha256 = "748fb926d2512b1d3510986cf8d58dfa8030490825239d992acca55948b39b9f"

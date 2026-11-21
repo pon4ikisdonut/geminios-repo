@@ -1,0 +1,11 @@
+[package]
+name = "ruby-mutex_m"
+version = "0.3.0-2"
+license = "RUBY"
+arch = "any"
+description = "Mixin to extend objects to be handled like a Mutex"
+depends = ["ruby"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ruby-mutex_m-0.3.0-2-any.pkg.tar.zst"
+sha256 = "1f8ab772564ea0327b6c3177d95ff22eeeb0092af7d5e6846c3ae62906d8f64b"

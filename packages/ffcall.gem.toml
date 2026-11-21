@@ -1,0 +1,11 @@
+[package]
+name = "ffcall"
+version = "2.5-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "C library for implementing foreign function calls in embedded interpreters"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ffcall-2.5-1-x86_64.pkg.tar.zst"
+sha256 = "ec0bc7b0424f0bfb477005f02b33db64011e33dc82195853746189c10ff74c61"

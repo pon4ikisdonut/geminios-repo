@@ -1,0 +1,11 @@
+[package]
+name = "xorg-server-common"
+version = "21.1.26-1"
+license = "X11-distribute-modifications-variant"
+arch = "x86_64"
+description = "Xorg server common files"
+depends = ["xkeyboard-config", "xorg-xkbcomp", "xorg-setxkbmap"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xorg-server-common-21.1.26-1-x86_64.pkg.tar.zst"
+sha256 = "e6190e8f67709bfb1aca5a21440c9bdce8e8fc887489c0933298b202a863cfe4"

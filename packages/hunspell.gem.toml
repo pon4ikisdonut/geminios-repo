@@ -1,0 +1,11 @@
+[package]
+name = "hunspell"
+version = "1.7.6-1"
+license = "LGPL-2.1-or-later OR GPL-2.0-or-later OR MPL-1.1"
+arch = "x86_64"
+description = "Spell checker and morphological analyzer library and program"
+depends = ["readline", "ncurses", "glibc", "libstdc++", "libgcc", "sh"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/hunspell-1.7.6-1-x86_64.pkg.tar.zst"
+sha256 = "11252378374d9fb8a83b716c09f65392d306d1ea6cc3444cb131746100acd1f1"

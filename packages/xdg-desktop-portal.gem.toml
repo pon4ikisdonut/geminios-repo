@@ -1,0 +1,11 @@
+[package]
+name = "xdg-desktop-portal"
+version = "1.22.1-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Desktop integration portals for sandboxed apps"
+depends = ["fuse3", "gdk-pixbuf2", "glib2", "glibc", "gst-plugins-base-libs", "gstreamer", "json-glib", "libgcc", "libgudev", "libpipewire", "pipewire", "systemd", "systemd-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xdg-desktop-portal-1.22.1-2-x86_64.pkg.tar.zst"
+sha256 = "7df21ee565cd6f5b42dc374b77cd8a19ab31fb4bc5f76481f06713b5bd40d889"

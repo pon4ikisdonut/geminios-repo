@@ -1,0 +1,11 @@
+[package]
+name = "python-certifi"
+version = "2026.10.23-1"
+license = "MPL-2.0"
+arch = "any"
+description = "Python package for providing Mozilla's CA Bundle (using system CA store)"
+depends = ["ca-certificates", "python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-certifi-2026.10.23-1-any.pkg.tar.zst"
+sha256 = "b60a590b11254f1445d64d8b6fc54d47ff20fcacc7ad3001f686b5173ff71a18"

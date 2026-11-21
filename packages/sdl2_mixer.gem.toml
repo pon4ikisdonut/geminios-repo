@@ -1,0 +1,11 @@
+[package]
+name = "sdl2_mixer"
+version = "2.8.2-1"
+license = "MIT"
+arch = "x86_64"
+description = "A simple multi-channel audio mixer (Version 2)"
+depends = ["sdl2", "libvorbis", "libmodplug", "mpg123", "flac", "opusfile", "libxmp"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/sdl2_mixer-2.8.2-1-x86_64.pkg.tar.zst"
+sha256 = "34689bde3b71781eab93a415f5df784a2f42fa40db3ad8fe06a29a3d370785b0"

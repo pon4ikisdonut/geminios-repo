@@ -1,0 +1,11 @@
+[package]
+name = "ruby-rexml"
+version = "3.4.4-1"
+license = "BSD-2"
+arch = "any"
+description = "An XML toolkit for Ruby"
+depends = ["ruby"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ruby-rexml-3.4.4-1-any.pkg.tar.zst"
+sha256 = "0a284011a3dafba55f0c99adcfb84201f1e56513538526996afaaeaf09e193dc"

@@ -1,0 +1,11 @@
+[package]
+name = "loupe"
+version = "51.2-1"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "A simple image viewer for GNOME"
+depends = ["bubblewrap", "cairo", "dconf", "fontconfig", "glib2", "glibc", "glycin", "graphene", "gtk4", "hicolor-icon-theme", "lcms2", "libadwaita", "libgcc", "libgweather-4", "libseccomp"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/loupe-51.2-1-x86_64.pkg.tar.zst"
+sha256 = "a5dc7f315e3449ccde4daf396362d70a4fe859e2ae153d4938ac8dade058e512"

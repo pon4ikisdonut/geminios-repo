@@ -1,0 +1,11 @@
+[package]
+name = "pnpm"
+version = "12.22.0-1"
+license = "MIT"
+arch = "x86_64"
+description = "Fast, disk space efficient package manager"
+depends = ["sh", "glibc", "libgcc", "sqlite", "zstd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/pnpm-12.22.0-1-x86_64.pkg.tar.zst"
+sha256 = "0c883ebaf66171b16cc3e3b7a3081ec2809fb48676d9f7099314f1ea89c111b0"

@@ -1,0 +1,11 @@
+[package]
+name = "python-resolvelib"
+version = "1.2.1-2"
+license = "ISC"
+arch = "any"
+description = "Resolve abstract dependencies into concrete ones"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-resolvelib-1.2.1-2-any.pkg.tar.zst"
+sha256 = "eb8844b88efcac59b3b2ea8249fd50e1cf4cac5dd4484d293f526cff47b6a263"

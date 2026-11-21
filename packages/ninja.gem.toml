@@ -1,0 +1,11 @@
+[package]
+name = "ninja"
+version = "1.13.2-3"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "Small build system with a focus on speed"
+depends = ["glibc", "libgcc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ninja-1.13.2-3-x86_64.pkg.tar.zst"
+sha256 = "19e12c1a169d27e427c3fa678ed3573825ac2a1043c6d47dd96e76ec3d34236c"

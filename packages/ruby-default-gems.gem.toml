@@ -1,0 +1,11 @@
+[package]
+name = "ruby-default-gems"
+version = "3.4.12-2"
+license = "BSD-2-Clause"
+arch = "x86_64"
+description = "Default gems which are part of Ruby StdLib"
+depends = ["ruby-bundler", "ruby-erb", "ruby-irb", "ruby-rdoc", "ruby-rubygems"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ruby-default-gems-3.4.12-2-x86_64.pkg.tar.zst"
+sha256 = "127d06dae58b430e30c2ab7326245b2a69f0bd5108d77096a16841f0e835a688"

@@ -1,0 +1,11 @@
+[package]
+name = "haskell-skylighting-format-typst"
+version = "0.1-44"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Typst formatter for skylighting syntax highlighting library"
+depends = ["ghc-libs", "haskell-skylighting-core"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-skylighting-format-typst-0.1-44-x86_64.pkg.tar.zst"
+sha256 = "0a812f9d5670a3bce5f0e054700725a4e1ce6a49dc57f553fadeca1cada3e20b"

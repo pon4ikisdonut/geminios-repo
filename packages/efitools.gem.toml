@@ -1,0 +1,11 @@
+[package]
+name = "efitools"
+version = "1.9.2-8"
+license = "LGPL-2.1-only"
+arch = "x86_64"
+description = "Tools for manipulating UEFI secure boot platforms"
+depends = ["bash", "coreutils", "glibc", "mtools", "openssl", "parted", "util-linux"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/efitools-1.9.2-8-x86_64.pkg.tar.zst"
+sha256 = "88fe76965d43e069f0c4d9e88e4cd69f533c9b8fe637d2739a20462a1b38fb27"

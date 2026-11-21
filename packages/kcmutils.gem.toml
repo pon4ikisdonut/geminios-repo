@@ -1,0 +1,11 @@
+[package]
+name = "kcmutils"
+version = "6.32.0-1"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "Utilities for interacting with KCModules"
+depends = ["libstdc++", "glibc", "kconfig", "kconfigwidgets", "kcoreaddons", "kguiaddons", "ki18n", "kio", "kirigami", "kitemviews", "kservice", "kwidgetsaddons", "kxmlgui", "qt6-base", "qt6-declarative"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kcmutils-6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "20e3a15c42fc9854bbaee51102b6764cc66d8e999b5a92db1862bac901119ee9"

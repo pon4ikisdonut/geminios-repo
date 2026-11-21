@@ -1,0 +1,11 @@
+[package]
+name = "sysstat"
+version = "12.8.0-1"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "a collection of performance monitoring tools (iostat,isag,mpstat,pidstat,sadf,sar)"
+depends = ["glibc", "lm_sensors"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/sysstat-12.8.0-1-x86_64.pkg.tar.zst"
+sha256 = "8802d8db4c0ad2ebcdef0bd078e9cbc9d1616d62446c63350a7e7f73722b7f58"

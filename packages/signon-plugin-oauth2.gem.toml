@@ -1,0 +1,11 @@
+[package]
+name = "signon-plugin-oauth2"
+version = "0.25-4"
+license = "LGPL"
+arch = "x86_64"
+description = "OAuth 2 plugin for signon"
+depends = ["glibc", "libgcc", "qt6-base", "signond"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/signon-plugin-oauth2-0.25-4-x86_64.pkg.tar.zst"
+sha256 = "e7a898575c7e51a37d5384aa74f731af451612106d47cca80a09343bcd19541e"

@@ -1,0 +1,11 @@
+[package]
+name = "python-black"
+version = "26.10.1-1"
+license = "MIT"
+arch = "any"
+description = "Uncompromising Python code formatter"
+depends = ["python", "python-click", "python-mypy_extensions", "python-packaging", "python-pathspec", "python-platformdirs", "python-pytokens"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-black-26.10.1-1-any.pkg.tar.zst"
+sha256 = "7fbde661f434daf4df3a47fe6d92828147c1012db126ad9228f31cf43af46f6c"

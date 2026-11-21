@@ -1,0 +1,11 @@
+[package]
+name = "haskell-prettyprinter"
+version = "1.7.2-66"
+license = "BSD-2-Clause"
+arch = "x86_64"
+description = "A modern, easy to use, well-documented, extensible prettyprinter."
+depends = ["ghc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-prettyprinter-1.7.2-66-x86_64.pkg.tar.zst"
+sha256 = "97fe57d45e4107ca14c67a1793e58ba49049fb26a4785a371022487ba06edb77"

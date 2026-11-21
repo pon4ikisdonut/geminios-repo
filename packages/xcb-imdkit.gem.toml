@@ -1,0 +1,11 @@
+[package]
+name = "xcb-imdkit"
+version = "1.0.9-1"
+license = "GPL"
+arch = "x86_64"
+description = "Input method development support for xcb"
+depends = ["xcb-util", "xcb-util-keysyms"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xcb-imdkit-1.0.9-1-x86_64.pkg.tar.zst"
+sha256 = "7dfad7fdb583c5dcae9da3a1dd4e52d63233803aec340ef5c9f2a4f423660c34"

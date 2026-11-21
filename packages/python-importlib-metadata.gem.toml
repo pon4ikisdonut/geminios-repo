@@ -1,0 +1,11 @@
+[package]
+name = "python-importlib-metadata"
+version = "10.2.0-1"
+license = "Apache-2.0"
+arch = "any"
+description = "Read metadata from Python packages"
+depends = ["python", "python-lazy-importer", "python-zipp"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-importlib-metadata-10.2.0-1-any.pkg.tar.zst"
+sha256 = "e1e48e68c4c09af3b5bf49c80cfb33e769c3a0f2adb997aadb645ab13c8cd0dc"

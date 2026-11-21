@@ -1,0 +1,11 @@
+[package]
+name = "kconfigwidgets5"
+version = "5.116.0-3"
+license = "LGPL"
+arch = "x86_64"
+description = "Widgets for KConfig"
+depends = ["kauth5", "kcodecs5", "kconfig5", "kguiaddons5", "ki18n5", "kwidgetsaddons5"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kconfigwidgets5-5.116.0-3-x86_64.pkg.tar.zst"
+sha256 = "ef5f4748a0a354766edd9ba80c059cef2f65c19800e88a0d1679abd5b9f2ee87"

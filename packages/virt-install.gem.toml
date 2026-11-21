@@ -1,0 +1,11 @@
+[package]
+name = "virt-install"
+version = "5.1.0-4"
+license = "GPL-2.0-only"
+arch = "any"
+description = "Command line tool for creating new KVM , Xen, or Linux container guests using the libvirt hypervisor"
+depends = ["cpio", "libisoburn", "libosinfo", "libvirt-python", "python-gobject", "python-requests"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/virt-install-5.1.0-4-any.pkg.tar.zst"
+sha256 = "89ad3f16fb6fa7c31b3b8c35ecc7b77f39ee8593c518832fee533a07eadb7c66"

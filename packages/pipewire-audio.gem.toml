@@ -1,0 +1,11 @@
+[package]
+name = "pipewire-audio"
+version = "1:1.6.11-2"
+license = "MIT"
+arch = "x86_64"
+description = "Low-latency audio/video router and processor - Audio support"
+depends = ["libpipewire", "libpipewire-0.3.so", "pipewire", "alsa-card-profiles", "alsa-lib", "libasound.so", "bluez-libs", "libbluetooth.so", "dbus", "libdbus-1.so", "fftw", "libfftw3f.so", "glib2", "libglib-2.0.so", "libgobject-2.0.so", "libgio-2.0.so", "glibc", "libebur128", "libfdk-aac", "libfdk-aac.so", "libfreeaptx", "libfreeaptx.so", "libgcc", "liblc3", "liblc3.so", "libldac", "libldacBT_enc.so", "libmysofa", "libmysofa.so", "libsndfile", "libsndfile.so", "libstdc++", "libusb", "libusb-1.0.so", "lilv", "liblilv-0.so", "opus", "libopus.so", "sbc", "libsbc.so", "spandsp", "libspandsp.so", "systemd-libs", "webrtc-audio-processing-1", "libwebrtc-audio-processing-1.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/pipewire-audio-1:1.6.11-2-x86_64.pkg.tar.zst"
+sha256 = "744cc8f1f9812ba38b53e0af6b9456577b267799a5d37f2b35098f01bfaea123"

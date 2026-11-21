@@ -1,0 +1,11 @@
+[package]
+name = "python-tzdata"
+version = "2026.6-1"
+license = "Apache-2.0"
+arch = "any"
+description = "Provider of IANA time zone data"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-tzdata-2026.6-1-any.pkg.tar.zst"
+sha256 = "eb8ca28c8d4c600986f7f815a99725637a13179b0b4ad146551f18dc431e2c75"

@@ -1,0 +1,11 @@
+[package]
+name = "qt5-tools"
+version = "5.15.19+kde+r3-2"
+license = "custom"
+arch = "x86_64"
+description = "A cross-platform application and UI framework (Development Tools, QtHelp)"
+depends = ["qt5-base", "hicolor-icon-theme"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qt5-tools-5.15.19+kde+r3-2-x86_64.pkg.tar.zst"
+sha256 = "cf315fce2107672f24407c5814c9a7a8189441b7eff659790f198da904181937"

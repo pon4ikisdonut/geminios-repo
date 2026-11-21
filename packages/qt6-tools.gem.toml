@@ -1,0 +1,11 @@
+[package]
+name = "qt6-tools"
+version = "6.12.0-1"
+license = "Qt-GPL-exception-1.0"
+arch = "x86_64"
+description = "A cross-platform application and UI framework (Development Tools, QtHelp)"
+depends = ["glibc", "libgcc", "libstdc++", "litehtml", "qt6-base", "zstd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qt6-tools-6.12.0-1-x86_64.pkg.tar.zst"
+sha256 = "bc45c9721e2fed7c7e85afc85e8653584bb7c90219af64b23769bd3e6fa46408"

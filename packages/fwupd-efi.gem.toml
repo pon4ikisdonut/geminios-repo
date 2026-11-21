@@ -1,0 +1,11 @@
+[package]
+name = "fwupd-efi"
+version = "1.9-1"
+license = "LGPL-2.1-or-later"
+arch = "any"
+description = "EFI Application used by uefi-capsule plugin in fwupd"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/fwupd-efi-1.9-1-any.pkg.tar.zst"
+sha256 = "a1fe301a0edd8344a33d1ab737ce8de00bb2ba51c21cae9fca6b1cf6876b741a"

@@ -1,0 +1,11 @@
+[package]
+name = "android-tools"
+version = "37.0.0.p1-1"
+license = "Apache-2.0 AND BSD-3-Clause AND GPL-2.0-or-later AND LGPL-2.1-or-later AND MIT AND libselinux-1.0"
+arch = "x86_64"
+description = "Android platform tools"
+depends = ["abseil-cpp", "brotli", "fmt", "glibc", "libgcc", "libstdc++", "libusb", "lz4", "pcre2", "protobuf", "zlib", "zstd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/android-tools-37.0.0.p1-1-x86_64.pkg.tar.zst"
+sha256 = "22ef7937af0f35b5b80970c31b1bf19d77e172e0b72733bb757b368b12014ba2"

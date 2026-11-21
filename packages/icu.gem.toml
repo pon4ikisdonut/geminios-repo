@@ -1,0 +1,11 @@
+[package]
+name = "icu"
+version = "78.3-1"
+license = "NAIST-2003"
+arch = "x86_64"
+description = "International Components for Unicode library"
+depends = ["glibc", "libstdc++", "libgcc", "sh"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/icu-78.3-1-x86_64.pkg.tar.zst"
+sha256 = "118fe41efa6c550f3fe67893946dcea2c6cbb5272299a6ddf4160fb17f3e4bb0"

@@ -1,0 +1,11 @@
+[package]
+name = "python-chardet"
+version = "6.0.0.post1-1"
+license = "LGPL-2.1-or-later"
+arch = "any"
+description = "Universal encoding detector for Python"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-chardet-6.0.0.post1-1-any.pkg.tar.zst"
+sha256 = "9cbf6ea78aae62bb5fca348e7901e0dd7017fc413927b7dfa93b121e63e253fc"

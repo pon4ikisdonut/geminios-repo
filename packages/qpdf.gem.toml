@@ -1,0 +1,11 @@
+[package]
+name = "qpdf"
+version = "12.4.2-2"
+license = "Artistic-2.0"
+arch = "x86_64"
+description = "QPDF: A Content-Preserving PDF Transformation System"
+depends = ["libjpeg-turbo", "zlib", "gnutls", "openssl", "glibc", "libstdc++", "libgcc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qpdf-12.4.2-2-x86_64.pkg.tar.zst"
+sha256 = "355ae8f0ed9853366976e9b70d2d60e397d07506bfc99270c2a0b18b8759da5f"

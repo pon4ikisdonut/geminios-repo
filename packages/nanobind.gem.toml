@@ -1,0 +1,11 @@
+[package]
+name = "nanobind"
+version = "3.1.0-1"
+license = "BSD-3-Clause"
+arch = "any"
+description = "Tiny and efficient C++/Python bindings"
+depends = ["python", "robin-map"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/nanobind-3.1.0-1-any.pkg.tar.zst"
+sha256 = "49fbbc5a7297c4bf8d01888f377a550768ecbfa11ab611ad864f20f20f2c7d50"

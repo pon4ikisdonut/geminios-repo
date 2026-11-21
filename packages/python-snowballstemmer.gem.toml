@@ -1,0 +1,11 @@
+[package]
+name = "python-snowballstemmer"
+version = "3.1.1-1"
+license = "BSD-3-Clause"
+arch = "any"
+description = "Snowball stemming library collection for Python"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-snowballstemmer-3.1.1-1-any.pkg.tar.zst"
+sha256 = "6bf9b09b72570db31b95cab3f861fe410feb9adb813a72bb1d67cbc58a5a3e83"

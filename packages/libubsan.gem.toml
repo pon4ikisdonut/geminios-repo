@@ -1,0 +1,11 @@
+[package]
+name = "libubsan"
+version = "16.2.1+r23+gd564253eb6c8-1"
+license = "GFDL-1.3-or-later"
+arch = "x86_64"
+description = "Undefined Behavior Sanitizer runtime library shipped by GCC"
+depends = ["glibc", "libgcc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/libubsan-16.2.1+r23+gd564253eb6c8-1-x86_64.pkg.tar.zst"
+sha256 = "eba85316fdf63265285624baa22724fbb93e15901696f99d2c2cbde2162ad71d"

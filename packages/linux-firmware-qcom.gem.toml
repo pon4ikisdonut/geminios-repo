@@ -1,0 +1,11 @@
+[package]
+name = "linux-firmware-qcom"
+version = "20261019-1"
+license = "LicenseRef-qcom"
+arch = "any"
+description = "Firmware files for Linux - Firmware for Qualcomm SoCs"
+depends = ["linux-firmware-atheros", "linux-firmware-whence"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/linux-firmware-qcom-20261019-1-any.pkg.tar.zst"
+sha256 = "362107ff2b78cb23b2e0d58df639831152ecb027f89b0e0c119d0d6b813604aa"

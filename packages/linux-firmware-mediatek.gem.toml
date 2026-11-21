@@ -1,0 +1,11 @@
+[package]
+name = "linux-firmware-mediatek"
+version = "20261019-1"
+license = "LicenseRef-mediatek"
+arch = "any"
+description = "Firmware files for Linux - Firmware for MediaTek and Ralink devices"
+depends = ["linux-firmware-whence"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/linux-firmware-mediatek-20261019-1-any.pkg.tar.zst"
+sha256 = "8f844707523f80b847c6d1ab1f1bac6c09fc2ce324d6e2b2045154b9f7903623"

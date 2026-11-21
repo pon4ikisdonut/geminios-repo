@@ -1,0 +1,11 @@
+[package]
+name = "python-pyzmq"
+version = "27.3.0-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Python bindings for ZeroMQ"
+depends = ["zeromq", "python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-pyzmq-27.3.0-1-x86_64.pkg.tar.zst"
+sha256 = "3de80faa629b8bc6023431d1ac2cc84ff65a1a1e2770009b313f9b0bf0aee4fb"

@@ -1,0 +1,11 @@
+[package]
+name = "libcgif"
+version = "0.5.4-1"
+license = "MIT"
+arch = "x86_64"
+description = "A fast and lightweight GIF encoding library"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libcgif-0.5.4-1-x86_64.pkg.tar.zst"
+sha256 = "dc2782ebc369456e09c9c6ad9957b55169843b83f22fa6d1daf12d03ec99d6a5"

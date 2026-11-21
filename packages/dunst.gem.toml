@@ -1,0 +1,11 @@
+[package]
+name = "dunst"
+version = "1.13.2-3"
+license = "BSD"
+arch = "x86_64"
+description = "Customizable and lightweight notification-daemon"
+depends = ["libxinerama", "dbus", "systemd", "wayland", "libxss", "pango", "gdk-pixbuf2", "libxrandr", "glib2"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/dunst-1.13.2-3-x86_64.pkg.tar.zst"
+sha256 = "d765dd769e33eaf40048a7ed002ba2d36604a17dafdbf8d5c22e4de9ebfc2073"

@@ -1,0 +1,11 @@
+[package]
+name = "libodfgen"
+version = "0.1.9-1"
+license = "LGPL-2.1-or-later OR MPL-2.0"
+arch = "x86_64"
+description = "Library for generating documents in Open Document Format"
+depends = ["librevenge", "libxml2", "libgcc", "libstdc++", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libodfgen-0.1.9-1-x86_64.pkg.tar.zst"
+sha256 = "5ede58bdfb90527a03bef17c9aeb6ec96368c09d5daed54880fb911577deffb2"

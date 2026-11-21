@@ -1,0 +1,11 @@
+[package]
+name = "libbpf"
+version = "1.8.0-1"
+license = "LGPL-2.1-only OR BSD-2-Clause"
+arch = "x86_64"
+description = "Library for loading eBPF programs and reading and manipulating eBPF objects from user-space"
+depends = ["glibc", "libelf", "linux-api-headers", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/libbpf-1.8.0-1-x86_64.pkg.tar.zst"
+sha256 = "3f14dc1512ca84ceffdf73f5019313c3c0afc462ed6cc4a150d06963509bad4c"

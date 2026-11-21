@@ -1,0 +1,11 @@
+[package]
+name = "aichat"
+version = "0.30.0-4"
+license = "MIT OR Apache-2.0"
+arch = "x86_64"
+description = "All-in-one AI CLI tool featuring Chat-REPL, Shell Assistant, RAG, AI tools & agents"
+depends = ["glibc", "libgcc", "oniguruma"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/aichat-0.30.0-4-x86_64.pkg.tar.zst"
+sha256 = "962ba2ab144580432d98365dee52de93700e6acc381426ed955d3257ebdf8aea"

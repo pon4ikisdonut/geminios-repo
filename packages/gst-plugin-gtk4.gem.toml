@@ -1,0 +1,11 @@
+[package]
+name = "gst-plugin-gtk4"
+version = "0.15.4-2"
+license = "MPL-2.0"
+arch = "x86_64"
+description = "Multimedia graph framework - gtk4 plugin"
+depends = ["glib2", "glibc", "gstreamer", "libgcc", "graphene", "gst-plugins-base-libs", "gtk4"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gst-plugin-gtk4-0.15.4-2-x86_64.pkg.tar.zst"
+sha256 = "3ec7a3176bc68ef9a99fe17ec22ff6a10cd1a095bad2c6a81135e8b1625e7106"

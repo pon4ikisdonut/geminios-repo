@@ -1,0 +1,11 @@
+[package]
+name = "ollama"
+version = "0.40.16-2"
+license = "MIT"
+arch = "x86_64"
+description = "Create, run and share large language models (LLMs)"
+depends = ["libgcc", "libstdc++", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ollama-0.40.16-2-x86_64.pkg.tar.zst"
+sha256 = "81116a7242452195704e34303b4aec353c0947319c26727e831edd826e33967f"

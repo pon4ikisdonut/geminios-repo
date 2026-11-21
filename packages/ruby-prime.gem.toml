@@ -1,0 +1,11 @@
+[package]
+name = "ruby-prime"
+version = "0.1.4-1"
+license = "BSD-2-CLAUSE"
+arch = "any"
+description = "Prime numbers and factorization library"
+depends = ["ruby"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ruby-prime-0.1.4-1-any.pkg.tar.zst"
+sha256 = "d6a2e81a30d2218a0b7645a01d97c82848a78353b36eb5427486a028fae79f23"

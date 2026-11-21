@@ -1,0 +1,11 @@
+[package]
+name = "ccache"
+version = "4.14.1-1"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "Compiler cache that speeds up recompilation by caching previous compilations"
+depends = ["fmt", "glibc", "hiredis", "libblake3", "libgcc", "libstdc++", "xxhash", "libxxhash.so", "zstd", "libzstd.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ccache-4.14.1-1-x86_64.pkg.tar.zst"
+sha256 = "fefc984b335b224b0ad24e85f7d95613683b8cf34980642fcc75e3664c13cda9"

@@ -1,0 +1,11 @@
+[package]
+name = "libepubgen"
+version = "0.1.2-1"
+license = "MPL-2.0"
+arch = "x86_64"
+description = "an EPUB generator for librevenge"
+depends = ["librevenge", "glibc", "libstdc++", "libgcc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libepubgen-0.1.2-1-x86_64.pkg.tar.zst"
+sha256 = "5b1391f2d5da1c057a050ffc75e5a1f2b9bfe42d998812f9c5e58975b8e25aa8"

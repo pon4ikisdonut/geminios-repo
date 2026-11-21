@@ -1,0 +1,11 @@
+[package]
+name = "wayland-utils"
+version = "1.3.0-1"
+license = "MIT"
+arch = "x86_64"
+description = "Wayland tools to display information about current compositor"
+depends = ["glibc", "libdrm", "wayland"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/wayland-utils-1.3.0-1-x86_64.pkg.tar.zst"
+sha256 = "a79a3f1ffb59b0eeb1af11b88a44cb9e935623f0b98eee0f901378cd7f3ebd93"

@@ -1,0 +1,11 @@
+[package]
+name = "signond"
+version = "8.61-4"
+license = "LGPL"
+arch = "x86_64"
+description = "A D-Bus service which performs user authentication on behalf of its clients"
+depends = ["libgcc", "glibc", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/signond-8.61-4-x86_64.pkg.tar.zst"
+sha256 = "8825ac7ee8a4c207308fdb86e1920b6ac49428c7cb4a2f6b88bd9ebcb9b925af"

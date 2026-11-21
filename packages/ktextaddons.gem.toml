@@ -1,0 +1,11 @@
+[package]
+name = "ktextaddons"
+version = "2.3.0-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Various text handling addons"
+depends = ["glibc", "karchive", "kcolorscheme", "kconfig", "kcoreaddons", "ki18n", "kiconthemes", "kio", "kitemviews", "kservice", "ktextwidgets", "kwidgetsaddons", "libstdc++", "qt6-base", "qt6-multimedia", "qt6-speech", "qtkeychain-qt6", "sonnet", "syntax-highlighting"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ktextaddons-2.3.0-1-x86_64.pkg.tar.zst"
+sha256 = "475ef65f7f0d42a5cb9313aa6a51a22ab7133e8cfc3b40bcde749f11ed7ea3cd"

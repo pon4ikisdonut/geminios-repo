@@ -1,0 +1,11 @@
+[package]
+name = "mjpegtools"
+version = "2.2.1-4"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Video capture, editing, playback and compression to MPEG of MJPEG video"
+depends = ["bash", "glibc", "libdv", "libgcc", "libjpeg-turbo", "libpng", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/mjpegtools-2.2.1-4-x86_64.pkg.tar.zst"
+sha256 = "a0f262a7c6b69e0bde18ce3af9e0e4bff50afbefb98d7b0a4b1d429b38e473ff"

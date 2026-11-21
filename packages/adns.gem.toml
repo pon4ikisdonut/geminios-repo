@@ -1,0 +1,11 @@
+[package]
+name = "adns"
+version = "1.7.0-1"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "An asyncronous replacement resolver library"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/adns-1.7.0-1-x86_64.pkg.tar.zst"
+sha256 = "ce64dc6d17499221ac3921cd21040f71c6fea52441451f5a28dfd05a18fa4063"

@@ -1,0 +1,11 @@
+[package]
+name = "vulkan-icd-loader"
+version = "1.4.363.0-1"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "Vulkan Installable Client Driver (ICD) Loader"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vulkan-icd-loader-1.4.363.0-1-x86_64.pkg.tar.zst"
+sha256 = "c84e1c9752eeebcc7d9aa5e755c8fd5291c12e8d4e3a17ab83435ee51715dcdc"

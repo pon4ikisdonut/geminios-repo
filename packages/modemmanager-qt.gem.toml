@@ -1,0 +1,11 @@
+[package]
+name = "modemmanager-qt"
+version = "6.32.0-1"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "Qt wrapper for ModemManager DBus API"
+depends = ["libstdc++", "glibc", "modemmanager", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/modemmanager-qt-6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "af78953f1b1655e795589dcbb64775eb8ff98887b540126a73862c204f8e1911"

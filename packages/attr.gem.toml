@@ -1,0 +1,11 @@
+[package]
+name = "attr"
+version = "2.6.0-1"
+license = "LGPL-2.1-or-later AND GPL-2.0-or-later"
+arch = "x86_64"
+description = "Extended attribute support library for ACL support"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/attr-2.6.0-1-x86_64.pkg.tar.zst"
+sha256 = "0db32b421f67000950f7b55b531291ce8c13985c5444425b22dce94d485daed1"

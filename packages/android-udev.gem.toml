@@ -1,0 +1,11 @@
+[package]
+name = "android-udev"
+version = "20260922-1"
+license = "GPL-3.0-only"
+arch = "any"
+description = "Udev rules to connect Android devices to your linux box"
+depends = ["udev", "libmtp"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/android-udev-20260922-1-any.pkg.tar.zst"
+sha256 = "c28ffa053ed05e63f7d45bd39587b8864f821e8613dee3b8d9ca5da3d7c4c746"

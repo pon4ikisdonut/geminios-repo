@@ -1,0 +1,11 @@
+[package]
+name = "iperf3"
+version = "3.22.1-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "TCP, UDP, and SCTP network bandwidth measurement tool"
+depends = ["glibc", "openssl", "lksctp-tools"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/iperf3-3.22.1-1-x86_64.pkg.tar.zst"
+sha256 = "c68f062169826ef16769c38b13b7198fcf24a58ebfa789c6352eb19595c284b8"

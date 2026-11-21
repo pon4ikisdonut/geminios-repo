@@ -1,0 +1,11 @@
+[package]
+name = "python-pysocks"
+version = "1.7.1-12"
+license = "BSD-3-Clause"
+arch = "any"
+description = "SOCKS4, SOCKS5 or HTTP proxy (Anorov fork PySocks replaces socksipy)"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-pysocks-1.7.1-12-any.pkg.tar.zst"
+sha256 = "85bd7f9917da1e7b24fe6a1815124d3deb4caeaff52d986bc6c1892b267d734d"

@@ -1,0 +1,11 @@
+[package]
+name = "gnome-desktop"
+version = "1:51.0-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Provides API shared by several apps on the GNOME desktop using GTK 3"
+depends = ["bubblewrap", "cairo", "gdk-pixbuf2", "glib2", "glibc", "gsettings-desktop-schemas", "iso-codes", "libgcc", "libseccomp", "libxkbcommon", "systemd-libs", "xkeyboard-config", "gnome-desktop-common", "gtk3"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gnome-desktop-1:51.0-1-x86_64.pkg.tar.zst"
+sha256 = "d4f90fd537879074c2dda14327124317d5f461479c8f7c3ed506139cb143de7d"

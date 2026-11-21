@@ -1,0 +1,11 @@
+[package]
+name = "xdg-desktop-portal-hyprland"
+version = "1.5.0-1"
+license = "MIT"
+arch = "x86_64"
+description = "xdg-desktop-portal backend for hyprland"
+depends = ["libgcc", "libstdc++", "glibc", "hyprlang", "libhyprlang.so", "hyprutils", "libhyprutils.so", "hyprtoolkit", "libinih", "pipewire", "qt6-base", "sdbus-cpp", "libsdbus-c++.so", "util-linux-libs", "libuuid.so", "xdg-desktop-portal"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xdg-desktop-portal-hyprland-1.5.0-1-x86_64.pkg.tar.zst"
+sha256 = "b4f6dfe53610a4b8550a4762ca7923ebd47766026834f78e2360a1b6a5dbb78c"

@@ -1,0 +1,11 @@
+[package]
+name = "haskell-djot"
+version = "0.1.4.3-22"
+license = "MIT"
+arch = "x86_64"
+description = "Parser and renderer for djot light markup syntax"
+depends = ["ghc-libs", "haskell-doclayout"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-djot-0.1.4.3-22-x86_64.pkg.tar.zst"
+sha256 = "afeaa76402900da03666e8f236581f390b0e6b7dab6d09d9c4cbe7205d7e75c5"

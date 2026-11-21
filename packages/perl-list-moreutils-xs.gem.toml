@@ -1,0 +1,11 @@
+[package]
+name = "perl-list-moreutils-xs"
+version = "0.430-8"
+license = "GPL"
+arch = "x86_64"
+description = "Provide the stuff missing in List::Util"
+depends = ["perl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/perl-list-moreutils-xs-0.430-8-x86_64.pkg.tar.zst"
+sha256 = "6112acbebb00efbd61ae5708a7cdb7d23109917460d9be263bd54aed34b22583"

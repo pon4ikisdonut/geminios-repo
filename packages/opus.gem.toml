@@ -1,0 +1,11 @@
+[package]
+name = "opus"
+version = "1.6.1-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Totally open, royalty-free, highly versatile audio codec"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/opus-1.6.1-1-x86_64.pkg.tar.zst"
+sha256 = "191b1f303950e184bdbe12105d8cb06e69e727e8f9160cfdcf33105f70d05b46"

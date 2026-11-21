@@ -1,0 +1,11 @@
+[package]
+name = "gst-python"
+version = "1.28.9-3"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Multimedia graph framework - python plugin"
+depends = ["gst-plugins-base-libs", "gstreamer", "glib2", "glibc", "python", "python-gobject", "python-typing_extensions"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gst-python-1.28.9-3-x86_64.pkg.tar.zst"
+sha256 = "21ceb7b48f906bfd0d4944fb97e7b3c7782e64a42cdc4a948db5f7228c261c75"

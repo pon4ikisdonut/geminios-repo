@@ -1,0 +1,11 @@
+[package]
+name = "python-websocket-client"
+version = "1.9.2-1"
+license = "Apache-2.0"
+arch = "any"
+description = "WebSocket client library for Python"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-websocket-client-1.9.2-1-any.pkg.tar.zst"
+sha256 = "e621041180299ef7909faf2194041992102454f1b937614beb6dd7326ab2420e"

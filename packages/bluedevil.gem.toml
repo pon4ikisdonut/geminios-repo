@@ -1,0 +1,11 @@
+[package]
+name = "bluedevil"
+version = "1:6.8.3-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Integrate the Bluetooth technology within KDE workspace and applications"
+depends = ["bluez-qt", "glibc", "kcmutils", "kconfig", "kcoreaddons", "kdbusaddons", "kdeclarative", "ki18n", "kio", "kirigami", "kjobwidgets", "knotifications", "kservice", "ksvg", "kwidgetsaddons", "kwindowsystem", "libplasma", "libstdc++", "qt6-base", "qt6-declarative"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/bluedevil-1:6.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "190a8f4d034f9d74f1235d3aa26deb03ca2e119c5307fcd21580b282de61fbbd"

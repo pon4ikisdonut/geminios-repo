@@ -1,0 +1,11 @@
+[package]
+name = "gst-plugins-ugly"
+version = "1.28.9-3"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Multimedia graph framework - ugly plugins"
+depends = ["gst-plugins-base-libs", "gstreamer", "a52dec", "glib2", "glibc", "libcdio", "libdvdread", "libmpeg2", "x264"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gst-plugins-ugly-1.28.9-3-x86_64.pkg.tar.zst"
+sha256 = "7a221db4490c52b12e808bea2c4aa4ae4b55937384bf8df917e09fe6c7236a40"

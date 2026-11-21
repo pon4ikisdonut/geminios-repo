@@ -1,0 +1,11 @@
+[package]
+name = "haskell-data-default-instances-old-locale"
+version = "0.0.1.2-4"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Default instances for types in old-locale"
+depends = ["ghc-libs", "haskell-data-default-class", "haskell-old-locale"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-data-default-instances-old-locale-0.0.1.2-4-x86_64.pkg.tar.zst"
+sha256 = "cc0a07d28cc866b0d2f9e9186b9aac07faafac8a879a928f33accb11e955bfc9"

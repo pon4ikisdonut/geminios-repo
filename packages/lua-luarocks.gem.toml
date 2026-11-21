@@ -1,0 +1,11 @@
+[package]
+name = "lua-luarocks"
+version = "3.13.0-5"
+license = "custom"
+arch = "any"
+description = "Deployment and management system for Lua modules"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/lua-luarocks-3.13.0-5-any.pkg.tar.zst"
+sha256 = "626be4b891966c5229a679081a6e48239b9f51999d3cb3766f259df8bc12441b"

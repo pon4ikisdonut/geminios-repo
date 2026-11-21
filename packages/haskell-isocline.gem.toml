@@ -1,0 +1,11 @@
+[package]
+name = "haskell-isocline"
+version = "1.1.0-1"
+license = "MIT"
+arch = "x86_64"
+description = "A portable alternative to GNU Readline"
+depends = ["ghc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-isocline-1.1.0-1-x86_64.pkg.tar.zst"
+sha256 = "05f24f8204fd93bd77c6a12b95362dcac14972382949fe9b47222b706c3e5eb9"

@@ -1,0 +1,11 @@
+[package]
+name = "libkomparediff2"
+version = "26.08.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Library to compare files and strings"
+depends = ["glibc", "kconfig", "kconfigwidgets", "kcoreaddons", "ki18n", "kio", "kxmlgui", "libstdc++", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libkomparediff2-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "7fe1240efe371c580ffe2b0e88d1de4e85401172cd7189efea03e2e84c6dda20"

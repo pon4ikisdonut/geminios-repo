@@ -1,0 +1,11 @@
+[package]
+name = "adlplug-standalone"
+version = "1.0.2-13"
+license = "LGPL-2.1-only"
+arch = "x86_64"
+description = "FM synthesizer for ADLMIDI with OPL3 chip emulation - JACK standalone"
+depends = ["fmt", "freetype2", "gcc-libs", "glibc", "hicolor-icon-theme", "jack", "liblo", "libx11", "libxext"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/adlplug-standalone-1.0.2-13-x86_64.pkg.tar.zst"
+sha256 = "e4bc22128d8199b945571eac4d3692577c6d0eb3c186b67122922a10319ce83a"

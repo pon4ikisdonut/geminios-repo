@@ -1,0 +1,11 @@
+[package]
+name = "ldns"
+version = "1.9.2-2"
+license = "custom:BSD"
+arch = "x86_64"
+description = "Fast DNS library supporting recent RFCs"
+depends = ["openssl", "dnssec-anchors"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/ldns-1.9.2-2-x86_64.pkg.tar.zst"
+sha256 = "4b12733f5ec07e77653584157f9c270c11b402588379d45abb5f64c3a10a026c"

@@ -1,0 +1,11 @@
+[package]
+name = "iotop"
+version = "0.6-13"
+license = "GPL"
+arch = "any"
+description = "View I/O usage of processes"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/iotop-0.6-13-any.pkg.tar.zst"
+sha256 = "5bbea7a82cb1a74805370edb5eb53b2db68dcf728f954e7052356a540d7d9bd8"

@@ -1,0 +1,11 @@
+[package]
+name = "ruby"
+version = "3.4.12-2"
+license = "BSD-2-Clause"
+arch = "x86_64"
+description = "An object-oriented language for quick and easy programming"
+depends = ["libgcc", "gdbm", "glibc", "gmp", "libffi", "libxcrypt", "libyaml", "openssl", "readline", "zlib", "rubygems"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ruby-3.4.12-2-x86_64.pkg.tar.zst"
+sha256 = "e505e1b42a3f8d813a76b1fe56409eec24e847e6461ed3b0c512482e16e36066"

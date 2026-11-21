@@ -1,0 +1,11 @@
+[package]
+name = "catatonit"
+version = "0.2.1-2"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "A container init that is so simple it's effectively brain-dead."
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/catatonit-0.2.1-2-x86_64.pkg.tar.zst"
+sha256 = "882948ffa97bdab28bf8e89b5335073149d42b68de91847b54cbcd8e64fd62b1"

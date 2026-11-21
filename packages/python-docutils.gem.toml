@@ -1,0 +1,11 @@
+[package]
+name = "python-docutils"
+version = "1:0.23-1"
+license = "BSD-2-Clause"
+arch = "any"
+description = "Set of tools for processing plaintext docs into formats such as HTML, XML, or LaTeX"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-docutils-1:0.23-1-any.pkg.tar.zst"
+sha256 = "b4cf3122bdc83f1b47f65dccb06ad27cc56f687388fe1e2e464f07269503414e"

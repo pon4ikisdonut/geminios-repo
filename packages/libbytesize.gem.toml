@@ -1,0 +1,11 @@
+[package]
+name = "libbytesize"
+version = "2.12-3"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "A tiny library providing a C \"class\" for working with arbitrary big sizes in bytes"
+depends = ["glibc", "gmp", "mpfr", "pcre2"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libbytesize-2.12-3-x86_64.pkg.tar.zst"
+sha256 = "9d83943d26d0574b22398201610431a761a419394a9724fb7ac32bf2b7720a04"

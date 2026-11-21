@@ -1,0 +1,11 @@
+[package]
+name = "python-audit"
+version = "4.2.1-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Userspace components of the audit framework - Python bindings"
+depends = ["audit", "libaudit.so", "libauparse.so", "glibc", "python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/python-audit-4.2.1-1-x86_64.pkg.tar.zst"
+sha256 = "522d81bd954af11d4a15e95ae37b43f60812096575b5490bfa617eb0f09ab771"

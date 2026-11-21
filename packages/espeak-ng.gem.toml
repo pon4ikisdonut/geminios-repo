@@ -1,0 +1,11 @@
+[package]
+name = "espeak-ng"
+version = "1.52.0-1"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "Multi-lingual software speech synthesizer"
+depends = ["pcaudiolib", "libsonic"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/espeak-ng-1.52.0-1-x86_64.pkg.tar.zst"
+sha256 = "baad119a494cacd1ba0f290f78a0159051ba1d17e09bc7d1b2df5fa7e7df78d9"

@@ -1,0 +1,11 @@
+[package]
+name = "gpsd"
+version = "3.27.5-1"
+license = "BSD"
+arch = "x86_64"
+description = "GPS daemon and library to support USB/serial GPS devices"
+depends = ["dbus", "gcc-libs", "glibc", "python", "libusb", "bluez-libs", "pps-tools"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gpsd-3.27.5-1-x86_64.pkg.tar.zst"
+sha256 = "09eb891f8e0718b726dbb4c9a7e772fbb6b16ee727542105df136bf107dec628"

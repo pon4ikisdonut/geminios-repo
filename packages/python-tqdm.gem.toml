@@ -1,0 +1,11 @@
+[package]
+name = "python-tqdm"
+version = "4.70.1-1"
+license = "MPL-2.0"
+arch = "any"
+description = "Fast, Extensible Progress Meter"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-tqdm-4.70.1-1-any.pkg.tar.zst"
+sha256 = "92c4b146a00e268855373e9c93e974d162ae5b580d37a3a138f36ca8d8ae581b"

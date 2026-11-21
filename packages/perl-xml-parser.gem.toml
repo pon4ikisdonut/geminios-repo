@@ -1,0 +1,11 @@
+[package]
+name = "perl-xml-parser"
+version = "2.59-2"
+license = "Artistic-1.0-Perl"
+arch = "x86_64"
+description = "Expat-based XML parser module for perl"
+depends = ["perl-file-sharedir", "perl-libwww", "expat"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/perl-xml-parser-2.59-2-x86_64.pkg.tar.zst"
+sha256 = "2853ed7b80388368eb289b7d37c3f85ec99ff50396c683fd7429c76d58c61300"

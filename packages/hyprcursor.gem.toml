@@ -1,0 +1,11 @@
+[package]
+name = "hyprcursor"
+version = "0.1.14-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "The hyprland cursor format, library and utilities"
+depends = ["cairo", "libgcc", "libstdc++", "glibc", "hyprlang", "libhyprlang.so", "librsvg", "librsvg-2.so", "libzip", "libzip.so", "tomlplusplus", "libtomlplusplus.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/hyprcursor-0.1.14-1-x86_64.pkg.tar.zst"
+sha256 = "90d9be2d4fb15c8fee618ebadf258a0a4e4b95b9b2ff2578c16b31acccb69627"

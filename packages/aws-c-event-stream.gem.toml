@@ -1,0 +1,11 @@
+[package]
+name = "aws-c-event-stream"
+version = "1.0.0-1"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "C99 implementation of the vnd.amazon.eventstream content-type"
+depends = ["aws-c-common", "aws-c-io", "aws-checksums", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/aws-c-event-stream-1.0.0-1-x86_64.pkg.tar.zst"
+sha256 = "55ad8b4e9c0f6e3c405423fd10bcdc8ac9cdb2502456a95c188f75b86faec186"

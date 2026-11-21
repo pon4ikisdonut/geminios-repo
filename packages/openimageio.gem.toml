@@ -1,0 +1,11 @@
+[package]
+name = "openimageio"
+version = "3.2.1.2-3"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "A library for reading and writing images, including classes, utilities, and applications"
+depends = ["openexr", "openjph", "giflib", "openjpeg2", "libtiff", "libjpeg-turbo", "opencolorio", "libpng", "libraw", "libwebp", "pugixml", "libjxl", "libheif", "freetype2", "libstdc++", "glibc", "zlib", "libgcc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/openimageio-3.2.1.2-3-x86_64.pkg.tar.zst"
+sha256 = "eea35656ba7d8d9ba35e39c74ee46a7ac6152f3ffc15c3624efdff1a143c5be4"

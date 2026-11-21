@@ -1,0 +1,11 @@
+[package]
+name = "libimagequant"
+version = "4.4.1-2"
+license = "BSD-2-Clause"
+arch = "x86_64"
+description = "Library for high-quality conversion of RGBA images to 8-bit indexed-color (palette) images"
+depends = ["libgcc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libimagequant-4.4.1-2-x86_64.pkg.tar.zst"
+sha256 = "c26846108d4cf718c844bcdf2323293d5cc5c9f847e891bd95239efbcf34e24b"

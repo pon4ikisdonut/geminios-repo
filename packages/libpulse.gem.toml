@@ -1,0 +1,11 @@
+[package]
+name = "libpulse"
+version = "17.0+r134+g77d25a1e6-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "A featureful, general-purpose sound server (client library)"
+depends = ["bash", "dbus", "glib2", "glibc", "libasyncns", "libsndfile", "libxcb", "systemd-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libpulse-17.0+r134+g77d25a1e6-2-x86_64.pkg.tar.zst"
+sha256 = "7b994b72565823ea2732a41fd1e47355d9e247bf47749a7cc9a7245a306c13c7"

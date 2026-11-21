@@ -1,0 +1,11 @@
+[package]
+name = "svt-hevc"
+version = "1.5.1-4"
+license = "BSD-2-Clause-Patent"
+arch = "x86_64"
+description = "Scalable Video Technology HEVC encoder"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/svt-hevc-1.5.1-4-x86_64.pkg.tar.zst"
+sha256 = "da4a2d1ce63036885e4d922079a1bf5dfe4fe266b4db370a2bd18d72a3880550"

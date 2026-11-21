@@ -1,0 +1,11 @@
+[package]
+name = "texlive-basic"
+version = "2026.1-1"
+license = "GPL"
+arch = "any"
+description = "TeX Live - Essential programs and files"
+depends = ["texlive-bin", "perl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/texlive-basic-2026.1-1-any.pkg.tar.zst"
+sha256 = "460e846b3509db9bb635e1c9344ed4c352282bcbe15636fd0a977a82953b1767"

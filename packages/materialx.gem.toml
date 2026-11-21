@@ -1,0 +1,11 @@
+[package]
+name = "materialx"
+version = "1.39.5-1"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "Open standard for representing rich material and look-development content in computer graphics"
+depends = ["glibc", "libstdc++", "libgcc", "glfw", "libglvnd", "libx11", "libxt", "python", "python-setuptools", "opencolorio", "dos2unix", "zenity", "hicolor-icon-theme"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/materialx-1.39.5-1-x86_64.pkg.tar.zst"
+sha256 = "7061d0449eefa98dec795307f3eca61613c4cb1ad2a1bec8833218dffaac8a69"

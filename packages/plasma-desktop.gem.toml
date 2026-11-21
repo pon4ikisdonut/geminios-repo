@@ -1,0 +1,11 @@
+[package]
+name = "plasma-desktop"
+version = "6.8.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "KDE Plasma Desktop"
+depends = ["attica", "baloo", "emoji-font", "glibc", "kbookmarks", "kcmutils", "kcodecs", "kcompletion", "kconfig", "kconfigwidgets", "kcoreaddons", "kcrash", "kdbusaddons", "kdeclarative", "kglobalaccel", "kguiaddons", "ki18n", "kiconthemes", "kio", "kirigami", "kirigami-addons", "kitemmodels", "kjobwidgets", "kmenuedit", "knewstuff", "knotifications", "knotifyconfig", "kpackage", "kpipewire", "krunner", "kscreenlocker", "kservice", "ksvg", "kwidgetsaddons", "kwindowsystem", "kxmlgui", "libcanberra", "libksysguard", "libstdc++", "libwacom", "libx11", "libxcb", "libxkbcommon", "libxkbfile", "libplasma", "plasma-activities", "plasma-activities-stats", "plasma-workspace", "plasma5support", "polkit-kde-agent", "powerdevil", "qt6-5compat", "qt6-base", "qt6-declarative", "sdl2", "solid", "sonnet", "systemd-libs", "systemsettings", "wayland", "xcb-util-keysyms", "xdg-user-dirs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/plasma-desktop-6.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "67b5b967cd8e5c6058bb9601b30a5fb29c94dd3f7b0c5cb9d59c90efe4d9f299"

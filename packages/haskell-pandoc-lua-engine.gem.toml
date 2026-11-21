@@ -1,0 +1,11 @@
+[package]
+name = "haskell-pandoc-lua-engine"
+version = "0.5.4.1-55"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Lua engine to power custom pandoc conversions"
+depends = ["ghc-libs", "haskell-aeson", "haskell-citeproc", "haskell-crypton", "haskell-data-default", "haskell-doclayout", "haskell-doctemplates", "haskell-hslua", "haskell-hslua-module-doclayout", "haskell-hslua-module-path", "haskell-hslua-module-system", "haskell-hslua-module-text", "haskell-hslua-module-version", "haskell-hslua-module-zip", "haskell-hslua-repl", "haskell-lpeg", "haskell-pandoc", "haskell-pandoc-lua-marshal", "haskell-pandoc-types"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-pandoc-lua-engine-0.5.4.1-55-x86_64.pkg.tar.zst"
+sha256 = "75b2953a76319d3013fa1d014b6f93da4355052dce9bb1765d6666f73954d8b2"

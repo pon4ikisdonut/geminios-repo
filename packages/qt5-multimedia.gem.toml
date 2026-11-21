@@ -1,0 +1,11 @@
+[package]
+name = "qt5-multimedia"
+version = "5.15.19+kde+r2-1"
+license = "custom"
+arch = "x86_64"
+description = "Classes for audio, video, radio and camera functionality"
+depends = ["qt5-base", "gst-plugins-base", "libpulse", "openal"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qt5-multimedia-5.15.19+kde+r2-1-x86_64.pkg.tar.zst"
+sha256 = "a791eb720836c86ae9328a4d775ec9095637007a121f7c6b75dd9ead52373018"

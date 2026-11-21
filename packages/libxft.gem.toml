@@ -1,0 +1,11 @@
+[package]
+name = "libxft"
+version = "2.3.9-1"
+license = "HPND-sell-variant"
+arch = "x86_64"
+description = "FreeType-based font drawing library for X"
+depends = ["fontconfig", "libxrender", "libx11", "freetype2", "glibc", "xorgproto"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libxft-2.3.9-1-x86_64.pkg.tar.zst"
+sha256 = "a7841ed8e67dc3f94eca4672c8961329dfdd6b67836f8ac720a246d3aab02ecb"

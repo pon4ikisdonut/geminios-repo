@@ -1,0 +1,11 @@
+[package]
+name = "eglexternalplatform"
+version = "1.2.1-1"
+license = "MIT"
+arch = "any"
+description = "EGL External Platform interface"
+depends = ["libegl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/eglexternalplatform-1.2.1-1-any.pkg.tar.zst"
+sha256 = "70dc6d52f6941b37b859eda84bbf3664dde531803a97a5c84c739283aeb64b8f"

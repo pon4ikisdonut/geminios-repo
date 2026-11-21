@@ -1,0 +1,11 @@
+[package]
+name = "portaudio"
+version = "1:19.7.0-4"
+license = "MIT"
+arch = "x86_64"
+description = "A free, cross-platform, open source, audio I/O library."
+depends = ["glibc", "libgcc", "libstdc++", "alsa-lib", "libasound.so", "jack", "libjack.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/portaudio-1:19.7.0-4-x86_64.pkg.tar.zst"
+sha256 = "ca2e6423a25820b8a2808ce933365680f38cb4af7875533af2902ade761379c2"

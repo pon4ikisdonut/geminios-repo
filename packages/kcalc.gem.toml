@@ -1,0 +1,11 @@
+[package]
+name = "kcalc"
+version = "26.08.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Scientific Calculator"
+depends = ["glibc", "gmp", "kcolorscheme", "kconfig", "kconfigwidgets", "kcoreaddons", "kcrash", "kguiaddons", "ki18n", "kiconthemes", "knotifications", "kwidgetsaddons", "kxmlgui", "libmpc", "libstdc++", "mpfr", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kcalc-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "6dd02bfcab2495da367163a48f3b42c0880b3f32a70ebb574f3d04fe632dd033"

@@ -1,0 +1,11 @@
+[package]
+name = "python-texttable"
+version = "1.7.3-1"
+license = "MIT"
+arch = "any"
+description = "Generate a formatted text table using ASCII characters"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-texttable-1.7.3-1-any.pkg.tar.zst"
+sha256 = "df858b2d651c54c914c7e13762ae9340657ae57492ee10d7eaa8c8a15229e25d"

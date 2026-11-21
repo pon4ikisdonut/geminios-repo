@@ -1,0 +1,11 @@
+[package]
+name = "chafa"
+version = "1.18.3-2"
+license = "LGPL-3.0-or-later"
+arch = "x86_64"
+description = "Image-to-text converter supporting a wide range of symbols and palettes, transparency, animations, etc."
+depends = ["libavif", "libheif", "libjxl", "librsvg", "libwebp", "libxslt"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/chafa-1.18.3-2-x86_64.pkg.tar.zst"
+sha256 = "f5b767a4f6eede2b786c9a688ef3dae6b9fffa329ec907ca1a87a7c4a33f5e1b"

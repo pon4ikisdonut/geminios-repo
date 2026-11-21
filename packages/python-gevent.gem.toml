@@ -1,0 +1,11 @@
+[package]
+name = "python-gevent"
+version = "26.9.0-1"
+license = "MIT"
+arch = "x86_64"
+description = "Python network library that uses greenlet and libenv for easy and scalable concurrency"
+depends = ["glibc", "c-ares", "libev", "libuv", "python-greenlet", "python-setuptools", "python-zope-event", "python-zope-interface"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-gevent-26.9.0-1-x86_64.pkg.tar.zst"
+sha256 = "02051652e68c77b45398dc7a770cab573017fe410ee4ff51897ed009855bdb85"

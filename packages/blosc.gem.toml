@@ -1,0 +1,11 @@
+[package]
+name = "blosc"
+version = "1.21.7-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "A blocking, shuffling and loss-less compression library"
+depends = ["glibc", "lz4", "snappy", "zlib", "zstd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/blosc-1.21.7-1-x86_64.pkg.tar.zst"
+sha256 = "887ce58e20a87bcef2d2dec859ed43e425fe72281e47f492810daef63836eb76"

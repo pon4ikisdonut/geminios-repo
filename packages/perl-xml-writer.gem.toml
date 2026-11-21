@@ -1,0 +1,11 @@
+[package]
+name = "perl-xml-writer"
+version = "0.900-6"
+license = "custom"
+arch = "any"
+description = "Module for writing XML documents"
+depends = ["perl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/perl-xml-writer-0.900-6-any.pkg.tar.zst"
+sha256 = "77bb48dd0e84d840fa9c000f20919df8cc818656088c81d94bd64ef992e5b96e"

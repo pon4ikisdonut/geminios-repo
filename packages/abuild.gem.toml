@@ -1,0 +1,11 @@
+[package]
+name = "abuild"
+version = "3.18.0-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Alpine build tools"
+depends = ["alpine-keyring", "busybox", "glibc", "pax-utils", "openssl", "apk-tools", "attr", "tar", "pkgconf", "lzip", "curl", "bubblewrap", "gettext", "git", "fakeroot"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/abuild-3.18.0-1-x86_64.pkg.tar.zst"
+sha256 = "82587da98b87d6ef061d4d017fdc75f59de80bcf8e89195124dd036d1958fe88"

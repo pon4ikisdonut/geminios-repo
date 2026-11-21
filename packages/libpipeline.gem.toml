@@ -1,0 +1,11 @@
+[package]
+name = "libpipeline"
+version = "1.5.8-1"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "a C library for manipulating pipelines of subprocesses in a flexible and convenient way"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/libpipeline-1.5.8-1-x86_64.pkg.tar.zst"
+sha256 = "35caa28ccb5f00d06f043a68004c406d4985dd4557669e972c7fafeb1af3be5f"

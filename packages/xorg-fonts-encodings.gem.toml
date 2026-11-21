@@ -1,0 +1,11 @@
+[package]
+name = "xorg-fonts-encodings"
+version = "1.1.0-2"
+license = "LicenseRef-xorg-fonts-encodings"
+arch = "any"
+description = "X.org font encoding files"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xorg-fonts-encodings-1.1.0-2-any.pkg.tar.zst"
+sha256 = "656df66ba73b7c9d84faf25465d64a4a81f5b67a7e16b8d8fe04599a311e6f8a"

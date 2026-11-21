@@ -1,0 +1,11 @@
+[package]
+name = "haskell-wai-logger"
+version = "2.5.1-7"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "A logging system for WAI"
+depends = ["ghc-libs", "haskell-byteorder", "haskell-fast-logger", "haskell-http-types", "haskell-network", "haskell-wai"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-wai-logger-2.5.1-7-x86_64.pkg.tar.zst"
+sha256 = "51da9dd8d46b139c6c43d20f6e30ad85eade5f84857d9c73e31a9f5ee0a36236"

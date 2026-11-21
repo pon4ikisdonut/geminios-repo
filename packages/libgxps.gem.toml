@@ -1,0 +1,11 @@
+[package]
+name = "libgxps"
+version = "0.3.2-5"
+license = "GPL2"
+arch = "x86_64"
+description = "XPS Documents library"
+depends = ["cairo", "freetype2", "glib2", "lcms2", "libarchive", "libjpeg-turbo", "libpng", "libtiff"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libgxps-0.3.2-5-x86_64.pkg.tar.zst"
+sha256 = "faf01b7294b2d7f7168872f547ff65ec10ea302bb3fb4b823aad7b331e80ce9a"

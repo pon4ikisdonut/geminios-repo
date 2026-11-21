@@ -1,0 +1,11 @@
+[package]
+name = "bash-completion"
+version = "2.18.0-1"
+license = "GPL-2.0-only"
+arch = "any"
+description = "Programmable completion for the bash shell"
+depends = ["bash"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/bash-completion-2.18.0-1-any.pkg.tar.zst"
+sha256 = "9cfeac46993b02fe6617bdaf826b7fead128657e2622d0442f4dc4395d3af952"

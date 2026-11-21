@@ -1,0 +1,11 @@
+[package]
+name = "findutils"
+version = "4.11.0-1"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "GNU utilities to locate files"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/findutils-4.11.0-1-x86_64.pkg.tar.zst"
+sha256 = "76ac56a7f03039d163306701e5c02777b9b7170ad5388e66e46c363dd2792edf"

@@ -1,0 +1,11 @@
+[package]
+name = "libdv"
+version = "1.0.0-12"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Decoder library for DV video"
+depends = ["glibc", "popt"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libdv-1.0.0-12-x86_64.pkg.tar.zst"
+sha256 = "7815939869bf655f5d36557e4fb1a60db93b6d3d3ad047951bd0bb88cd0cb376"

@@ -1,0 +1,11 @@
+[package]
+name = "qgpgme"
+version = "2.2.0-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Qt bindings for GPGME"
+depends = ["glibc", "gpgmepp", "libgcc", "libgcc_s.so", "libstdc++", "libstdc++.so", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qgpgme-2.2.0-1-x86_64.pkg.tar.zst"
+sha256 = "673116a47db1469aa9da3253f567ca153f7d741e6ecf48e8395a2b945dc54fa5"

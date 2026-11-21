@@ -1,0 +1,11 @@
+[package]
+name = "xdg-desktop-portal-gnome"
+version = "51.0-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Backend implementation for xdg-desktop-portal for the GNOME desktop environment"
+depends = ["cairo", "dconf", "fontconfig", "gdk-pixbuf2", "glib2", "glibc", "gnome-desktop-4", "graphene", "gtk4", "libadwaita", "libgcc", "libx11", "nautilus", "wayland", "xdg-desktop-portal", "xdg-desktop-portal-gtk"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xdg-desktop-portal-gnome-51.0-2-x86_64.pkg.tar.zst"
+sha256 = "87dfb6b56ad641aa7e31ae5f4444258fd60fa9204ed2adfe9f465f8c9d326658"

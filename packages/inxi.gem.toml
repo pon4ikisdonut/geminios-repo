@@ -1,0 +1,11 @@
+[package]
+name = "inxi"
+version = "3.3.41.1-2"
+license = "GPL-3.0-or-later"
+arch = "any"
+description = "Full featured CLI system information tool"
+depends = ["coreutils", "pciutils", "perl", "procps-ng", "util-linux"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/inxi-3.3.41.1-2-any.pkg.tar.zst"
+sha256 = "c0e39ea8bec043a1c97a04d25bd0e7093383c67353241a766d00dbd6608b8265"

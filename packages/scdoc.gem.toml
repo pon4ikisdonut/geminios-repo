@@ -1,0 +1,11 @@
+[package]
+name = "scdoc"
+version = "1.11.5-1"
+license = "MIT"
+arch = "x86_64"
+description = "Tool for generating roff manual pages"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/scdoc-1.11.5-1-x86_64.pkg.tar.zst"
+sha256 = "efec1d2aeef81e143495d8e1df31d51a32a3460989d65ef353ba9fa6c5fdca2a"

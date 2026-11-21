@@ -1,0 +1,11 @@
+[package]
+name = "bluez-libs"
+version = "5.88-1"
+license = "LGPL-2.1-only"
+arch = "x86_64"
+description = "Deprecated libraries for the bluetooth protocol stack"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/bluez-libs-5.88-1-x86_64.pkg.tar.zst"
+sha256 = "1d2815b9e414048ce8d054a6570b512228d3e3035183902ef549048a29de16a6"

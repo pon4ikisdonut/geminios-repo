@@ -1,0 +1,11 @@
+[package]
+name = "flex"
+version = "2.7.1-1"
+license = "custom:flex"
+arch = "x86_64"
+description = "A tool for generating text-scanning programs"
+depends = ["glibc", "m4", "sh"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/flex-2.7.1-1-x86_64.pkg.tar.zst"
+sha256 = "1ed69fdbfad11795c792e44b743c5b7071d75d291a9680a21b1ee83a4adbfde5"

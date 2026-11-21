@@ -1,0 +1,11 @@
+[package]
+name = "libfdk-aac"
+version = "3.0.0-1"
+license = "LicenseRef-Fraunhofer"
+arch = "x86_64"
+description = "Fraunhofer FDK AAC codec library"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libfdk-aac-3.0.0-1-x86_64.pkg.tar.zst"
+sha256 = "fad493b38fdfa190e0fea9c0521d273bddaf2e9fe70c5e3bb859b42e62071da3"

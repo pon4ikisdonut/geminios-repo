@@ -1,0 +1,11 @@
+[package]
+name = "gst-plugin-va"
+version = "1.28.9-3"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Multimedia graph framework - va plugin"
+depends = ["gst-plugins-bad-libs", "gst-plugins-base-libs", "gstreamer", "glib2", "glibc", "libgudev", "libva"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gst-plugin-va-1.28.9-3-x86_64.pkg.tar.zst"
+sha256 = "ce50c4b05b745d681a49daad42ce4dfa647b03ecd7772405cb31fadc3300dfb8"

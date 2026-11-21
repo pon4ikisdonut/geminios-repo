@@ -1,0 +1,11 @@
+[package]
+name = "google-glog"
+version = "0.7.1-2"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Logging library for C++"
+depends = ["gflags", "glibc", "libgcc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/google-glog-0.7.1-2-x86_64.pkg.tar.zst"
+sha256 = "f7ca48d3770c61207f67c00de1e0baa6ff298e76086528b2174ba9f9bc6a1b71"

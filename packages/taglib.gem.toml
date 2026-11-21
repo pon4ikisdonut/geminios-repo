@@ -1,0 +1,11 @@
+[package]
+name = "taglib"
+version = "2.3.2-1"
+license = "MPL-1.1"
+arch = "x86_64"
+description = "A Library for reading and editing the meta-data of several popular audio formats"
+depends = ["glibc", "libgcc", "libstdc++", "sh", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/taglib-2.3.2-1-x86_64.pkg.tar.zst"
+sha256 = "3dc1d3fabf9a8c12a5a48994e9a4b543f23596b10e0f8ad9d73db771ef854908"

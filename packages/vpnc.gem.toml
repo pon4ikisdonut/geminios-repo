@@ -1,0 +1,11 @@
+[package]
+name = "vpnc"
+version = "1:0.5.3.r557.r241-2"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "VPN client for cisco3000 VPN Concentrators"
+depends = ["bash", "glibc", "iproute2", "libgcrypt", "openssl", "perl", "which"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vpnc-1:0.5.3.r557.r241-2-x86_64.pkg.tar.zst"
+sha256 = "59981e5128aaadae2b6b85bf7bd95a2d24d1782c42c5bdd541283f3b6080ea26"

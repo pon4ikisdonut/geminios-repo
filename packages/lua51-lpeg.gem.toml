@@ -1,0 +1,11 @@
+[package]
+name = "lua51-lpeg"
+version = "1.1.0-5"
+license = "MIT"
+arch = "x86_64"
+description = "Parsing Expression Grammars For Lua for Lua 5.1"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/lua51-lpeg-1.1.0-5-x86_64.pkg.tar.zst"
+sha256 = "d582286d8afe1f05ee9928c23bfc6b08d4f03c192cce4107cbec11f4e47b572c"

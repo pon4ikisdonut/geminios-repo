@@ -1,0 +1,11 @@
+[package]
+name = "cryptsetup"
+version = "2.8.8-2"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Userspace setup tool for transparent encryption of block devices using dm-crypt"
+depends = ["device-mapper", "libdevmapper.so", "glibc", "openssl", "libcrypto.so", "popt", "util-linux-libs", "libblkid.so", "libuuid.so", "json-c", "libjson-c.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/cryptsetup-2.8.8-2-x86_64.pkg.tar.zst"
+sha256 = "014f8ef0a1398c33a6f2f83729c615efdb70add92f9a277340477b02569d1f2d"

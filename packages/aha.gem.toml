@@ -1,0 +1,11 @@
+[package]
+name = "aha"
+version = "0.5.1-3"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Ansi HTML Adapter: convert ANSI escape sequences to HTML"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/aha-0.5.1-3-x86_64.pkg.tar.zst"
+sha256 = "e18f0b646aa799243130401612f7576bc5351e0b2122abb6b20281a275a62f6b"

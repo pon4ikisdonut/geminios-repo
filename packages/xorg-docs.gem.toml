@@ -1,0 +1,11 @@
+[package]
+name = "xorg-docs"
+version = "1.7.3-3"
+license = "MIT AND X11 AND BSD-2-Clause"
+arch = "any"
+description = "X.org documentations"
+depends = ["man"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xorg-docs-1.7.3-3-any.pkg.tar.zst"
+sha256 = "c14aa44ce828da68f8b2e336f8a06ca91baa057af124dd842950255a5c9f8a2e"

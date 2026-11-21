@@ -1,0 +1,11 @@
+[package]
+name = "assimp"
+version = "6.0.6-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Library to import various well-known 3D model formats in an uniform manner"
+depends = ["zlib", "glibc", "libgcc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/assimp-6.0.6-1-x86_64.pkg.tar.zst"
+sha256 = "32aa7d89516e21fc6dc65e3020c4e743fb867c3f34c3a1bd265d907ce347e371"

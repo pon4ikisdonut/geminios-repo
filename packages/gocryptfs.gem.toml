@@ -1,0 +1,11 @@
+[package]
+name = "gocryptfs"
+version = "2.7.0-1"
+license = "MIT"
+arch = "x86_64"
+description = "Encrypted overlay filesystem written in Go."
+depends = ["glibc", "openssl", "fuse3"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gocryptfs-2.7.0-1-x86_64.pkg.tar.zst"
+sha256 = "ffe764a7045c189aeb06be5ffcc88110d23623c3139b7bcdb6a8326be4a91a7c"

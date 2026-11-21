@@ -1,0 +1,11 @@
+[package]
+name = "libwpg"
+version = "0.3.4-3"
+license = "LGPL-2.1-or-later OR MPL-2.0"
+arch = "x86_64"
+description = "Library for importing and converting Corel WordPerfect(tm) Graphics images."
+depends = ["libwpd", "perl", "librevenge", "glibc", "libstdc++", "libgcc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libwpg-0.3.4-3-x86_64.pkg.tar.zst"
+sha256 = "f92a3797252df1b37859c02672cd6f4afffc077b2c3801a33238659a8187833e"

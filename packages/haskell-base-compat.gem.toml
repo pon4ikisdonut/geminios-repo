@@ -1,0 +1,11 @@
+[package]
+name = "haskell-base-compat"
+version = "0.14.1-4"
+license = "MIT"
+arch = "x86_64"
+description = "A compatibility layer for base"
+depends = ["ghc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-base-compat-0.14.1-4-x86_64.pkg.tar.zst"
+sha256 = "548783680d162d7a60c88d912356fb3687843c67153a87d459cc542621ba409a"

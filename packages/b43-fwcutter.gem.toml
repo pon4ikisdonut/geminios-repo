@@ -1,0 +1,11 @@
+[package]
+name = "b43-fwcutter"
+version = "021-1"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "firmware extractor for the b43 kernel module"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/b43-fwcutter-021-1-x86_64.pkg.tar.zst"
+sha256 = "f29e501dca30850cd28c9e8a645347a812f3276ae9030b6d2262869a00a4311e"

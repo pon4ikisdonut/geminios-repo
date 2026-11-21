@@ -1,0 +1,11 @@
+[package]
+name = "hsa-rocr"
+version = "10.1-1"
+license = "NCSA"
+arch = "x86_64"
+description = "HSA Runtime API and runtime for ROCm"
+depends = ["glibc", "libdrm", "libelf", "libgcc", "numactl", "pciutils", "rocm-core", "rocm-device-libs", "rocprofiler-register"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/hsa-rocr-10.1-1-x86_64.pkg.tar.zst"
+sha256 = "0bc40b5a2322c7e1255a3fd2cdb5746ff1cfd7e4bcf7bf36adb228f8dee62efe"

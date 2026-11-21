@@ -1,0 +1,11 @@
+[package]
+name = "haskell-split"
+version = "0.2.5.1-46"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Combinator library for splitting lists."
+depends = ["ghc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-split-0.2.5.1-46-x86_64.pkg.tar.zst"
+sha256 = "cbc968140cc73c1d6705615051f815f9cf594b329d08aefda1a2b4522625459d"

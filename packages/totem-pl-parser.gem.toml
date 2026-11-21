@@ -1,0 +1,11 @@
+[package]
+name = "totem-pl-parser"
+version = "3.26.7-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Simple GObject-based library to parse and save a host of playlist formats"
+depends = ["glib2", "glibc", "libarchive", "libgcc", "libgcrypt", "libxml2", "uchardet"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/totem-pl-parser-3.26.7-1-x86_64.pkg.tar.zst"
+sha256 = "a9e530a036c3a337d5ccea670cd148ef5b8d318052fc158ba2780dfa2e6dde96"

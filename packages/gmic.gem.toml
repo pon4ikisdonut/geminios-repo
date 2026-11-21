@@ -1,0 +1,11 @@
+[package]
+name = "gmic"
+version = "4.0.8-1"
+license = "CECILL-C"
+arch = "x86_64"
+description = "GREYC's Magic Image Converter: image processing framework"
+depends = ["fftw", "glibc", "libgcc", "libgomp", "libstdc++", "libx11", "zlib", "curl", "graphicsmagick", "imath", "libjpeg-turbo", "libpng", "libtiff", "opencv", "openexr"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gmic-4.0.8-1-x86_64.pkg.tar.zst"
+sha256 = "89702636f631994e4ec04175aaffbac5ba8452678d370400b461a635d5090492"

@@ -1,0 +1,11 @@
+[package]
+name = "haskell-cereal"
+version = "0.5.8.3-6"
+license = "BSD"
+arch = "x86_64"
+description = "A binary serialization library"
+depends = ["ghc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-cereal-0.5.8.3-6-x86_64.pkg.tar.zst"
+sha256 = "83ba635bbbf4943c7e5ab674e8b79a4b2add5abc5d6d94f3ac8395e349fded5f"

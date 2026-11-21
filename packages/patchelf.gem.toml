@@ -1,0 +1,11 @@
+[package]
+name = "patchelf"
+version = "0.19.3-1"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "Small utility to modify the dynamic linker and RPATH of ELF executables"
+depends = ["libgcc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/patchelf-0.19.3-1-x86_64.pkg.tar.zst"
+sha256 = "e7ce2ec6519704de0ca3695ff4697f8a9514726d7cb34b43f5d90ab468909f40"

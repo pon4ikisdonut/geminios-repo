@@ -1,0 +1,11 @@
+[package]
+name = "intel-ucode"
+version = "20261110-1"
+license = "custom"
+arch = "any"
+description = "Microcode update files for Intel CPUs"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/intel-ucode-20261110-1-any.pkg.tar.zst"
+sha256 = "75e6e9bdcf6a5521cb7eedcee45095458b9cfc64fa6b741e45fce68a00d6be2f"

@@ -1,0 +1,11 @@
+[package]
+name = "vulkan-intel"
+version = "1:26.3.1-2"
+license = "MIT AND BSD-3-Clause AND SGI-B-2.0"
+arch = "x86_64"
+description = "Open-source Vulkan driver for Intel GPUs"
+depends = ["expat", "glibc", "libdisplay-info", "libdrm", "libgcc", "libstdc++", "libx11", "libxcb", "libxshmfence", "spirv-tools", "systemd-libs", "vulkan-icd-loader", "vulkan-mesa-implicit-layers", "wayland", "xcb-util-keysyms", "zlib", "zstd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vulkan-intel-1:26.3.1-2-x86_64.pkg.tar.zst"
+sha256 = "8d077a212da872a5bededbfea9fc501ecfb4d3753676f60897df5a2cf95a00c1"

@@ -1,0 +1,11 @@
+[package]
+name = "haskell-generics-sop"
+version = "0.5.1.4-5"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Generic Programming using True Sums of Products"
+depends = ["ghc-libs", "haskell-sop-core", "haskell-th-abstraction"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-generics-sop-0.5.1.4-5-x86_64.pkg.tar.zst"
+sha256 = "2c96b527b630f5529e2b83756d4d7ed350bfc6d056fda92761edb0a4c52795d9"

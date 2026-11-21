@@ -1,0 +1,11 @@
+[package]
+name = "cef"
+version = "156.0.30-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Chromium Embedded Framework (CEF), simple framework for embedding Chromium-based browsers in other applications"
+depends = ["alsa-lib", "at-spi2-core", "dbus", "libdrm", "libffi", "libpulse", "libxcomposite", "libxdamage", "libxkbcommon", "libxrandr", "mesa", "nss", "pango", "systemd-libs", "fontconfig", "brotli", "libjpeg-turbo", "openh264", "simdutf", "highway", "dav1d", "flac", "libdrm", "libxml2", "zstd", "libwebp", "minizip", "opus", "double-conversion", "libxslt", "harfbuzz", "freetype2"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/cef-156.0.30-1-x86_64.pkg.tar.zst"
+sha256 = "2c5abc341dc86cc74644e9c3568248822e2dbf21f70d0e9e6e9141985bc0c929"

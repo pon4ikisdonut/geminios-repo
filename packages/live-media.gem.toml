@@ -1,0 +1,11 @@
+[package]
+name = "live-media"
+version = "2026.10.24-1"
+license = "LGPL"
+arch = "x86_64"
+description = "Set of C++ libraries for multimedia streaming"
+depends = ["libgcc", "libstdc++", "openssl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/live-media-2026.10.24-1-x86_64.pkg.tar.zst"
+sha256 = "bbb66adbae4e0d2adc2340727a977b2a35fc31b561728def57c841e0ffbcb618"

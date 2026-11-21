@@ -1,0 +1,11 @@
+[package]
+name = "lib2geom"
+version = "1.4-3"
+license = "GPL"
+arch = "x86_64"
+description = "Easy to use 2D geometry library in C++"
+depends = ["glib2", "gsl", "double-conversion", "cairo"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/lib2geom-1.4-3-x86_64.pkg.tar.zst"
+sha256 = "80ed9f489f5e4629e06f39e71b33248415aee562a1db661914b54b9300c91df9"

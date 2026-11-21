@@ -1,0 +1,11 @@
+[package]
+name = "haskell-integer-conversion"
+version = "0.1.1-126"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Conversion from strings to Integer"
+depends = ["ghc-libs", "haskell-primitive"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-integer-conversion-0.1.1-126-x86_64.pkg.tar.zst"
+sha256 = "b2505adce7d924aa6bb71f8970b56996e74dcfce171111c69d335f3dd48acd5c"

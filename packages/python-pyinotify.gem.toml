@@ -1,0 +1,11 @@
+[package]
+name = "python-pyinotify"
+version = "0.9.6-16"
+license = "MIT"
+arch = "any"
+description = "Python module used for monitoring filesystems events on Linux platforms with inotify."
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-pyinotify-0.9.6-16-any.pkg.tar.zst"
+sha256 = "d6a747d57be0b3d252345e4c68a03f86a7286ed8baaa779abee45a7c3176d04a"

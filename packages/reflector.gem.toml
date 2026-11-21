@@ -1,0 +1,11 @@
+[package]
+name = "reflector"
+version = "2023-5"
+license = "GPL-2.0-only"
+arch = "any"
+description = "A Python 3 module and script to retrieve and filter the latest Pacman mirror list."
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/reflector-2023-5-any.pkg.tar.zst"
+sha256 = "447965cc806bf623b7abd33117e8dfd8f49d14d2a361d48134f28a4c1bc93cff"

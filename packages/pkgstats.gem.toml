@@ -1,0 +1,11 @@
+[package]
+name = "pkgstats"
+version = "3.5.7-1"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "Submit a list of installed packages to the Arch Linux project"
+depends = ["glibc", "systemd", "ca-certificates"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/pkgstats-3.5.7-1-x86_64.pkg.tar.zst"
+sha256 = "15a9ed502b11cea332701044c44fbcd463564102441786b851d39af7f213adf3"

@@ -1,0 +1,11 @@
+[package]
+name = "colord-gtk-common"
+version = "0.3.1-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Additional GTK support code for colord - common files"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/colord-gtk-common-0.3.1-1-x86_64.pkg.tar.zst"
+sha256 = "6faa5c34c7c3fee8fd749840b7348caf4f8bb6b32a16a86c828419f05346296f"

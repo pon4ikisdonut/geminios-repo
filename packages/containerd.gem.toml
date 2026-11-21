@@ -1,0 +1,11 @@
+[package]
+name = "containerd"
+version = "2.4.2-1"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "An open and reliable container runtime"
+depends = ["runc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/containerd-2.4.2-1-x86_64.pkg.tar.zst"
+sha256 = "e5425cc991142f5181da0b6c44499e7d5ed2cfdad947006664f05add75fe7034"

@@ -1,0 +1,11 @@
+[package]
+name = "haskell-assoc"
+version = "1.1.1-44"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "swap and assoc: Symmetric and Semigroupy Bifunctors"
+depends = ["ghc-libs", "haskell-tagged"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-assoc-1.1.1-44-x86_64.pkg.tar.zst"
+sha256 = "e0430aa45090d7828343e0d73af7d7f0857d593a35e9972fa14ea249afd54ff6"

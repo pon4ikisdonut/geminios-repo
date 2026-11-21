@@ -1,0 +1,11 @@
+[package]
+name = "qt6-base"
+version = "6.12.0-5"
+license = "Qt-GPL-exception-1.0"
+arch = "x86_64"
+description = "A cross-platform application and UI framework"
+depends = ["brotli", "dbus", "double-conversion", "fontconfig", "freetype2", "glib2", "glibc", "harfbuzz", "icu", "krb5", "libb2", "libcups", "libdrm", "libgcc", "libgl", "libice", "libinput", "libjpeg-turbo", "libpng", "libproxy", "libsm", "libstdc++", "liburing", "libx11", "libxcb", "libxkbcommon", "libxkbcommon-x11", "md4c", "mesa", "mtdev", "openssl", "pcre2", "shared-mime-info", "sqlite", "systemd-libs", "tslib", "wayland", "xcb-util-cursor", "xcb-util-image", "xcb-util-keysyms", "xcb-util-renderutil", "xcb-util-wm", "xdg-utils", "zlib", "zstd", "qt6-translations"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qt6-base-6.12.0-5-x86_64.pkg.tar.zst"
+sha256 = "2b0415667846cb8aacd821bd43c1862f38b7409cbe3b7f85c25913bcf26bca62"

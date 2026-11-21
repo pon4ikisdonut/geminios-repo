@@ -1,0 +1,11 @@
+[package]
+name = "appstream"
+version = "1.2.3-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Provides a standard for creating app stores across distributions"
+depends = ["cairo", "curl", "fontconfig", "freetype2", "glib2", "glibc", "libblake3", "libfyaml", "libgcc", "libstemmer", "libvips", "libxml2", "libxmlb", "pango", "systemd-libs", "zstd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/appstream-1.2.3-1-x86_64.pkg.tar.zst"
+sha256 = "2fda15fa1f4bf6bb5761340c81a2bc0d39eea2702d4640be02d653085c1ec849"

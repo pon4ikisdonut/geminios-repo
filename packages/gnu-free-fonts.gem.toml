@@ -1,0 +1,11 @@
+[package]
+name = "gnu-free-fonts"
+version = "20120503-9"
+license = "GPL-3.0-or-later"
+arch = "any"
+description = "A free family of scalable outline fonts"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gnu-free-fonts-20120503-9-any.pkg.tar.zst"
+sha256 = "d35b949c4e036647b72e2b3cf337959b7fa85d9e3fcd83daee0e00dba0842014"

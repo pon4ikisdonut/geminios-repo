@@ -1,0 +1,11 @@
+[package]
+name = "redland"
+version = "1:1.0.17-10"
+license = "LGPL-2.1-or-later OR Apache-2.0"
+arch = "x86_64"
+description = "Library that provides a high-level interface to RDF data"
+depends = ["rasqal", "raptor", "libltdl", "sh", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/redland-1:1.0.17-10-x86_64.pkg.tar.zst"
+sha256 = "c45fbf6244f66616c3b09eb2eb6cdaedb549763b6eedfed293a713d417c3e7ec"

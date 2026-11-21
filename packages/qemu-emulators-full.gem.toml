@@ -1,0 +1,11 @@
+[package]
+name = "qemu-emulators-full"
+version = "11.1.3-1"
+license = "MIT"
+arch = "x86_64"
+description = "All QEMU user mode and system emulators"
+depends = ["qemu-system-aarch64", "qemu-system-alpha", "qemu-system-arm", "qemu-system-avr", "qemu-system-hexagon", "qemu-system-hppa", "qemu-system-loongarch64", "qemu-system-m68k", "qemu-system-microblaze", "qemu-system-mips", "qemu-system-or1k", "qemu-system-ppc", "qemu-system-riscv", "qemu-system-rx", "qemu-system-s390x", "qemu-system-sh4", "qemu-system-sparc", "qemu-system-tricore", "qemu-system-x86", "qemu-system-xtensa", "qemu-user"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qemu-emulators-full-11.1.3-1-x86_64.pkg.tar.zst"
+sha256 = "7dcf1d6dfc01b9f00ac0f916954c0d22ae8ae042ed808e0d416d22d07f23d61c"

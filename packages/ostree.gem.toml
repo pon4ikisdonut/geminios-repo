@@ -1,0 +1,11 @@
+[package]
+name = "ostree"
+version = "2026.6-2"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Operating system and container binary deployment and upgrades"
+depends = ["bash", "composefs", "fuse3", "glibc", "libgcc", "libgpg-error", "libsodium", "sh", "util-linux", "which", "zlib", "avahi", "libavahi-client.so", "libavahi-common.so", "libavahi-glib.so", "curl", "libcurl.so", "glib2", "libgio-2.0.so", "libglib-2.0.so", "libgobject-2.0.so", "gpgme", "libgpgme.so", "libarchive", "libarchive.so", "openssl", "libcrypto.so", "systemd-libs", "libsystemd.so", "xz", "liblzma.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ostree-2026.6-2-x86_64.pkg.tar.zst"
+sha256 = "581062c71e2549cc3af9a18e47e412c0070e80e9d45f7043852620347398e288"

@@ -1,0 +1,11 @@
+[package]
+name = "woff2"
+version = "1.0.2-7"
+license = "MIT"
+arch = "x86_64"
+description = "Web Open Font Format 2 reference implementation"
+depends = ["brotli", "glibc", "libgcc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/woff2-1.0.2-7-x86_64.pkg.tar.zst"
+sha256 = "49679d0375b2cd13677b5757073e167e54a82e4e01e4b588f55f13a0c1bfbe57"

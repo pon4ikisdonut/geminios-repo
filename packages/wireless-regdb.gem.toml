@@ -1,0 +1,11 @@
+[package]
+name = "wireless-regdb"
+version = "2026.09.03-1"
+license = "LicenseRef-custom"
+arch = "any"
+description = "Central Regulatory Domain Database"
+depends = ["bash", "iw"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/wireless-regdb-2026.09.03-1-any.pkg.tar.zst"
+sha256 = "e2649b989481da296a5a1793c3375d136ea27ed3faa4025b898a7119b213f823"

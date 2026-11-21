@@ -1,0 +1,11 @@
+[package]
+name = "plasma-disks"
+version = "6.8.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Monitors S.M.A.R.T. capable devices for imminent failure"
+depends = ["glibc", "kauth", "kcmutils", "kconfig", "kcoreaddons", "kdbusaddons", "kdeclarative", "ki18n", "kinfocenter", "kio", "kirigami", "knotifications", "kservice", "libstdc++", "qt6-base", "qt6-declarative", "smartmontools", "solid"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/plasma-disks-6.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "6ed882ca1d58d1cb1eafe6d8fb355536a3a72bb2f944f9173b4fcc3b30ee972f"

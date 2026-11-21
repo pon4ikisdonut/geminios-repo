@@ -1,0 +1,11 @@
+[package]
+name = "flashrom"
+version = "1.8.0-2"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Utility for reading, writing, erasing and verifying flash ROM chips"
+depends = ["libcrypto.so", "libftdi", "libusb", "pciutils"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/flashrom-1.8.0-2-x86_64.pkg.tar.zst"
+sha256 = "a7f6a14e85d8eb00f430f7cd140f4bcacd832d55e8c6e53b43bf67091367e410"

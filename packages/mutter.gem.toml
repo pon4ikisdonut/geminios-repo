@@ -1,0 +1,11 @@
+[package]
+name = "mutter"
+version = "51.1-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Window manager and compositor for GNOME"
+depends = ["at-spi2-core", "cairo", "colord", "dconf", "egl-wayland", "fontconfig", "fribidi", "gdk-pixbuf2", "glib2", "glibc", "glycin", "gnome-desktop-4", "gnome-settings-daemon", "graphene", "gsettings-desktop-schemas", "gtk4", "harfbuzz", "iio-sensor-proxy", "lcms2", "libcanberra", "libcolord", "libdisplay-info", "libdrm", "libei", "libgcc", "libgirepository", "libglvnd", "libgudev", "libinput", "libpipewire", "libsysprof-capture", "libwacom", "libx11", "libxau", "libxcb", "libxcomposite", "libxcursor", "libxdamage", "libxext", "libxfixes", "libxi", "libxinerama", "libxkbcommon", "libxrandr", "mesa", "pango", "pipewire", "pixman", "python", "python-argcomplete", "python-dbus", "python-gobject", "startup-notification", "systemd-libs", "wayland", "xorg-xwayland"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/mutter-51.1-1-x86_64.pkg.tar.zst"
+sha256 = "aeed82eb1346b2422613b29b10b1599e3e055528cd47a48170c85ee12cfa739e"

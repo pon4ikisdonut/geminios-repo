@@ -1,0 +1,11 @@
+[package]
+name = "sed"
+version = "4.10-2"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "GNU stream editor"
+depends = ["glibc", "acl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/sed-4.10-2-x86_64.pkg.tar.zst"
+sha256 = "90733f34fe5791b554b935998df858350bcea53061257dba06829ce3533f8e01"

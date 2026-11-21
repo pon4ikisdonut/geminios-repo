@@ -1,0 +1,11 @@
+[package]
+name = "openpmix"
+version = "5.0.11-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Extended version of the PMI standard"
+depends = ["glibc", "hwloc", "libevent", "libevent_core-2.1.so", "libevent_pthreads-2.1.so", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/openpmix-5.0.11-1-x86_64.pkg.tar.zst"
+sha256 = "723e5a49b3fc10d7a90878df757573fa937cc3b7143e307da8487705f0d92c7b"

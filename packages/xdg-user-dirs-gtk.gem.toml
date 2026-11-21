@@ -1,0 +1,11 @@
+[package]
+name = "xdg-user-dirs-gtk"
+version = "0.16-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Creates user dirs and asks to relocalize them"
+depends = ["glib2", "glibc", "gtk3", "xdg-user-dirs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xdg-user-dirs-gtk-0.16-1-x86_64.pkg.tar.zst"
+sha256 = "5579674821b9fc97756e2c0f47e17a5ed032fd1fca5735a74c2170e23464a3c2"

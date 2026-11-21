@@ -1,0 +1,11 @@
+[package]
+name = "ttf-droid"
+version = "20121017-11"
+license = "Apache"
+arch = "any"
+description = "General-purpose fonts released by Google as part of Android"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ttf-droid-20121017-11-any.pkg.tar.zst"
+sha256 = "f71f77cfc7b8596df28a5cac2044c53f2d5a5c312cae08bf9f0796d85b0d9dd9"

@@ -1,0 +1,11 @@
+[package]
+name = "power-profiles-daemon"
+version = "0.30-1"
+license = "GPL-3.0-only"
+arch = "x86_64"
+description = "Makes power profiles handling available over D-Bus"
+depends = ["gcc-libs", "glib2", "glibc", "libgudev", "polkit", "upower"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/power-profiles-daemon-0.30-1-x86_64.pkg.tar.zst"
+sha256 = "507838f7040584f735cf9ae5ed1ae1ef4bd1fe21b5840e6ed4770cc8b612f588"

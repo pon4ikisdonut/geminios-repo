@@ -1,0 +1,11 @@
+[package]
+name = "luit"
+version = "20260907-1"
+license = "MIT"
+arch = "x86_64"
+description = "Filter that can be run between an arbitrary application and a UTF-8 terminal emulator"
+depends = ["libfontenc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/luit-20260907-1-x86_64.pkg.tar.zst"
+sha256 = "f30f23d1292a79900b69bca9bff1165ef09c99e257cadc6a1de813124bb315c0"

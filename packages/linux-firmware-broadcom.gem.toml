@@ -1,0 +1,11 @@
+[package]
+name = "linux-firmware-broadcom"
+version = "20261019-1"
+license = "LicenseRef-broadcom"
+arch = "any"
+description = "Firmware files for Linux - Firmware for Broadcom and Cypress network adapters"
+depends = ["linux-firmware-whence"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/linux-firmware-broadcom-20261019-1-any.pkg.tar.zst"
+sha256 = "901efc603f0a7dd877b5b4b2f957af6ae47205cdbf92f19609da39af796a25eb"

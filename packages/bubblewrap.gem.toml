@@ -1,0 +1,11 @@
+[package]
+name = "bubblewrap"
+version = "0.13.1-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Unprivileged sandboxing tool"
+depends = ["glibc", "libcap", "libgcc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/bubblewrap-0.13.1-1-x86_64.pkg.tar.zst"
+sha256 = "f0efc4e02138b1b1f0719f37008da58b03213122d4881cfe949681fcbd72b36e"

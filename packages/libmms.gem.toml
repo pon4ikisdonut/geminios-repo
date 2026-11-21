@@ -1,0 +1,11 @@
+[package]
+name = "libmms"
+version = "0.6.4-6"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "MMS stream protocol library"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libmms-0.6.4-6-x86_64.pkg.tar.zst"
+sha256 = "2e85a8e2e28772a0680460188a42ce4dcd377b96c529820e462e84b72c5e0932"

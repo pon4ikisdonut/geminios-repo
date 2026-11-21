@@ -1,0 +1,11 @@
+[package]
+name = "python-dulwich"
+version = "1.2.14-1"
+license = "Apache-2.0 OR GPL-2.0-or-later"
+arch = "x86_64"
+description = "Pure-Python implementation of the Git file formats and protocols"
+depends = ["python", "python-urllib3"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-dulwich-1.2.14-1-x86_64.pkg.tar.zst"
+sha256 = "6650c8187698040809f3526abaa537de8f28746f840b521f4b0d81ddd87068c5"

@@ -1,0 +1,11 @@
+[package]
+name = "python-poetry"
+version = "2.5.1-2"
+license = "MIT"
+arch = "any"
+description = "Python dependency management and packaging made easy"
+depends = ["python", "python-build", "python-cachecontrol", "python-cachy", "python-cleo", "python-dulwich", "python-fastjsonschema", "python-filelock", "python-findpython", "python-html5lib", "python-installer", "python-jsonschema", "python-keyring", "python-packaging", "python-pbs-installer", "python-pexpect", "python-pkginfo", "python-platformdirs", "python-poetry-core", "python-poetry-plugin-export", "python-pyproject-hooks", "python-requests", "python-requests-toolbelt", "python-shellingham", "python-tomlkit", "python-trove-classifiers", "python-urllib3", "python-virtualenv"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-poetry-2.5.1-2-any.pkg.tar.zst"
+sha256 = "dfe1da2e97da9fcef88c85fd5a4f99c7347af63eabb33a811d340d20aa8b02d4"

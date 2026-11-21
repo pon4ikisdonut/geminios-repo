@@ -1,0 +1,11 @@
+[package]
+name = "xorg-xcursorgen"
+version = "1.0.9-1"
+license = "HPND-sell-variant"
+arch = "x86_64"
+description = "Create an X cursor file from PNG images"
+depends = ["libx11", "libxcursor", "libpng", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xorg-xcursorgen-1.0.9-1-x86_64.pkg.tar.zst"
+sha256 = "20345de8939c4c765119c25996d3e83fc3bdf3c45d989536bd20ed4e0cda5099"

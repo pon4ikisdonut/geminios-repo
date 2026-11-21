@@ -1,0 +1,11 @@
+[package]
+name = "python-html5-parser"
+version = "0.5.0-1"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "Fast C based HTML 5 parsing for python"
+depends = ["python-chardet", "python-lxml"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-html5-parser-0.5.0-1-x86_64.pkg.tar.zst"
+sha256 = "5ecaa0fd275e8dc002a23587486b834dc0a8742f80b20bba35e0e96b4b1ce0a1"

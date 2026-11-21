@@ -1,0 +1,11 @@
+[package]
+name = "python-gmpy2"
+version = "2.3.2-1"
+license = "LGPL-2.1-only"
+arch = "x86_64"
+description = "Provides C-coded Python modules for fast multiple-precision arithmetic"
+depends = ["glibc", "gmp", "libmpc", "mpfr", "python", "python-packaging"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-gmpy2-2.3.2-1-x86_64.pkg.tar.zst"
+sha256 = "cabd744185ee64c231aa00adf3c643778a5296060bff60215e5841c8a07ddc2b"

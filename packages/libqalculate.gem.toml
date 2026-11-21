@@ -1,0 +1,11 @@
+[package]
+name = "libqalculate"
+version = "5.13.2-1"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "Multi-purpose desktop calculator"
+depends = ["curl", "icu", "glibc", "gmp", "libgcc", "libstdc++", "libxml2", "mpfr", "readline"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libqalculate-5.13.2-1-x86_64.pkg.tar.zst"
+sha256 = "ac95d08aa2e829aea1cd022d9062ce0cb4b0ef156a49ed18ca8605fdc9b73c1f"

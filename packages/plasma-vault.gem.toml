@@ -1,0 +1,11 @@
+[package]
+name = "plasma-vault"
+version = "6.8.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Plasma applet and services for creating encrypted vaults"
+depends = ["fuse3", "glibc", "gocryptfs", "kconfig", "kcoreaddons", "kdbusaddons", "ki18n", "kio", "kirigami", "kitemmodels", "kservice", "kwidgetsaddons", "libgcc", "libksysguard", "libplasma", "libstdc++", "networkmanager-qt", "plasma-activities", "plasma-workspace", "qt6-base", "qt6-declarative"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/plasma-vault-6.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "25cf73575f7a298c4c0d3d66025163d21ea1b49ecba513fe75dd19645b6134f7"

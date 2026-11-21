@@ -1,0 +1,11 @@
+[package]
+name = "mako"
+version = "1.11.0-1"
+license = "MIT"
+arch = "x86_64"
+description = "Lightweight notification daemon for Wayland"
+depends = ["cairo", "gdk-pixbuf2", "glib2", "glibc", "pango", "systemd-libs", "wayland"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/mako-1.11.0-1-x86_64.pkg.tar.zst"
+sha256 = "6d05647c340729a93d787a7c9adbd1ae20d944dc8f1b464f1c7075767b3ae727"

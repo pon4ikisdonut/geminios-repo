@@ -1,0 +1,11 @@
+[package]
+name = "jre8-openjdk-headless"
+version = "8.514.u01-1"
+license = "LicenseRef-Java"
+arch = "x86_64"
+description = "OpenJDK Java 8 headless runtime environment"
+depends = ["java-runtime-common", "ca-certificates-utils", "nss"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/jre8-openjdk-headless-8.514.u01-1-x86_64.pkg.tar.zst"
+sha256 = "c4297fd303224f04ba622ed735978527b37bc4a6d666e89fc38079fc7ef81e8c"

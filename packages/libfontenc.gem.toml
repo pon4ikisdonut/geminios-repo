@@ -1,0 +1,11 @@
+[package]
+name = "libfontenc"
+version = "1.1.10-1"
+license = "MIT"
+arch = "x86_64"
+description = "X11 font encoding library"
+depends = ["zlib", "glibc", "xorg-fonts-encodings"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libfontenc-1.1.10-1-x86_64.pkg.tar.zst"
+sha256 = "d9f91015306eec5167f1573173a5df1ce6621bb59e36d9f97d5a753b797a0463"

@@ -1,0 +1,11 @@
+[package]
+name = "kbookmarks"
+version = "6.32.0-1"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "Support for bookmarks and the XBEL format"
+depends = ["glibc", "libstdc++", "kconfig", "kcoreaddons", "kwidgetsaddons", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kbookmarks-6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "55f4efe1d04a79851851286f29f7127b45cafc8fb03be1dc5918ba35202f3240"

@@ -1,0 +1,11 @@
+[package]
+name = "perl-io-tty"
+version = "1.31-2"
+license = "Artistic-1.0-Perl"
+arch = "x86_64"
+description = "Provide an interface to TTYs and PTYs"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/perl-io-tty-1.31-2-x86_64.pkg.tar.zst"
+sha256 = "9e4234ad4334f0766089305599ba2910bba6453b27bcf683e462fc9a94bf95a8"

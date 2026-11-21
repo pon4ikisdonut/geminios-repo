@@ -1,0 +1,11 @@
+[package]
+name = "raptor"
+version = "2.0.16-9"
+license = "Apache-2.0 OR GPL-2.0-or-later OR LGPL-2.1-or-later"
+arch = "x86_64"
+description = "A C library that parses RDF/XML/N-Triples into RDF triples"
+depends = ["glibc", "libxml2", "libxslt", "curl", "libcurl.so", "icu", "libicuuc.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/raptor-2.0.16-9-x86_64.pkg.tar.zst"
+sha256 = "3c4ef69bf9e8c3704fa6931a5a07da3fee88241b55c65a06c47697abb97034ae"

@@ -1,0 +1,11 @@
+[package]
+name = "ksanecore"
+version = "26.08.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Library providing logic to interface scanners"
+depends = ["glibc", "ki18n", "libstdc++", "qt6-base", "sane"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ksanecore-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "eea4100b170a5b2a3445acfe84bb69116d48398963a062159155f3c8dbd60b69"

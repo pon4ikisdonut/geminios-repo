@@ -1,0 +1,11 @@
+[package]
+name = "python-markupsafe"
+version = "3.0.4-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Implements a XML/HTML/XHTML Markup safe string for Python"
+depends = ["glibc", "python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-markupsafe-3.0.4-1-x86_64.pkg.tar.zst"
+sha256 = "fc242b277ed7824ee8b927fe2f7dee0f9c58da09f2016218cf2f5a0b01eea9be"

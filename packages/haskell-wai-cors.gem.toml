@@ -1,0 +1,11 @@
+[package]
+name = "haskell-wai-cors"
+version = "0.2.7-559"
+license = "MIT"
+arch = "x86_64"
+description = "CORS for WAI"
+depends = ["ghc-libs", "haskell-attoparsec", "haskell-base-unicode-symbols", "haskell-case-insensitive", "haskell-http-types", "haskell-wai"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-wai-cors-0.2.7-559-x86_64.pkg.tar.zst"
+sha256 = "484a65af098b950f7e925ee72b855f8c6bb050edc262391927d7c93e33073d1e"

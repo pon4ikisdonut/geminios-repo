@@ -1,0 +1,11 @@
+[package]
+name = "union"
+version = "6.8.3-1"
+license = "LicenseRef-KDE-Accepted-LGPL"
+arch = "x86_64"
+description = "A Qt style supporting both QtQuick and QtWidgets"
+depends = ["cxx-rust-cssparser", "glibc", "kcolorscheme", "kconfig", "kcoreaddons", "kguiaddons", "kiconthemes", "kirigami", "libgcc", "libstdc++", "qt6-base", "qt6-declarative", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/union-6.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "61284e8a4255d037ceefd971fc7e081affcb587e79aae70a621f8770b91fc551"

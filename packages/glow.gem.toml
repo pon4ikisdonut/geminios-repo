@@ -1,0 +1,11 @@
+[package]
+name = "glow"
+version = "3.0.0-2"
+license = "MIT"
+arch = "x86_64"
+description = "Command-line markdown renderer"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/glow-3.0.0-2-x86_64.pkg.tar.zst"
+sha256 = "085cfb105d37017ada4423613649eccbf6d45161d820a13222897a17003b8769"

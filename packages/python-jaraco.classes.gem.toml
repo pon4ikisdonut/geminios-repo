@@ -1,0 +1,11 @@
+[package]
+name = "python-jaraco.classes"
+version = "3.4.0-3"
+license = "MIT"
+arch = "any"
+description = "Module for classes manipulation"
+depends = ["python", "python-more-itertools"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-jaraco.classes-3.4.0-3-any.pkg.tar.zst"
+sha256 = "6dea97d59f985f300713bf0f12906c7aaed34d30f80c182aa083b851c94214a8"

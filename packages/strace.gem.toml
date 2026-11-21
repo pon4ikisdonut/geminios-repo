@@ -1,0 +1,11 @@
+[package]
+name = "strace"
+version = "7.3-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "A diagnostic, debugging and instructional userspace tracer"
+depends = ["glibc", "libunwind"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/strace-7.3-1-x86_64.pkg.tar.zst"
+sha256 = "b3c67815289238f99ab6422d0cd562dbbb5becca8b49179fffad72be9f23e1a0"

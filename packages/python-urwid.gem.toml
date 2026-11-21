@@ -1,0 +1,11 @@
+[package]
+name = "python-urwid"
+version = "1:4.2.5-1"
+license = "LGPL-2.1-only"
+arch = "any"
+description = "Curses-based user interface library"
+depends = ["glib2", "python", "python-typing_extensions", "python-wcwidth"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-urwid-1:4.2.5-1-any.pkg.tar.zst"
+sha256 = "985a589999cd26642c791d9344dec3567e55969bafe274627db80391cf88c90f"

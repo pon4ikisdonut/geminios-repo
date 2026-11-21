@@ -1,0 +1,11 @@
+[package]
+name = "ruby-rbs"
+version = "3.9.2-1"
+license = "custom:BSDL"
+arch = "x86_64"
+description = "RBS is the language for type signatures for Ruby and standard library definitions"
+depends = ["ruby"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ruby-rbs-3.9.2-1-x86_64.pkg.tar.zst"
+sha256 = "41ab27ee6b4274d0b85f2cad0c15835a847526c8035d633c9ef71e10c59b3f7b"

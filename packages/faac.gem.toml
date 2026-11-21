@@ -1,0 +1,11 @@
+[package]
+name = "faac"
+version = "2.1-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Freeware Advanced Audio Coder"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/faac-2.1-1-x86_64.pkg.tar.zst"
+sha256 = "38ddd07438a002e65af1dfdf046c3f5285d57fbc2c5cc6d63f7b6e73e6c49933"

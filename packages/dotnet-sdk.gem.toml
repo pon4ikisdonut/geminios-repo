@@ -1,0 +1,11 @@
+[package]
+name = "dotnet-sdk"
+version = "10.0.14.sdk114-2"
+license = "MIT"
+arch = "x86_64"
+description = "The .NET Core SDK"
+depends = ["dotnet-runtime", "dotnet-targeting-pack", "glibc", "libgcc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/dotnet-sdk-10.0.14.sdk114-2-x86_64.pkg.tar.zst"
+sha256 = "56f9cc1c6628fb2c894808a28f3bb6910801e41189df718ff038a67ed1a5b272"

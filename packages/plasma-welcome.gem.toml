@@ -1,0 +1,11 @@
+[package]
+name = "plasma-welcome"
+version = "6.8.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "A friendly onboarding wizard for Plasma"
+depends = ["glibc", "kcmutils", "kconfig", "kcoreaddons", "kcrash", "kdbusaddons", "kglobalaccel", "ki18n", "kio", "kirigami", "kirigami-addons", "kjobwidgets", "knewstuff", "kservice", "ksvg", "kuserfeedback", "kwindowsystem", "libplasma", "libstdc++", "plasma-nm", "plasma5support", "qt6-5compat", "qt6-base", "qt6-declarative"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/plasma-welcome-6.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "c74c48ce65fdf712eb59b9f22591313d90f49d8ef4da07d64792fa4c3b36aca9"

@@ -1,0 +1,11 @@
+[package]
+name = "dmidecode"
+version = "3.7-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Desktop Management Interface table related utilities"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/dmidecode-3.7-1-x86_64.pkg.tar.zst"
+sha256 = "9e147ceab57443751dc53a1010f8fb9091af00587fcb6929536c8da9ac7a94f5"

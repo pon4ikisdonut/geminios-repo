@@ -1,0 +1,11 @@
+[package]
+name = "libksysguard"
+version = "6.8.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Library to retrieve information on the current status of computer hardware"
+depends = ["glibc", "kauth", "kconfig", "kcoreaddons", "kdeclarative", "ki18n", "kirigami", "kitemmodels", "knewstuff", "kpackage", "kquickcharts", "kservice", "libdrm", "libgcc", "libnl", "libpcap", "libstdc++", "lm_sensors", "qt6-5compat", "qt6-base", "qt6-declarative", "solid", "systemd-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libksysguard-6.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "f93597b1c019ffa4d9b59e1e9ea6efbe5d855dd817986833566ddb02c7a5f6ee"

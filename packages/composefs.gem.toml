@@ -1,0 +1,11 @@
+[package]
+name = "composefs"
+version = "1.0.8-2"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "A file system for mounting container images"
+depends = ["glibc", "libgcc", "openssl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/composefs-1.0.8-2-x86_64.pkg.tar.zst"
+sha256 = "9100d454f8c426ad9e8389fbcdb5a4cffbf2f848f368997ce4b0ae7b1397f761"

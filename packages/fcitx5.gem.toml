@@ -1,0 +1,11 @@
+[package]
+name = "fcitx5"
+version = "5.1.23-1"
+license = "Unicode-DFS-2016"
+arch = "x86_64"
+description = "Next generation of fcitx, cross-platform input method framework"
+depends = ["cairo", "enchant", "iso-codes", "libgl", "libxkbcommon-x11", "pango", "systemd", "wayland", "xcb-imdkit", "xcb-util-wm", "libxkbfile", "gdk-pixbuf2", "librsvg", "yoga"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/fcitx5-5.1.23-1-x86_64.pkg.tar.zst"
+sha256 = "37d26735c03a923a69bacd2ec950ebb26f2f89dcde4318be7e36550e676df9a7"

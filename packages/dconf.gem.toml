@@ -1,0 +1,11 @@
+[package]
+name = "dconf"
+version = "51.0-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Configuration database system"
+depends = ["bash", "glib2", "glibc", "libgcc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/dconf-51.0-1-x86_64.pkg.tar.zst"
+sha256 = "ec49323f17349376e57b9b51dc0fe817fb5a61ee217480780f406b7fa573b667"

@@ -1,0 +1,11 @@
+[package]
+name = "xbitmaps"
+version = "1.1.4-1"
+license = "ICU"
+arch = "any"
+description = "X.org Bitmap files"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xbitmaps-1.1.4-1-any.pkg.tar.zst"
+sha256 = "a9b5c6311c21987d912b73c4a84691a553d9a077ab77ba1d778ab709255669c2"

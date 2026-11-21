@@ -1,0 +1,11 @@
+[package]
+name = "librest"
+version = "0.10.2-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Library for accessing RESTful web services"
+depends = ["glib2", "glibc", "json-glib", "libgcc", "libsoup3", "libxml2", "libglib-2.0.so", "libgobject-2.0.so", "libgio-2.0.so", "libjson-glib-1.0.so", "libsoup-3.0.so", "libxml2.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/librest-0.10.2-2-x86_64.pkg.tar.zst"
+sha256 = "635651df943391e9d7b12598174daa53eee26b9b19020d1ce5e6a52796df9b33"

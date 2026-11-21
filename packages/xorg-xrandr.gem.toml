@@ -1,0 +1,11 @@
+[package]
+name = "xorg-xrandr"
+version = "1.5.4-1"
+license = "HPND-sell-variant"
+arch = "x86_64"
+description = "Primitive command line interface to RandR extension"
+depends = ["libxrandr", "libx11", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xorg-xrandr-1.5.4-1-x86_64.pkg.tar.zst"
+sha256 = "6968da5335edf2dfe8c7c99c23f93404d9c68d15c8c638f701208d608336f209"

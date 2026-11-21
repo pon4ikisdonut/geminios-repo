@@ -1,0 +1,11 @@
+[package]
+name = "kdegraphics-mobipocket"
+version = "26.08.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "A library to handle mobipocket files"
+depends = ["glibc", "libstdc++", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kdegraphics-mobipocket-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "3da75b2b0dbe2349426087c949600b46373ed63924d03f5fefa3f0329456054c"

@@ -1,0 +1,11 @@
+[package]
+name = "linux-firmware-cirrus"
+version = "20261019-1"
+license = "LicenseRef-cirrus"
+arch = "any"
+description = "Firmware files for Linux - Firmware for Cirrus Logic audio devices"
+depends = ["linux-firmware-whence"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/linux-firmware-cirrus-20261019-1-any.pkg.tar.zst"
+sha256 = "4f443d248b0b8a8cf1119896c575546936ec559840c94b3cff84bb3c5952daf0"

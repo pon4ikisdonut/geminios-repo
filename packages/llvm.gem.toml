@@ -1,0 +1,11 @@
+[package]
+name = "llvm"
+version = "23.1.5-1"
+license = "Apache-2.0 WITH LLVM-exception"
+arch = "x86_64"
+description = "Compiler infrastructure"
+depends = ["llvm-libs", "llvm-lit", "curl", "perl", "libstdc++", "glibc", "libgcc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/llvm-23.1.5-1-x86_64.pkg.tar.zst"
+sha256 = "0fd7df891e40b2c09f82e9bbce742ba984580da70ec5a4aa467e3349f1c4feea"

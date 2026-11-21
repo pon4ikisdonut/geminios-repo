@@ -1,0 +1,11 @@
+[package]
+name = "iwd"
+version = "3.12-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Internet Wireless Daemon"
+depends = ["glibc", "readline", "libreadline.so", "ell", "libgcc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/iwd-3.12-2-x86_64.pkg.tar.zst"
+sha256 = "934f8f861bad145def3429a25f913882f6054d6f50c63484204cd2bba2f4f8be"

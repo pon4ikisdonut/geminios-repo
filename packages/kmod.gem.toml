@@ -1,0 +1,11 @@
+[package]
+name = "kmod"
+version = "34.3-2"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Linux kernel module management tools and library"
+depends = ["glibc", "zlib", "openssl", "xz", "zstd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/kmod-34.3-2-x86_64.pkg.tar.zst"
+sha256 = "1b177a2813d0bdc81d28e080404dccdc9cc8567a9b443dcdf573f9ee4d9357b4"

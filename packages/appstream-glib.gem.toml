@@ -1,0 +1,11 @@
+[package]
+name = "appstream-glib"
+version = "0.8.4-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Objects and methods for reading and writing AppStream metadata"
+depends = ["cairo", "curl", "fontconfig", "freetype2", "gdk-pixbuf2", "glib2", "glibc", "gtk3", "json-glib", "libgcc", "libarchive", "libyaml", "pacman", "pango", "util-linux-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/appstream-glib-0.8.4-1-x86_64.pkg.tar.zst"
+sha256 = "b94f2eb3b052abcf0db418cffe8fcfe9760aa3ea3549e0a971a423bd1855202e"

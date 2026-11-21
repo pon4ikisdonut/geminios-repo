@@ -1,0 +1,11 @@
+[package]
+name = "hdf5"
+version = "2.2.0-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "General purpose library and file format for storing scientific data"
+depends = ["bash", "glibc", "libaec", "libgcc", "libgfortran", "libstdc++", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/hdf5-2.2.0-1-x86_64.pkg.tar.zst"
+sha256 = "c87b81f8139357c7d6a12d0b02edf60215ffcb99ae4d961c1f23b4780c9f838d"

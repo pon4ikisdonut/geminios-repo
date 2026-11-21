@@ -1,0 +1,11 @@
+[package]
+name = "vlc-plugin-journal"
+version = "3.0.24-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Free and open source cross-platform multimedia player and framework - Systemd journal plugin"
+depends = ["glibc", "libvlc", "libvlccore.so", "systemd-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vlc-plugin-journal-3.0.24-2-x86_64.pkg.tar.zst"
+sha256 = "9585c025d9fb5d3a0662ac5505e5420f064f5c3c736c4274c0cda19652bc8286"

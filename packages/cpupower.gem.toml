@@ -1,0 +1,11 @@
+[package]
+name = "cpupower"
+version = "7.3.5-1"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "Linux kernel tool to examine and tune power saving related features of your processor"
+depends = ["glibc", "bash", "pciutils"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/cpupower-7.3.5-1-x86_64.pkg.tar.zst"
+sha256 = "f4c47d26c88768c67f0404d60213ba735e77bb6ea9e31e674beb55a574bf69ee"

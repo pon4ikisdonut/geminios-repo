@@ -1,0 +1,11 @@
+[package]
+name = "haskell-onetuple"
+version = "0.4.3-64"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Singleton Tuple"
+depends = ["ghc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-onetuple-0.4.3-64-x86_64.pkg.tar.zst"
+sha256 = "e812738f5779dd4bf903253b16aeacf6ad8c935f72d6de5223a0cfa86f7d0c17"

@@ -1,0 +1,11 @@
+[package]
+name = "mpv"
+version = "1:0.42.0-3"
+license = "GPL-2.0-or-later AND LGPL-2.1-or-later"
+arch = "x86_64"
+description = "a free, open source, and cross-platform media player"
+depends = ["alsa-lib", "curl", "desktop-file-utils", "ffmpeg", "glibc", "hicolor-icon-theme", "jack", "lcms2", "libarchive", "libass", "libbluray", "libcdio", "libcdio-paranoia", "libdisplay-info", "libdrm", "libdvdnav", "libdvdread", "libegl", "libgl", "libglvnd", "libjpeg-turbo", "libplacebo", "libpulse", "libsixel", "libva", "libvdpau", "libx11", "libxext", "libxkbcommon", "libxpresent", "libxrandr", "libxss", "libxv", "luajit", "mesa", "mujs", "libpipewire", "rubberband", "sdl2", "openal", "uchardet", "vapoursynth", "vulkan-icd-loader", "wayland", "zlib", "libasound.so", "libavcodec.so", "libavdevice.so", "libavfilter.so", "libavformat.so", "libavutil.so", "libdisplay-info.so", "libswresample.so", "libswscale.so", "libjack.so", "liblcms2.so", "libarchive.so", "libass.so", "libbluray.so", "libjpeg.so", "libplacebo.so", "libpulse.so", "libva.so", "libva-drm.so", "libva-wayland.so", "libva-x11.so", "libxkbcommon.so", "librubberband.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/mpv-1:0.42.0-3-x86_64.pkg.tar.zst"
+sha256 = "7b04b820ad1649732e7dbc27707c656101e5a694944f6606376004ca774384e4"

@@ -1,0 +1,11 @@
+[package]
+name = "libksane"
+version = "26.08.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "An image scanning library"
+depends = ["glibc", "ki18n", "ksanecore", "ktextwidgets", "kwallet", "kwidgetsaddons", "libstdc++", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libksane-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "9486ab5ab6363df2b411dc1576850cc4fb66b91a8ed1a6be965f8b16aa45658a"

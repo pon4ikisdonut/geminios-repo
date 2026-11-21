@@ -1,0 +1,11 @@
+[package]
+name = "python-sympy"
+version = "1.14.0-6"
+license = "BSD"
+arch = "any"
+description = "Symbolic manipulation package (Computer Algebra System), written in pure Python"
+depends = ["python-mpmath"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-sympy-1.14.0-6-any.pkg.tar.zst"
+sha256 = "a6b61ac28a3523124356c084db2fddb47e7169e180538b2648faaa9d0a91a57e"

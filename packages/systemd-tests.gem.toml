@@ -1,0 +1,11 @@
+[package]
+name = "systemd-tests"
+version = "262.2-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "systemd tests"
+depends = ["bash", "glibc", "libgcc", "python", "python-packaging", "python-colorama", "python-pexpect", "python-pytest", "python-psutil", "systemd", "systemd-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/systemd-tests-262.2-1-x86_64.pkg.tar.zst"
+sha256 = "345a5c747e00fefbb564a575e04db1d53b3dd6cdfe055c63a225a0f18413fe25"

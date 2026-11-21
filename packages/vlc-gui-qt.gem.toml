@@ -1,0 +1,11 @@
+[package]
+name = "vlc-gui-qt"
+version = "3.0.24-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Free and open source cross-platform multimedia player and framework - Qt GUI"
+depends = ["bash", "glibc", "libgcc", "libstdc++", "libvlc", "libvlccore.so", "libx11", "qt5-base", "qt5-svg", "qt5-x11extras", "qt5-wayland", "vlc-cli", "vlc-plugin-lua", "vlc-plugin-pulse", "vlc-plugins-base", "vlc-plugins-video-output", "wayland"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vlc-gui-qt-3.0.24-2-x86_64.pkg.tar.zst"
+sha256 = "04ee24bc84b8b27041f2522ba3683b32a6afd5c621208b64fc57198d38611155"

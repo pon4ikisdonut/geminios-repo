@@ -1,0 +1,11 @@
+[package]
+name = "dolphin-plugins"
+version = "26.08.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Extra Dolphin plugins"
+depends = ["glibc", "dolphin", "kcompletion", "kconfig", "kcoreaddons", "ki18n", "kio", "kjobwidgets", "kservice", "ktexteditor", "ktextwidgets", "kwidgetsaddons", "kxmlgui", "libstdc++", "qt6-base", "solid"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/dolphin-plugins-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "e27030a4e6a971df8748666f71998546f6457135184bf4cf58cbb45480aeefae"

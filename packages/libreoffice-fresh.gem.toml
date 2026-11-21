@@ -1,0 +1,11 @@
+[package]
+name = "libreoffice-fresh"
+version = "26.8.3-1"
+license = "LGPL-3.0-or-later"
+arch = "x86_64"
+description = "LibreOffice branch which contains new features and program enhancements"
+depends = ["curl", "hunspell", "python", "libwpd", "libwps", "neon", "pango", "nspr", "libjpeg-turbo", "libxrandr", "libgl", "redland", "hyphen", "lpsolve", "libstdc++", "libgcc", "sh", "graphite", "icu", "libxslt", "lcms2", "poppler", "libvisio", "libetonyek", "libodfgen", "libcdr", "libmspub", "harfbuzz-icu", "nss", "clucene", "hicolor-icon-theme", "libpagemaker", "libxinerama", "libabw", "libmwaw", "libe-book", "libcups", "liblangtag", "libexttextcat", "liborcus", "libwebp", "libcmis", "libtommath", "libzmf", "libatomic_ops", "xmlsec", "libnumbertext", "gpgmepp", "libfreehand", "libstaroffice", "libepubgen", "libqxp", "libepoxy", "zxing-cpp", "xdg-utils", "libldap", "fontconfig", "zlib", "libpng", "freetype2", "raptor", "libxml2", "cairo", "libx11", "expat", "glib2", "boost-libs", "libtiff", "dbus", "glibc", "librevenge", "libxext", "openjpeg2", "argon2", "md4c"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libreoffice-fresh-26.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "5c2d25fa4c239aafb460701c9aa2d1c9b492215b1450d6839882f701866f115f"

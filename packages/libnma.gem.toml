@@ -1,0 +1,11 @@
+[package]
+name = "libnma"
+version = "1.10.6-3"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "NetworkManager GUI client library (GTK3)"
+depends = ["libnma-common", "gtk3"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libnma-1.10.6-3-x86_64.pkg.tar.zst"
+sha256 = "9420ef8a995f3bfeb2c9582f5110d5de397ffb5466a7436bd19bd451dcaa2303"

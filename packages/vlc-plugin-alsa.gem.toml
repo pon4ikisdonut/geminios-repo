@@ -1,0 +1,11 @@
+[package]
+name = "vlc-plugin-alsa"
+version = "3.0.24-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Free and open source cross-platform multimedia player and framework - ALSA plugins"
+depends = ["alsa-lib", "glibc", "libvlc", "libvlccore.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vlc-plugin-alsa-3.0.24-2-x86_64.pkg.tar.zst"
+sha256 = "b00411da6adf9df8959e3de492e00152da443c85e3c9c9e56a8f686d4dd5ff90"

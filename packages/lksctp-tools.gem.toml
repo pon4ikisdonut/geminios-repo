@@ -1,0 +1,11 @@
+[package]
+name = "lksctp-tools"
+version = "1.0.21-1"
+license = "LGPL-2.1-only"
+arch = "x86_64"
+description = "An implementation of the SCTP protocol"
+depends = ["glibc", "bash"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/lksctp-tools-1.0.21-1-x86_64.pkg.tar.zst"
+sha256 = "e088b6e569283af9893c72c85273ec884ff998974168e24254812528792d291f"

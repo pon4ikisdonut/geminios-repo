@@ -1,0 +1,11 @@
+[package]
+name = "glslang"
+version = "1:1.4.363.0-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "OpenGL and OpenGL ES shader front end and validator"
+depends = ["glibc", "libstdc++", "spirv-tools"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/glslang-1:1.4.363.0-1-x86_64.pkg.tar.zst"
+sha256 = "df5cf8841b77c60aece3468fef856db8dcb7515ae3f3654343acdca55a0ae5cf"

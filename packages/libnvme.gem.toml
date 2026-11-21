@@ -1,0 +1,11 @@
+[package]
+name = "libnvme"
+version = "1.16.2-3"
+license = "LGPL-2.1-only"
+arch = "x86_64"
+description = "C Library for NVM Express on Linux"
+depends = ["dbus", "libgcc", "glibc", "json-c", "keyutils", "liburing", "openssl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libnvme-1.16.2-3-x86_64.pkg.tar.zst"
+sha256 = "360f1974c25f0af55fe7c4c82615e5b691b67190e60ad5901c288289e407a999"

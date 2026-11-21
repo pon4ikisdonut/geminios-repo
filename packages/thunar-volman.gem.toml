@@ -1,0 +1,11 @@
+[package]
+name = "thunar-volman"
+version = "4.20.0-2"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Automatic management of removable drives and media for Thunar"
+depends = ["thunar", "libxfce4ui", "hicolor-icon-theme"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/thunar-volman-4.20.0-2-x86_64.pkg.tar.zst"
+sha256 = "d2f70126db0a19457f377de40623c1012c38e7ca10ca5cf52046d4107c236823"

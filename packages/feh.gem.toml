@@ -1,0 +1,11 @@
+[package]
+name = "feh"
+version = "3.13.1-1"
+license = "MIT"
+arch = "x86_64"
+description = "Fast and light imlib2-based image viewer"
+depends = ["curl", "libcurl.so", "file", "libmagic.so", "glibc", "hicolor-icon-theme", "imlib2", "libexif", "libexif.so", "libpng", "libpng16.so", "libx11", "libxinerama"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/feh-3.13.1-1-x86_64.pkg.tar.zst"
+sha256 = "95ca385f9b59d7cbea1aa75c924ad405af22118013c8719cbea2637d910ebf9a"

@@ -1,0 +1,11 @@
+[package]
+name = "mtdev"
+version = "1.1.7-1"
+license = "MIT"
+arch = "x86_64"
+description = "A stand-alone library which transforms all variants of kernel MT events to the slotted type B protocol"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/mtdev-1.1.7-1-x86_64.pkg.tar.zst"
+sha256 = "f04b23715273930002a0133ebd0f48ad4374b9e3ec9484a500a33b6aee478443"

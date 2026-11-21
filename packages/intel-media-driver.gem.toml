@@ -1,0 +1,11 @@
+[package]
+name = "intel-media-driver"
+version = "26.3.5-1"
+license = "MIT"
+arch = "x86_64"
+description = "Intel Media Driver for VAAPI — Broadwell+ iGPUs"
+depends = ["glibc", "intel-gmmlib", "libgcc", "libstdc++", "libva"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/intel-media-driver-26.3.5-1-x86_64.pkg.tar.zst"
+sha256 = "c6286faf546dde6c879fb795ac2a1eb6cdf21a1cc6efb87508da04608068a769"

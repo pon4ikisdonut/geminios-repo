@@ -1,0 +1,11 @@
+[package]
+name = "texlive-binextra"
+version = "2026.1-1"
+license = "GPL"
+arch = "any"
+description = "TeX Live - TeX auxiliary programs"
+depends = ["texlive-bin", "texlive-basic", "dvisvgm"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/texlive-binextra-2026.1-1-any.pkg.tar.zst"
+sha256 = "2caf94d3d53f89d2aef13fd18eb336686a6bdea5b9d1952b5b1ab9a89b22cd31"

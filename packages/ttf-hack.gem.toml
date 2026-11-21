@@ -1,0 +1,11 @@
+[package]
+name = "ttf-hack"
+version = "3.003-7"
+license = "custom:ttf-hack"
+arch = "any"
+description = "A hand groomed and optically balanced typeface based on Bitstream Vera Mono."
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ttf-hack-3.003-7-any.pkg.tar.zst"
+sha256 = "1759282d1f019812c70b5ce6929efa05f0654b99a7244a1518d84d6b6dd09a39"

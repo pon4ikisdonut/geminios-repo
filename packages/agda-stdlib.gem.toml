@@ -1,0 +1,11 @@
+[package]
+name = "agda-stdlib"
+version = "2.4.1-1"
+license = "MIT"
+arch = "x86_64"
+description = "Agda standard libraries"
+depends = ["agda"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/agda-stdlib-2.4.1-1-x86_64.pkg.tar.zst"
+sha256 = "278a954652d680c22d856f5b436f1f85e3794b99a7c68447e7e5b839b9e33a79"

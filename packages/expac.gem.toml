@@ -1,0 +1,11 @@
+[package]
+name = "expac"
+version = "10-13"
+license = "GPL"
+arch = "x86_64"
+description = "alpm data (pacman database) extraction utility"
+depends = ["pacman"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/expac-10-13-x86_64.pkg.tar.zst"
+sha256 = "94ee809501b7b54deee5cbc190a4bff5dd47583113bf9f8152bfcb92800fb4bd"

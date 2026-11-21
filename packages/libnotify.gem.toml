@@ -1,0 +1,11 @@
+[package]
+name = "libnotify"
+version = "0.8.9-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Library for sending desktop notifications"
+depends = ["gdk-pixbuf2", "glib2", "glibc", "libgcc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libnotify-0.8.9-1-x86_64.pkg.tar.zst"
+sha256 = "712849867684044e655951aa27f5b1894c6d2b134f2cba1d90b8c57243c344b7"

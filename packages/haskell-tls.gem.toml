@@ -1,0 +1,11 @@
+[package]
+name = "haskell-tls"
+version = "2.0.6-166"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "TLS protocol native implementation"
+depends = ["ghc-libs", "haskell-asn1-encoding", "haskell-asn1-types", "haskell-async", "haskell-base16-bytestring", "haskell-cereal", "haskell-crypton", "haskell-crypton-x509", "haskell-crypton-x509-store", "haskell-crypton-x509-validation", "haskell-data-default-class", "haskell-memory", "haskell-network", "haskell-serialise", "haskell-unix-time"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-tls-2.0.6-166-x86_64.pkg.tar.zst"
+sha256 = "52b17b786e6fcc83ecbce6a451d919a4629fd43683ecfa34fb11ae11804a4a8f"

@@ -1,0 +1,11 @@
+[package]
+name = "libkdcraw"
+version = "26.08.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "A C++ interface used to decode RAW picture"
+depends = ["glibc", "libgcc", "libraw", "libstdc++", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libkdcraw-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "39867a7ab30b9e1c96d55ae4c3fbffcffc582358d213892c2d13086ae13f7b0e"

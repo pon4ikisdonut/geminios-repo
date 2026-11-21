@@ -1,0 +1,11 @@
+[package]
+name = "foomatic-db-engine"
+version = "5:20200131-2"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Foomatic - Foomatic's database engine generates PPD files from the data in Foomatic's XML database. It also contains scripts to directly generate print queues and handle jobs."
+depends = ["perl", "libxml2", "cups-filters", "glibc", "bash", "perl-xml-libxml", "perl-clone", "perl-dbi"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/foomatic-db-engine-5:20200131-2-x86_64.pkg.tar.zst"
+sha256 = "54757d0a17639f1c2154c4c89fabff7d983c20b8a54897d757c4af7919906ba6"

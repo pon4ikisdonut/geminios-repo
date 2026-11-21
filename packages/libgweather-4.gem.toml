@@ -1,0 +1,11 @@
+[package]
+name = "libgweather-4"
+version = "4.6.0-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Location and timezone database and weather-lookup library"
+depends = ["dconf", "geocode-glib-2", "glib2", "glibc", "gweather-locations", "json-glib", "libgcc", "libsoup3", "libxml2"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libgweather-4-4.6.0-1-x86_64.pkg.tar.zst"
+sha256 = "6cf6c7e5de4e2a7b69740299a56047506e8f27ac85b98111b719f45ec98af169"

@@ -1,0 +1,11 @@
+[package]
+name = "ktextwidgets5"
+version = "5.116.0-2"
+license = "LGPL"
+arch = "x86_64"
+description = "Advanced text editing widgets"
+depends = ["kcompletion5", "kconfigwidgets5", "sonnet5", "qt5-speech"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ktextwidgets5-5.116.0-2-x86_64.pkg.tar.zst"
+sha256 = "df0d64036422727d8e7f4eb41032f119cf66a4e1f047ee8282827d9c48b798e1"

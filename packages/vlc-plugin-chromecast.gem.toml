@@ -1,0 +1,11 @@
+[package]
+name = "vlc-plugin-chromecast"
+version = "3.0.24-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Free and open source cross-platform multimedia player and framework - Chromecast plugin"
+depends = ["abseil-cpp", "glibc", "libgcc", "libstdc++", "libvlc", "libvlccore.so", "protobuf", "vlc-plugins-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vlc-plugin-chromecast-3.0.24-2-x86_64.pkg.tar.zst"
+sha256 = "21eac0998375e9723136b8b556c271fa1aba7de899541207c04db3c8d98e095a"

@@ -1,0 +1,11 @@
+[package]
+name = "kpipewire"
+version = "6.8.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Components relating to pipewire use in Plasma"
+depends = ["ffmpeg", "glibc", "kcoreaddons", "ki18n", "libdrm", "libepoxy", "libpipewire", "libstdc++", "libva", "mesa", "qt6-base", "qt6-declarative"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kpipewire-6.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "4e4ad68d989a303c179b2cffb1023452c1ac66992fa857a4d358373f9e1a642d"

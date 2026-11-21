@@ -1,0 +1,11 @@
+[package]
+name = "xapian-core"
+version = "1:2.1.0-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Open source search engine library"
+depends = ["bash", "libgcc", "libstdc++", "glibc", "util-linux-libs", "libuuid.so", "zlib", "libz.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xapian-core-1:2.1.0-1-x86_64.pkg.tar.zst"
+sha256 = "547063c210772129b7c48a8ebcb37518ab1445e64697b8ca423f912e42db2c80"

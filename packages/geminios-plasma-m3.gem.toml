@@ -1,11 +1,11 @@
 [package]
 name = "geminios-plasma-m3"
-version = "1.0.0"
+version = "1.0.1"
 license = "MIT"
 arch = "x86_64"
 description = "KDE Plasma 6 Google Material Design 3 Dark theme, wallpaper, GTK3/4 sync, and status-bar widget"
 depends = ["geminios-core"]
 
 [source]
-url = "https://github.com/pon4ikisdonut/geminios-repo/releases/download/v1.0.0/geminios-plasma-m3-1.0.0.tar.gz"
+url = "https://github.com/pon4ikisdonut/geminios-repo/releases/download/v1.0.1/geminios-plasma-m3-1.0.1.tar.gz"
 sha256 = "c2723d4d1ddb42e6faae59133e7cb44c2a2ea7e58144d37b576d7b501548d771"

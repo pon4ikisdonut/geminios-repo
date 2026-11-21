@@ -1,0 +1,11 @@
+[package]
+name = "intel-oneapi-compiler-shared-runtime-libs"
+version = "2026.2.0_863-1"
+license = "LicenseRef-Intel-EULA-Developer-Tools"
+arch = "x86_64"
+description = "Intel oneAPI compiler runtime libraries: Minimal compiler libraries"
+depends = ["intel-oneapi-common", "intel-oneapi-openmp", "glibc", "libgcc", "libstdc++", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/intel-oneapi-compiler-shared-runtime-libs-2026.2.0_863-1-x86_64.pkg.tar.zst"
+sha256 = "09eba802d97149bacb7e6622329f236e6c02de9c2973424bac3b360a07a8cba7"

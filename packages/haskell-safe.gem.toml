@@ -1,0 +1,11 @@
+[package]
+name = "haskell-safe"
+version = "0.3.21-177"
+license = "BSD"
+arch = "x86_64"
+description = "Library of safe (exception free) functions"
+depends = ["ghc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-safe-0.3.21-177-x86_64.pkg.tar.zst"
+sha256 = "6a2303918a708397ecf4fa1eda5cf1c5802cca5a31d9e053adc3991cb6bb061f"

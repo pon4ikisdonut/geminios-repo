@@ -1,0 +1,11 @@
+[package]
+name = "python-mdit_py_plugins"
+version = "0.7.0-1"
+license = "MIT"
+arch = "any"
+description = "Collection of core plugins for markdown-it-py"
+depends = ["python-markdown-it-py"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-mdit_py_plugins-0.7.0-1-any.pkg.tar.zst"
+sha256 = "a2c90a474a3ef5d6375c19d9a4e0b69a723c67edd580a445b7de1588453d4a23"

@@ -1,0 +1,11 @@
+[package]
+name = "python-pyppmd"
+version = "1.2.0-2"
+license = "LGPL"
+arch = "x86_64"
+description = "PPM compression/decompression library"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-pyppmd-1.2.0-2-x86_64.pkg.tar.zst"
+sha256 = "fc5ec6a320c8c9ac27c2035ce6941be2606469848208677778a592700621a1c2"

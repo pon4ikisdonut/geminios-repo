@@ -1,0 +1,11 @@
+[package]
+name = "soundtouch"
+version = "2.4.1-1"
+license = "LGPL-2.1-only"
+arch = "x86_64"
+description = "An audio processing library"
+depends = ["libgcc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/soundtouch-2.4.1-1-x86_64.pkg.tar.zst"
+sha256 = "72c18213aadb17f2e48de144f70a1eefa7f88d1761d348f9cdfa59c52d2d46f4"

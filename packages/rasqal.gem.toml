@@ -1,0 +1,11 @@
+[package]
+name = "rasqal"
+version = "1:0.9.33-9"
+license = "Apache-2.0 OR GPL-2.0-or-later OR LGPL-2.1-or-later"
+arch = "x86_64"
+description = "A library handling RDF query syntaxes, construction and execution"
+depends = ["glibc", "mpfr", "pcre2", "sh", "raptor", "libraptor2.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/rasqal-1:0.9.33-9-x86_64.pkg.tar.zst"
+sha256 = "49aae0c30b3ef0a67d0cf61e62e4c37f4d4638ea8280585f80da96cb36513a72"

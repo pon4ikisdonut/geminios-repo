@@ -1,0 +1,11 @@
+[package]
+name = "kimap"
+version = "26.08.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Job-based API for interacting with IMAP servers"
+depends = ["glibc", "kcoreaddons", "ki18n", "kio", "kmime", "libgcc", "libsasl", "libstdc++", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kimap-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "5ccbbcd2df51a79c5c9d63ceb6f484cd77896657d08f2913c791e4ccda0b16de"

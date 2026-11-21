@@ -1,0 +1,11 @@
+[package]
+name = "gsettings-system-schemas"
+version = "51.0-1"
+license = "LGPL-2.1-or-later"
+arch = "any"
+description = "GSettings schemas for GNOME system components"
+depends = ["dconf"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gsettings-system-schemas-51.0-1-any.pkg.tar.zst"
+sha256 = "a8aec16f9124e6b3fd38b5f50305ab8a7ac793f29eadbddf666e92cf01f833fa"

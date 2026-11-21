@@ -1,0 +1,11 @@
+[package]
+name = "discount"
+version = "3.0.2.0-1"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "A Markdown implementation written in C"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/discount-3.0.2.0-1-x86_64.pkg.tar.zst"
+sha256 = "49170db578233dd129ca86d07248686110ca8e564754b812083dbf89d9235663"

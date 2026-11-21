@@ -1,0 +1,11 @@
+[package]
+name = "libliftoff"
+version = "0.5.0-1"
+license = "MIT"
+arch = "x86_64"
+description = "Lightweight KMS plane library"
+depends = ["glibc", "libdrm"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libliftoff-0.5.0-1-x86_64.pkg.tar.zst"
+sha256 = "59cf08c21500673a14287b83b89b6db5389134cc24c97d9222c7cddefa639ccf"

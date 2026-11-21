@@ -1,0 +1,11 @@
+[package]
+name = "haskell-network-control"
+version = "0.1.7-12"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Library to control network protocols"
+depends = ["ghc-libs", "haskell-psqueues", "haskell-unix-time"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-network-control-0.1.7-12-x86_64.pkg.tar.zst"
+sha256 = "856b634511aa210104b2c55fddf08d131e42ee6421ca6267382ce9fa6491583d"

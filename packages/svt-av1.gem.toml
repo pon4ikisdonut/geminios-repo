@@ -1,0 +1,11 @@
+[package]
+name = "svt-av1"
+version = "4.3.0-1"
+license = "LicenseRef-AOMPL-1.0"
+arch = "x86_64"
+description = "Scalable Video Technology AV1 encoder and decoder"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/svt-av1-4.3.0-1-x86_64.pkg.tar.zst"
+sha256 = "92a07c69e93ff4ae023177f2f53ed7c86e781815b05090bf67cc5c89141f635a"

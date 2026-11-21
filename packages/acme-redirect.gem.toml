@@ -1,0 +1,11 @@
+[package]
+name = "acme-redirect"
+version = "0.8.1-2"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "Tiny http daemon that answers acme challenges and redirects everything else to https"
+depends = ["glibc", "libgcc", "libgcc_s.so", "openssl", "libssl.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/acme-redirect-0.8.1-2-x86_64.pkg.tar.zst"
+sha256 = "89181ce5abef9163657fdaca3700a22a49d623b3201136ea6bc5e8d5a92ccb67"

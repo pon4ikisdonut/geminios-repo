@@ -1,0 +1,11 @@
+[package]
+name = "github-cli"
+version = "2.105.0-1"
+license = "MIT"
+arch = "x86_64"
+description = "The GitHub CLI"
+depends = ["glibc", "mailcap"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/github-cli-2.105.0-1-x86_64.pkg.tar.zst"
+sha256 = "184330da547fb33a0f408ac91d83f876c7e962055e97ad1c0295c3664bb3dca8"

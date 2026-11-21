@@ -1,0 +1,11 @@
+[package]
+name = "zita-convolver"
+version = "4.0.3-6"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "A fast, partitioned convolution engine library."
+depends = ["fftw", "glibc", "libgcc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/zita-convolver-4.0.3-6-x86_64.pkg.tar.zst"
+sha256 = "7235e80f05489406f5e02892134cd5d5fafe3c84164750c2f3a0ace1a2e10064"

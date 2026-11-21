@@ -1,0 +1,11 @@
+[package]
+name = "libkscreen"
+version = "6.8.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "KDE screen management software"
+depends = ["glibc", "libgcc", "libstdc++", "libxcb", "qt6-base", "wayland"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libkscreen-6.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "3e7bcdf579512d3aa4cff19febe741d85747922a0aa8b9a1e10811d508bba81b"

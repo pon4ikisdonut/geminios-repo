@@ -1,0 +1,11 @@
+[package]
+name = "xf86-video-amdgpu"
+version = "25.0.0-1"
+license = "MIT"
+arch = "x86_64"
+description = "X.org amdgpu video driver"
+depends = ["systemd-libs", "mesa", "libdrm", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xf86-video-amdgpu-25.0.0-1-x86_64.pkg.tar.zst"
+sha256 = "b13611a62c07eac2e89196870c99b94107cd10302b5747dabec085b14f2d789b"

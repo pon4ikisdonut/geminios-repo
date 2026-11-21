@@ -1,0 +1,11 @@
+[package]
+name = "plasma-pa"
+version = "6.8.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Plasma applet for audio volume management using PulseAudio"
+depends = ["glib2", "glibc", "kcmutils", "kconfig", "kcoreaddons", "kdbusaddons", "kdeclarative", "kglobalaccel", "ki18n", "kirigami", "kirigami-addons", "kitemmodels", "kstatusnotifieritem", "ksvg", "libcanberra", "libplasma", "libpulse", "libstdc++", "plasma-workspace", "pulse-native-provider", "pulseaudio-qt", "qt6-base", "qt6-declarative"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/plasma-pa-6.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "a29a281e1b308257332b648c821ea9ec0fd614fa3b8ee2eb1ea830e3ae36cd06"

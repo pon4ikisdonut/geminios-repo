@@ -1,0 +1,11 @@
+[package]
+name = "python-sphinxcontrib-serializinghtml"
+version = "2.0.0-5"
+license = "BSD-2-Clause"
+arch = "any"
+description = "Sphinx extension which outputs \"serialized\" HTML files (json and pickle)"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-sphinxcontrib-serializinghtml-2.0.0-5-any.pkg.tar.zst"
+sha256 = "f9af753eaffabef57e059c5196d69fb9edb98145500ca46b89c4db9be18f284c"

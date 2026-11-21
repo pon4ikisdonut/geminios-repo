@@ -1,0 +1,11 @@
+[package]
+name = "libvirt-glib"
+version = "5.0.0-3"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "GLib bindings for libvirt"
+depends = ["glib2", "glibc", "libvirt", "libxml2"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libvirt-glib-5.0.0-3-x86_64.pkg.tar.zst"
+sha256 = "c8bd69d8b64e296ca35ac7af265a1f7c068fbaada665683259c457999e6a10ff"

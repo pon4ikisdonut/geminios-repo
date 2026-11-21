@@ -1,0 +1,11 @@
+[package]
+name = "ruby-syslog"
+version = "0.4.0-2"
+license = "BSD-2-Clause"
+arch = "x86_64"
+description = "Ruby interface for the POSIX system logging facility"
+depends = ["ruby"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ruby-syslog-0.4.0-2-x86_64.pkg.tar.zst"
+sha256 = "73144e15b37f4a730e650e714eb4af757a39e225e5e1f3706887ce1c2e896170"

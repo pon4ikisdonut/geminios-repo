@@ -1,0 +1,11 @@
+[package]
+name = "valgrind"
+version = "3.25.1-9"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Tool to help find memory-management problems in programs"
+depends = ["glibc", "perl", "debuginfod"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/valgrind-3.25.1-9-x86_64.pkg.tar.zst"
+sha256 = "0bda5c8bd597016272ad6947b7ef150f25530ee2c090bf429bba734f73b19748"

@@ -1,0 +1,11 @@
+[package]
+name = "sdl2-compat"
+version = "2.32.74-1"
+license = "Zlib"
+arch = "x86_64"
+description = "An SDL2 compatibility layer that uses SDL3 behind the scenes"
+depends = ["sdl3", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/sdl2-compat-2.32.74-1-x86_64.pkg.tar.zst"
+sha256 = "caea4b91d83bb585542e86047a800b7500376c4ce2c6d74b51465123d74439f6"

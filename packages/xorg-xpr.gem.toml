@@ -1,0 +1,11 @@
+[package]
+name = "xorg-xpr"
+version = "1.2.1-1"
+license = "MIT"
+arch = "x86_64"
+description = "Print an X window dump from xwd"
+depends = ["libx11", "libxmu", "glibc", "sh"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xorg-xpr-1.2.1-1-x86_64.pkg.tar.zst"
+sha256 = "e90b476d8c19f3a9c474cbcbcf7a582d5b24206df0a3eae2b926fbbbdcd7e5a4"

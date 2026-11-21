@@ -1,0 +1,11 @@
+[package]
+name = "libdvdcss"
+version = "1.6.0-1"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Portable abstraction library for DVD decryption"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libdvdcss-1.6.0-1-x86_64.pkg.tar.zst"
+sha256 = "d5a7d1d78dfde0a865cb6c06a66a80ca50e2132b78042a2691b6d2fe91346ea1"

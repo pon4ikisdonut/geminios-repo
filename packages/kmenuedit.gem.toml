@@ -1,0 +1,11 @@
+[package]
+name = "kmenuedit"
+version = "6.8.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "KDE menu editor"
+depends = ["glibc", "kcompletion", "kconfig", "kconfigwidgets", "kcoreaddons", "kcrash", "kdbusaddons", "kglobalaccel", "ki18n", "kiconthemes", "kio", "kitemviews", "kservice", "kwidgetsaddons", "kwindowsystem", "kxmlgui", "libstdc++", "qt6-base", "sonnet"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kmenuedit-6.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "82a393432c8e238a3103a027c1eba75175a1ff48692fcc4cbb6f6af2fec57565"

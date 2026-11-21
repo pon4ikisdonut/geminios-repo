@@ -1,0 +1,11 @@
+[package]
+name = "haskell-uniplate"
+version = "1.6.13-406"
+license = "BSD"
+arch = "x86_64"
+description = "Help writing simple, concise and fast generic operations."
+depends = ["ghc-libs", "haskell-hashable", "haskell-syb", "haskell-unordered-containers"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-uniplate-1.6.13-406-x86_64.pkg.tar.zst"
+sha256 = "73870b2f4de3bb7d370b54f8ffe94ddc2aed252bd4f7e487a9167476b37ac986"

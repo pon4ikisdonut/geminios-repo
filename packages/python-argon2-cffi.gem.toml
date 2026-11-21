@@ -1,0 +1,11 @@
+[package]
+name = "python-argon2-cffi"
+version = "25.1.0-2"
+license = "MIT"
+arch = "any"
+description = "Secure password hashing algorithm for Python"
+depends = ["python", "python-argon2-cffi-bindings"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-argon2-cffi-25.1.0-2-any.pkg.tar.zst"
+sha256 = "8099a6a58d57ff236d6749cd49b2cab1838b5cc0759bedb975070be83d5ef794"

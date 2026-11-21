@@ -1,0 +1,11 @@
+[package]
+name = "dbus-broker"
+version = "37-3"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "Linux D-Bus Message Broker"
+depends = ["audit", "expat", "glibc", "libcap-ng", "libgcc", "systemd-libs", "libaudit.so", "libcap-ng.so", "libexpat.so", "libsystemd.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/dbus-broker-37-3-x86_64.pkg.tar.zst"
+sha256 = "c3a915bb57188e6a43b9df25c0bf11f87528bc20ac50718b1772ce917c6d6117"

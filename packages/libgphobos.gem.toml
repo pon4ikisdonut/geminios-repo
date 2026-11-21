@@ -1,0 +1,11 @@
+[package]
+name = "libgphobos"
+version = "16.2.1+r23+gd564253eb6c8-1"
+license = "GFDL-1.3-or-later"
+arch = "x86_64"
+description = "D runtime libraries shipped by GCC"
+depends = ["glibc", "libgcc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/libgphobos-16.2.1+r23+gd564253eb6c8-1-x86_64.pkg.tar.zst"
+sha256 = "832ba49ee28d96389ff4290174611f04430b595e4755718233ba26049ef24698"

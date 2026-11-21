@@ -1,0 +1,11 @@
+[package]
+name = "phonon-qt6"
+version = "4.12.0-6"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "The multimedia framework by KDE"
+depends = ["libstdc++", "glibc", "libpulse", "qt6-5compat", "qt6-base", "phonon-qt6-backend"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/phonon-qt6-4.12.0-6-x86_64.pkg.tar.zst"
+sha256 = "e9782b28cdb2cb1922780a1536c496c2f88024194b94ba0454fa69cf3650ca39"

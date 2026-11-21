@@ -1,0 +1,11 @@
+[package]
+name = "cfitsio"
+version = "1:4.7.0-1"
+license = "LicenseRef-cfitsio"
+arch = "x86_64"
+description = "A library of C and Fortran subroutines for reading and writing data files in FITS (Flexible Image Transport System) data format"
+depends = ["curl", "glibc", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/cfitsio-1:4.7.0-1-x86_64.pkg.tar.zst"
+sha256 = "4894fa781a56026d612970fbfabffc668b3f3b91b1eb20dba60bd5b7a4b42f87"

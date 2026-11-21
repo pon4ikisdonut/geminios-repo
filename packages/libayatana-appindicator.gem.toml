@@ -1,0 +1,11 @@
+[package]
+name = "libayatana-appindicator"
+version = "0.6.1-1"
+license = "GPL-3.0-only"
+arch = "x86_64"
+description = "Ayatana Application Indicators shared library"
+depends = ["glib2", "glibc", "gtk3", "libdbusmenu-glib", "libdbusmenu-gtk3", "libgcc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libayatana-appindicator-0.6.1-1-x86_64.pkg.tar.zst"
+sha256 = "b903f60cb7e954c95f53850d41ca5c6d11beeb8650d187d7ea75751b0551c217"

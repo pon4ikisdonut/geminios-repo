@@ -1,0 +1,11 @@
+[package]
+name = "frameworkintegration5"
+version = "5.116.0-3"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "Framework providing components to allow applications to integrate with a KDE Workspace"
+depends = ["glibc", "kconfig5", "kconfigwidgets5", "kiconthemes5", "knotifications5", "kwidgetsaddons5", "libstdc++", "qt5-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/frameworkintegration5-5.116.0-3-x86_64.pkg.tar.zst"
+sha256 = "9c02f5a3ae3af99a30f09d8d6598e32b2be8de7625584e734ba64c68f5d20492"

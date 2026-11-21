@@ -1,0 +1,11 @@
+[package]
+name = "hicolor-icon-theme"
+version = "0.18-1"
+license = "GPL-2.0-or-later"
+arch = "any"
+description = "Freedesktop.org Hicolor icon theme"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/hicolor-icon-theme-0.18-1-any.pkg.tar.zst"
+sha256 = "22ec69012b9a55e276b5891f916366f692541dce3793bff3e85a28a10b91990a"

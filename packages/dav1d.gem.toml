@@ -1,0 +1,11 @@
+[package]
+name = "dav1d"
+version = "1.5.5-1"
+license = "BSD-2-Clause"
+arch = "x86_64"
+description = "AV1 cross-platform decoder focused on speed and correctness"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/dav1d-1.5.5-1-x86_64.pkg.tar.zst"
+sha256 = "038d93b0a31126352a5b3ce55691ae119364874ec729aaf8625024ab4cf1d194"

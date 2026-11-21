@@ -1,0 +1,11 @@
+[package]
+name = "xcb-util-cursor"
+version = "0.1.6-1"
+license = "MIT"
+arch = "x86_64"
+description = "XCB cursor library"
+depends = ["libxcb", "xcb-util-renderutil", "xcb-util-image", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xcb-util-cursor-0.1.6-1-x86_64.pkg.tar.zst"
+sha256 = "8e13b77368a8fa7771e35398e79e5f737def0687d96f08a346bac06f248df162"

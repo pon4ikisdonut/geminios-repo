@@ -1,0 +1,11 @@
+[package]
+name = "python-jaraco.collections"
+version = "5.1.0-3"
+license = "MIT"
+arch = "any"
+description = "Models and classes to supplement the stdlib 'collections' module."
+depends = ["python", "python-jaraco.text"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-jaraco.collections-5.1.0-3-any.pkg.tar.zst"
+sha256 = "6458833d521549d9db4e7157eba5cb5d0258f2f9c46baadb794c925d3dcbbbff"

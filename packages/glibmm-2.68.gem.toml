@@ -1,0 +1,11 @@
+[package]
+name = "glibmm-2.68"
+version = "2.90.0-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "C++ bindings for GLib"
+depends = ["glib2", "glibc", "libgcc", "libsigc++-3.0", "libstdc++", "perl", "libsigc-3.0.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/glibmm-2.68-2.90.0-1-x86_64.pkg.tar.zst"
+sha256 = "4e2e9884030d84069af1367a550345d2b3c7506eb2e0c590c4c0f78d870e398b"

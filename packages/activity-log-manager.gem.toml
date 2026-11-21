@@ -1,0 +1,11 @@
+[package]
+name = "activity-log-manager"
+version = "0.9.7-11"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "A graphical user interface which lets you easily control what gets logged by Zeitgeist"
+depends = ["cairo", "gdk-pixbuf2", "glib2", "glibc", "gtk3", "hicolor-icon-theme", "libgee", "pango", "zeitgeist"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/activity-log-manager-0.9.7-11-x86_64.pkg.tar.zst"
+sha256 = "1cf7c446f0270fe6a4e954240a52571e1fe120ef803fce80d9ff48059b366409"

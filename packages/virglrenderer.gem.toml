@@ -1,0 +1,11 @@
+[package]
+name = "virglrenderer"
+version = "1.3.0-2"
+license = "MIT"
+arch = "x86_64"
+description = "A virtual 3D GPU library, that allows the guest operating system to use the host GPU to accelerate 3D rendering"
+depends = ["glibc", "libdrm", "libepoxy", "libgcc", "libsysprof-capture", "libva", "libx11", "mesa"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/virglrenderer-1.3.0-2-x86_64.pkg.tar.zst"
+sha256 = "905b43dfbd0c09c88d2ce0b4a3e265fededbe27c62b6f1f06de53035df31d061"

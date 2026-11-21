@@ -1,0 +1,11 @@
+[package]
+name = "gtk4"
+version = "1:4.24.1-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "GObject-based multi-platform GUI toolkit"
+depends = ["adwaita-fonts", "adwaita-icon-theme", "at-spi2-core", "bash", "cairo", "dconf", "desktop-file-utils", "fontconfig", "fribidi", "gdk-pixbuf2", "glib2", "glibc", "graphene", "gst-plugins-bad-libs", "gst-plugins-base-libs", "gstreamer", "gtk-update-icon-cache", "harfbuzz", "iso-codes", "libcloudproviders", "libcolord", "libcups", "libegl", "libepoxy", "libgcc", "libgl", "libjpeg-turbo", "libpng", "librsvg", "libtiff", "libx11", "libxcursor", "libxdamage", "libxext", "libxfixes", "libxi", "libxinerama", "libxkbcommon", "libxrandr", "libxrender", "pango", "shared-mime-info", "tinysparql", "vulkan-icd-loader", "wayland", "xdg-desktop-portal-gtk"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gtk4-1:4.24.1-1-x86_64.pkg.tar.zst"
+sha256 = "5e87795451f883bc76720d2c7eb08ca306308095590872709967eb383f400f33"

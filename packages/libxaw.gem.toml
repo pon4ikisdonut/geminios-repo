@@ -1,0 +1,11 @@
+[package]
+name = "libxaw"
+version = "1.0.16-2"
+license = "NTP"
+arch = "x86_64"
+description = "X11 Athena Widget library"
+depends = ["libxmu", "libxpm", "libx11", "libxt", "libxext", "xorgproto", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libxaw-1.0.16-2-x86_64.pkg.tar.zst"
+sha256 = "79966ba7df3cf46bbcac4292384247b0070bfd036f3a55dbcd9121cb4ccf8a38"

@@ -1,0 +1,11 @@
+[package]
+name = "libslirp"
+version = "4.9.7-1"
+license = "MIT"
+arch = "x86_64"
+description = "General purpose TCP-IP emulator"
+depends = ["glib2"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libslirp-4.9.7-1-x86_64.pkg.tar.zst"
+sha256 = "e13d70b0a8131b97a42da7b9b592d06a1cfc11fcf3bd1c1db69320fd880b30fb"

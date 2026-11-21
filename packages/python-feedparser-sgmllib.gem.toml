@@ -1,0 +1,11 @@
+[package]
+name = "python-feedparser-sgmllib"
+version = "2.1.0-1"
+license = "PSF-2.0"
+arch = "any"
+description = "Provides sgmllib from Python 2"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-feedparser-sgmllib-2.1.0-1-any.pkg.tar.zst"
+sha256 = "39018abbf7d1d7f6dd53951b93939ed7327872826c15364c16a7bc1298aae9ac"

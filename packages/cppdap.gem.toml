@@ -1,0 +1,11 @@
+[package]
+name = "cppdap"
+version = "1.58.0-3"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "C++ library for the Debug Adapter Protocol"
+depends = ["glibc", "libgcc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/cppdap-1.58.0-3-x86_64.pkg.tar.zst"
+sha256 = "5c8bd9b3881ba9b2bea98eefa95df21d92b026f0c7537105d943857b22388be3"

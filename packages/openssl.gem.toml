@@ -1,0 +1,11 @@
+[package]
+name = "openssl"
+version = "4.1.0-1"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "The Open Source toolkit for cryptography and Transport Layer Security"
+depends = ["brotli", "glibc", "zlib", "zstd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/openssl-4.1.0-1-x86_64.pkg.tar.zst"
+sha256 = "424dd78c9225ffdc45d9862694a1bad83a404b73585cc1a7e6f78e1ef0eadfd4"

@@ -1,0 +1,11 @@
+[package]
+name = "postgresql"
+version = "18.7-1"
+license = "PostgreSQL"
+arch = "x86_64"
+description = "Sophisticated object-relational DBMS"
+depends = ["bash", "glibc", "icu", "libicui18n.so", "libicuuc.so", "krb5", "libgssapi_krb5.so", "libgcc", "libgcc_s.so", "libldap", "libstdc++", "libstdc++.so", "liburing", "liburing.so", "libxml2", "libxml2.so", "libxslt", "llvm-libs", "lz4", "liblz4.so", "numactl", "libnuma.so", "openssl", "libcrypto.so", "libssl.so", "pam", "libpam.so", "systemd-libs", "libsystemd.so", "util-linux-libs", "zlib", "libz.so", "zstd", "libzstd.so", "postgresql-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/postgresql-18.7-1-x86_64.pkg.tar.zst"
+sha256 = "e3957943218cd6559225388aa2a7ff1c41bf903cb27e1c8656069f8c3d634f36"

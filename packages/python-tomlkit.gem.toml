@@ -1,0 +1,11 @@
+[package]
+name = "python-tomlkit"
+version = "0.15.2-1"
+license = "MIT"
+arch = "any"
+description = "Style-preserving TOML library for Python"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-tomlkit-0.15.2-1-any.pkg.tar.zst"
+sha256 = "66fa52b8386c79a0785030a37458d4c714e4f2b770325df4d10e0b138d0a9509"

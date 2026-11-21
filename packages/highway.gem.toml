@@ -1,0 +1,11 @@
+[package]
+name = "highway"
+version = "1.4.0-1"
+license = "Apache-2.0 OR BSD-3-Clause"
+arch = "x86_64"
+description = "A C++ library that provides portable SIMD/vector intrinsics"
+depends = ["glibc", "gtest", "libgcc", "libstdc++"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/highway-1.4.0-1-x86_64.pkg.tar.zst"
+sha256 = "1695affe5d6174380504a42b0808b1ca638e95b265fa15bc80e6d6e9875ba993"

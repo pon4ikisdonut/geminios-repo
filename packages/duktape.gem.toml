@@ -1,0 +1,11 @@
+[package]
+name = "duktape"
+version = "2.7.0-7"
+license = "MIT"
+arch = "x86_64"
+description = "Embeddable Javascript engine"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/duktape-2.7.0-7-x86_64.pkg.tar.zst"
+sha256 = "92452979e8cc6f34558ee4d9c3f34f8b7e0d7a8ebff94296b68c7926f00895cd"

@@ -1,0 +1,11 @@
+[package]
+name = "xcur2png"
+version = "0.7.1-9"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "Convert X cursors to PNG images"
+depends = ["libpng", "libxcursor"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xcur2png-0.7.1-9-x86_64.pkg.tar.zst"
+sha256 = "89e22a2823589c1fb86ed2815ad5764300293d57da6835cfb537abe48c9f8444"

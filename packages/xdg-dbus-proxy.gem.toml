@@ -1,0 +1,11 @@
+[package]
+name = "xdg-dbus-proxy"
+version = "0.1.9-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Filtering proxy for D-Bus connections"
+depends = ["glib2", "glibc", "libgcc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xdg-dbus-proxy-0.1.9-1-x86_64.pkg.tar.zst"
+sha256 = "b8e196bf980b870e53e1b91a4937f9c8294d9596f92d45041b54542a1b96e714"

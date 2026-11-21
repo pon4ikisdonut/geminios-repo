@@ -1,0 +1,11 @@
+[package]
+name = "ntp"
+version = "4.2.8.p18-7"
+license = "custom"
+arch = "x86_64"
+description = "Network Time Protocol reference implementation"
+depends = ["openssl", "perl", "libcap", "libedit"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ntp-4.2.8.p18-7-x86_64.pkg.tar.zst"
+sha256 = "f7ec2a5390cf704c8409189c3107872028a9ae41e8a17a3bd1d7f627ae418595"

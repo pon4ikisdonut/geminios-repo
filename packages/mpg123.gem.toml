@@ -1,0 +1,11 @@
+[package]
+name = "mpg123"
+version = "1.33.7-1"
+license = "LGPL-2.1-only"
+arch = "x86_64"
+description = "Console based real time MPEG Audio Player for Layer 1, 2 and 3"
+depends = ["alsa-lib", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/mpg123-1.33.7-1-x86_64.pkg.tar.zst"
+sha256 = "af9bbea4f7c003f2c4b604430582d58b7b232c5adcda673d15401c3faf1943f2"

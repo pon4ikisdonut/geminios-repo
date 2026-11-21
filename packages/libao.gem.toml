@@ -1,0 +1,11 @@
+[package]
+name = "libao"
+version = "1.2.2-7"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "Cross-platform audio output library and plugins"
+depends = ["glibc", "alsa-lib", "libasound.so", "libpulse", "libpulse.so", "libpulse-simple.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libao-1.2.2-7-x86_64.pkg.tar.zst"
+sha256 = "6b362bd8446a9eb330d26cc1c7c86048402848d9c0c466f3204562895eb655ad"

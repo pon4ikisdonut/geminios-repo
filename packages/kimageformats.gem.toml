@@ -1,0 +1,11 @@
+[package]
+name = "kimageformats"
+version = "6.32.0-2"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "Image format plugins for Qt 6"
+depends = ["libgcc", "libstdc++", "glibc", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kimageformats-6.32.0-2-x86_64.pkg.tar.zst"
+sha256 = "9f76e862674462cc1673e858b43afc666595dca87f52cd7a96b7362d83a8be05"

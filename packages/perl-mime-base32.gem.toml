@@ -1,0 +1,11 @@
+[package]
+name = "perl-mime-base32"
+version = "1.303-13"
+license = "GPL"
+arch = "any"
+description = "Base32 encoder / decoder"
+depends = ["perl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/perl-mime-base32-1.303-13-any.pkg.tar.zst"
+sha256 = "6e23c124926aa2e3d922183a8a0b7eadd66ece4b6fc6f381fe580934d594a511"

@@ -1,0 +1,11 @@
+[package]
+name = "python-catalogus"
+version = "0.1.2-1"
+license = "GPL-2.0-or-later"
+arch = "any"
+description = "Classes to provide name-to-object registry-like support"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-catalogus-0.1.2-1-any.pkg.tar.zst"
+sha256 = "f2ffc0125de3da9adf5e12334f6b319fdd3e2e5ffbe60a1d7ca925a173b38caf"

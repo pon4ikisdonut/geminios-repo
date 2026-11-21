@@ -1,0 +1,11 @@
+[package]
+name = "sox"
+version = "14.8.0.1-2"
+license = "GPL-2.0-only"
+arch = "x86_64"
+description = "The Swiss Army knife of sound processing tools"
+depends = ["glibc", "ffmpeg", "file", "gsm", "libao", "libid3tag", "libltdl", "libmad", "libgcc", "libgomp", "libpng", "opusfile", "twolame", "wavpack", "zlib"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/sox-14.8.0.1-2-x86_64.pkg.tar.zst"
+sha256 = "0317d8e2b48ca4e66470b8b872f4e73212eb975883ccf129f4070e84a5986f5a"

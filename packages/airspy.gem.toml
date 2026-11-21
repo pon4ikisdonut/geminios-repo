@@ -1,0 +1,11 @@
+[package]
+name = "airspy"
+version = "1.0.10-5"
+license = "GPL-2.0-or-later"
+arch = "x86_64"
+description = "AirSpy Software Defined Radio (SDR) usermode driver and associated tools"
+depends = ["glibc", "libusb"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/airspy-1.0.10-5-x86_64.pkg.tar.zst"
+sha256 = "bb505259375402fb6425eae50d9413dea865ec586a289c936b3d3a2e658e878b"

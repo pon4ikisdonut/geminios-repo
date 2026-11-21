@@ -1,0 +1,11 @@
+[package]
+name = "libdbusmenu-glib"
+version = "18.10.20180917-2"
+license = "LGPL-2.1-only OR LGPL-3.0-only"
+arch = "x86_64"
+description = "Library for passing menus over DBus"
+depends = ["glib2", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libdbusmenu-glib-18.10.20180917-2-x86_64.pkg.tar.zst"
+sha256 = "cd95a3dd2ab7de4a1f0295bcdbe4db1ae7b35771e195faf2696bc94659c6bd60"

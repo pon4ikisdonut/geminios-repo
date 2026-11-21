@@ -1,0 +1,11 @@
+[package]
+name = "9base"
+version = "6-9"
+license = "custom"
+arch = "x86_64"
+description = "Port of various original Plan9 tools to unix"
+depends = ["sh"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/9base-6-9-x86_64.pkg.tar.zst"
+sha256 = "d8875947d7d9d9208eee61f5dff09042b603aab3ef77b2a429fdf8de8dc4a640"

@@ -1,0 +1,11 @@
+[package]
+name = "mesa-utils"
+version = "9.0.0-7"
+license = "MIT"
+arch = "x86_64"
+description = "Essential Mesa utilities"
+depends = ["libgl", "libdecor", "libxkbcommon-x11", "vulkan-icd-loader", "libxcb", "wayland", "libdrm", "libx11", "libxkbcommon", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/mesa-utils-9.0.0-7-x86_64.pkg.tar.zst"
+sha256 = "2433deec3f9b3c166c1976ea0cecf1de9466a5b55525df9b6a0cf273b4747fc1"

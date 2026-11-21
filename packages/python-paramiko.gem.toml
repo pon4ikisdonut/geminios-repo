@@ -1,0 +1,11 @@
+[package]
+name = "python-paramiko"
+version = "5.1.0-1"
+license = "LGPL-2.1-only"
+arch = "any"
+description = "Python module that implements the SSH2 protocol"
+depends = ["python-bcrypt", "python-cryptography", "python-pynacl", "python-invoke"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-paramiko-5.1.0-1-any.pkg.tar.zst"
+sha256 = "1d1692d9731a3d92a3e09483069fc78a75396de254652eb9918a4e3f0fc3a899"

@@ -1,0 +1,11 @@
+[package]
+name = "vlc-plugin-aribb24"
+version = "3.0.24-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Free and open source cross-platform multimedia player and framework - ARIB STD-B24 plugins"
+depends = ["aribb24", "glibc", "libvlc", "libvlccore.so", "vlc-plugins-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/vlc-plugin-aribb24-3.0.24-2-x86_64.pkg.tar.zst"
+sha256 = "8862dad0ae96d08bcdbd9e33161c206117785eb91aea553cd3f8505182c85ffb"

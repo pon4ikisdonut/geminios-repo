@@ -1,0 +1,11 @@
+[package]
+name = "haskell-vault"
+version = "0.3.2.0-31"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "A persistent store for values of arbitrary types"
+depends = ["ghc-libs", "haskell-hashable", "haskell-unordered-containers"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-vault-0.3.2.0-31-x86_64.pkg.tar.zst"
+sha256 = "5122234bfb8ef746abc0cba557bac3d3dbe7ab2ddc1527a1bf333f651a57cea1"

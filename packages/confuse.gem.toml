@@ -1,0 +1,11 @@
+[package]
+name = "confuse"
+version = "3.4-1"
+license = "ISC"
+arch = "x86_64"
+description = "Small configuration file parser library for C"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/confuse-3.4-1-x86_64.pkg.tar.zst"
+sha256 = "b0cb8148722a0b48974c9c79c0605d4e1b105b3499634ba5505dda9569575d01"

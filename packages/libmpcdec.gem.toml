@@ -1,0 +1,11 @@
+[package]
+name = "libmpcdec"
+version = "1:0.1+r475-6"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "MusePack decoding library"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libmpcdec-1:0.1+r475-6-x86_64.pkg.tar.zst"
+sha256 = "9ab6f3f9a35471b2c3cba0c273197d88517347db0849c2f914a88f81cf5dc45b"

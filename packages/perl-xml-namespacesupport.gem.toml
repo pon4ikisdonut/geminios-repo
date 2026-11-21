@@ -1,0 +1,11 @@
+[package]
+name = "perl-xml-namespacesupport"
+version = "1.12-6"
+license = "GPL"
+arch = "any"
+description = "Generic namespace helpers (ported from SAX2)"
+depends = ["perl"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/perl-xml-namespacesupport-1.12-6-any.pkg.tar.zst"
+sha256 = "2198086ec53821342d3b1624fb3d794169aa08a7b2a9eeaf58d21c07e0bea2f1"

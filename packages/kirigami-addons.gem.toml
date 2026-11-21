@@ -1,0 +1,11 @@
+[package]
+name = "kirigami-addons"
+version = "1.16.1-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Add-ons for the Kirigami framework"
+depends = ["glibc", "kcolorscheme", "kconfig", "kcoreaddons", "kcrash", "kglobalaccel", "kguiaddons", "ki18n", "kiconthemes", "kirigami", "kitemmodels", "ksvg", "libstdc++", "qt6-base", "qt6-declarative", "qt6-multimedia", "sonnet"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kirigami-addons-1.16.1-1-x86_64.pkg.tar.zst"
+sha256 = "5c1f3246b31c5f22e44e4dd5ce006e7a254824500a91ec9a3e8ac2a4fcc31a86"

@@ -1,0 +1,11 @@
+[package]
+name = "kwalletmanager"
+version = "26.08.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Wallet management tool"
+depends = ["glibc", "karchive", "kauth", "kcmutils", "kcodecs", "kconfig", "kconfigwidgets", "kcoreaddons", "kcrash", "kdbusaddons", "ki18n", "kio", "kitemviews", "kservice", "kstatusnotifieritem", "kwallet", "kwidgetsaddons", "kwindowsystem", "kxmlgui", "libstdc++", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kwalletmanager-26.08.3-1-x86_64.pkg.tar.zst"
+sha256 = "4b3b5bcbfd01b3875f01dcb63f2c09bfc9a7b57614f768cc08f2868fa8c7b151"

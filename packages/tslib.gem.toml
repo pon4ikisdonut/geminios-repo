@@ -1,0 +1,11 @@
+[package]
+name = "tslib"
+version = "1.24-1"
+license = "LGPL-2.1-only"
+arch = "x86_64"
+description = "Touchscreen Access Library"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/tslib-1.24-1-x86_64.pkg.tar.zst"
+sha256 = "8b32452dc81f79e48c1dfbf1bd594a3ba37cd8d06bb05a47817b2c22aed2ff3d"

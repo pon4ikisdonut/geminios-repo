@@ -1,0 +1,11 @@
+[package]
+name = "qemu-system-ppc-firmware"
+version = "11.1.3-1"
+license = "MIT"
+arch = "x86_64"
+description = "Firmware for QEMU system emulator for PPC"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qemu-system-ppc-firmware-11.1.3-1-x86_64.pkg.tar.zst"
+sha256 = "b4ac04251407e5e809b3115ee0f2373c130ac364db2a1cab306eab9ad1cd30bb"

@@ -1,0 +1,11 @@
+[package]
+name = "mc"
+version = "4.8.33-1"
+license = "GPL-3.0-or-later"
+arch = "x86_64"
+description = "A file manager that emulates Norton Commander"
+depends = ["e2fsprogs", "glib2", "glibc", "gpm", "libssh2", "sh", "slang", "which"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/mc-4.8.33-1-x86_64.pkg.tar.zst"
+sha256 = "b6178495cae163caa00707ebea178da3715a58e8f3414b19980e0846df2864f6"

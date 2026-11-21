@@ -1,0 +1,11 @@
+[package]
+name = "ttf-fira-code"
+version = "6.2-4"
+license = "OFL-1.1"
+arch = "any"
+description = "Monospaced font with programming ligatures"
+depends = []
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/ttf-fira-code-6.2-4-any.pkg.tar.zst"
+sha256 = "47204905f7a4b063dd580168795c84abfe3238962ad6b4810e2e3b86126d53c7"

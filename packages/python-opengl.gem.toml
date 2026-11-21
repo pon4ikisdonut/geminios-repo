@@ -1,0 +1,11 @@
+[package]
+name = "python-opengl"
+version = "3.1.10-3"
+license = "BSD-3-Clause"
+arch = "any"
+description = "The cross platform Python binding to OpenGL and related APIs"
+depends = ["python", "freeglut"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-opengl-3.1.10-3-any.pkg.tar.zst"
+sha256 = "d5025f158780e2c4a738c52647c714fdb9fb97af331d541c3959addc1c43d57f"

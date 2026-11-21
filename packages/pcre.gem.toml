@@ -1,0 +1,11 @@
+[package]
+name = "pcre"
+version = "8.45-5"
+license = "BSD"
+arch = "x86_64"
+description = "A deprecated library that implements Perl 5-style regular expressions"
+depends = ["glibc", "libgcc", "libstdc++", "readline", "zlib", "bzip2", "bash"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/pcre-8.45-5-x86_64.pkg.tar.zst"
+sha256 = "386dc0f4c46f359e9bdd033f07d37b43df1f63a2649566685dc0c86e19623274"

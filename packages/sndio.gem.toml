@@ -1,0 +1,11 @@
+[package]
+name = "sndio"
+version = "1.11.0-1"
+license = "ISC"
+arch = "x86_64"
+description = "A small audio and MIDI framework"
+depends = ["alsa-lib", "glibc", "libbsd"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/sndio-1.11.0-1-x86_64.pkg.tar.zst"
+sha256 = "d958522e3c6e36a81015f7859f6ec007cf268d3425f376d3c4c417030ff832aa"

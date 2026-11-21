@@ -1,0 +1,11 @@
+[package]
+name = "qt6-multimedia-ffmpeg"
+version = "6.12.0-1"
+license = "Qt-GPL-exception-1.0"
+arch = "x86_64"
+description = "FFMpeg backend for qt6-multimedia"
+depends = ["ffmpeg", "glibc", "libgcc", "libglvnd", "libstdc++", "libva", "libx11", "libxext", "libxrandr", "qt6-base", "qt6-declarative", "qt6-multimedia"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qt6-multimedia-ffmpeg-6.12.0-1-x86_64.pkg.tar.zst"
+sha256 = "9378f91c96344ff187b95c3347d45e2be0e1fe16c6dc6696e708531c0a3ccf5d"

@@ -1,0 +1,11 @@
+[package]
+name = "glycin"
+version = "2.2.6-2"
+license = "MPL-2.0 OR LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Sandboxed and extendable image decoding"
+depends = ["bubblewrap", "cairo", "fontconfig", "glib2", "glibc", "lcms2", "libgcc", "libjxl", "librsvg", "libseccomp"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/glycin-2.2.6-2-x86_64.pkg.tar.zst"
+sha256 = "18b80cacc116adee2a0be40b63d753673f7545839a66ae7bc2442998b1949369"

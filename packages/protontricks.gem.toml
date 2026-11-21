@@ -1,0 +1,11 @@
+[package]
+name = "protontricks"
+version = "1.14.1-1"
+license = "GPL-3.0-only"
+arch = "any"
+description = "Run Winetricks commands for Steam Play/Proton games among other common Wine features"
+depends = ["python", "python-pillow", "python-vdf", "winetricks"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/protontricks-1.14.1-1-any.pkg.tar.zst"
+sha256 = "46557919837255fa84344c1528288d7a0ba074985313a20c49ea27f7c7423707"

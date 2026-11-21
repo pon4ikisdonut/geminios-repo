@@ -1,0 +1,11 @@
+[package]
+name = "intel-oneapi-tbb"
+version = "2023.2.0_492-1"
+license = "Apache-2.0 AND LicenseRef-Intel-EULA-Developer-Tools AND LicenseRef-Intel-Simplified"
+arch = "x86_64"
+description = "Intel oneAPI Threading Building Blocks"
+depends = ["intel-oneapi-common", "intel-oneapi-tcm", "sh", "libgcc", "libstdc++", "glibc", "hwloc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/intel-oneapi-tbb-2023.2.0_492-1-x86_64.pkg.tar.zst"
+sha256 = "815f9fe9bd2a60572d916cc1221432275d97fe5a066e69aab403828dccb10048"

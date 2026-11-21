@@ -1,0 +1,11 @@
+[package]
+name = "perl-http-cookiejar"
+version = "0.014-5"
+license = "Apache"
+arch = "any"
+description = "A minimalist HTTP user agent cookie jar"
+depends = ["perl-http-date"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/perl-http-cookiejar-0.014-5-any.pkg.tar.zst"
+sha256 = "48938f1bb9d1fbf472adbed0a5b4c75797984beacc73e5724e953000ffc5c4d3"

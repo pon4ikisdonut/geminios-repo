@@ -1,0 +1,11 @@
+[package]
+name = "libjuice"
+version = "1.7.3-1"
+license = "MPL-2.0"
+arch = "x86_64"
+description = "UDP Interactive Connectivity Establishment (ICE) library"
+depends = ["glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libjuice-1.7.3-1-x86_64.pkg.tar.zst"
+sha256 = "f5289816693df583a9b299163088c5e76961ce6c718d550529c985750d463c3e"

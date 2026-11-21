@@ -1,0 +1,11 @@
+[package]
+name = "libxkbfile"
+version = "1.2.0-1"
+license = "LicenseRef-libxkbfile"
+arch = "x86_64"
+description = "X11 keyboard file manipulation library"
+depends = ["libx11", "xorgproto", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libxkbfile-1.2.0-1-x86_64.pkg.tar.zst"
+sha256 = "78f14e9854c70527975cf2204a6dcbb55473ccda8f4da953b8f15618f167a0f3"

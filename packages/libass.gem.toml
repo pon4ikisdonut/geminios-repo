@@ -1,0 +1,11 @@
+[package]
+name = "libass"
+version = "0.17.5-1"
+license = "BSD"
+arch = "x86_64"
+description = "A portable library for SSA/ASS subtitles rendering"
+depends = ["fontconfig", "fribidi", "glibc", "harfbuzz", "libfreetype.so", "libunibreak"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libass-0.17.5-1-x86_64.pkg.tar.zst"
+sha256 = "d157ce85501267f92bddb29e5d1ca534120c69fb55ad8f8447082fecb1fae4bb"

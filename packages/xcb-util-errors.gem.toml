@@ -1,0 +1,11 @@
+[package]
+name = "xcb-util-errors"
+version = "1.0.1-2"
+license = "MIT"
+arch = "x86_64"
+description = "XCB errors library"
+depends = ["libxcb"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/xcb-util-errors-1.0.1-2-x86_64.pkg.tar.zst"
+sha256 = "5e0e83836ed96e39b7f9188199cb7fa5a1b085efe1e0cb74ddcc8d52d2d45574"

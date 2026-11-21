@@ -1,0 +1,11 @@
+[package]
+name = "tor"
+version = "0.4.9.17-1"
+license = "MIT"
+arch = "x86_64"
+description = "Anonymizing overlay network."
+depends = ["bash", "glibc", "libcap", "libcap.so", "libevent", "libevent-2.1.so", "libseccomp", "libseccomp.so", "openssl", "libcrypto.so", "libssl.so", "systemd", "libsystemd.so", "xz", "liblzma.so", "zlib", "libz.so", "zstd", "libzstd.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/tor-0.4.9.17-1-x86_64.pkg.tar.zst"
+sha256 = "0a139d32666bf45bac5523813ffb2131a2850c8beb89a3d9667974f30a226127"

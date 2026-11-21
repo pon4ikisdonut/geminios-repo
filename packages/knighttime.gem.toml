@@ -1,0 +1,11 @@
+[package]
+name = "knighttime"
+version = "6.8.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Helpers for scheduling the dark-light cycle"
+depends = ["glibc", "kconfig", "kcoreaddons", "kdbusaddons", "kholidays", "libstdc++", "qt6-base", "qt6-positioning"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/knighttime-6.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "152090b9919d4d17046ccce00128b3970fdcfbf6b11825e889933453e8702ba6"

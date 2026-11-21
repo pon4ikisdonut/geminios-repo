@@ -1,0 +1,11 @@
+[package]
+name = "glibc"
+version = "2.44+r78+gfcfb867c58ab-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "GNU C Library"
+depends = ["linux-api-headers", "tzdata", "filesystem"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/glibc-2.44+r78+gfcfb867c58ab-1-x86_64.pkg.tar.zst"
+sha256 = "b6db2293b5c5dde6e0fe2c7e1f916b01a2dd3775f089640d8f8aa7c891057ae0"

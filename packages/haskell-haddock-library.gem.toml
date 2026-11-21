@@ -1,0 +1,11 @@
+[package]
+name = "haskell-haddock-library"
+version = "1.11.0-285"
+license = "BSD"
+arch = "x86_64"
+description = "A documentation-generation tool for Haskell libraries"
+depends = ["ghc-libs"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-haddock-library-1.11.0-285-x86_64.pkg.tar.zst"
+sha256 = "a19efa4e20ac4fd4e5b6fc9e1ae96e1bce7a776ec9c4c29c7557bc50e4bd6c05"

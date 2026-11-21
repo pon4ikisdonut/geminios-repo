@@ -1,0 +1,11 @@
+[package]
+name = "abletonlink"
+version = "3.1.2-5"
+license = "GPL-2.0-or-later"
+arch = "any"
+description = "Synchronizes musical beat, tempo, and phase across multiple applications"
+depends = ["asio"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/abletonlink-3.1.2-5-any.pkg.tar.zst"
+sha256 = "99d501f00bbdd1972d77d2d3c31ca34a78945b9d54e442fa972a8b30cd5b0431"

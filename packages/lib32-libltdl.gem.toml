@@ -1,0 +1,11 @@
+[package]
+name = "lib32-libltdl"
+version = "2.6.2-5"
+license = "LGPL-2.0-or-later WITH Libtool-exception"
+arch = "x86_64"
+description = "A generic library support script"
+depends = ["sh", "tar", "lib32-glibc", "libtool"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/lib32-libltdl-2.6.2-5-x86_64.pkg.tar.zst"
+sha256 = "1728c9d131cf250ffebbc76d95049dd2e3186246406d6d16960a71b818ce0a0e"

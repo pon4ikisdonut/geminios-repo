@@ -1,0 +1,11 @@
+[package]
+name = "qqc2-breeze-style"
+version = "6.8.3-1"
+license = "LGPL-2.0-or-later"
+arch = "x86_64"
+description = "Applications useful for Plasma development"
+depends = ["glibc", "kcolorscheme", "kconfig", "kguiaddons", "kiconthemes", "kirigami", "libstdc++", "qt6-base", "qt6-declarative"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/qqc2-breeze-style-6.8.3-1-x86_64.pkg.tar.zst"
+sha256 = "6156357f913015dfd49b84d6e3d257b20a4ca6e02b205c1c06c9756efc28ce4d"

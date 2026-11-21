@@ -1,0 +1,11 @@
+[package]
+name = "python-pyelftools"
+version = "0.33-1"
+license = "Unlicense"
+arch = "any"
+description = "Python library for analyzing ELF files and DWARF debugging information"
+depends = ["glibc", "python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-pyelftools-0.33-1-any.pkg.tar.zst"
+sha256 = "841bd44ba6c6d117590acc688ab683aa548772499d4b2b66abef2b6cee1f3883"

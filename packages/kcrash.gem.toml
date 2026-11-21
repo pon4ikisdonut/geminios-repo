@@ -1,0 +1,11 @@
+[package]
+name = "kcrash"
+version = "6.32.0-1"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "Support for application crash analysis and bug report from apps"
+depends = ["libgcc", "libstdc++", "glibc", "kcoreaddons", "libx11", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kcrash-6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "e3e11cf0cadc8096d3068ef71d6e75abef1b08508dee9d211ac3e32fb192211b"

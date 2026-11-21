@@ -1,0 +1,11 @@
+[package]
+name = "python-faust-cchardet"
+version = "3.2.0-1"
+license = "GPL-2.0-only OR LGPL-2.1-only OR MPL-1.1"
+arch = "x86_64"
+description = "Fork of the original cChardet"
+depends = ["glibc", "libgcc", "libstdc++", "python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-faust-cchardet-3.2.0-1-x86_64.pkg.tar.zst"
+sha256 = "182d621b0a0c1eaa7d88ec6c45cb0b28f8fcaf0c0a1ea093f1c51118275ce354"

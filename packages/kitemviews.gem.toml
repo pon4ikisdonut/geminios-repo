@@ -1,0 +1,11 @@
+[package]
+name = "kitemviews"
+version = "6.32.0-1"
+license = "LGPL-3.0-only"
+arch = "x86_64"
+description = "Widget addons for Qt Model/View"
+depends = ["libstdc++", "glibc", "qt6-base"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/kitemviews-6.32.0-1-x86_64.pkg.tar.zst"
+sha256 = "38a709252e4dec84e5e03435ec859d318b45c2b6eb6392e015dc5124d866607a"

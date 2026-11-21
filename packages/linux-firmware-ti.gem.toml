@@ -1,0 +1,11 @@
+[package]
+name = "linux-firmware-ti"
+version = "20261019-1"
+license = "LicenseRef-ti"
+arch = "any"
+description = "Firmware files for Linux - Firmware for Texas Instruments devices"
+depends = ["linux-firmware-whence"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/core/os/x86_64/linux-firmware-ti-20261019-1-any.pkg.tar.zst"
+sha256 = "ea53732ac10a8afbd81a1d6c1d6ce3468c4863a10d61a56ae6537e8d9669c2b3"

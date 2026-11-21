@@ -1,0 +1,11 @@
+[package]
+name = "haskell-optparse-applicative"
+version = "0.18.1.0-526"
+license = "BSD-3-Clause"
+arch = "x86_64"
+description = "Utilities and combinators for parsing command line options"
+depends = ["ghc-libs", "haskell-prettyprinter", "haskell-prettyprinter-ansi-terminal", "haskell-transformers-compat"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/haskell-optparse-applicative-0.18.1.0-526-x86_64.pkg.tar.zst"
+sha256 = "64699e2934e53eeed64cd6457aa850eb2f854ef1205fd7feb8f0cd3fe06090b4"

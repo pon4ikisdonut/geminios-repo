@@ -1,0 +1,11 @@
+[package]
+name = "aws-c-auth"
+version = "1.0.0-1"
+license = "Apache-2.0"
+arch = "x86_64"
+description = "C99 library implementation of AWS client-side authentication: standard credentials providers and signing"
+depends = ["aws-c-cal", "aws-c-common", "aws-c-http", "aws-c-io", "aws-c-sdkutils", "glibc"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/aws-c-auth-1.0.0-1-x86_64.pkg.tar.zst"
+sha256 = "32098be806131c7f61d8e82812aa1e0b10071cec94599cae35a8c7d677721866"

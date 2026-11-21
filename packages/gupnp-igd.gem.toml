@@ -1,0 +1,11 @@
+[package]
+name = "gupnp-igd"
+version = "1.6.0-2"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Library to handle UPnP IGD port mapping"
+depends = ["glibc", "gupnp", "libglib-2.0.so", "libgobject-2.0.so", "libgio-2.0.so", "libgssdp-1.6.so", "libgupnp-1.6.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/gupnp-igd-1.6.0-2-x86_64.pkg.tar.zst"
+sha256 = "60efc49d5995fdb13d6ce373e6c394f2f87fc2a9568b40ebaec1496616aa2afd"

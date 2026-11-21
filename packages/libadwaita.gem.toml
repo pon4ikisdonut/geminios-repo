@@ -1,0 +1,11 @@
+[package]
+name = "libadwaita"
+version = "1:1.10.0-1"
+license = "LGPL-2.1-or-later"
+arch = "x86_64"
+description = "Building blocks for modern adaptive GNOME applications"
+depends = ["fribidi", "glib2", "glibc", "graphene", "gtk4", "ministream", "pango", "libgtk-4.so"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/libadwaita-1:1.10.0-1-x86_64.pkg.tar.zst"
+sha256 = "9db0082481173f109dbe4af6a52fc3ca1d983b240ea67a5ab71a894f4db164cf"

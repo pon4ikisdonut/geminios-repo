@@ -1,0 +1,11 @@
+[package]
+name = "python-virtualenv"
+version = "21.14.7-1"
+license = "MIT"
+arch = "any"
+description = "Virtual Python Environment builder"
+depends = ["python", "python-distlib", "python-filelock", "python-platformdirs", "python-python-discovery"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-virtualenv-21.14.7-1-any.pkg.tar.zst"
+sha256 = "f0b3d9693ceed62cfa3c6167198a5016fb7aca17750d4554bfe91cf00ad53185"

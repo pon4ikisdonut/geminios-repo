@@ -1,0 +1,11 @@
+[package]
+name = "python-html2text"
+version = "2025.4.15-2"
+license = "GPL-3.0-only"
+arch = "any"
+description = "A HTML to markdown-structured text converter"
+depends = ["python"]
+
+[source]
+url = "https://geo.mirror.pkgbuild.com/extra/os/x86_64/python-html2text-2025.4.15-2-any.pkg.tar.zst"
+sha256 = "8f873657a963a0e565c7dbce2d9ed0e151071c2e7ad8ba09294cbf1d85a605b1"
