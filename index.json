@@ -2,7 +2,7 @@
   "repository": "geminios-main",
   "version": "1.0",
   "architecture": "x86_64",
-  "updated_at": "2026-11-21T02:50:23Z",
+  "updated_at": "2026-11-21T02:51:28Z",
   "packages": {
     "gemini-cli": {
       "version": "1.0.0",
